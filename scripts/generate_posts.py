@@ -64,6 +64,8 @@ with open(j) as json_file:
     data = json.load(json_file)
 
 for i in data:
+    
+    
     post = post_template
     post = post.replace("###TITLE###", i["County"])
     post = post.replace("###County###", i["County"].split(",")[0])
@@ -84,7 +86,7 @@ for i in data:
     post = post.replace("###TITLE###", i["County"])
     post = post.replace("###URL###", url)
     post = post.replace("###DATE###", datetime.now().strftime("%Y-%m-%d")) 
-    post_filename = "./content/counties/" + slugify(i["County"].split(",")[0]) +  ".md" 
+    post_filename = "./content/counties/" + slugify(i["County"].split(",")[0]) +  "-"+i["State"]+".md" 
 
     logging.info("Saving post: " + post_filename)
     file = open(post_filename,"w")
