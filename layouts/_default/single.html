@@ -15,13 +15,13 @@
 <tr><td><strong>State</strong></td><td><a href="/categories/{{.Params.State |lower}}">{{.Params.State}}</a></td></tr>
 <tr><td><strong>State</strong></td><td><a title="Permanent Link to {{ .Title }}." href="{{.RelPermalink}}" rel="bookmark">{{ .Params.County }}</a></td></tr>
 <tr><td><strong>FIPS</strong></td><td><a href="tags/fips{{.Params.FIPS}}.0/">{{.Params.FIPS}}</a></td></tr>
-<tr><td><strong>FEMA Region</strong></td><td><a href="/tags/fema{{.Params.FEMA_Region}}.0/">{{.Params.FEMA_Region}}</a></td></tr>
+<tr><td><strong>FEMA Region</strong></td><td><a href="/tags/fema{{.Params.FEMA_Region}}.0/">{{.Params.FEMA_Region }}</a></td></tr>
 <tr><td><strong>Population</strong></td><td>{{ if eq (printf "%T" .Params.Population) "float64" }}
   {{.Params.Population | lang.NumFmt 0}}
   {{ else }}
   {{.Params.Population }}
   {{ end }}</td></tr>
-<tr><td><strong>NCHS Urban Rural Classification</strong></td><td><a href="/tags/{{.Params.NCHS_Urban_Rural_Classification | lower}}">{{.Params.NCHS_Urban_Rural_Classification}}</a></td></tr>
+<tr><td><strong>NCHS Urban Rural Classification</strong></td><td><a href="/tags/{{.Params.NCHS_Urban_Rural_Classification | lower |urlize}}">{{ .Params.NCHS_Urban_Rural_Classification }}</a></td></tr>
 <tr><td><strong>Tests in prior 14 days</strong></td><td>{{.Params.Tests_in_prior_14_days}}</td></tr>
 <tr><td><strong>14-day test rate per 100,000</strong></td><td>{{.Params.Fourteen_day_test_rate_per_100000}}</td></tr>
 <tr><td><strong>Percent Positivity in prior 14 days</strong></td><td>{{ if eq (printf "%T" .Params.Percent_Positivity_in_prior_14_days) "float64" }}
