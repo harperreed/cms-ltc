@@ -1,0 +1,3 @@
+openpyxl
+excel2json-3
+requests
