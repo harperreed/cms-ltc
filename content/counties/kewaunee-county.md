@@ -1,0 +1,19 @@
+---
+title: "Kewaunee County, WI"
+date: 2020-09-23
+draft: false
+tags: [FIPS:55061.0,FEMA:5.0,NCHSClass:Medium metro]
+categories: [WI]
+County: Kewaunee County, WI
+FIPS: 55061.0
+FEMA_Region: 5.0
+Population: 20434.0
+NCHS_Urban_Rural_Classification: Medium metro
+Tests_in_prior_14_days: 832.0
+14_day_test_rate_per_100000: 4072.0
+Percent_Positivity_in_prior_14_days: 0.243
+Level: Red
+url: /WI/kewaunee-county
+---
+
+

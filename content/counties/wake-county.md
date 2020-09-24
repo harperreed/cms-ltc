@@ -1,0 +1,19 @@
+---
+title: "Wake County, NC"
+date: 2020-09-23
+draft: false
+tags: [FIPS:37183.0,FEMA:4.0,NCHSClass:Large central metro]
+categories: [NC]
+County: Wake County, NC
+FIPS: 37183.0
+FEMA_Region: 4.0
+Population: 1111761.0
+NCHS_Urban_Rural_Classification: Large central metro
+Tests_in_prior_14_days: 31960.0
+14_day_test_rate_per_100000: 2875.0
+Percent_Positivity_in_prior_14_days: 0.044
+Level: Green
+url: /NC/wake-county
+---
+
+

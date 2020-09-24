@@ -1,0 +1,19 @@
+---
+title: "Sonoma County, CA"
+date: 2020-09-23
+draft: false
+tags: [FIPS:6097.0,FEMA:9.0,NCHSClass:Medium metro]
+categories: [CA]
+County: Sonoma County, CA
+FIPS: 6097.0
+FEMA_Region: 9.0
+Population: 494336.0
+NCHS_Urban_Rural_Classification: Medium metro
+Tests_in_prior_14_days: 18962.0
+14_day_test_rate_per_100000: 3836.0
+Percent_Positivity_in_prior_14_days: 0.057
+Level: Yellow
+url: /CA/sonoma-county
+---
+
+

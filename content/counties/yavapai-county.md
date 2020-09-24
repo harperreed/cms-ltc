@@ -1,0 +1,19 @@
+---
+title: "Yavapai County, AZ"
+date: 2020-09-23
+draft: false
+tags: [FIPS:4025.0,FEMA:9.0,NCHSClass:Small metro]
+categories: [AZ]
+County: Yavapai County, AZ
+FIPS: 4025.0
+FEMA_Region: 9.0
+Population: 235099.0
+NCHS_Urban_Rural_Classification: Small metro
+Tests_in_prior_14_days: 4504.0
+14_day_test_rate_per_100000: 1916.0
+Percent_Positivity_in_prior_14_days: 0.023
+Level: Green
+url: /AZ/yavapai-county
+---
+
+

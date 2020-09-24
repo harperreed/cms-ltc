@@ -1,0 +1,19 @@
+---
+title: "Muskogee County, OK"
+date: 2020-09-23
+draft: false
+tags: [FIPS:40101.0,FEMA:6.0,NCHSClass:Micropolitan]
+categories: [OK]
+County: Muskogee County, OK
+FIPS: 40101.0
+FEMA_Region: 6.0
+Population: 67997.0
+NCHS_Urban_Rural_Classification: Micropolitan
+Tests_in_prior_14_days: 1856.0
+14_day_test_rate_per_100000: 2730.0
+Percent_Positivity_in_prior_14_days: 0.149
+Level: Red
+url: /OK/muskogee-county
+---
+
+

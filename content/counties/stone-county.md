@@ -1,0 +1,19 @@
+---
+title: "Stone County, MS"
+date: 2020-09-23
+draft: false
+tags: [FIPS:28131.0,FEMA:4.0,NCHSClass:Non-core]
+categories: [MS]
+County: Stone County, MS
+FIPS: 28131.0
+FEMA_Region: 4.0
+Population: 18336.0
+NCHS_Urban_Rural_Classification: Non-core
+Tests_in_prior_14_days: 173.0
+14_day_test_rate_per_100000: 943.0
+Percent_Positivity_in_prior_14_days: 0.075
+Level: Yellow
+url: /MS/stone-county
+---
+
+

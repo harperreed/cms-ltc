@@ -1,0 +1,19 @@
+---
+title: "Webb County, TX"
+date: 2020-09-23
+draft: false
+tags: [FIPS:48479.0,FEMA:6.0,NCHSClass:Medium metro]
+categories: [TX]
+County: Webb County, TX
+FIPS: 48479.0
+FEMA_Region: 6.0
+Population: 276652.0
+NCHS_Urban_Rural_Classification: Medium metro
+Tests_in_prior_14_days: 6322.0
+14_day_test_rate_per_100000: 2285.0
+Percent_Positivity_in_prior_14_days: 0.166
+Level: Red
+url: /TX/webb-county
+---
+
+

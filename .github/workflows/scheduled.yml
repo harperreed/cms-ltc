@@ -29,6 +29,7 @@ jobs:
     - name: Updated positivity rates
       run: |-
         python ./scripts/grab.py
+        python ./scripts/generate_posts.py
     - name: Commit and push if changed
       run: |-
         git diff
