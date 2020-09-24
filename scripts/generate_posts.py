@@ -30,12 +30,13 @@ type: county
 tags: [###TAGS###]
 categories: [###CATEGORIES###]
 County: ###County###
+State: ###State###
 FIPS: ###FIPS###
 FEMA_Region: ###FEMA_Region###
 Population: ###Population###
 NCHS_Urban_Rural_Classification: ###NCHS_Urban_Rural_Classification###
 Tests_in_prior_14_days: ###Tests_in_prior_14_days###
-14_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
 Percent_Positivity_in_prior_14_days: ###Percent_Positivity_in_prior_14_days###
 Level: ###LEVEL###
 url: ###URL###
@@ -65,7 +66,7 @@ with open(j) as json_file:
 for i in data:
     post = post_template
     post = post.replace("###TITLE###", i["County"])
-    post = post.replace("###County###", i["County"])
+    post = post.replace("###County###", i["County"].split(",")[0])
     post = post.replace("###FIPS###", str(i["FIPS"]))
     post = post.replace("###State###", i["State"])
     post = post.replace("###FEMA_Region###", str(i["FEMA Region"]))
@@ -75,7 +76,7 @@ for i in data:
     post = post.replace("###14_day_test_rate_per_100000###", str(i["14-day test rate per 100,000"]))
     post = post.replace("###Percent_Positivity_in_prior_14_days###", str(i["Percent Positivity in prior 14 days"]))
     post = post.replace("###LEVEL###", i["Test Positivity Classification - 14 days"])
-    tags = "FIPS:" + str(i["FIPS"]) +",FEMA:" + str(i["FEMA Region"]) +"," +i["NCHS Urban Rural Classification"]
+    tags = "FIPS:" + str(i["FIPS"]) +",FEMA:" + str(i["FEMA Region"]) +"," +i["NCHS Urban Rural Classification"] +"," +i["Test Positivity Classification - 14 days"]
     post = post.replace("###TAGS###", tags)
     categories = i["State"]
     post = post.replace("###CATEGORIES###", categories)

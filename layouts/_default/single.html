@@ -1,18 +1,27 @@
 
 {{ define "main" }}
 
-<div class="post" style="padding-bottom: 50px;">
-  <div >
-    <h1 ><a title="Permanent Link to {{ .Title }}." href="{{.RelPermalink}}" rel="bookmark">{{ .Title }}</a></h1>
-  </div>
-  <div class="postcontent">
-    {{ .Content }}
-  </div>
-</div>
-
+<div>
+<h1 class="title {{ if eq .Params.Level "Red" }}has-background-danger{{ end }} {{ if eq .Params.Level "Yellow" }}has-background-warning{{ end }} {{ if eq .Params.Level "Green" }}has-background-success{{ end }}"><a title="Permanent Link to {{ .Title }}." href="{{.RelPermalink}}" rel="bookmark" >{{ .Title }}</a></h1>
+  
 <hr>
+<div class="table-container">
+  <table class="table  is-striped  is-hoverable">
+  
+<tr><td><strong>State</strong></td><td><a href="/categories/{{.Params.State |lower}}">{{.Params.State}}</a></td></tr>
+<tr><td><strong>State</strong></td><td><a title="Permanent Link to {{ .Title }}." href="{{.RelPermalink}}" rel="bookmark">{{ .Params.County }}</a></td></tr>
+<tr><td><strong>FIPS</strong></td><td><a href="tags/fips{{.Params.FIPS}}.0/">{{.Params.FIPS}}</a></td></tr>
+<tr><td><strong>FEMA Region</strong></td><td><a href="/tags/fema{{.Params.FEMA_Region}}.0/">{{.Params.FEMA_Region}}</a></td></tr>
+<tr><td><strong>Population</strong></td><td>{{.Params.Population}}</td></tr>
+<tr><td><strong>NCHS Urban Rural Classification</strong></td><td><a href="/tags/{{.Params.NCHS_Urban_Rural_Classification | lower}}">{{.Params.NCHS_Urban_Rural_Classification}}</a></td></tr>
+<tr><td><strong>Tests in prior 14 days</strong></td><td>{{.Params.Tests_in_prior_14_days}}</td></tr>
+<tr><td><strong>14-day test rate per 100,000</strong></td><td>{{.Params.Fourteen_day_test_rate_per_100000}}</td></tr>
+<tr><td><strong>Percent Positivity in prior 14 days</strong></td><td>{{.Params.Percent_Positivity_in_prior_14_days}}</td></tr>
+<tr class=" {{ if eq .Params.Level "Red" }}has-background-danger{{ end }} {{ if eq .Params.Level "Yellow" }}has-background-warning{{ end }} {{ if eq .Params.Level "Green" }}has-background-success{{ end }}"><td><strong>Test Positivity Classification - 14 days</strong></td><td><a href="/tags/{{.Params.Level | lower}}">{{.Params.Level}}</a></td></tr>
+<tr><td><strong>Last Updated</strong></td><td>{{.Date.Format "January 2, 2006" }}</td></tr>
+</table>
 
-
+</div>
 
 
 

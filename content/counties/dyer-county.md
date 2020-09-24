@@ -1,17 +1,18 @@
 ---
 title: "Dyer County, TN"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
 type: county
-tags: [FIPS:47045.0,FEMA:4.0,Micropolitan]
+tags: [FIPS:47045.0,FEMA:4.0,Micropolitan,Red]
 categories: [TN]
-County: Dyer County, TN
+County: Dyer County
+State: TN
 FIPS: 47045.0
 FEMA_Region: 4.0
 Population: 37159.0
 NCHS_Urban_Rural_Classification: Micropolitan
 Tests_in_prior_14_days: 1494.0
-14_day_test_rate_per_100000: 4021.0
+Fourteen_day_test_rate_per_100000: 4021.0
 Percent_Positivity_in_prior_14_days: 0.115
 Level: Red
 url: /states/TN/dyer-county

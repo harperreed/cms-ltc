@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+<div class="col">
+
+<br />
+
+<h2>Books by <strong>{{ .Title}}</strong></h2>
+
+<div class="row" id="books">
+	{{ range  (where .Data.Pages "Type" "books") }}
+		{{ partial "books/book-small.html" . }}
+	{{ end }}
+</div>
+
+<br />
+<h2><a class="btn btn-primary btn-lg" href="https://www.amazon.com/s/?url=search-alias%3Dbooks&field-keywords={{ .Title}}&tag={{ .Site.Params.amazon_tag}}" target="_blank">Find more books by <strong>{{ .Title}}</strong> on Amazon</a></h2>
+<hr>
+
+
+<div class="card">
+  <div class="card-body">
+	  <h3>Authors</h3>
+	<ul id="all-tags" class="list-inline">
+    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+    
+        {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+           <li class="list-inline-item"><a class="badge badge-secondary" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+        {{ end }}
+    {{ end }}
+</ul>
+
+</div>
+</div>
+
+</div>
+{{ end }}

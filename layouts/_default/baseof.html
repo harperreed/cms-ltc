@@ -4,7 +4,11 @@
     {{ partial "head.html" . }}
   </head>
   <body>
-    <div class="container">      
+    <section class="container">
+      <div class="columns is-multiline">
+        <div class="column is-8 is-offset-2 register">
+          <div class="columns">
+            <div class="column left">
       {{ partial "header.html" . }}
 
       <div class="page-content">
@@ -12,8 +16,15 @@
         <!-- The part of the page that begins to differ between templates -->
         {{ end }}
       </div>
-      {{ partial "footer.html" . }}
+
     </div>
+    
+  </div>
+</div>
+
+</section>
+      {{ partial "footer.html" . }}
+
 
     <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
     </body>

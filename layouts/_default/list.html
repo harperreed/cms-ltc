@@ -1,14 +1,56 @@
 {{ define "main" }}
 
-  {{ range (where .Site.Pages "Type" "post") }}
-    <div class="post" style="padding-bottom: 50px;">
-      <div >
-        <h1 ><a title="Permanent Link to {{ .Title }}." href="{{.RelPermalink}}" rel="bookmark">{{ .Title }}</a> <br /><small>Posted on {{.Date.Format "Jan 2, 2006" }}</small></h1>
-      </div>
-      <div class="postcontent">
-        {{ .Content }}
-      </div>
-    </div>
+<h1 class="title is-large">Category: {{ .Title}}</h1>
+
+
+<div class="table-container">
+  <table class="table  is-striped is-narrow is-hoverable is-fullwidth">
+    <!-- Your table content -->
+    <thead>
+      <tr>
+        <th><abbr title="State">State</abbr></th>
+        <th><abbr title="County">County</abbr></th>
+        <th><abbr title="FIPS">FIPS</abbr></th>
+        <th><abbr title="FEMA Region">FEMA</abbr></th>
+        <th><abbr title="Population">Population</abbr></th>
+        <th><abbr title="NCHS Urban Rural Classification">NCHS Class</abbr></th>
+        <th><abbr title="Tests in prior 14 days">Tests</abbr></th>
+        <th><abbr title="14-day test rate per 100,000">Test rate</abbr></th>
+        <th><abbr title="Percent Positivity in prior 14 days">% Positivity</abbr></th>
+        <th><abbr title="Test Positivity Classification - 14 days">Test Class</abbr></th>
+
+      </tr>
+    </thead>
+    <tfoot>
+      <tr>
+        <th><abbr title="State">State</abbr></th>
+        <th><abbr title="County">County</abbr></th>
+        <th><abbr title="FIPS">FIPS</abbr></th>
+        <th><abbr title="FEMA Region">FEMA</abbr></th>
+        <th><abbr title="Population">Population</abbr></th>
+        <th><abbr title="NCHS Urban Rural Classification">NCHS Class</abbr></th>
+        <th><abbr title="Tests in prior 14 days">Tests</abbr></th>
+        <th><abbr title="14-day test rate per 100,000">Test rate</abbr></th>
+        <th><abbr title="Percent Positivity in prior 14 days">% Positivity</abbr></th>
+        <th><abbr title="Test Positivity Classification - 14 days">Test Positivity Class</abbr></th>
+      </tr>
+    </tfoot>
+
+{{ range .Pages }}
+<tr class="{{ if eq .Params.Level "Red" }}has-background-danger-light{{ end }} {{ if eq .Params.Level "Yellow" }}has-background-warning-light{{ end }} {{ if eq .Params.Level "Green" }}has-background-success-light{{ end }}">
+  <td><a href="/categories/{{.Params.State |lower}}">{{.Params.State}}</a></td>
+  <td><a title="Permanent Link to {{ .Title }}." href="{{.RelPermalink}}" rel="bookmark">{{ .Params.County }}</a></td>
+  <td><a href="/tags/fips{{.Params.FIPS}}.0/">{{.Params.FIPS}}</a></td>
+  <td><a href="/tags/fema{{.Params.FEMA_Region}}.0/">{{.Params.FEMA_Region}}</a></td>
+  <td>{{.Params.Population}}</td>
+  <td><a href="/tags/{{.Params.NCHS_Urban_Rural_Classification | lower |urlize}}">{{.Params.NCHS_Urban_Rural_Classification}}</a></td>
+  <td>{{.Params.Tests_in_prior_14_days}}</td>
+  <td>{{.Params.Fourteen_day_test_rate_per_100000}}</td>
+  <td>{{.Params.Percent_Positivity_in_prior_14_days}}</td>
+  <td><a href="/tags/{{.Params.Level | lower}}">{{.Params.Level}}</a></td>
+</tr>
   {{ end }}
+</table>
+</div>
 
 {{ end }}

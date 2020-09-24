@@ -1,0 +1,35 @@
+
+{{ define "main" }}
+
+
+
+<div class="table-container">
+   <table class="table table is-striped is-narrow is-hoverable is-fullwidth">
+      <thead>
+         <tr>
+
+           <th>State</th>
+           <th>Counties</th>
+         </tr>
+       </thead>
+       <tfoot>
+         <tr>
+    
+           <th>State</th>
+           <th>Counties</th>
+
+         </tr>
+       </tfoot>
+       <tbody>
+{{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
+<tr>
+   
+   <td><a href="{{.Permalink}}" class="title">{{.Title}}</a></td>
+   <td><a href="{{.Permalink}}">{{.Pages |len }}</a></td>
+   </tr>
+{{end}}
+
+</tbody>
+</table>
+</div>
+{{end}}
