@@ -1,8 +1,9 @@
 ---
 title: "Mendocino County, CA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:6045.0,FEMA:9.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:6045.0,FEMA:9.0,Micropolitan]
 categories: [CA]
 County: Mendocino County, CA
 FIPS: 6045.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 3659.0
 14_day_test_rate_per_100000: 4218.0
 Percent_Positivity_in_prior_14_days: 0.029
 Level: Green
-url: /CA/mendocino-county
+url: /states/CA/mendocino-county
 ---
 
 

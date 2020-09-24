@@ -1,8 +1,9 @@
 ---
 title: "Pickett County, TN"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:47137.0,FEMA:4.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:47137.0,FEMA:4.0,Non-core]
 categories: [TN]
 County: Pickett County, TN
 FIPS: 47137.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 128.0
 14_day_test_rate_per_100000: 2536.0
 Percent_Positivity_in_prior_14_days: 0.125
 Level: Red
-url: /TN/pickett-county
+url: /states/TN/pickett-county
 ---
 
 

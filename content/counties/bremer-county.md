@@ -1,8 +1,9 @@
 ---
 title: "Bremer County, IA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:19017.0,FEMA:7.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:19017.0,FEMA:7.0,Small metro]
 categories: [IA]
 County: Bremer County, IA
 FIPS: 19017.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 767.0
 14_day_test_rate_per_100000: 3060.0
 Percent_Positivity_in_prior_14_days: 0.095
 Level: Yellow
-url: /IA/bremer-county
+url: /states/IA/bremer-county
 ---
 
 

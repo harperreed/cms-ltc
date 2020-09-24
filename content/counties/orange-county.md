@@ -1,8 +1,9 @@
 ---
 title: "Orange County, VT"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:50017.0,FEMA:1.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:50017.0,FEMA:1.0,Micropolitan]
 categories: [VT]
 County: Orange County, VT
 FIPS: 50017.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 457.0
 14_day_test_rate_per_100000: 1582.0
 Percent_Positivity_in_prior_14_days: 0.004
 Level: Green
-url: /VT/orange-county
+url: /states/VT/orange-county
 ---
 
 

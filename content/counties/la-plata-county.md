@@ -1,8 +1,9 @@
 ---
 title: "La Plata County, CO"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:8067.0,FEMA:8.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:8067.0,FEMA:8.0,Micropolitan]
 categories: [CO]
 County: La Plata County, CO
 FIPS: 8067.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 673.0
 14_day_test_rate_per_100000: 1197.0
 Percent_Positivity_in_prior_14_days: 0.006
 Level: Green
-url: /CO/la-plata-county
+url: /states/CO/la-plata-county
 ---
 
 

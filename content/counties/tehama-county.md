@@ -1,8 +1,9 @@
 ---
 title: "Tehama County, CA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:6103.0,FEMA:9.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:6103.0,FEMA:9.0,Micropolitan]
 categories: [CA]
 County: Tehama County, CA
 FIPS: 6103.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1793.0
 14_day_test_rate_per_100000: 2755.0
 Percent_Positivity_in_prior_14_days: 0.042
 Level: Green
-url: /CA/tehama-county
+url: /states/CA/tehama-county
 ---
 
 

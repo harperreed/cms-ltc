@@ -1,8 +1,9 @@
 ---
 title: "Sequoyah County, OK"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:40135.0,FEMA:6.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:40135.0,FEMA:6.0,Medium metro]
 categories: [OK]
 County: Sequoyah County, OK
 FIPS: 40135.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 610.0
 14_day_test_rate_per_100000: 1467.0
 Percent_Positivity_in_prior_14_days: 0.139
 Level: Red
-url: /OK/sequoyah-county
+url: /states/OK/sequoyah-county
 ---
 
 

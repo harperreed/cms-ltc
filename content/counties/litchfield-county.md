@@ -1,8 +1,9 @@
 ---
 title: "Litchfield County, CT"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:9005.0,FEMA:1.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:9005.0,FEMA:1.0,Micropolitan]
 categories: [CT]
 County: Litchfield County, CT
 FIPS: 9005.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 4686.0
 14_day_test_rate_per_100000: 2599.0
 Percent_Positivity_in_prior_14_days: 0.015
 Level: Green
-url: /CT/litchfield-county
+url: /states/CT/litchfield-county
 ---
 
 

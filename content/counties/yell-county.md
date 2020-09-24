@@ -1,8 +1,9 @@
 ---
 title: "Yell County, AR"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:5149.0,FEMA:6.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:5149.0,FEMA:6.0,Micropolitan]
 categories: [AR]
 County: Yell County, AR
 FIPS: 5149.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1024.0
 14_day_test_rate_per_100000: 4798.0
 Percent_Positivity_in_prior_14_days: 0.03
 Level: Green
-url: /AR/yell-county
+url: /states/AR/yell-county
 ---
 
 

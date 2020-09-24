@@ -1,8 +1,9 @@
 ---
 title: "Davie County, NC"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:37059.0,FEMA:4.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:37059.0,FEMA:4.0,Medium metro]
 categories: [NC]
 County: Davie County, NC
 FIPS: 37059.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1281.0
 14_day_test_rate_per_100000: 2990.0
 Percent_Positivity_in_prior_14_days: 0.023
 Level: Green
-url: /NC/davie-county
+url: /states/NC/davie-county
 ---
 
 

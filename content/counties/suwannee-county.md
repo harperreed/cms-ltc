@@ -1,8 +1,9 @@
 ---
 title: "Suwannee County, FL"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:12121.0,FEMA:4.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:12121.0,FEMA:4.0,Non-core]
 categories: [FL]
 County: Suwannee County, FL
 FIPS: 12121.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1907.0
 14_day_test_rate_per_100000: 4293.0
 Percent_Positivity_in_prior_14_days: 0.073
 Level: Yellow
-url: /FL/suwannee-county
+url: /states/FL/suwannee-county
 ---
 
 

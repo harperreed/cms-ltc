@@ -1,8 +1,9 @@
 ---
 title: "Belmont County, OH"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:39013.0,FEMA:5.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:39013.0,FEMA:5.0,Small metro]
 categories: [OH]
 County: Belmont County, OH
 FIPS: 39013.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 428.0
 14_day_test_rate_per_100000: 639.0
 Percent_Positivity_in_prior_14_days: 0.012
 Level: Green
-url: /OH/belmont-county
+url: /states/OH/belmont-county
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 title: "Zavala County, TX"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:48507.0,FEMA:6.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:48507.0,FEMA:6.0,Non-core]
 categories: [TX]
 County: Zavala County, TX
 FIPS: 48507.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 100.0
 14_day_test_rate_per_100000: 845.0
 Percent_Positivity_in_prior_14_days: 0.19
 Level: Yellow
-url: /TX/zavala-county
+url: /states/TX/zavala-county
 ---
 
 

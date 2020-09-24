@@ -1,8 +1,9 @@
 ---
 title: "Wallowa County, OR"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:41063.0,FEMA:10.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:41063.0,FEMA:10.0,Non-core]
 categories: [OR]
 County: Wallowa County, OR
 FIPS: 41063.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 66.0
 14_day_test_rate_per_100000: 916.0
 Percent_Positivity_in_prior_14_days: 0.015
 Level: Green
-url: /OR/wallowa-county
+url: /states/OR/wallowa-county
 ---
 
 

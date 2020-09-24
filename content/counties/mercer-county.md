@@ -1,8 +1,9 @@
 ---
 title: "Mercer County, WV"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:54055.0,FEMA:3.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:54055.0,FEMA:3.0,Micropolitan]
 categories: [WV]
 County: Mercer County, WV
 FIPS: 54055.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 2816.0
 14_day_test_rate_per_100000: 4793.0
 Percent_Positivity_in_prior_14_days: 0.04
 Level: Green
-url: /WV/mercer-county
+url: /states/WV/mercer-county
 ---
 
 

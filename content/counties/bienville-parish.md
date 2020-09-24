@@ -1,8 +1,9 @@
 ---
 title: "Bienville Parish, LA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:22013.0,FEMA:6.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:22013.0,FEMA:6.0,Non-core]
 categories: [LA]
 County: Bienville Parish, LA
 FIPS: 22013.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 863.0
 14_day_test_rate_per_100000: 6518.0
 Percent_Positivity_in_prior_14_days: 0.028
 Level: Green
-url: /LA/bienville-parish
+url: /states/LA/bienville-parish
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 title: "Fond du Lac County, WI"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:55039.0,FEMA:5.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:55039.0,FEMA:5.0,Small metro]
 categories: [WI]
 County: Fond du Lac County, WI
 FIPS: 55039.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 3970.0
 14_day_test_rate_per_100000: 3839.0
 Percent_Positivity_in_prior_14_days: 0.092
 Level: Yellow
-url: /WI/fond-du-lac-county
+url: /states/WI/fond-du-lac-county
 ---
 
 

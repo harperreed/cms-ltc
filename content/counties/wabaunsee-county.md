@@ -1,8 +1,9 @@
 ---
 title: "Wabaunsee County, KS"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:20197.0,FEMA:7.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:20197.0,FEMA:7.0,Small metro]
 categories: [KS]
 County: Wabaunsee County, KS
 FIPS: 20197.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 140.0
 14_day_test_rate_per_100000: 2020.0
 Percent_Positivity_in_prior_14_days: 0.05
 Level: Yellow
-url: /KS/wabaunsee-county
+url: /states/KS/wabaunsee-county
 ---
 
 

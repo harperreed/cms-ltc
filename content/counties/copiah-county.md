@@ -1,8 +1,9 @@
 ---
 title: "Copiah County, MS"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:28029.0,FEMA:4.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:28029.0,FEMA:4.0,Medium metro]
 categories: [MS]
 County: Copiah County, MS
 FIPS: 28029.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 385.0
 14_day_test_rate_per_100000: 1372.0
 Percent_Positivity_in_prior_14_days: 0.088
 Level: Yellow
-url: /MS/copiah-county
+url: /states/MS/copiah-county
 ---
 
 

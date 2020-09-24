@@ -1,8 +1,9 @@
 ---
 title: "Jerome County, ID"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:16053.0,FEMA:10.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:16053.0,FEMA:10.0,Micropolitan]
 categories: [ID]
 County: Jerome County, ID
 FIPS: 16053.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 602.0
 14_day_test_rate_per_100000: 2466.0
 Percent_Positivity_in_prior_14_days: 0.228
 Level: Red
-url: /ID/jerome-county
+url: /states/ID/jerome-county
 ---
 
 

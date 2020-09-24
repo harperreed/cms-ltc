@@ -1,8 +1,9 @@
 ---
 title: "St. Croix County, WI"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:55109.0,FEMA:5.0,NCHSClass:Large fringe metro]
+type: county
+tags: [FIPS:55109.0,FEMA:5.0,Large fringe metro]
 categories: [WI]
 County: St. Croix County, WI
 FIPS: 55109.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1916.0
 14_day_test_rate_per_100000: 2113.0
 Percent_Positivity_in_prior_14_days: 0.053
 Level: Yellow
-url: /WI/st-croix-county
+url: /states/WI/st-croix-county
 ---
 
 

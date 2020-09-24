@@ -1,8 +1,9 @@
 ---
 title: "Mora County, NM"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:35033.0,FEMA:6.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:35033.0,FEMA:6.0,Non-core]
 categories: [NM]
 County: Mora County, NM
 FIPS: 35033.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 41.0
 14_day_test_rate_per_100000: 907.0
 Percent_Positivity_in_prior_14_days: 0.0
 Level: Green
-url: /NM/mora-county
+url: /states/NM/mora-county
 ---
 
 

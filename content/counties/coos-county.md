@@ -1,8 +1,9 @@
 ---
 title: "Coos County, OR"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:41011.0,FEMA:10.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:41011.0,FEMA:10.0,Micropolitan]
 categories: [OR]
 County: Coos County, OR
 FIPS: 41011.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1166.0
 14_day_test_rate_per_100000: 1808.0
 Percent_Positivity_in_prior_14_days: 0.009
 Level: Green
-url: /OR/coos-county
+url: /states/OR/coos-county
 ---
 
 

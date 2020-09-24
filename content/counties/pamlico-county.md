@@ -1,8 +1,9 @@
 ---
 title: "Pamlico County, NC"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:37137.0,FEMA:4.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:37137.0,FEMA:4.0,Small metro]
 categories: [NC]
 County: Pamlico County, NC
 FIPS: 37137.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 672.0
 14_day_test_rate_per_100000: 5281.0
 Percent_Positivity_in_prior_14_days: 0.086
 Level: Yellow
-url: /NC/pamlico-county
+url: /states/NC/pamlico-county
 ---
 
 

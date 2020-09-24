@@ -1,8 +1,9 @@
 ---
 title: "New Haven County, CT"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:9009.0,FEMA:1.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:9009.0,FEMA:1.0,Medium metro]
 categories: [CT]
 County: New Haven County, CT
 FIPS: 9009.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 17381.0
 14_day_test_rate_per_100000: 2033.0
 Percent_Positivity_in_prior_14_days: 0.015
 Level: Green
-url: /CT/new-haven-county
+url: /states/CT/new-haven-county
 ---
 
 

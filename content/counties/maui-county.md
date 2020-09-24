@@ -1,8 +1,9 @@
 ---
 title: "Maui County, HI"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:15009.0,FEMA:9.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:15009.0,FEMA:9.0,Small metro]
 categories: [HI]
 County: Maui County, HI
 FIPS: 15009.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 4203.0
 14_day_test_rate_per_100000: 2510.0
 Percent_Positivity_in_prior_14_days: 0.017
 Level: Green
-url: /HI/maui-county
+url: /states/HI/maui-county
 ---
 
 

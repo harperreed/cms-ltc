@@ -1,8 +1,9 @@
 ---
 title: "Ohio County, WV"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:54069.0,FEMA:3.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:54069.0,FEMA:3.0,Small metro]
 categories: [WV]
 County: Ohio County, WV
 FIPS: 54069.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1612.0
 14_day_test_rate_per_100000: 3893.0
 Percent_Positivity_in_prior_14_days: 0.054
 Level: Yellow
-url: /WV/ohio-county
+url: /states/WV/ohio-county
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 title: "Talladega County, AL"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:1121.0,FEMA:4.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:1121.0,FEMA:4.0,Micropolitan]
 categories: [AL]
 County: Talladega County, AL
 FIPS: 1121.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1264.0
 14_day_test_rate_per_100000: 1580.0
 Percent_Positivity_in_prior_14_days: 0.11
 Level: Red
-url: /AL/talladega-county
+url: /states/AL/talladega-county
 ---
 
 

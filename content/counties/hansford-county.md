@@ -1,8 +1,9 @@
 ---
 title: "Hansford County, TX"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:48195.0,FEMA:6.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:48195.0,FEMA:6.0,Non-core]
 categories: [TX]
 County: Hansford County, TX
 FIPS: 48195.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 20.0
 14_day_test_rate_per_100000: 370.0
 Percent_Positivity_in_prior_14_days: 0.2
 Level: Yellow
-url: /TX/hansford-county
+url: /states/TX/hansford-county
 ---
 
 

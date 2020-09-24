@@ -1,8 +1,9 @@
 ---
 title: "Bristol Bay Borough, AK"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:2060.0,FEMA:10.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:2060.0,FEMA:10.0,Non-core]
 categories: [AK]
 County: Bristol Bay Borough, AK
 FIPS: 2060.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: <20 tests
 14_day_test_rate_per_100000: <20 tests
 Percent_Positivity_in_prior_14_days: <20 tests
 Level: Green
-url: /AK/bristol-bay-borough
+url: /states/AK/bristol-bay-borough
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 title: "Yakima County, WA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:53077.0,FEMA:10.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:53077.0,FEMA:10.0,Small metro]
 categories: [WA]
 County: Yakima County, WA
 FIPS: 53077.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1351.0
 14_day_test_rate_per_100000: 539.0
 Percent_Positivity_in_prior_14_days: 0.091
 Level: Yellow
-url: /WA/yakima-county
+url: /states/WA/yakima-county
 ---
 
 

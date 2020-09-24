@@ -1,8 +1,9 @@
 ---
 title: "Atkinson County, GA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:13003.0,FEMA:4.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:13003.0,FEMA:4.0,Non-core]
 categories: [GA]
 County: Atkinson County, GA
 FIPS: 13003.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 48.0
 14_day_test_rate_per_100000: 588.0
 Percent_Positivity_in_prior_14_days: 0.167
 Level: Yellow
-url: /GA/atkinson-county
+url: /states/GA/atkinson-county
 ---
 
 

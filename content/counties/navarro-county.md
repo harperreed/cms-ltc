@@ -1,8 +1,9 @@
 ---
 title: "Navarro County, TX"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:48349.0,FEMA:6.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:48349.0,FEMA:6.0,Micropolitan]
 categories: [TX]
 County: Navarro County, TX
 FIPS: 48349.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 347.0
 14_day_test_rate_per_100000: 692.0
 Percent_Positivity_in_prior_14_days: 0.107
 Level: Yellow
-url: /TX/navarro-county
+url: /states/TX/navarro-county
 ---
 
 

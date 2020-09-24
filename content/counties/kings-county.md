@@ -1,8 +1,9 @@
 ---
 title: "Kings County, NY"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:36047.0,FEMA:2.0,NCHSClass:Large central metro]
+type: county
+tags: [FIPS:36047.0,FEMA:2.0,Large central metro]
 categories: [NY]
 County: Kings County, NY
 FIPS: 36047.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 126400.0
 14_day_test_rate_per_100000: 4938.0
 Percent_Positivity_in_prior_14_days: 0.014
 Level: Green
-url: /NY/kings-county
+url: /states/NY/kings-county
 ---
 
 

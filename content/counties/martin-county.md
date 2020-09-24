@@ -1,8 +1,9 @@
 ---
 title: "Martin County, TX"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:48317.0,FEMA:6.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:48317.0,FEMA:6.0,Small metro]
 categories: [TX]
 County: Martin County, TX
 FIPS: 48317.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: <20 tests
 14_day_test_rate_per_100000: <20 tests
 Percent_Positivity_in_prior_14_days: <20 tests
 Level: Green
-url: /TX/martin-county
+url: /states/TX/martin-county
 ---
 
 

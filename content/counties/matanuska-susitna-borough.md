@@ -1,8 +1,9 @@
 ---
 title: "Matanuska-Susitna Borough, AK"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:2170.0,FEMA:10.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:2170.0,FEMA:10.0,Medium metro]
 categories: [AK]
 County: Matanuska-Susitna Borough, AK
 FIPS: 2170.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 3772.0
 14_day_test_rate_per_100000: 3482.0
 Percent_Positivity_in_prior_14_days: 0.015
 Level: Green
-url: /AK/matanuska-susitna-borough
+url: /states/AK/matanuska-susitna-borough
 ---
 
 

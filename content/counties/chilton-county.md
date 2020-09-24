@@ -1,8 +1,9 @@
 ---
 title: "Chilton County, AL"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:1021.0,FEMA:4.0,NCHSClass:Large fringe metro]
+type: county
+tags: [FIPS:1021.0,FEMA:4.0,Large fringe metro]
 categories: [AL]
 County: Chilton County, AL
 FIPS: 1021.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1223.0
 14_day_test_rate_per_100000: 2753.0
 Percent_Positivity_in_prior_14_days: 0.172
 Level: Red
-url: /AL/chilton-county
+url: /states/AL/chilton-county
 ---
 
 

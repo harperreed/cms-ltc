@@ -1,8 +1,9 @@
 ---
 title: "Addison County, VT"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:50001.0,FEMA:1.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:50001.0,FEMA:1.0,Non-core]
 categories: [VT]
 County: Addison County, VT
 FIPS: 50001.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1289.0
 14_day_test_rate_per_100000: 3505.0
 Percent_Positivity_in_prior_14_days: 0.002
 Level: Green
-url: /VT/addison-county
+url: /states/VT/addison-county
 ---
 
 

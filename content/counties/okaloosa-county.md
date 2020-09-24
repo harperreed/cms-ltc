@@ -1,8 +1,9 @@
 ---
 title: "Okaloosa County, FL"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:12091.0,FEMA:4.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:12091.0,FEMA:4.0,Small metro]
 categories: [FL]
 County: Okaloosa County, FL
 FIPS: 12091.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 4640.0
 14_day_test_rate_per_100000: 2202.0
 Percent_Positivity_in_prior_14_days: 0.07
 Level: Yellow
-url: /FL/okaloosa-county
+url: /states/FL/okaloosa-county
 ---
 
 

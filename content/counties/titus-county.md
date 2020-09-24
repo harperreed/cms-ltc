@@ -1,8 +1,9 @@
 ---
 title: "Titus County, TX"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:48449.0,FEMA:6.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:48449.0,FEMA:6.0,Micropolitan]
 categories: [TX]
 County: Titus County, TX
 FIPS: 48449.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 798.0
 14_day_test_rate_per_100000: 2437.0
 Percent_Positivity_in_prior_14_days: 0.031
 Level: Green
-url: /TX/titus-county
+url: /states/TX/titus-county
 ---
 
 

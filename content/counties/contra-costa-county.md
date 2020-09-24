@@ -1,8 +1,9 @@
 ---
 title: "Contra Costa County, CA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:6013.0,FEMA:9.0,NCHSClass:Large fringe metro]
+type: county
+tags: [FIPS:6013.0,FEMA:9.0,Large fringe metro]
 categories: [CA]
 County: Contra Costa County, CA
 FIPS: 6013.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 40541.0
 14_day_test_rate_per_100000: 3515.0
 Percent_Positivity_in_prior_14_days: 0.047
 Level: Green
-url: /CA/contra-costa-county
+url: /states/CA/contra-costa-county
 ---
 
 

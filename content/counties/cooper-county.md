@@ -1,8 +1,9 @@
 ---
 title: "Cooper County, MO"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:29053.0,FEMA:7.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:29053.0,FEMA:7.0,Non-core]
 categories: [MO]
 County: Cooper County, MO
 FIPS: 29053.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 222.0
 14_day_test_rate_per_100000: 1254.0
 Percent_Positivity_in_prior_14_days: 0.081
 Level: Yellow
-url: /MO/cooper-county
+url: /states/MO/cooper-county
 ---
 
 

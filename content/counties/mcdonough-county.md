@@ -1,8 +1,9 @@
 ---
 title: "McDonough County, IL"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:17109.0,FEMA:5.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:17109.0,FEMA:5.0,Micropolitan]
 categories: [IL]
 County: McDonough County, IL
 FIPS: 17109.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1824.0
 14_day_test_rate_per_100000: 6145.0
 Percent_Positivity_in_prior_14_days: 0.056
 Level: Yellow
-url: /IL/mcdonough-county
+url: /states/IL/mcdonough-county
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 title: "McKinley County, NM"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:35031.0,FEMA:6.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:35031.0,FEMA:6.0,Micropolitan]
 categories: [NM]
 County: McKinley County, NM
 FIPS: 35031.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1225.0
 14_day_test_rate_per_100000: 1716.0
 Percent_Positivity_in_prior_14_days: 0.027
 Level: Green
-url: /NM/mckinley-county
+url: /states/NM/mckinley-county
 ---
 
 

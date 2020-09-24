@@ -1,8 +1,9 @@
 ---
 title: "West Carroll Parish, LA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:22123.0,FEMA:6.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:22123.0,FEMA:6.0,Non-core]
 categories: [LA]
 County: West Carroll Parish, LA
 FIPS: 22123.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 592.0
 14_day_test_rate_per_100000: 5466.0
 Percent_Positivity_in_prior_14_days: 0.027
 Level: Green
-url: /LA/west-carroll-parish
+url: /states/LA/west-carroll-parish
 ---
 
 

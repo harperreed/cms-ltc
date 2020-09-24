@@ -1,8 +1,9 @@
 ---
 title: "Barnwell County, SC"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:45011.0,FEMA:4.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:45011.0,FEMA:4.0,Non-core]
 categories: [SC]
 County: Barnwell County, SC
 FIPS: 45011.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 587.0
 14_day_test_rate_per_100000: 2813.0
 Percent_Positivity_in_prior_14_days: 0.077
 Level: Yellow
-url: /SC/barnwell-county
+url: /states/SC/barnwell-county
 ---
 
 

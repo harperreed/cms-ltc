@@ -1,8 +1,9 @@
 ---
 title: "Iowa County, WI"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:55049.0,FEMA:5.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:55049.0,FEMA:5.0,Medium metro]
 categories: [WI]
 County: Iowa County, WI
 FIPS: 55049.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 737.0
 14_day_test_rate_per_100000: 3113.0
 Percent_Positivity_in_prior_14_days: 0.041
 Level: Green
-url: /WI/iowa-county
+url: /states/WI/iowa-county
 ---
 
 

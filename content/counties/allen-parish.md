@@ -1,8 +1,9 @@
 ---
 title: "Allen Parish, LA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:22003.0,FEMA:6.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:22003.0,FEMA:6.0,Non-core]
 categories: [LA]
 County: Allen Parish, LA
 FIPS: 22003.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 832.0
 14_day_test_rate_per_100000: 3247.0
 Percent_Positivity_in_prior_14_days: 0.071
 Level: Yellow
-url: /LA/allen-parish
+url: /states/LA/allen-parish
 ---
 
 

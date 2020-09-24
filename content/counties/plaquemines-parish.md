@@ -1,8 +1,9 @@
 ---
 title: "Plaquemines Parish, LA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:22075.0,FEMA:6.0,NCHSClass:Large fringe metro]
+type: county
+tags: [FIPS:22075.0,FEMA:6.0,Large fringe metro]
 categories: [LA]
 County: Plaquemines Parish, LA
 FIPS: 22075.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 647.0
 14_day_test_rate_per_100000: 2789.0
 Percent_Positivity_in_prior_14_days: 0.034
 Level: Green
-url: /LA/plaquemines-parish
+url: /states/LA/plaquemines-parish
 ---
 
 

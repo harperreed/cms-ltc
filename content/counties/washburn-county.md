@@ -1,8 +1,9 @@
 ---
 title: "Washburn County, WI"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:55129.0,FEMA:5.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:55129.0,FEMA:5.0,Non-core]
 categories: [WI]
 County: Washburn County, WI
 FIPS: 55129.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 380.0
 14_day_test_rate_per_100000: 2417.0
 Percent_Positivity_in_prior_14_days: 0.045
 Level: Green
-url: /WI/washburn-county
+url: /states/WI/washburn-county
 ---
 
 

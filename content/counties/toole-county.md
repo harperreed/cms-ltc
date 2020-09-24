@@ -1,8 +1,9 @@
 ---
 title: "Toole County, MT"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:30101.0,FEMA:8.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:30101.0,FEMA:8.0,Non-core]
 categories: [MT]
 County: Toole County, MT
 FIPS: 30101.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 152.0
 14_day_test_rate_per_100000: 3209.0
 Percent_Positivity_in_prior_14_days: 0.191
 Level: Red
-url: /MT/toole-county
+url: /states/MT/toole-county
 ---
 
 

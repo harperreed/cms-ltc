@@ -1,8 +1,9 @@
 ---
 title: "Dukes County, MA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:25007.0,FEMA:1.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:25007.0,FEMA:1.0,Micropolitan]
 categories: [MA]
 County: Dukes County, MA
 FIPS: 25007.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1319.0
 14_day_test_rate_per_100000: 7610.0
 Percent_Positivity_in_prior_14_days: 0.002
 Level: Green
-url: /MA/dukes-county
+url: /states/MA/dukes-county
 ---
 
 

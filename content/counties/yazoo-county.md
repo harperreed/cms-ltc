@@ -1,8 +1,9 @@
 ---
 title: "Yazoo County, MS"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:28163.0,FEMA:4.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:28163.0,FEMA:4.0,Medium metro]
 categories: [MS]
 County: Yazoo County, MS
 FIPS: 28163.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 562.0
 14_day_test_rate_per_100000: 1893.0
 Percent_Positivity_in_prior_14_days: 0.077
 Level: Yellow
-url: /MS/yazoo-county
+url: /states/MS/yazoo-county
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 title: "Winneshiek County, IA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:19191.0,FEMA:7.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:19191.0,FEMA:7.0,Non-core]
 categories: [IA]
 County: Winneshiek County, IA
 FIPS: 19191.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1256.0
 14_day_test_rate_per_100000: 6283.0
 Percent_Positivity_in_prior_14_days: 0.059
 Level: Yellow
-url: /IA/winneshiek-county
+url: /states/IA/winneshiek-county
 ---
 
 

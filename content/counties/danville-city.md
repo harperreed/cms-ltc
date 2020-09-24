@@ -1,8 +1,9 @@
 ---
 title: "Danville City, VA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:51590.0,FEMA:3.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:51590.0,FEMA:3.0,Micropolitan]
 categories: [VA]
 County: Danville City, VA
 FIPS: 51590.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1958.0
 14_day_test_rate_per_100000: 4890.0
 Percent_Positivity_in_prior_14_days: 0.105
 Level: Red
-url: /VA/danville-city
+url: /states/VA/danville-city
 ---
 
 

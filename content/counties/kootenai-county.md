@@ -1,8 +1,9 @@
 ---
 title: "Kootenai County, ID"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:16055.0,FEMA:10.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:16055.0,FEMA:10.0,Small metro]
 categories: [ID]
 County: Kootenai County, ID
 FIPS: 16055.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 3614.0
 14_day_test_rate_per_100000: 2181.0
 Percent_Positivity_in_prior_14_days: 0.089
 Level: Yellow
-url: /ID/kootenai-county
+url: /states/ID/kootenai-county
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 title: "Bond County, IL"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:17005.0,FEMA:5.0,NCHSClass:Large fringe metro]
+type: county
+tags: [FIPS:17005.0,FEMA:5.0,Large fringe metro]
 categories: [IL]
 County: Bond County, IL
 FIPS: 17005.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 524.0
 14_day_test_rate_per_100000: 3190.0
 Percent_Positivity_in_prior_14_days: 0.134
 Level: Red
-url: /IL/bond-county
+url: /states/IL/bond-county
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 title: "Madera County, CA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:6039.0,FEMA:9.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:6039.0,FEMA:9.0,Small metro]
 categories: [CA]
 County: Madera County, CA
 FIPS: 6039.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 8082.0
 14_day_test_rate_per_100000: 5137.0
 Percent_Positivity_in_prior_14_days: 0.055
 Level: Yellow
-url: /CA/madera-county
+url: /states/CA/madera-county
 ---
 
 

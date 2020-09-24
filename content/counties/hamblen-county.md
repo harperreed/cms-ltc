@@ -1,8 +1,9 @@
 ---
 title: "Hamblen County, TN"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:47063.0,FEMA:4.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:47063.0,FEMA:4.0,Small metro]
 categories: [TN]
 County: Hamblen County, TN
 FIPS: 47063.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1710.0
 14_day_test_rate_per_100000: 2633.0
 Percent_Positivity_in_prior_14_days: 0.061
 Level: Yellow
-url: /TN/hamblen-county
+url: /states/TN/hamblen-county
 ---
 
 

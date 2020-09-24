@@ -1,8 +1,9 @@
 ---
 title: "Sheridan County, WY"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:56033.0,FEMA:8.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:56033.0,FEMA:8.0,Micropolitan]
 categories: [WY]
 County: Sheridan County, WY
 FIPS: 56033.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 713.0
 14_day_test_rate_per_100000: 2339.0
 Percent_Positivity_in_prior_14_days: 0.049
 Level: Green
-url: /WY/sheridan-county
+url: /states/WY/sheridan-county
 ---
 
 

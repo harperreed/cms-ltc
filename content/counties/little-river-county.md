@@ -1,8 +1,9 @@
 ---
 title: "Little River County, AR"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:5081.0,FEMA:6.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:5081.0,FEMA:6.0,Small metro]
 categories: [AR]
 County: Little River County, AR
 FIPS: 5081.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 141.0
 14_day_test_rate_per_100000: 1150.0
 Percent_Positivity_in_prior_14_days: 0.17
 Level: Yellow
-url: /AR/little-river-county
+url: /states/AR/little-river-county
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 title: "Bronx County, NY"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:36005.0,FEMA:2.0,NCHSClass:Large central metro]
+type: county
+tags: [FIPS:36005.0,FEMA:2.0,Large central metro]
 categories: [NY]
 County: Bronx County, NY
 FIPS: 36005.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 74417.0
 14_day_test_rate_per_100000: 5247.0
 Percent_Positivity_in_prior_14_days: 0.011
 Level: Green
-url: /NY/bronx-county
+url: /states/NY/bronx-county
 ---
 
 

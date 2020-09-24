@@ -1,8 +1,9 @@
 ---
 title: "Snohomish County, WA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:53061.0,FEMA:10.0,NCHSClass:Large fringe metro]
+type: county
+tags: [FIPS:53061.0,FEMA:10.0,Large fringe metro]
 categories: [WA]
 County: Snohomish County, WA
 FIPS: 53061.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 5585.0
 14_day_test_rate_per_100000: 679.0
 Percent_Positivity_in_prior_14_days: 0.028
 Level: Green
-url: /WA/snohomish-county
+url: /states/WA/snohomish-county
 ---
 
 

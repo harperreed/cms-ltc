@@ -1,8 +1,9 @@
 ---
 title: "Kenai Peninsula Borough, AK"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:2122.0,FEMA:10.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:2122.0,FEMA:10.0,Non-core]
 categories: [AK]
 County: Kenai Peninsula Borough, AK
 FIPS: 2122.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 2105.0
 14_day_test_rate_per_100000: 3586.0
 Percent_Positivity_in_prior_14_days: 0.008
 Level: Green
-url: /AK/kenai-peninsula-borough
+url: /states/AK/kenai-peninsula-borough
 ---
 
 

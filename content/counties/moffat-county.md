@@ -1,8 +1,9 @@
 ---
 title: "Moffat County, CO"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:8081.0,FEMA:8.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:8081.0,FEMA:8.0,Micropolitan]
 categories: [CO]
 County: Moffat County, CO
 FIPS: 8081.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 255.0
 14_day_test_rate_per_100000: 1920.0
 Percent_Positivity_in_prior_14_days: 0.008
 Level: Green
-url: /CO/moffat-county
+url: /states/CO/moffat-county
 ---
 
 

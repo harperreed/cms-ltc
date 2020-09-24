@@ -1,8 +1,9 @@
 ---
 title: "Jerauld County, SD"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:46073.0,FEMA:8.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:46073.0,FEMA:8.0,Non-core]
 categories: [SD]
 County: Jerauld County, SD
 FIPS: 46073.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 30.0
 14_day_test_rate_per_100000: 1490.0
 Percent_Positivity_in_prior_14_days: 0.3
 Level: Yellow
-url: /SD/jerauld-county
+url: /states/SD/jerauld-county
 ---
 
 

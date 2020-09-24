@@ -1,8 +1,9 @@
 ---
 title: "Albemarle County, VA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:51003.0,FEMA:3.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:51003.0,FEMA:3.0,Small metro]
 categories: [VA]
 County: Albemarle County, VA
 FIPS: 51003.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 3122.0
 14_day_test_rate_per_100000: 2856.0
 Percent_Positivity_in_prior_14_days: 0.045
 Level: Green
-url: /VA/albemarle-county
+url: /states/VA/albemarle-county
 ---
 
 

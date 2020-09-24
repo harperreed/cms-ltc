@@ -1,8 +1,9 @@
 ---
 title: "Cameron County, TX"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:48061.0,FEMA:6.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:48061.0,FEMA:6.0,Medium metro]
 categories: [TX]
 County: Cameron County, TX
 FIPS: 48061.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 4185.0
 14_day_test_rate_per_100000: 989.0
 Percent_Positivity_in_prior_14_days: 0.152
 Level: Red
-url: /TX/cameron-county
+url: /states/TX/cameron-county
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 title: "Josephine County, OR"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:41033.0,FEMA:10.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:41033.0,FEMA:10.0,Small metro]
 categories: [OR]
 County: Josephine County, OR
 FIPS: 41033.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 957.0
 14_day_test_rate_per_100000: 1094.0
 Percent_Positivity_in_prior_14_days: 0.007
 Level: Green
-url: /OR/josephine-county
+url: /states/OR/josephine-county
 ---
 
 

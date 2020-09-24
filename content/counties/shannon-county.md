@@ -1,8 +1,9 @@
 ---
 title: "Shannon County, MO"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:29203.0,FEMA:7.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:29203.0,FEMA:7.0,Non-core]
 categories: [MO]
 County: Shannon County, MO
 FIPS: 29203.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 72.0
 14_day_test_rate_per_100000: 882.0
 Percent_Positivity_in_prior_14_days: 0.167
 Level: Yellow
-url: /MO/shannon-county
+url: /states/MO/shannon-county
 ---
 
 

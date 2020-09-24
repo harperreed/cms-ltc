@@ -1,8 +1,9 @@
 ---
 title: "Hendry County, FL"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:12051.0,FEMA:4.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:12051.0,FEMA:4.0,Micropolitan]
 categories: [FL]
 County: Hendry County, FL
 FIPS: 12051.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1175.0
 14_day_test_rate_per_100000: 2796.0
 Percent_Positivity_in_prior_14_days: 0.073
 Level: Yellow
-url: /FL/hendry-county
+url: /states/FL/hendry-county
 ---
 
 

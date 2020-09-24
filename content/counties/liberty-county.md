@@ -1,8 +1,9 @@
 ---
 title: "Liberty County, TX"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:48291.0,FEMA:6.0,NCHSClass:Large fringe metro]
+type: county
+tags: [FIPS:48291.0,FEMA:6.0,Large fringe metro]
 categories: [TX]
 County: Liberty County, TX
 FIPS: 48291.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 2398.0
 14_day_test_rate_per_100000: 2718.0
 Percent_Positivity_in_prior_14_days: 0.201
 Level: Red
-url: /TX/liberty-county
+url: /states/TX/liberty-county
 ---
 
 

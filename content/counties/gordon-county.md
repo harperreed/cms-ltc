@@ -1,8 +1,9 @@
 ---
 title: "Gordon County, GA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:13129.0,FEMA:4.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:13129.0,FEMA:4.0,Micropolitan]
 categories: [GA]
 County: Gordon County, GA
 FIPS: 13129.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 864.0
 14_day_test_rate_per_100000: 1491.0
 Percent_Positivity_in_prior_14_days: 0.094
 Level: Yellow
-url: /GA/gordon-county
+url: /states/GA/gordon-county
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 title: "Huron County, OH"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:39077.0,FEMA:5.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:39077.0,FEMA:5.0,Micropolitan]
 categories: [OH]
 County: Huron County, OH
 FIPS: 39077.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1138.0
 14_day_test_rate_per_100000: 1953.0
 Percent_Positivity_in_prior_14_days: 0.024
 Level: Green
-url: /OH/huron-county
+url: /states/OH/huron-county
 ---
 
 

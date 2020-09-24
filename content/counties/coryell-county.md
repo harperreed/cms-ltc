@@ -1,8 +1,9 @@
 ---
 title: "Coryell County, TX"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:48099.0,FEMA:6.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:48099.0,FEMA:6.0,Medium metro]
 categories: [TX]
 County: Coryell County, TX
 FIPS: 48099.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 2243.0
 14_day_test_rate_per_100000: 2953.0
 Percent_Positivity_in_prior_14_days: 0.173
 Level: Red
-url: /TX/coryell-county
+url: /states/TX/coryell-county
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 title: "Laramie County, WY"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:56021.0,FEMA:8.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:56021.0,FEMA:8.0,Small metro]
 categories: [WY]
 County: Laramie County, WY
 FIPS: 56021.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1195.0
 14_day_test_rate_per_100000: 1201.0
 Percent_Positivity_in_prior_14_days: 0.023
 Level: Green
-url: /WY/laramie-county
+url: /states/WY/laramie-county
 ---
 
 

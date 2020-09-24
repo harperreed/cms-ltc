@@ -1,8 +1,9 @@
 ---
 title: "McHenry County, ND"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:38049.0,FEMA:8.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:38049.0,FEMA:8.0,Micropolitan]
 categories: [ND]
 County: McHenry County, ND
 FIPS: 38049.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 277.0
 14_day_test_rate_per_100000: 4822.0
 Percent_Positivity_in_prior_14_days: 0.051
 Level: Yellow
-url: /ND/mchenry-county
+url: /states/ND/mchenry-county
 ---
 
 

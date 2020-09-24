@@ -1,8 +1,9 @@
 ---
 title: "O'Brien County, IA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:19141.0,FEMA:7.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:19141.0,FEMA:7.0,Non-core]
 categories: [IA]
 County: O'Brien County, IA
 FIPS: 19141.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 299.0
 14_day_test_rate_per_100000: 2174.0
 Percent_Positivity_in_prior_14_days: 0.117
 Level: Red
-url: /IA/o-brien-county
+url: /states/IA/o-brien-county
 ---
 
 

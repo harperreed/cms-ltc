@@ -1,8 +1,9 @@
 ---
 title: "Milwaukee County, WI"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:55079.0,FEMA:5.0,NCHSClass:Large central metro]
+type: county
+tags: [FIPS:55079.0,FEMA:5.0,Large central metro]
 categories: [WI]
 County: Milwaukee County, WI
 FIPS: 55079.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 32236.0
 14_day_test_rate_per_100000: 3409.0
 Percent_Positivity_in_prior_14_days: 0.056
 Level: Yellow
-url: /WI/milwaukee-county
+url: /states/WI/milwaukee-county
 ---
 
 

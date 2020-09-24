@@ -1,8 +1,9 @@
 ---
 title: "Sullivan County, TN"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:47163.0,FEMA:4.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:47163.0,FEMA:4.0,Medium metro]
 categories: [TN]
 County: Sullivan County, TN
 FIPS: 47163.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 3742.0
 14_day_test_rate_per_100000: 2363.0
 Percent_Positivity_in_prior_14_days: 0.058
 Level: Yellow
-url: /TN/sullivan-county
+url: /states/TN/sullivan-county
 ---
 
 

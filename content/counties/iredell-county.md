@@ -1,8 +1,9 @@
 ---
 title: "Iredell County, NC"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:37097.0,FEMA:4.0,NCHSClass:Large fringe metro]
+type: county
+tags: [FIPS:37097.0,FEMA:4.0,Large fringe metro]
 categories: [NC]
 County: Iredell County, NC
 FIPS: 37097.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 7664.0
 14_day_test_rate_per_100000: 4215.0
 Percent_Positivity_in_prior_14_days: 0.029
 Level: Green
-url: /NC/iredell-county
+url: /states/NC/iredell-county
 ---
 
 

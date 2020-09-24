@@ -1,8 +1,9 @@
 ---
 title: "Marinette County, WI"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:55075.0,FEMA:5.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:55075.0,FEMA:5.0,Micropolitan]
 categories: [WI]
 County: Marinette County, WI
 FIPS: 55075.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 2122.0
 14_day_test_rate_per_100000: 5259.0
 Percent_Positivity_in_prior_14_days: 0.048
 Level: Green
-url: /WI/marinette-county
+url: /states/WI/marinette-county
 ---
 
 

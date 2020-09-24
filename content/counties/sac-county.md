@@ -1,8 +1,9 @@
 ---
 title: "Sac County, IA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:19161.0,FEMA:7.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:19161.0,FEMA:7.0,Non-core]
 categories: [IA]
 County: Sac County, IA
 FIPS: 19161.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 548.0
 14_day_test_rate_per_100000: 5637.0
 Percent_Positivity_in_prior_14_days: 0.108
 Level: Red
-url: /IA/sac-county
+url: /states/IA/sac-county
 ---
 
 

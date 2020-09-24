@@ -1,8 +1,9 @@
 ---
 title: "Winn Parish, LA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:22127.0,FEMA:6.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:22127.0,FEMA:6.0,Non-core]
 categories: [LA]
 County: Winn Parish, LA
 FIPS: 22127.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 821.0
 14_day_test_rate_per_100000: 5905.0
 Percent_Positivity_in_prior_14_days: 0.061
 Level: Yellow
-url: /LA/winn-parish
+url: /states/LA/winn-parish
 ---
 
 

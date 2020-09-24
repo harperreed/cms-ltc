@@ -1,8 +1,9 @@
 ---
 title: "Gunnison County, CO"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:8051.0,FEMA:8.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:8051.0,FEMA:8.0,Non-core]
 categories: [CO]
 County: Gunnison County, CO
 FIPS: 8051.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 203.0
 14_day_test_rate_per_100000: 1163.0
 Percent_Positivity_in_prior_14_days: 0.015
 Level: Green
-url: /CO/gunnison-county
+url: /states/CO/gunnison-county
 ---
 
 

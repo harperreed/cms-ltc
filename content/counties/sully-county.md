@@ -1,8 +1,9 @@
 ---
 title: "Sully County, SD"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:46119.0,FEMA:8.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:46119.0,FEMA:8.0,Micropolitan]
 categories: [SD]
 County: Sully County, SD
 FIPS: 46119.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 28.0
 14_day_test_rate_per_100000: 2013.0
 Percent_Positivity_in_prior_14_days: 0.071
 Level: Yellow
-url: /SD/sully-county
+url: /states/SD/sully-county
 ---
 
 

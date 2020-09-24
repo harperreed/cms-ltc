@@ -1,8 +1,9 @@
 ---
 title: "Poweshiek County, IA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:19157.0,FEMA:7.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:19157.0,FEMA:7.0,Non-core]
 categories: [IA]
 County: Poweshiek County, IA
 FIPS: 19157.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1447.0
 14_day_test_rate_per_100000: 7820.0
 Percent_Positivity_in_prior_14_days: 0.033
 Level: Green
-url: /IA/poweshiek-county
+url: /states/IA/poweshiek-county
 ---
 
 

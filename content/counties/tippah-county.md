@@ -1,8 +1,9 @@
 ---
 title: "Tippah County, MS"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:28139.0,FEMA:4.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:28139.0,FEMA:4.0,Non-core]
 categories: [MS]
 County: Tippah County, MS
 FIPS: 28139.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 140.0
 14_day_test_rate_per_100000: 636.0
 Percent_Positivity_in_prior_14_days: 0.129
 Level: Yellow
-url: /MS/tippah-county
+url: /states/MS/tippah-county
 ---
 
 

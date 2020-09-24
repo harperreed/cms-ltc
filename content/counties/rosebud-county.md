@@ -1,8 +1,9 @@
 ---
 title: "Rosebud County, MT"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:30087.0,FEMA:8.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:30087.0,FEMA:8.0,Non-core]
 categories: [MT]
 County: Rosebud County, MT
 FIPS: 30087.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 862.0
 14_day_test_rate_per_100000: 9645.0
 Percent_Positivity_in_prior_14_days: 0.345
 Level: Red
-url: /MT/rosebud-county
+url: /states/MT/rosebud-county
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 title: "Appomattox County, VA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:51011.0,FEMA:3.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:51011.0,FEMA:3.0,Medium metro]
 categories: [VA]
 County: Appomattox County, VA
 FIPS: 51011.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 460.0
 14_day_test_rate_per_100000: 2891.0
 Percent_Positivity_in_prior_14_days: 0.089
 Level: Yellow
-url: /VA/appomattox-county
+url: /states/VA/appomattox-county
 ---
 
 

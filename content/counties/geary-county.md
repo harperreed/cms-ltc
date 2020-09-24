@@ -1,8 +1,9 @@
 ---
 title: "Geary County, KS"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:20061.0,FEMA:7.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:20061.0,FEMA:7.0,Micropolitan]
 categories: [KS]
 County: Geary County, KS
 FIPS: 20061.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 272.0
 14_day_test_rate_per_100000: 859.0
 Percent_Positivity_in_prior_14_days: 0.18
 Level: Yellow
-url: /KS/geary-county
+url: /states/KS/geary-county
 ---
 
 

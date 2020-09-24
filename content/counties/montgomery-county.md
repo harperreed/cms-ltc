@@ -1,8 +1,9 @@
 ---
 title: "Montgomery County, VA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:51121.0,FEMA:3.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:51121.0,FEMA:3.0,Small metro]
 categories: [VA]
 County: Montgomery County, VA
 FIPS: 51121.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 5692.0
 14_day_test_rate_per_100000: 5777.0
 Percent_Positivity_in_prior_14_days: 0.186
 Level: Red
-url: /VA/montgomery-county
+url: /states/VA/montgomery-county
 ---
 
 

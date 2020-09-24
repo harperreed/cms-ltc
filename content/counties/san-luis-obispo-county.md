@@ -1,8 +1,9 @@
 ---
 title: "San Luis Obispo County, CA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:6079.0,FEMA:9.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:6079.0,FEMA:9.0,Medium metro]
 categories: [CA]
 County: San Luis Obispo County, CA
 FIPS: 6079.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 15847.0
 14_day_test_rate_per_100000: 5597.0
 Percent_Positivity_in_prior_14_days: 0.02
 Level: Green
-url: /CA/san-luis-obispo-county
+url: /states/CA/san-luis-obispo-county
 ---
 
 

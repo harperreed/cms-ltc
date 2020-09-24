@@ -1,8 +1,9 @@
 ---
 title: "Gallatin County, MT"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:30031.0,FEMA:8.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:30031.0,FEMA:8.0,Micropolitan]
 categories: [MT]
 County: Gallatin County, MT
 FIPS: 30031.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1793.0
 14_day_test_rate_per_100000: 1567.0
 Percent_Positivity_in_prior_14_days: 0.044
 Level: Green
-url: /MT/gallatin-county
+url: /states/MT/gallatin-county
 ---
 
 

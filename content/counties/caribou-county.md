@@ -1,8 +1,9 @@
 ---
 title: "Caribou County, ID"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:16029.0,FEMA:10.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:16029.0,FEMA:10.0,Non-core]
 categories: [ID]
 County: Caribou County, ID
 FIPS: 16029.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 405.0
 14_day_test_rate_per_100000: 5660.0
 Percent_Positivity_in_prior_14_days: 0.141
 Level: Red
-url: /ID/caribou-county
+url: /states/ID/caribou-county
 ---
 
 

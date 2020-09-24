@@ -1,8 +1,9 @@
 ---
 title: "Morton County, ND"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:38059.0,FEMA:8.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:38059.0,FEMA:8.0,Small metro]
 categories: [ND]
 County: Morton County, ND
 FIPS: 38059.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 3501.0
 14_day_test_rate_per_100000: 11162.0
 Percent_Positivity_in_prior_14_days: 0.095
 Level: Yellow
-url: /ND/morton-county
+url: /states/ND/morton-county
 ---
 
 

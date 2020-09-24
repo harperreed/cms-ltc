@@ -1,8 +1,9 @@
 ---
 title: "Howard County, TX"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:48227.0,FEMA:6.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:48227.0,FEMA:6.0,Micropolitan]
 categories: [TX]
 County: Howard County, TX
 FIPS: 48227.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 268.0
 14_day_test_rate_per_100000: 731.0
 Percent_Positivity_in_prior_14_days: 0.078
 Level: Yellow
-url: /TX/howard-county
+url: /states/TX/howard-county
 ---
 
 

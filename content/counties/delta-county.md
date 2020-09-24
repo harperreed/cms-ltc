@@ -1,8 +1,9 @@
 ---
 title: "Delta County, TX"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:48119.0,FEMA:6.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:48119.0,FEMA:6.0,Non-core]
 categories: [TX]
 County: Delta County, TX
 FIPS: 48119.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 30.0
 14_day_test_rate_per_100000: 563.0
 Percent_Positivity_in_prior_14_days: 0.1
 Level: Yellow
-url: /TX/delta-county
+url: /states/TX/delta-county
 ---
 
 

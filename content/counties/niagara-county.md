@@ -1,8 +1,9 @@
 ---
 title: "Niagara County, NY"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:36063.0,FEMA:2.0,NCHSClass:Large fringe metro]
+type: county
+tags: [FIPS:36063.0,FEMA:2.0,Large fringe metro]
 categories: [NY]
 County: Niagara County, NY
 FIPS: 36063.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 8473.0
 14_day_test_rate_per_100000: 4049.0
 Percent_Positivity_in_prior_14_days: 0.011
 Level: Green
-url: /NY/niagara-county
+url: /states/NY/niagara-county
 ---
 
 

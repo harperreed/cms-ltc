@@ -1,8 +1,9 @@
 ---
 title: "Houghton County, MI"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:26061.0,FEMA:5.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:26061.0,FEMA:5.0,Micropolitan]
 categories: [MI]
 County: Houghton County, MI
 FIPS: 26061.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1580.0
 14_day_test_rate_per_100000: 4428.0
 Percent_Positivity_in_prior_14_days: 0.05
 Level: Yellow
-url: /MI/houghton-county
+url: /states/MI/houghton-county
 ---
 
 

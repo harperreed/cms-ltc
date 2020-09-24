@@ -1,8 +1,9 @@
 ---
 title: "Clayton County, IA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:19043.0,FEMA:7.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:19043.0,FEMA:7.0,Non-core]
 categories: [IA]
 County: Clayton County, IA
 FIPS: 19043.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 695.0
 14_day_test_rate_per_100000: 3960.0
 Percent_Positivity_in_prior_14_days: 0.037
 Level: Green
-url: /IA/clayton-county
+url: /states/IA/clayton-county
 ---
 
 

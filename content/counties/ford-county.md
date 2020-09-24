@@ -1,8 +1,9 @@
 ---
 title: "Ford County, KS"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:20057.0,FEMA:7.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:20057.0,FEMA:7.0,Micropolitan]
 categories: [KS]
 County: Ford County, KS
 FIPS: 20057.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 888.0
 14_day_test_rate_per_100000: 2641.0
 Percent_Positivity_in_prior_14_days: 0.137
 Level: Red
-url: /KS/ford-county
+url: /states/KS/ford-county
 ---
 
 

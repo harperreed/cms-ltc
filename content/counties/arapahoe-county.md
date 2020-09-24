@@ -1,8 +1,9 @@
 ---
 title: "Arapahoe County, CO"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:8005.0,FEMA:8.0,NCHSClass:Large fringe metro]
+type: county
+tags: [FIPS:8005.0,FEMA:8.0,Large fringe metro]
 categories: [CO]
 County: Arapahoe County, CO
 FIPS: 8005.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 13518.0
 14_day_test_rate_per_100000: 2059.0
 Percent_Positivity_in_prior_14_days: 0.039
 Level: Green
-url: /CO/arapahoe-county
+url: /states/CO/arapahoe-county
 ---
 
 

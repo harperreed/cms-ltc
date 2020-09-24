@@ -1,8 +1,9 @@
 ---
 title: "Concordia Parish, LA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:22029.0,FEMA:6.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:22029.0,FEMA:6.0,Micropolitan]
 categories: [LA]
 County: Concordia Parish, LA
 FIPS: 22029.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 648.0
 14_day_test_rate_per_100000: 3365.0
 Percent_Positivity_in_prior_14_days: 0.04
 Level: Green
-url: /LA/concordia-parish
+url: /states/LA/concordia-parish
 ---
 
 

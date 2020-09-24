@@ -1,8 +1,9 @@
 ---
 title: "Garrard County, KY"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:21079.0,FEMA:4.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:21079.0,FEMA:4.0,Non-core]
 categories: [KY]
 County: Garrard County, KY
 FIPS: 21079.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 447.0
 14_day_test_rate_per_100000: 2530.0
 Percent_Positivity_in_prior_14_days: 0.025
 Level: Green
-url: /KY/garrard-county
+url: /states/KY/garrard-county
 ---
 
 

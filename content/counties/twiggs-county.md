@@ -1,8 +1,9 @@
 ---
 title: "Twiggs County, GA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:13289.0,FEMA:4.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:13289.0,FEMA:4.0,Small metro]
 categories: [GA]
 County: Twiggs County, GA
 FIPS: 13289.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 76.0
 14_day_test_rate_per_100000: 936.0
 Percent_Positivity_in_prior_14_days: 0.105
 Level: Yellow
-url: /GA/twiggs-county
+url: /states/GA/twiggs-county
 ---
 
 

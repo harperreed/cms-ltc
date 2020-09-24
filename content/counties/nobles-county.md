@@ -1,8 +1,9 @@
 ---
 title: "Nobles County, MN"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:27105.0,FEMA:5.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:27105.0,FEMA:5.0,Micropolitan]
 categories: [MN]
 County: Nobles County, MN
 FIPS: 27105.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 963.0
 14_day_test_rate_per_100000: 4452.0
 Percent_Positivity_in_prior_14_days: 0.06
 Level: Yellow
-url: /MN/nobles-county
+url: /states/MN/nobles-county
 ---
 
 

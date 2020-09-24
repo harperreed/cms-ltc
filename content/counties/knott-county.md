@@ -1,8 +1,9 @@
 ---
 title: "Knott County, KY"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:21119.0,FEMA:4.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:21119.0,FEMA:4.0,Non-core]
 categories: [KY]
 County: Knott County, KY
 FIPS: 21119.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 473.0
 14_day_test_rate_per_100000: 3195.0
 Percent_Positivity_in_prior_14_days: 0.053
 Level: Yellow
-url: /KY/knott-county
+url: /states/KY/knott-county
 ---
 
 

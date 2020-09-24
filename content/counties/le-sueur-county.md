@@ -1,8 +1,9 @@
 ---
 title: "Le Sueur County, MN"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:27079.0,FEMA:5.0,NCHSClass:Large fringe metro]
+type: county
+tags: [FIPS:27079.0,FEMA:5.0,Large fringe metro]
 categories: [MN]
 County: Le Sueur County, MN
 FIPS: 27079.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1864.0
 14_day_test_rate_per_100000: 6453.0
 Percent_Positivity_in_prior_14_days: 0.034
 Level: Green
-url: /MN/le-sueur-county
+url: /states/MN/le-sueur-county
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 title: "Fillmore County, NE"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:31059.0,FEMA:7.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:31059.0,FEMA:7.0,Non-core]
 categories: [NE]
 County: Fillmore County, NE
 FIPS: 31059.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 93.0
 14_day_test_rate_per_100000: 1703.0
 Percent_Positivity_in_prior_14_days: 0.151
 Level: Yellow
-url: /NE/fillmore-county
+url: /states/NE/fillmore-county
 ---
 
 

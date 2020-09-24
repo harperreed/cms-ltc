@@ -1,8 +1,9 @@
 ---
 title: "Keweenaw County, MI"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:26083.0,FEMA:5.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:26083.0,FEMA:5.0,Micropolitan]
 categories: [MI]
 County: Keweenaw County, MI
 FIPS: 26083.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 39.0
 14_day_test_rate_per_100000: 1843.0
 Percent_Positivity_in_prior_14_days: 0.051
 Level: Yellow
-url: /MI/keweenaw-county
+url: /states/MI/keweenaw-county
 ---
 
 

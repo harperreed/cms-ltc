@@ -1,8 +1,9 @@
 ---
 title: "Leavenworth County, KS"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:20103.0,FEMA:7.0,NCHSClass:Large fringe metro]
+type: county
+tags: [FIPS:20103.0,FEMA:7.0,Large fringe metro]
 categories: [KS]
 County: Leavenworth County, KS
 FIPS: 20103.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1759.0
 14_day_test_rate_per_100000: 2151.0
 Percent_Positivity_in_prior_14_days: 0.094
 Level: Yellow
-url: /KS/leavenworth-county
+url: /states/KS/leavenworth-county
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 title: "Boundary County, ID"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:16021.0,FEMA:10.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:16021.0,FEMA:10.0,Non-core]
 categories: [ID]
 County: Boundary County, ID
 FIPS: 16021.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 83.0
 14_day_test_rate_per_100000: 678.0
 Percent_Positivity_in_prior_14_days: 0.0
 Level: Green
-url: /ID/boundary-county
+url: /states/ID/boundary-county
 ---
 
 

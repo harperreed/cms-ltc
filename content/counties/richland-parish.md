@@ -1,8 +1,9 @@
 ---
 title: "Richland Parish, LA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:22083.0,FEMA:6.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:22083.0,FEMA:6.0,Non-core]
 categories: [LA]
 County: Richland Parish, LA
 FIPS: 22083.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1004.0
 14_day_test_rate_per_100000: 4990.0
 Percent_Positivity_in_prior_14_days: 0.049
 Level: Green
-url: /LA/richland-parish
+url: /states/LA/richland-parish
 ---
 
 

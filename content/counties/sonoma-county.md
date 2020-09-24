@@ -1,8 +1,9 @@
 ---
 title: "Sonoma County, CA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:6097.0,FEMA:9.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:6097.0,FEMA:9.0,Medium metro]
 categories: [CA]
 County: Sonoma County, CA
 FIPS: 6097.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 18962.0
 14_day_test_rate_per_100000: 3836.0
 Percent_Positivity_in_prior_14_days: 0.057
 Level: Yellow
-url: /CA/sonoma-county
+url: /states/CA/sonoma-county
 ---
 
 

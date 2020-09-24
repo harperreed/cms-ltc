@@ -1,8 +1,9 @@
 ---
 title: "Quitman County, MS"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:28119.0,FEMA:4.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:28119.0,FEMA:4.0,Non-core]
 categories: [MS]
 County: Quitman County, MS
 FIPS: 28119.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 56.0
 14_day_test_rate_per_100000: 824.0
 Percent_Positivity_in_prior_14_days: 0.214
 Level: Yellow
-url: /MS/quitman-county
+url: /states/MS/quitman-county
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 title: "Wagoner County, OK"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:40145.0,FEMA:6.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:40145.0,FEMA:6.0,Medium metro]
 categories: [OK]
 County: Wagoner County, OK
 FIPS: 40145.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 365.0
 14_day_test_rate_per_100000: 449.0
 Percent_Positivity_in_prior_14_days: 0.11
 Level: Yellow
-url: /OK/wagoner-county
+url: /states/OK/wagoner-county
 ---
 
 

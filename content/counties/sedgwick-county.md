@@ -1,8 +1,9 @@
 ---
 title: "Sedgwick County, KS"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:20173.0,FEMA:7.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:20173.0,FEMA:7.0,Medium metro]
 categories: [KS]
 County: Sedgwick County, KS
 FIPS: 20173.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 6484.0
 14_day_test_rate_per_100000: 1256.0
 Percent_Positivity_in_prior_14_days: 0.086
 Level: Yellow
-url: /KS/sedgwick-county
+url: /states/KS/sedgwick-county
 ---
 
 

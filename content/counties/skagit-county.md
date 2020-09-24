@@ -1,8 +1,9 @@
 ---
 title: "Skagit County, WA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:53057.0,FEMA:10.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:53057.0,FEMA:10.0,Small metro]
 categories: [WA]
 County: Skagit County, WA
 FIPS: 53057.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 162.0
 14_day_test_rate_per_100000: 125.0
 Percent_Positivity_in_prior_14_days: 0.019
 Level: Green
-url: /WA/skagit-county
+url: /states/WA/skagit-county
 ---
 
 

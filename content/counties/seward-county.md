@@ -1,8 +1,9 @@
 ---
 title: "Seward County, NE"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:31159.0,FEMA:7.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:31159.0,FEMA:7.0,Medium metro]
 categories: [NE]
 County: Seward County, NE
 FIPS: 31159.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 389.0
 14_day_test_rate_per_100000: 2251.0
 Percent_Positivity_in_prior_14_days: 0.085
 Level: Yellow
-url: /NE/seward-county
+url: /states/NE/seward-county
 ---
 
 

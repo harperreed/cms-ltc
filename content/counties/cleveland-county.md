@@ -1,8 +1,9 @@
 ---
 title: "Cleveland County, OK"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:40027.0,FEMA:6.0,NCHSClass:Large fringe metro]
+type: county
+tags: [FIPS:40027.0,FEMA:6.0,Large fringe metro]
 categories: [OK]
 County: Cleveland County, OK
 FIPS: 40027.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 2269.0
 14_day_test_rate_per_100000: 799.0
 Percent_Positivity_in_prior_14_days: 0.089
 Level: Yellow
-url: /OK/cleveland-county
+url: /states/OK/cleveland-county
 ---
 
 

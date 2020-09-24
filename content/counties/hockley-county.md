@@ -1,8 +1,9 @@
 ---
 title: "Hockley County, TX"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:48219.0,FEMA:6.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:48219.0,FEMA:6.0,Micropolitan]
 categories: [TX]
 County: Hockley County, TX
 FIPS: 48219.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 61.0
 14_day_test_rate_per_100000: 265.0
 Percent_Positivity_in_prior_14_days: 0.18
 Level: Yellow
-url: /TX/hockley-county
+url: /states/TX/hockley-county
 ---
 
 

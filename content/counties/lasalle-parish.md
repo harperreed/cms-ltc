@@ -1,8 +1,9 @@
 ---
 title: "LaSalle Parish, LA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:22059.0,FEMA:6.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:22059.0,FEMA:6.0,Non-core]
 categories: [LA]
 County: LaSalle Parish, LA
 FIPS: 22059.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1109.0
 14_day_test_rate_per_100000: 7447.0
 Percent_Positivity_in_prior_14_days: 0.038
 Level: Green
-url: /LA/lasalle-parish
+url: /states/LA/lasalle-parish
 ---
 
 

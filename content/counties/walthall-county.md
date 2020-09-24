@@ -1,8 +1,9 @@
 ---
 title: "Walthall County, MS"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:28147.0,FEMA:4.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:28147.0,FEMA:4.0,Non-core]
 categories: [MS]
 County: Walthall County, MS
 FIPS: 28147.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 112.0
 14_day_test_rate_per_100000: 784.0
 Percent_Positivity_in_prior_14_days: 0.125
 Level: Yellow
-url: /MS/walthall-county
+url: /states/MS/walthall-county
 ---
 
 

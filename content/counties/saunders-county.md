@@ -1,8 +1,9 @@
 ---
 title: "Saunders County, NE"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:31155.0,FEMA:7.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:31155.0,FEMA:7.0,Medium metro]
 categories: [NE]
 County: Saunders County, NE
 FIPS: 31155.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 712.0
 14_day_test_rate_per_100000: 3300.0
 Percent_Positivity_in_prior_14_days: 0.173
 Level: Red
-url: /NE/saunders-county
+url: /states/NE/saunders-county
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 title: "Carbon County, WY"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:56007.0,FEMA:8.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:56007.0,FEMA:8.0,Non-core]
 categories: [WY]
 County: Carbon County, WY
 FIPS: 56007.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 184.0
 14_day_test_rate_per_100000: 1243.0
 Percent_Positivity_in_prior_14_days: 0.016
 Level: Green
-url: /WY/carbon-county
+url: /states/WY/carbon-county
 ---
 
 

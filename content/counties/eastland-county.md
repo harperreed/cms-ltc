@@ -1,8 +1,9 @@
 ---
 title: "Eastland County, TX"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:48133.0,FEMA:6.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:48133.0,FEMA:6.0,Non-core]
 categories: [TX]
 County: Eastland County, TX
 FIPS: 48133.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 86.0
 14_day_test_rate_per_100000: 468.0
 Percent_Positivity_in_prior_14_days: 0.105
 Level: Yellow
-url: /TX/eastland-county
+url: /states/TX/eastland-county
 ---
 
 

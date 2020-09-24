@@ -26,6 +26,7 @@ post_template = """---
 title: "###TITLE###"
 date: ###DATE###
 draft: false
+type: county
 tags: [###TAGS###]
 categories: [###CATEGORIES###]
 County: ###County###
@@ -74,11 +75,11 @@ for i in data:
     post = post.replace("###14_day_test_rate_per_100000###", str(i["14-day test rate per 100,000"]))
     post = post.replace("###Percent_Positivity_in_prior_14_days###", str(i["Percent Positivity in prior 14 days"]))
     post = post.replace("###LEVEL###", i["Test Positivity Classification - 14 days"])
-    tags = "FIPS:" + str(i["FIPS"]) +",FEMA:" + str(i["FEMA Region"]) +",NCHSClass:" +i["NCHS Urban Rural Classification"]
+    tags = "FIPS:" + str(i["FIPS"]) +",FEMA:" + str(i["FEMA Region"]) +"," +i["NCHS Urban Rural Classification"]
     post = post.replace("###TAGS###", tags)
     categories = i["State"]
     post = post.replace("###CATEGORIES###", categories)
-    url = "/" + i["State"] +"/" + slugify(i["County"].split(",")[0])
+    url = "/states/" + i["State"] +"/" + slugify(i["County"].split(",")[0])
     post = post.replace("###TITLE###", i["County"])
     post = post.replace("###URL###", url)
     post = post.replace("###DATE###", datetime.now().strftime("%Y-%m-%d")) 

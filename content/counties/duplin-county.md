@@ -1,8 +1,9 @@
 ---
 title: "Duplin County, NC"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:37061.0,FEMA:4.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:37061.0,FEMA:4.0,Non-core]
 categories: [NC]
 County: Duplin County, NC
 FIPS: 37061.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 982.0
 14_day_test_rate_per_100000: 1672.0
 Percent_Positivity_in_prior_14_days: 0.043
 Level: Green
-url: /NC/duplin-county
+url: /states/NC/duplin-county
 ---
 
 

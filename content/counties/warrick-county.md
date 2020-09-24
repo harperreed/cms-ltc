@@ -1,8 +1,9 @@
 ---
 title: "Warrick County, IN"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:18173.0,FEMA:5.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:18173.0,FEMA:5.0,Medium metro]
 categories: [IN]
 County: Warrick County, IN
 FIPS: 18173.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 3781.0
 14_day_test_rate_per_100000: 6002.0
 Percent_Positivity_in_prior_14_days: 0.089
 Level: Yellow
-url: /IN/warrick-county
+url: /states/IN/warrick-county
 ---
 
 

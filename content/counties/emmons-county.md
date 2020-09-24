@@ -1,8 +1,9 @@
 ---
 title: "Emmons County, ND"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:38029.0,FEMA:8.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:38029.0,FEMA:8.0,Non-core]
 categories: [ND]
 County: Emmons County, ND
 FIPS: 38029.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 441.0
 14_day_test_rate_per_100000: 13607.0
 Percent_Positivity_in_prior_14_days: 0.125
 Level: Red
-url: /ND/emmons-county
+url: /states/ND/emmons-county
 ---
 
 

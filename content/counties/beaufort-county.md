@@ -1,8 +1,9 @@
 ---
 title: "Beaufort County, SC"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:45013.0,FEMA:4.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:45013.0,FEMA:4.0,Small metro]
 categories: [SC]
 County: Beaufort County, SC
 FIPS: 45013.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 3541.0
 14_day_test_rate_per_100000: 1843.0
 Percent_Positivity_in_prior_14_days: 0.103
 Level: Red
-url: /SC/beaufort-county
+url: /states/SC/beaufort-county
 ---
 
 

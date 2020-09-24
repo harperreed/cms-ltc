@@ -1,8 +1,9 @@
 ---
 title: "Kershaw County, SC"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:45055.0,FEMA:4.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:45055.0,FEMA:4.0,Medium metro]
 categories: [SC]
 County: Kershaw County, SC
 FIPS: 45055.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 878.0
 14_day_test_rate_per_100000: 1319.0
 Percent_Positivity_in_prior_14_days: 0.171
 Level: Red
-url: /SC/kershaw-county
+url: /states/SC/kershaw-county
 ---
 
 

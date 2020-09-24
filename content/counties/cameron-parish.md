@@ -1,8 +1,9 @@
 ---
 title: "Cameron Parish, LA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:22023.0,FEMA:6.0,NCHSClass:Small metro]
+type: county
+tags: [FIPS:22023.0,FEMA:6.0,Small metro]
 categories: [LA]
 County: Cameron Parish, LA
 FIPS: 22023.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 22.0
 14_day_test_rate_per_100000: 316.0
 Percent_Positivity_in_prior_14_days: 0.364
 Level: Yellow
-url: /LA/cameron-parish
+url: /states/LA/cameron-parish
 ---
 
 

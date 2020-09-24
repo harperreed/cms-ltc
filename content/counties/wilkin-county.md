@@ -1,8 +1,9 @@
 ---
 title: "Wilkin County, MN"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:27167.0,FEMA:5.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:27167.0,FEMA:5.0,Micropolitan]
 categories: [MN]
 County: Wilkin County, MN
 FIPS: 27167.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 149.0
 14_day_test_rate_per_100000: 2401.0
 Percent_Positivity_in_prior_14_days: 0.034
 Level: Green
-url: /MN/wilkin-county
+url: /states/MN/wilkin-county
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 title: "Merced County, CA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:6047.0,FEMA:9.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:6047.0,FEMA:9.0,Medium metro]
 categories: [CA]
 County: Merced County, CA
 FIPS: 6047.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 12593.0
 14_day_test_rate_per_100000: 4535.0
 Percent_Positivity_in_prior_14_days: 0.051
 Level: Yellow
-url: /CA/merced-county
+url: /states/CA/merced-county
 ---
 
 

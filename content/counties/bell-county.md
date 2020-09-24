@@ -1,8 +1,9 @@
 ---
 title: "Bell County, TX"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:48027.0,FEMA:6.0,NCHSClass:Medium metro]
+type: county
+tags: [FIPS:48027.0,FEMA:6.0,Medium metro]
 categories: [TX]
 County: Bell County, TX
 FIPS: 48027.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 1727.0
 14_day_test_rate_per_100000: 476.0
 Percent_Positivity_in_prior_14_days: 0.048
 Level: Green
-url: /TX/bell-county
+url: /states/TX/bell-county
 ---
 
 

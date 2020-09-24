@@ -1,8 +1,9 @@
 ---
 title: "Adair County, OK"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:40001.0,FEMA:6.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:40001.0,FEMA:6.0,Non-core]
 categories: [OK]
 County: Adair County, OK
 FIPS: 40001.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 285.0
 14_day_test_rate_per_100000: 1284.0
 Percent_Positivity_in_prior_14_days: 0.084
 Level: Yellow
-url: /OK/adair-county
+url: /states/OK/adair-county
 ---
 
 

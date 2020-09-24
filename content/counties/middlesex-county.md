@@ -1,8 +1,9 @@
 ---
 title: "Middlesex County, VA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:51119.0,FEMA:3.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:51119.0,FEMA:3.0,Non-core]
 categories: [VA]
 County: Middlesex County, VA
 FIPS: 51119.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 346.0
 14_day_test_rate_per_100000: 3270.0
 Percent_Positivity_in_prior_14_days: 0.035
 Level: Green
-url: /VA/middlesex-county
+url: /states/VA/middlesex-county
 ---
 
 

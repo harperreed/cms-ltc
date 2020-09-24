@@ -1,8 +1,9 @@
 ---
 title: "Millard County, UT"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:49027.0,FEMA:8.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:49027.0,FEMA:8.0,Non-core]
 categories: [UT]
 County: Millard County, UT
 FIPS: 49027.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 233.0
 14_day_test_rate_per_100000: 1767.0
 Percent_Positivity_in_prior_14_days: 0.167
 Level: Yellow
-url: /UT/millard-county
+url: /states/UT/millard-county
 ---
 
 

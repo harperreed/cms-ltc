@@ -1,8 +1,9 @@
 ---
 title: "Ottawa County, OK"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:40115.0,FEMA:6.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:40115.0,FEMA:6.0,Micropolitan]
 categories: [OK]
 County: Ottawa County, OK
 FIPS: 40115.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 587.0
 14_day_test_rate_per_100000: 1886.0
 Percent_Positivity_in_prior_14_days: 0.152
 Level: Red
-url: /OK/ottawa-county
+url: /states/OK/ottawa-county
 ---
 
 

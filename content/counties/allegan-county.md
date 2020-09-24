@@ -1,8 +1,9 @@
 ---
 title: "Allegan County, MI"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:26005.0,FEMA:5.0,NCHSClass:Micropolitan]
+type: county
+tags: [FIPS:26005.0,FEMA:5.0,Micropolitan]
 categories: [MI]
 County: Allegan County, MI
 FIPS: 26005.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 3808.0
 14_day_test_rate_per_100000: 3225.0
 Percent_Positivity_in_prior_14_days: 0.018
 Level: Green
-url: /MI/allegan-county
+url: /states/MI/allegan-county
 ---
 
 

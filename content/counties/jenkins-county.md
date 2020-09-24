@@ -1,8 +1,9 @@
 ---
 title: "Jenkins County, GA"
-date: 2020-09-24
+date: 2020-09-23
 draft: false
-tags: [FIPS:13165.0,FEMA:4.0,NCHSClass:Non-core]
+type: county
+tags: [FIPS:13165.0,FEMA:4.0,Non-core]
 categories: [GA]
 County: Jenkins County, GA
 FIPS: 13165.0
@@ -13,7 +14,7 @@ Tests_in_prior_14_days: 102.0
 14_day_test_rate_per_100000: 1176.0
 Percent_Positivity_in_prior_14_days: 0.284
 Level: Yellow
-url: /GA/jenkins-county
+url: /states/GA/jenkins-county
 ---
 
 
