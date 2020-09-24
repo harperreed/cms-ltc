@@ -2,7 +2,6 @@
 
 <h1 class="title is-large">Category: {{ .Title}}</h1>
 
-
 <div class="table-container">
   <table class="table  is-striped  is-hoverable is-fullwidth">
     <!-- Your table content -->
@@ -10,7 +9,6 @@
       <tr>
         <th><abbr title="State">State</abbr></th>
         <th><abbr title="County">County</abbr></th>
-
         <th><abbr title="Population">Population</abbr></th>
         <th><abbr title="NCHS Urban Rural Classification">NCHS Class</abbr></th>
         <th><abbr title="Tests in prior 14 days">Tests</abbr></th>
@@ -24,7 +22,6 @@
       <tr>
         <th><abbr title="State">State</abbr></th>
         <th><abbr title="County">County</abbr></th>
-
         <th><abbr title="Population">Population</abbr></th>
         <th><abbr title="NCHS Urban Rural Classification">NCHS Class</abbr></th>
         <th><abbr title="Tests in prior 14 days">Tests</abbr></th>
@@ -39,11 +36,19 @@
   <td><a href="/categories/{{.Params.State |lower}}">{{.Params.State}}</a></td>
   <td><a title="Permanent Link to {{ .Title }}." href="{{.RelPermalink}}" rel="bookmark">{{ .Params.County }}</a></td>
 
-  <td>{{.Params.Population}}</td>
+  <td>{{ if eq (printf "%T" .Params.Population) "float64" }}
+    {{.Params.Population | lang.NumFmt 0}}
+    {{ else }}
+    {{.Params.Population }}
+    {{ end }}</td>
   <td><a href="/tags/{{.Params.NCHS_Urban_Rural_Classification | lower |urlize}}">{{.Params.NCHS_Urban_Rural_Classification}}</a></td>
   <td>{{.Params.Tests_in_prior_14_days}}</td>
   <td>{{.Params.Fourteen_day_test_rate_per_100000}}</td>
-  <td>{{.Params.Percent_Positivity_in_prior_14_days}}</td>
+  <td>{{ if eq (printf "%T" .Params.Percent_Positivity_in_prior_14_days) "float64" }}
+    {{(mul .Params.Percent_Positivity_in_prior_14_days 100) | lang.NumFmt 2}}%
+    {{ else }}
+    {{.Params.Percent_Positivity_in_prior_14_days}}
+    {{ end }}</td>
   <td><a href="/tags/{{.Params.Level | lower}}">{{.Params.Level}}</a></td>
 </tr>
   {{ end }}
