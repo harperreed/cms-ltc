@@ -1,21 +1,21 @@
 ---
-title: "Madison County, VA"
+title: "Madison County, ID"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:51113.0,FEMA:3.0,Non-core,Green]
-categories: [VA]
+tags: [FIPS:16065.0,FEMA:10.0,Micropolitan,Yellow]
+categories: [ID]
 County: Madison County
-State: VA
-FIPS: 51113.0
-FEMA_Region: 3.0
-Population: 13261.0
-NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 329.0
-Fourteen_day_test_rate_per_100000: 2481.0
-Percent_Positivity_in_prior_14_days: 0.043
-Level: Green
-url: /states/VA/madison-county
+State: ID
+FIPS: 16065.0
+FEMA_Region: 10.0
+Population: 39907.0
+NCHS_Urban_Rural_Classification: Micropolitan
+Tests_in_prior_14_days: 413.0
+Fourteen_day_test_rate_per_100000: 1035.0
+Percent_Positivity_in_prior_14_days: 0.058
+Level: Yellow
+url: /states/ID/madison-county
 ---
 
 

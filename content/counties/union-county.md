@@ -1,21 +1,21 @@
 ---
-title: "Union County, TN"
+title: "Union County, IA"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:47173.0,FEMA:4.0,Medium metro,Yellow]
-categories: [TN]
+tags: [FIPS:19175.0,FEMA:7.0,Non-core,Yellow]
+categories: [IA]
 County: Union County
-State: TN
-FIPS: 47173.0
-FEMA_Region: 4.0
-Population: 19972.0
-NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 456.0
-Fourteen_day_test_rate_per_100000: 2283.0
-Percent_Positivity_in_prior_14_days: 0.086
+State: IA
+FIPS: 19175.0
+FEMA_Region: 7.0
+Population: 12241.0
+NCHS_Urban_Rural_Classification: Non-core
+Tests_in_prior_14_days: 458.0
+Fourteen_day_test_rate_per_100000: 3742.0
+Percent_Positivity_in_prior_14_days: 0.057
 Level: Yellow
-url: /states/TN/union-county
+url: /states/IA/union-county
 ---
 
 

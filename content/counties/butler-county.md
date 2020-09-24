@@ -1,21 +1,21 @@
 ---
-title: "Butler County, PA"
+title: "Butler County, IA"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:42019.0,FEMA:3.0,Large fringe metro,Green]
-categories: [PA]
+tags: [FIPS:19023.0,FEMA:7.0,Non-core,Yellow]
+categories: [IA]
 County: Butler County
-State: PA
-FIPS: 42019.0
-FEMA_Region: 3.0
-Population: 187853.0
-NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 4011.0
-Fourteen_day_test_rate_per_100000: 2135.0
-Percent_Positivity_in_prior_14_days: 0.037
-Level: Green
-url: /states/PA/butler-county
+State: IA
+FIPS: 19023.0
+FEMA_Region: 7.0
+Population: 14439.0
+NCHS_Urban_Rural_Classification: Non-core
+Tests_in_prior_14_days: 558.0
+Fourteen_day_test_rate_per_100000: 3865.0
+Percent_Positivity_in_prior_14_days: 0.072
+Level: Yellow
+url: /states/IA/butler-county
 ---
 
 

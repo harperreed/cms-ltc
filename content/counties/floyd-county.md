@@ -1,21 +1,21 @@
 ---
-title: "Floyd County, VA"
+title: "Floyd County, IA"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:51063.0,FEMA:3.0,Small metro,Yellow]
-categories: [VA]
+tags: [FIPS:19067.0,FEMA:7.0,Non-core,Yellow]
+categories: [IA]
 County: Floyd County
-State: VA
-FIPS: 51063.0
-FEMA_Region: 3.0
-Population: 15749.0
-NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 274.0
-Fourteen_day_test_rate_per_100000: 1740.0
-Percent_Positivity_in_prior_14_days: 0.135
+State: IA
+FIPS: 19067.0
+FEMA_Region: 7.0
+Population: 15642.0
+NCHS_Urban_Rural_Classification: Non-core
+Tests_in_prior_14_days: 871.0
+Fourteen_day_test_rate_per_100000: 5568.0
+Percent_Positivity_in_prior_14_days: 0.078
 Level: Yellow
-url: /states/VA/floyd-county
+url: /states/IA/floyd-county
 ---
 
 

@@ -1,21 +1,21 @@
 ---
-title: "Forsyth County, NC"
+title: "Forsyth County, GA"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:37067.0,FEMA:4.0,Medium metro,Green]
-categories: [NC]
+tags: [FIPS:13117.0,FEMA:4.0,Large fringe metro,Yellow]
+categories: [GA]
 County: Forsyth County
-State: NC
-FIPS: 37067.0
+State: GA
+FIPS: 13117.0
 FEMA_Region: 4.0
-Population: 382295.0
-NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 13397.0
-Fourteen_day_test_rate_per_100000: 3504.0
-Percent_Positivity_in_prior_14_days: 0.037
-Level: Green
-url: /states/NC/forsyth-county
+Population: 244252.0
+NCHS_Urban_Rural_Classification: Large fringe metro
+Tests_in_prior_14_days: 3927.0
+Fourteen_day_test_rate_per_100000: 1608.0
+Percent_Positivity_in_prior_14_days: 0.067
+Level: Yellow
+url: /states/GA/forsyth-county
 ---
 
 

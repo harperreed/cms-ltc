@@ -1,21 +1,21 @@
 ---
-title: "Linn County, OR"
+title: "Linn County, IA"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:41043.0,FEMA:10.0,Small metro,Green]
-categories: [OR]
+tags: [FIPS:19113.0,FEMA:7.0,Medium metro,Yellow]
+categories: [IA]
 County: Linn County
-State: OR
-FIPS: 41043.0
-FEMA_Region: 10.0
-Population: 129749.0
-NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2118.0
-Fourteen_day_test_rate_per_100000: 1632.0
-Percent_Positivity_in_prior_14_days: 0.027
-Level: Green
-url: /states/OR/linn-county
+State: IA
+FIPS: 19113.0
+FEMA_Region: 7.0
+Population: 226706.0
+NCHS_Urban_Rural_Classification: Medium metro
+Tests_in_prior_14_days: 9075.0
+Fourteen_day_test_rate_per_100000: 4003.0
+Percent_Positivity_in_prior_14_days: 0.08
+Level: Yellow
+url: /states/IA/linn-county
 ---
 
 

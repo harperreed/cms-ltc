@@ -1,21 +1,21 @@
 ---
-title: "Kiowa County, OK"
+title: "Kiowa County, CO"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:40075.0,FEMA:6.0,Non-core,Green]
-categories: [OK]
+tags: [FIPS:8061.0,FEMA:8.0,Non-core,Green]
+categories: [CO]
 County: Kiowa County
-State: OK
-FIPS: 40075.0
-FEMA_Region: 6.0
-Population: 8708.0
+State: CO
+FIPS: 8061.0
+FEMA_Region: 8.0
+Population: 1406.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: <20 tests
-Fourteen_day_test_rate_per_100000: <20 tests
-Percent_Positivity_in_prior_14_days: <20 tests
+Tests_in_prior_14_days: 23.0
+Fourteen_day_test_rate_per_100000: 1636.0
+Percent_Positivity_in_prior_14_days: 0.043
 Level: Green
-url: /states/OK/kiowa-county
+url: /states/CO/kiowa-county
 ---
 
 

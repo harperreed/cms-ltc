@@ -1,21 +1,21 @@
 ---
-title: "Davis County, UT"
+title: "Davis County, IA"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:49011.0,FEMA:8.0,Medium metro,Yellow]
-categories: [UT]
+tags: [FIPS:19051.0,FEMA:7.0,Micropolitan,Yellow]
+categories: [IA]
 County: Davis County
-State: UT
-FIPS: 49011.0
-FEMA_Region: 8.0
-Population: 355481.0
-NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 9930.0
-Fourteen_day_test_rate_per_100000: 2793.0
-Percent_Positivity_in_prior_14_days: 0.079
+State: IA
+FIPS: 19051.0
+FEMA_Region: 7.0
+Population: 9000.0
+NCHS_Urban_Rural_Classification: Micropolitan
+Tests_in_prior_14_days: 381.0
+Fourteen_day_test_rate_per_100000: 4233.0
+Percent_Positivity_in_prior_14_days: 0.055
 Level: Yellow
-url: /states/UT/davis-county
+url: /states/IA/davis-county
 ---
 
 

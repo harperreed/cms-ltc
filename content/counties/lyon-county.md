@@ -1,21 +1,21 @@
 ---
-title: "Lyon County, NV"
+title: "Lyon County, IA"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:32019.0,FEMA:9.0,Micropolitan,Yellow]
-categories: [NV]
+tags: [FIPS:19119.0,FEMA:7.0,Non-core,Red]
+categories: [IA]
 County: Lyon County
-State: NV
-FIPS: 32019.0
-FEMA_Region: 9.0
-Population: 57510.0
-NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 701.0
-Fourteen_day_test_rate_per_100000: 1219.0
-Percent_Positivity_in_prior_14_days: 0.073
-Level: Yellow
-url: /states/NV/lyon-county
+State: IA
+FIPS: 19119.0
+FEMA_Region: 7.0
+Population: 11755.0
+NCHS_Urban_Rural_Classification: Non-core
+Tests_in_prior_14_days: 320.0
+Fourteen_day_test_rate_per_100000: 2722.0
+Percent_Positivity_in_prior_14_days: 0.25
+Level: Red
+url: /states/IA/lyon-county
 ---
 
 

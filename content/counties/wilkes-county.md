@@ -1,21 +1,21 @@
 ---
-title: "Wilkes County, NC"
+title: "Wilkes County, GA"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:37193.0,FEMA:4.0,Micropolitan,Green]
-categories: [NC]
+tags: [FIPS:13317.0,FEMA:4.0,Non-core,Yellow]
+categories: [GA]
 County: Wilkes County
-State: NC
-FIPS: 37193.0
+State: GA
+FIPS: 13317.0
 FEMA_Region: 4.0
-Population: 68412.0
-NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1572.0
-Fourteen_day_test_rate_per_100000: 2298.0
-Percent_Positivity_in_prior_14_days: 0.048
-Level: Green
-url: /states/NC/wilkes-county
+Population: 9777.0
+NCHS_Urban_Rural_Classification: Non-core
+Tests_in_prior_14_days: 113.0
+Fourteen_day_test_rate_per_100000: 1156.0
+Percent_Positivity_in_prior_14_days: 0.053
+Level: Yellow
+url: /states/GA/wilkes-county
 ---
 
 

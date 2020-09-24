@@ -1,21 +1,21 @@
 ---
-title: "Clay County, WV"
+title: "Clay County, IL"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:54015.0,FEMA:3.0,Small metro,Green]
-categories: [WV]
+tags: [FIPS:17025.0,FEMA:5.0,Non-core,Yellow]
+categories: [IL]
 County: Clay County
-State: WV
-FIPS: 54015.0
-FEMA_Region: 3.0
-Population: 8508.0
-NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 424.0
-Fourteen_day_test_rate_per_100000: 4984.0
-Percent_Positivity_in_prior_14_days: 0.026
-Level: Green
-url: /states/WV/clay-county
+State: IL
+FIPS: 17025.0
+FEMA_Region: 5.0
+Population: 13184.0
+NCHS_Urban_Rural_Classification: Non-core
+Tests_in_prior_14_days: 418.0
+Fourteen_day_test_rate_per_100000: 3171.0
+Percent_Positivity_in_prior_14_days: 0.069
+Level: Yellow
+url: /states/IL/clay-county
 ---
 
 

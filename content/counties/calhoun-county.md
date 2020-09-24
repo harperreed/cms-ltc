@@ -1,21 +1,21 @@
 ---
-title: "Calhoun County, WV"
+title: "Calhoun County, IL"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:54013.0,FEMA:3.0,Non-core,Yellow]
-categories: [WV]
+tags: [FIPS:17013.0,FEMA:5.0,Large fringe metro,Green]
+categories: [IL]
 County: Calhoun County
-State: WV
-FIPS: 54013.0
-FEMA_Region: 3.0
-Population: 7109.0
-NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 373.0
-Fourteen_day_test_rate_per_100000: 5247.0
-Percent_Positivity_in_prior_14_days: 0.054
-Level: Yellow
-url: /states/WV/calhoun-county
+State: IL
+FIPS: 17013.0
+FEMA_Region: 5.0
+Population: 4739.0
+NCHS_Urban_Rural_Classification: Large fringe metro
+Tests_in_prior_14_days: 74.0
+Fourteen_day_test_rate_per_100000: 1562.0
+Percent_Positivity_in_prior_14_days: 0.014
+Level: Green
+url: /states/IL/calhoun-county
 ---
 
 

@@ -1,21 +1,21 @@
 ---
-title: "Sioux County, NE"
+title: "Sioux County, IA"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:31165.0,FEMA:7.0,Micropolitan,Green]
-categories: [NE]
+tags: [FIPS:19167.0,FEMA:7.0,Non-core,Red]
+categories: [IA]
 County: Sioux County
-State: NE
-FIPS: 31165.0
+State: IA
+FIPS: 19167.0
 FEMA_Region: 7.0
-Population: 1166.0
-NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: <20 tests
-Fourteen_day_test_rate_per_100000: <20 tests
-Percent_Positivity_in_prior_14_days: <20 tests
-Level: Green
-url: /states/NE/sioux-county
+Population: 34855.0
+NCHS_Urban_Rural_Classification: Non-core
+Tests_in_prior_14_days: 1182.0
+Fourteen_day_test_rate_per_100000: 3391.0
+Percent_Positivity_in_prior_14_days: 0.272
+Level: Red
+url: /states/IA/sioux-county
 ---
 
 

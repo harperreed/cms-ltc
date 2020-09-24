@@ -1,21 +1,21 @@
 ---
-title: "Mississippi County, MO"
+title: "Mississippi County, AR"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:29133.0,FEMA:7.0,Non-core,Yellow]
-categories: [MO]
+tags: [FIPS:5093.0,FEMA:6.0,Micropolitan,Red]
+categories: [AR]
 County: Mississippi County
-State: MO
-FIPS: 29133.0
-FEMA_Region: 7.0
-Population: 13180.0
-NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 207.0
-Fourteen_day_test_rate_per_100000: 1571.0
-Percent_Positivity_in_prior_14_days: 0.145
-Level: Yellow
-url: /states/MO/mississippi-county
+State: AR
+FIPS: 5093.0
+FEMA_Region: 6.0
+Population: 40651.0
+NCHS_Urban_Rural_Classification: Micropolitan
+Tests_in_prior_14_days: 1203.0
+Fourteen_day_test_rate_per_100000: 2959.0
+Percent_Positivity_in_prior_14_days: 0.109
+Level: Red
+url: /states/AR/mississippi-county
 ---
 
 

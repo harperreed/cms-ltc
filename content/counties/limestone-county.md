@@ -1,21 +1,21 @@
 ---
-title: "Limestone County, TX"
+title: "Limestone County, AL"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:48293.0,FEMA:6.0,Non-core,Yellow]
-categories: [TX]
+tags: [FIPS:1083.0,FEMA:4.0,Medium metro,Red]
+categories: [AL]
 County: Limestone County
-State: TX
-FIPS: 48293.0
-FEMA_Region: 6.0
-Population: 23437.0
-NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 213.0
-Fourteen_day_test_rate_per_100000: 909.0
-Percent_Positivity_in_prior_14_days: 0.099
-Level: Yellow
-url: /states/TX/limestone-county
+State: AL
+FIPS: 1083.0
+FEMA_Region: 4.0
+Population: 98915.0
+NCHS_Urban_Rural_Classification: Medium metro
+Tests_in_prior_14_days: 2085.0
+Fourteen_day_test_rate_per_100000: 2108.0
+Percent_Positivity_in_prior_14_days: 0.106
+Level: Red
+url: /states/AL/limestone-county
 ---
 
 

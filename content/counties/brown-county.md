@@ -1,21 +1,21 @@
 ---
-title: "Brown County, WI"
+title: "Brown County, IL"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:55009.0,FEMA:5.0,Medium metro,Red]
-categories: [WI]
+tags: [FIPS:17009.0,FEMA:5.0,Non-core,Green]
+categories: [IL]
 County: Brown County
-State: WI
-FIPS: 55009.0
+State: IL
+FIPS: 17009.0
 FEMA_Region: 5.0
-Population: 264542.0
-NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 15005.0
-Fourteen_day_test_rate_per_100000: 5672.0
-Percent_Positivity_in_prior_14_days: 0.126
-Level: Red
-url: /states/WI/brown-county
+Population: 6578.0
+NCHS_Urban_Rural_Classification: Non-core
+Tests_in_prior_14_days: 162.0
+Fourteen_day_test_rate_per_100000: 2463.0
+Percent_Positivity_in_prior_14_days: 0.037
+Level: Green
+url: /states/IL/brown-county
 ---
 
 

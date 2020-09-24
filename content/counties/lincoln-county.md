@@ -1,21 +1,21 @@
 ---
-title: "Lincoln County, WY"
+title: "Lincoln County, ID"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:56023.0,FEMA:8.0,Non-core,Yellow]
-categories: [WY]
+tags: [FIPS:16063.0,FEMA:10.0,Micropolitan,Green]
+categories: [ID]
 County: Lincoln County
-State: WY
-FIPS: 56023.0
-FEMA_Region: 8.0
-Population: 19830.0
-NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 30.0
-Fourteen_day_test_rate_per_100000: 151.0
-Percent_Positivity_in_prior_14_days: 0.1
-Level: Yellow
-url: /states/WY/lincoln-county
+State: ID
+FIPS: 16063.0
+FEMA_Region: 10.0
+Population: 5366.0
+NCHS_Urban_Rural_Classification: Micropolitan
+Tests_in_prior_14_days: 82.0
+Fourteen_day_test_rate_per_100000: 1528.0
+Percent_Positivity_in_prior_14_days: 0.049
+Level: Green
+url: /states/ID/lincoln-county
 ---
 
 

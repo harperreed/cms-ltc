@@ -1,21 +1,21 @@
 ---
-title: "Dade County, MO"
+title: "Dade County, GA"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:29057.0,FEMA:7.0,Non-core,Yellow]
-categories: [MO]
+tags: [FIPS:13083.0,FEMA:4.0,Medium metro,Yellow]
+categories: [GA]
 County: Dade County
-State: MO
-FIPS: 29057.0
-FEMA_Region: 7.0
-Population: 7561.0
-NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 92.0
-Fourteen_day_test_rate_per_100000: 1217.0
-Percent_Positivity_in_prior_14_days: 0.087
+State: GA
+FIPS: 13083.0
+FEMA_Region: 4.0
+Population: 16116.0
+NCHS_Urban_Rural_Classification: Medium metro
+Tests_in_prior_14_days: 85.0
+Fourteen_day_test_rate_per_100000: 527.0
+Percent_Positivity_in_prior_14_days: 0.082
 Level: Yellow
-url: /states/MO/dade-county
+url: /states/GA/dade-county
 ---
 
 

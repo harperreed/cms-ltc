@@ -1,21 +1,21 @@
 ---
-title: "Jackson County, WV"
+title: "Jackson County, IA"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:54035.0,FEMA:3.0,Non-core,Yellow]
-categories: [WV]
+tags: [FIPS:19097.0,FEMA:7.0,Non-core,Red]
+categories: [IA]
 County: Jackson County
-State: WV
-FIPS: 54035.0
-FEMA_Region: 3.0
-Population: 28576.0
+State: IA
+FIPS: 19097.0
+FEMA_Region: 7.0
+Population: 19439.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 742.0
-Fourteen_day_test_rate_per_100000: 2597.0
-Percent_Positivity_in_prior_14_days: 0.053
-Level: Yellow
-url: /states/WV/jackson-county
+Tests_in_prior_14_days: 619.0
+Fourteen_day_test_rate_per_100000: 3184.0
+Percent_Positivity_in_prior_14_days: 0.11
+Level: Red
+url: /states/IA/jackson-county
 ---
 
 

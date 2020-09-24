@@ -1,21 +1,21 @@
 ---
-title: "Randolph County, WV"
+title: "Randolph County, GA"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:54083.0,FEMA:3.0,Micropolitan,Green]
-categories: [WV]
+tags: [FIPS:13243.0,FEMA:4.0,Non-core,Yellow]
+categories: [GA]
 County: Randolph County
-State: WV
-FIPS: 54083.0
-FEMA_Region: 3.0
-Population: 28695.0
-NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 672.0
-Fourteen_day_test_rate_per_100000: 2342.0
-Percent_Positivity_in_prior_14_days: 0.013
-Level: Green
-url: /states/WV/randolph-county
+State: GA
+FIPS: 13243.0
+FEMA_Region: 4.0
+Population: 6778.0
+NCHS_Urban_Rural_Classification: Non-core
+Tests_in_prior_14_days: 90.0
+Fourteen_day_test_rate_per_100000: 1328.0
+Percent_Positivity_in_prior_14_days: 0.056
+Level: Yellow
+url: /states/GA/randolph-county
 ---
 
 

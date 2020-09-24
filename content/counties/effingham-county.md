@@ -1,21 +1,21 @@
 ---
-title: "Effingham County, IL"
+title: "Effingham County, GA"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:17049.0,FEMA:5.0,Micropolitan,Yellow]
-categories: [IL]
+tags: [FIPS:13103.0,FEMA:4.0,Medium metro,Red]
+categories: [GA]
 County: Effingham County
-State: IL
-FIPS: 17049.0
-FEMA_Region: 5.0
-Population: 34008.0
-NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1715.0
-Fourteen_day_test_rate_per_100000: 5043.0
-Percent_Positivity_in_prior_14_days: 0.089
-Level: Yellow
-url: /states/IL/effingham-county
+State: GA
+FIPS: 13103.0
+FEMA_Region: 4.0
+Population: 64296.0
+NCHS_Urban_Rural_Classification: Medium metro
+Tests_in_prior_14_days: 676.0
+Fourteen_day_test_rate_per_100000: 1051.0
+Percent_Positivity_in_prior_14_days: 0.118
+Level: Red
+url: /states/GA/effingham-county
 ---
 
 

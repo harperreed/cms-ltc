@@ -1,21 +1,21 @@
 ---
-title: "Buchanan County, VA"
+title: "Buchanan County, IA"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:51027.0,FEMA:3.0,Non-core,Yellow]
-categories: [VA]
+tags: [FIPS:19019.0,FEMA:7.0,Non-core,Yellow]
+categories: [IA]
 County: Buchanan County
-State: VA
-FIPS: 51027.0
-FEMA_Region: 3.0
-Population: 21004.0
+State: IA
+FIPS: 19019.0
+FEMA_Region: 7.0
+Population: 21175.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 118.0
-Fourteen_day_test_rate_per_100000: 562.0
-Percent_Positivity_in_prior_14_days: 0.203
+Tests_in_prior_14_days: 953.0
+Fourteen_day_test_rate_per_100000: 4501.0
+Percent_Positivity_in_prior_14_days: 0.063
 Level: Yellow
-url: /states/VA/buchanan-county
+url: /states/IA/buchanan-county
 ---
 
 

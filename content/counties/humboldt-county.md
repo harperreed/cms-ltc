@@ -1,21 +1,21 @@
 ---
-title: "Humboldt County, NV"
+title: "Humboldt County, IA"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:32013.0,FEMA:9.0,Micropolitan,Yellow]
-categories: [NV]
+tags: [FIPS:19091.0,FEMA:7.0,Non-core,Green]
+categories: [IA]
 County: Humboldt County
-State: NV
-FIPS: 32013.0
-FEMA_Region: 9.0
-Population: 16831.0
-NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 143.0
-Fourteen_day_test_rate_per_100000: 850.0
-Percent_Positivity_in_prior_14_days: 0.056
-Level: Yellow
-url: /states/NV/humboldt-county
+State: IA
+FIPS: 19091.0
+FEMA_Region: 7.0
+Population: 9558.0
+NCHS_Urban_Rural_Classification: Non-core
+Tests_in_prior_14_days: 328.0
+Fourteen_day_test_rate_per_100000: 3432.0
+Percent_Positivity_in_prior_14_days: 0.04
+Level: Green
+url: /states/IA/humboldt-county
 ---
 
 

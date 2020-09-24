@@ -1,21 +1,21 @@
 ---
-title: "Newton County, TX"
+title: "Newton County, GA"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:48351.0,FEMA:6.0,Medium metro,Yellow]
-categories: [TX]
+tags: [FIPS:13217.0,FEMA:4.0,Large fringe metro,Yellow]
+categories: [GA]
 County: Newton County
-State: TX
-FIPS: 48351.0
-FEMA_Region: 6.0
-Population: 13595.0
-NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 69.0
-Fourteen_day_test_rate_per_100000: 508.0
-Percent_Positivity_in_prior_14_days: 0.145
+State: GA
+FIPS: 13217.0
+FEMA_Region: 4.0
+Population: 111744.0
+NCHS_Urban_Rural_Classification: Large fringe metro
+Tests_in_prior_14_days: 1784.0
+Fourteen_day_test_rate_per_100000: 1597.0
+Percent_Positivity_in_prior_14_days: 0.063
 Level: Yellow
-url: /states/TX/newton-county
+url: /states/GA/newton-county
 ---
 
 

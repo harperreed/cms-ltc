@@ -1,21 +1,21 @@
 ---
-title: "Charlotte County, VA"
+title: "Charlotte County, FL"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:51037.0,FEMA:3.0,Non-core,Yellow]
-categories: [VA]
+tags: [FIPS:12015.0,FEMA:4.0,Small metro,Green]
+categories: [FL]
 County: Charlotte County
-State: VA
-FIPS: 51037.0
-FEMA_Region: 3.0
-Population: 11880.0
-NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 305.0
-Fourteen_day_test_rate_per_100000: 2567.0
-Percent_Positivity_in_prior_14_days: 0.098
-Level: Yellow
-url: /states/VA/charlotte-county
+State: FL
+FIPS: 12015.0
+FEMA_Region: 4.0
+Population: 188910.0
+NCHS_Urban_Rural_Classification: Small metro
+Tests_in_prior_14_days: 5542.0
+Fourteen_day_test_rate_per_100000: 2934.0
+Percent_Positivity_in_prior_14_days: 0.039
+Level: Green
+url: /states/FL/charlotte-county
 ---
 
 

@@ -1,21 +1,21 @@
 ---
-title: "Custer County, SD"
+title: "Custer County, ID"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:46033.0,FEMA:8.0,Small metro,Yellow]
-categories: [SD]
+tags: [FIPS:16037.0,FEMA:10.0,Non-core,Yellow]
+categories: [ID]
 County: Custer County
-State: SD
-FIPS: 46033.0
-FEMA_Region: 8.0
-Population: 8972.0
-NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 264.0
-Fourteen_day_test_rate_per_100000: 2942.0
-Percent_Positivity_in_prior_14_days: 0.076
+State: ID
+FIPS: 16037.0
+FEMA_Region: 10.0
+Population: 4315.0
+NCHS_Urban_Rural_Classification: Non-core
+Tests_in_prior_14_days: 66.0
+Fourteen_day_test_rate_per_100000: 1530.0
+Percent_Positivity_in_prior_14_days: 0.167
 Level: Yellow
-url: /states/SD/custer-county
+url: /states/ID/custer-county
 ---
 
 

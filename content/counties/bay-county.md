@@ -1,21 +1,21 @@
 ---
-title: "Bay County, MI"
+title: "Bay County, FL"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:26017.0,FEMA:5.0,Small metro,Green]
-categories: [MI]
+tags: [FIPS:12005.0,FEMA:4.0,Small metro,Yellow]
+categories: [FL]
 County: Bay County
-State: MI
-FIPS: 26017.0
-FEMA_Region: 5.0
-Population: 103126.0
+State: FL
+FIPS: 12005.0
+FEMA_Region: 4.0
+Population: 174705.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 4117.0
-Fourteen_day_test_rate_per_100000: 3992.0
-Percent_Positivity_in_prior_14_days: 0.025
-Level: Green
-url: /states/MI/bay-county
+Tests_in_prior_14_days: 2611.0
+Fourteen_day_test_rate_per_100000: 1495.0
+Percent_Positivity_in_prior_14_days: 0.091
+Level: Yellow
+url: /states/FL/bay-county
 ---
 
 

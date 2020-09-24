@@ -1,21 +1,21 @@
 ---
-title: "Turner County, SD"
+title: "Turner County, GA"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:46125.0,FEMA:8.0,Small metro,Yellow]
-categories: [SD]
+tags: [FIPS:13287.0,FEMA:4.0,Non-core,Yellow]
+categories: [GA]
 County: Turner County
-State: SD
-FIPS: 46125.0
-FEMA_Region: 8.0
-Population: 8384.0
-NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 186.0
-Fourteen_day_test_rate_per_100000: 2219.0
-Percent_Positivity_in_prior_14_days: 0.081
+State: GA
+FIPS: 13287.0
+FEMA_Region: 4.0
+Population: 7985.0
+NCHS_Urban_Rural_Classification: Non-core
+Tests_in_prior_14_days: 89.0
+Fourteen_day_test_rate_per_100000: 1115.0
+Percent_Positivity_in_prior_14_days: 0.112
 Level: Yellow
-url: /states/SD/turner-county
+url: /states/GA/turner-county
 ---
 
 

@@ -1,21 +1,21 @@
 ---
-title: "Martin County, TX"
+title: "Martin County, FL"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:48317.0,FEMA:6.0,Small metro,Green]
-categories: [TX]
+tags: [FIPS:12085.0,FEMA:4.0,Medium metro,Yellow]
+categories: [FL]
 County: Martin County
-State: TX
-FIPS: 48317.0
-FEMA_Region: 6.0
-Population: 5771.0
-NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: <20 tests
-Fourteen_day_test_rate_per_100000: <20 tests
-Percent_Positivity_in_prior_14_days: <20 tests
-Level: Green
-url: /states/TX/martin-county
+State: FL
+FIPS: 12085.0
+FEMA_Region: 4.0
+Population: 161000.0
+NCHS_Urban_Rural_Classification: Medium metro
+Tests_in_prior_14_days: 3336.0
+Fourteen_day_test_rate_per_100000: 2072.0
+Percent_Positivity_in_prior_14_days: 0.05
+Level: Yellow
+url: /states/FL/martin-county
 ---
 
 

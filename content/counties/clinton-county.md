@@ -1,21 +1,21 @@
 ---
-title: "Clinton County, PA"
+title: "Clinton County, IL"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:42035.0,FEMA:3.0,Micropolitan,Green]
-categories: [PA]
+tags: [FIPS:17027.0,FEMA:5.0,Large fringe metro,Red]
+categories: [IL]
 County: Clinton County
-State: PA
-FIPS: 42035.0
-FEMA_Region: 3.0
-Population: 38632.0
-NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 587.0
-Fourteen_day_test_rate_per_100000: 1519.0
-Percent_Positivity_in_prior_14_days: 0.046
-Level: Green
-url: /states/PA/clinton-county
+State: IL
+FIPS: 17027.0
+FEMA_Region: 5.0
+Population: 37562.0
+NCHS_Urban_Rural_Classification: Large fringe metro
+Tests_in_prior_14_days: 1052.0
+Fourteen_day_test_rate_per_100000: 2801.0
+Percent_Positivity_in_prior_14_days: 0.178
+Level: Red
+url: /states/IL/clinton-county
 ---
 
 

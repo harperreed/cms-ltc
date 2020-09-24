@@ -1,21 +1,21 @@
 ---
-title: "Putnam County, WV"
+title: "Putnam County, GA"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:54079.0,FEMA:3.0,Medium metro,Yellow]
-categories: [WV]
+tags: [FIPS:13237.0,FEMA:4.0,Non-core,Yellow]
+categories: [GA]
 County: Putnam County
-State: WV
-FIPS: 54079.0
-FEMA_Region: 3.0
-Population: 56450.0
-NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2433.0
-Fourteen_day_test_rate_per_100000: 4310.0
-Percent_Positivity_in_prior_14_days: 0.07
+State: GA
+FIPS: 13237.0
+FEMA_Region: 4.0
+Population: 22119.0
+NCHS_Urban_Rural_Classification: Non-core
+Tests_in_prior_14_days: 223.0
+Fourteen_day_test_rate_per_100000: 1008.0
+Percent_Positivity_in_prior_14_days: 0.063
 Level: Yellow
-url: /states/WV/putnam-county
+url: /states/GA/putnam-county
 ---
 
 

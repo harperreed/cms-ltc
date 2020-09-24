@@ -1,21 +1,21 @@
 ---
-title: "Otero County, NM"
+title: "Otero County, CO"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:35035.0,FEMA:6.0,Micropolitan,Green]
-categories: [NM]
+tags: [FIPS:8089.0,FEMA:8.0,Non-core,Green]
+categories: [CO]
 County: Otero County
-State: NM
-FIPS: 35035.0
-FEMA_Region: 6.0
-Population: 67490.0
-NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1059.0
-Fourteen_day_test_rate_per_100000: 1569.0
-Percent_Positivity_in_prior_14_days: 0.009
+State: CO
+FIPS: 8089.0
+FEMA_Region: 8.0
+Population: 18278.0
+NCHS_Urban_Rural_Classification: Non-core
+Tests_in_prior_14_days: 407.0
+Fourteen_day_test_rate_per_100000: 2227.0
+Percent_Positivity_in_prior_14_days: 0.002
 Level: Green
-url: /states/NM/otero-county
+url: /states/CO/otero-county
 ---
 
 

@@ -1,21 +1,21 @@
 ---
-title: "Clark County, WI"
+title: "Clark County, IL"
 date: 2020-09-24
 draft: false
 type: county
-tags: [FIPS:55019.0,FEMA:5.0,Non-core,Green]
-categories: [WI]
+tags: [FIPS:17023.0,FEMA:5.0,Non-core,Green]
+categories: [IL]
 County: Clark County
-State: WI
-FIPS: 55019.0
+State: IL
+FIPS: 17023.0
 FEMA_Region: 5.0
-Population: 34774.0
+Population: 15441.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1214.0
-Fourteen_day_test_rate_per_100000: 3491.0
-Percent_Positivity_in_prior_14_days: 0.037
+Tests_in_prior_14_days: 684.0
+Fourteen_day_test_rate_per_100000: 4430.0
+Percent_Positivity_in_prior_14_days: 0.041
 Level: Green
-url: /states/WI/clark-county
+url: /states/IL/clark-county
 ---
 
 
