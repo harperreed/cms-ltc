@@ -1,6 +1,6 @@
 ---
 title: "Platte County, WY"
-date: 2020-09-23
+date: 2020-09-24
 draft: false
 tags: [FIPS:56031.0,FEMA:8.0,NCHSClass:Non-core]
 categories: [WY]

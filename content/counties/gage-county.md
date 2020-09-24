@@ -1,6 +1,6 @@
 ---
 title: "Gage County, NE"
-date: 2020-09-23
+date: 2020-09-24
 draft: false
 tags: [FIPS:31067.0,FEMA:7.0,NCHSClass:Micropolitan]
 categories: [NE]

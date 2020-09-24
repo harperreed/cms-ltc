@@ -1,6 +1,6 @@
 ---
 title: "Bon Homme County, SD"
-date: 2020-09-23
+date: 2020-09-24
 draft: false
 tags: [FIPS:46009.0,FEMA:8.0,NCHSClass:Non-core]
 categories: [SD]

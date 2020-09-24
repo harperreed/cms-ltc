@@ -1,6 +1,6 @@
 ---
 title: "Pulaski County, VA"
-date: 2020-09-23
+date: 2020-09-24
 draft: false
 tags: [FIPS:51155.0,FEMA:3.0,NCHSClass:Small metro]
 categories: [VA]

@@ -1,6 +1,6 @@
 ---
 title: "Haines Borough, AK"
-date: 2020-09-23
+date: 2020-09-24
 draft: false
 tags: [FIPS:2100.0,FEMA:10.0,NCHSClass:Non-core]
 categories: [AK]

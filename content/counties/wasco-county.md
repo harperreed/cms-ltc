@@ -1,6 +1,6 @@
 ---
 title: "Wasco County, OR"
-date: 2020-09-23
+date: 2020-09-24
 draft: false
 tags: [FIPS:41065.0,FEMA:10.0,NCHSClass:Micropolitan]
 categories: [OR]

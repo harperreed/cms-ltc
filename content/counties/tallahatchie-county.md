@@ -1,6 +1,6 @@
 ---
 title: "Tallahatchie County, MS"
-date: 2020-09-23
+date: 2020-09-24
 draft: false
 tags: [FIPS:28135.0,FEMA:4.0,NCHSClass:Non-core]
 categories: [MS]

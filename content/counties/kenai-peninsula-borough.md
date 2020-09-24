@@ -1,6 +1,6 @@
 ---
 title: "Kenai Peninsula Borough, AK"
-date: 2020-09-23
+date: 2020-09-24
 draft: false
 tags: [FIPS:2122.0,FEMA:10.0,NCHSClass:Non-core]
 categories: [AK]

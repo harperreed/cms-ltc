@@ -1,6 +1,6 @@
 ---
 title: "Kauai County, HI"
-date: 2020-09-23
+date: 2020-09-24
 draft: false
 tags: [FIPS:15007.0,FEMA:9.0,NCHSClass:Micropolitan]
 categories: [HI]

@@ -1,6 +1,6 @@
 ---
 title: "Wasatch County, UT"
-date: 2020-09-23
+date: 2020-09-24
 draft: false
 tags: [FIPS:49051.0,FEMA:8.0,NCHSClass:Micropolitan]
 categories: [UT]

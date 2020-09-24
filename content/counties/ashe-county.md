@@ -1,6 +1,6 @@
 ---
 title: "Ashe County, NC"
-date: 2020-09-23
+date: 2020-09-24
 draft: false
 tags: [FIPS:37009.0,FEMA:4.0,NCHSClass:Non-core]
 categories: [NC]

@@ -1,6 +1,6 @@
 ---
 title: "Craig County, VA"
-date: 2020-09-23
+date: 2020-09-24
 draft: false
 tags: [FIPS:51045.0,FEMA:3.0,NCHSClass:Medium metro]
 categories: [VA]
