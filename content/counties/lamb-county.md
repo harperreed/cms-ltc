@@ -1,6 +1,6 @@
 ---
 title: "Lamb County, TX"
-date: 2020-09-23
+date: 2020-09-24
 draft: false
 type: county
 tags: [FIPS:48279.0,FEMA:6.0,Non-core,Yellow]
