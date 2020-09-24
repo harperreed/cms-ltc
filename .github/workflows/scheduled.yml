@@ -28,7 +28,7 @@ jobs:
         python -m pip install -r ./scripts/requirements.txt
     - name: Update README
       run: |-
-        python ./scripts/build_readme.py
+        python ./scripts/grab.py
         cat README.md
     - name: Commit and push if changed
       run: |-
