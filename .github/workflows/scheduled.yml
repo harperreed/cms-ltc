@@ -1,4 +1,4 @@
-name: Build README
+name: Download and grab
 
 on:
   push:
@@ -29,7 +29,6 @@ jobs:
     - name: Update README
       run: |-
         python ./scripts/grab.py
-        cat README.md
     - name: Commit and push if changed
       run: |-
         git diff

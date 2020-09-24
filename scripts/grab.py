@@ -8,8 +8,8 @@ import requests
 
 zip_file = "./Test_Positivity_Rates.zip"
 
-bigxlsx_filename = '../Test_Positivity_Rates.xlsx'
-smallxlsx_filename = "../simpler.xlsx"
+bigxlsx_filename = './Test_Positivity_Rates.xlsx'
+smallxlsx_filename = "./simpler.xlsx"
 
 tab = 'cms_ltc'
 tablename = 'rates'
@@ -25,7 +25,7 @@ with open(zip_file, 'wb') as fd:
 
 
 with zipfile.ZipFile(zip_file,"r") as zip_ref:
-    zip_ref.extractall("../")
+    zip_ref.extractall("./")
 
 wb = load_workbook(filename = bigxlsx_filename)
 ws = wb[tab]
@@ -33,7 +33,7 @@ ws.delete_rows(1, 6)
 wb.save(smallxlsx_filename)
 
 
-convert_from_file(smallxlsx_filename, "../")
+convert_from_file(smallxlsx_filename, "./")
 
 os.remove(smallxlsx_filename)
 
