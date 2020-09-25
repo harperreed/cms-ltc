@@ -1,6 +1,6 @@
 ---
 title: "Madison County, GA"
-date: 2020-09-24
+date: 2020-09-25
 draft: false
 type: county
 tags: [FIPS:13195.0,FEMA:4.0,Small metro,Yellow]

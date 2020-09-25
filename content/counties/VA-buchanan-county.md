@@ -1,6 +1,6 @@
 ---
 title: "Buchanan County, VA"
-date: 2020-09-24
+date: 2020-09-25
 draft: false
 type: county
 tags: [FIPS:51027.0,FEMA:3.0,Non-core,Yellow]

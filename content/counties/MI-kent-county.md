@@ -1,6 +1,6 @@
 ---
 title: "Kent County, MI"
-date: 2020-09-24
+date: 2020-09-25
 draft: false
 type: county
 tags: [FIPS:26081.0,FEMA:5.0,Large central metro,Green]

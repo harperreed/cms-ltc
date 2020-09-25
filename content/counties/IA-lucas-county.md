@@ -1,6 +1,6 @@
 ---
 title: "Lucas County, IA"
-date: 2020-09-24
+date: 2020-09-25
 draft: false
 type: county
 tags: [FIPS:19117.0,FEMA:7.0,Non-core,Yellow]

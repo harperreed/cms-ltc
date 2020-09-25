@@ -1,6 +1,6 @@
 ---
 title: "Costilla County, CO"
-date: 2020-09-24
+date: 2020-09-25
 draft: false
 type: county
 tags: [FIPS:8023.0,FEMA:8.0,Non-core,Green]

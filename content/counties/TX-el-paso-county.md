@@ -1,6 +1,6 @@
 ---
 title: "El Paso County, TX"
-date: 2020-09-24
+date: 2020-09-25
 draft: false
 type: county
 tags: [FIPS:48141.0,FEMA:6.0,Medium metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Saluda County, SC"
-date: 2020-09-24
+date: 2020-09-25
 draft: false
 type: county
 tags: [FIPS:45081.0,FEMA:4.0,Medium metro,Yellow]

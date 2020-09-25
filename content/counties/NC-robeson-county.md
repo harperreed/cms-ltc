@@ -1,6 +1,6 @@
 ---
 title: "Robeson County, NC"
-date: 2020-09-24
+date: 2020-09-25
 draft: false
 type: county
 tags: [FIPS:37155.0,FEMA:4.0,Micropolitan,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Green County, KY"
-date: 2020-09-24
+date: 2020-09-25
 draft: false
 type: county
 tags: [FIPS:21087.0,FEMA:4.0,Non-core,Red]

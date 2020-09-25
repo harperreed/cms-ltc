@@ -1,6 +1,6 @@
 ---
 title: "Yamhill County, OR"
-date: 2020-09-24
+date: 2020-09-25
 draft: false
 type: county
 tags: [FIPS:41071.0,FEMA:10.0,Large fringe metro,Green]
