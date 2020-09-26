@@ -1,6 +1,6 @@
 ---
 title: "Taylor County, FL"
-date: 2020-09-25
+date: 2020-09-26
 draft: false
 type: county
 tags: [FIPS:12123.0,FEMA:4.0,Non-core,Red]

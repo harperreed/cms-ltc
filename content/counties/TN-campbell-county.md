@@ -1,6 +1,6 @@
 ---
 title: "Campbell County, TN"
-date: 2020-09-25
+date: 2020-09-26
 draft: false
 type: county
 tags: [FIPS:47013.0,FEMA:4.0,Medium metro,Green]

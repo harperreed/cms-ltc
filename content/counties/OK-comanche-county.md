@@ -1,6 +1,6 @@
 ---
 title: "Comanche County, OK"
-date: 2020-09-25
+date: 2020-09-26
 draft: false
 type: county
 tags: [FIPS:40031.0,FEMA:6.0,Small metro,Yellow]

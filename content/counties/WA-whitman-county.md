@@ -1,6 +1,6 @@
 ---
 title: "Whitman County, WA"
-date: 2020-09-25
+date: 2020-09-26
 draft: false
 type: county
 tags: [FIPS:53075.0,FEMA:10.0,Micropolitan,Yellow]

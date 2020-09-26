@@ -1,6 +1,6 @@
 ---
 title: "Colusa County, CA"
-date: 2020-09-25
+date: 2020-09-26
 draft: false
 type: county
 tags: [FIPS:6011.0,FEMA:9.0,Non-core,Yellow]

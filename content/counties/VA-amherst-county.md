@@ -1,6 +1,6 @@
 ---
 title: "Amherst County, VA"
-date: 2020-09-25
+date: 2020-09-26
 draft: false
 type: county
 tags: [FIPS:51009.0,FEMA:3.0,Medium metro,Yellow]
