@@ -1,6 +1,6 @@
 ---
 title: "Latah County, ID"
-date: 2020-09-26
+date: 2020-09-27
 draft: false
 type: county
 tags: [FIPS:16057.0,FEMA:10.0,Micropolitan,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Benton County, IA"
-date: 2020-09-26
+date: 2020-09-27
 draft: false
 type: county
 tags: [FIPS:19011.0,FEMA:7.0,Medium metro,Yellow]

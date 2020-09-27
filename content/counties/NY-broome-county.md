@@ -1,6 +1,6 @@
 ---
 title: "Broome County, NY"
-date: 2020-09-26
+date: 2020-09-27
 draft: false
 type: county
 tags: [FIPS:36007.0,FEMA:2.0,Small metro,Green]

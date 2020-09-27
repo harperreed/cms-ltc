@@ -1,6 +1,6 @@
 ---
 title: "Clay County, KS"
-date: 2020-09-26
+date: 2020-09-27
 draft: false
 type: county
 tags: [FIPS:20027.0,FEMA:7.0,Non-core,Green]
