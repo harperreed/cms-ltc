@@ -1,6 +1,6 @@
 ---
 title: "Cumberland County, IL"
-date: 2020-09-27
+date: 2020-09-28
 draft: false
 type: county
 tags: [FIPS:17035.0,FEMA:5.0,Micropolitan,Yellow]

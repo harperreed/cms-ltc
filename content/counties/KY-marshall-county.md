@@ -1,6 +1,6 @@
 ---
 title: "Marshall County, KY"
-date: 2020-09-27
+date: 2020-09-28
 draft: false
 type: county
 tags: [FIPS:21157.0,FEMA:4.0,Non-core,Yellow]

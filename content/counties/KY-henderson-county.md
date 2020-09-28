@@ -1,6 +1,6 @@
 ---
 title: "Henderson County, KY"
-date: 2020-09-27
+date: 2020-09-28
 draft: false
 type: county
 tags: [FIPS:21101.0,FEMA:4.0,Medium metro,Yellow]

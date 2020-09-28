@@ -1,6 +1,6 @@
 ---
 title: "Union County, SD"
-date: 2020-09-27
+date: 2020-09-28
 draft: false
 type: county
 tags: [FIPS:46127.0,FEMA:8.0,Small metro,Red]

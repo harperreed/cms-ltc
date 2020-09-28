@@ -1,6 +1,6 @@
 ---
 title: "Union County, FL"
-date: 2020-09-27
+date: 2020-09-28
 draft: false
 type: county
 tags: [FIPS:12125.0,FEMA:4.0,Non-core,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Bamberg County, SC"
-date: 2020-09-27
+date: 2020-09-28
 draft: false
 type: county
 tags: [FIPS:45009.0,FEMA:4.0,Non-core,Red]

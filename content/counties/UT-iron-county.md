@@ -1,6 +1,6 @@
 ---
 title: "Iron County, UT"
-date: 2020-09-27
+date: 2020-09-28
 draft: false
 type: county
 tags: [FIPS:49021.0,FEMA:8.0,Micropolitan,Yellow]

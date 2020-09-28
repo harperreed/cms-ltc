@@ -1,6 +1,6 @@
 ---
 title: "Lassen County, CA"
-date: 2020-09-27
+date: 2020-09-28
 draft: false
 type: county
 tags: [FIPS:6035.0,FEMA:9.0,Micropolitan,Green]

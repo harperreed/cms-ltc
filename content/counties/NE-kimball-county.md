@@ -1,6 +1,6 @@
 ---
 title: "Kimball County, NE"
-date: 2020-09-27
+date: 2020-09-28
 draft: false
 type: county
 tags: [FIPS:31105.0,FEMA:7.0,Non-core,Green]

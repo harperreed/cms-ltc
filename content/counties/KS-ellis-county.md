@@ -1,6 +1,6 @@
 ---
 title: "Ellis County, KS"
-date: 2020-09-27
+date: 2020-09-28
 draft: false
 type: county
 tags: [FIPS:20051.0,FEMA:7.0,Micropolitan,Red]

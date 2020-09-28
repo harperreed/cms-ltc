@@ -1,6 +1,6 @@
 ---
 title: "Bailey County, TX"
-date: 2020-09-27
+date: 2020-09-28
 draft: false
 type: county
 tags: [FIPS:48017.0,FEMA:6.0,Non-core,Green]

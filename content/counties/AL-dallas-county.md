@@ -1,6 +1,6 @@
 ---
 title: "Dallas County, AL"
-date: 2020-09-27
+date: 2020-09-28
 draft: false
 type: county
 tags: [FIPS:1047.0,FEMA:4.0,Micropolitan,Yellow]
