@@ -1,6 +1,6 @@
 ---
 title: "Heard County, GA"
-date: 2020-09-29
+date: 2020-09-30
 draft: false
 type: county
 tags: [FIPS:13149.0,FEMA:4.0,Large fringe metro,Yellow]

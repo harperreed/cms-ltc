@@ -1,6 +1,6 @@
 ---
 title: "Screven County, GA"
-date: 2020-09-29
+date: 2020-09-30
 draft: false
 type: county
 tags: [FIPS:13251.0,FEMA:4.0,Non-core,Yellow]

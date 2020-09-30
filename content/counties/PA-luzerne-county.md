@@ -1,6 +1,6 @@
 ---
 title: "Luzerne County, PA"
-date: 2020-09-29
+date: 2020-09-30
 draft: false
 type: county
 tags: [FIPS:42079.0,FEMA:3.0,Medium metro,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Outagamie County, WI"
-date: 2020-09-29
+date: 2020-09-30
 draft: false
 type: county
 tags: [FIPS:55087.0,FEMA:5.0,Small metro,Red]

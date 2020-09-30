@@ -1,6 +1,6 @@
 ---
 title: "Laramie County, WY"
-date: 2020-09-29
+date: 2020-09-30
 draft: false
 type: county
 tags: [FIPS:56021.0,FEMA:8.0,Small metro,Green]

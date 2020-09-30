@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, WA"
-date: 2020-09-29
+date: 2020-09-30
 draft: false
 type: county
 tags: [FIPS:53031.0,FEMA:10.0,Non-core,Green]
