@@ -1,6 +1,6 @@
 ---
 title: "York County, SC"
-date: 2020-09-28
+date: 2020-09-29
 draft: false
 type: county
 tags: [FIPS:45091.0,FEMA:4.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 45091.0
 FEMA_Region: 4.0
 Population: 280979.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 3729.0
-Fourteen_day_test_rate_per_100000: 1327.0
-Percent_Positivity_in_prior_14_days: 0.131
+Tests_in_prior_14_days: 4584.0
+Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Percent_Positivity_in_prior_14_days: 0.107
 Level: Red
 url: /states/SC/york-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Bienville Parish, LA"
-date: 2020-09-28
+date: 2020-09-29
 draft: false
 type: county
 tags: [FIPS:22013.0,FEMA:6.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 22013.0
 FEMA_Region: 6.0
 Population: 13241.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 863.0
-Fourteen_day_test_rate_per_100000: 6518.0
-Percent_Positivity_in_prior_14_days: 0.028
+Tests_in_prior_14_days: 1062.0
+Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Percent_Positivity_in_prior_14_days: 0.04
 Level: Green
 url: /states/LA/bienville-parish
 ---

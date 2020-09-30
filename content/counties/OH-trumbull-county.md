@@ -1,6 +1,6 @@
 ---
 title: "Trumbull County, OH"
-date: 2020-09-28
+date: 2020-09-29
 draft: false
 type: county
 tags: [FIPS:39155.0,FEMA:5.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 39155.0
 FEMA_Region: 5.0
 Population: 197974.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2824.0
-Fourteen_day_test_rate_per_100000: 1426.0
-Percent_Positivity_in_prior_14_days: 0.015
+Tests_in_prior_14_days: 2271.0
+Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Percent_Positivity_in_prior_14_days: 0.017
 Level: Green
 url: /states/OH/trumbull-county
 ---

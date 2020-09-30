@@ -1,6 +1,6 @@
 ---
 title: "Marion County, IA"
-date: 2020-09-28
+date: 2020-09-29
 draft: false
 type: county
 tags: [FIPS:19125.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 19125.0
 FEMA_Region: 7.0
 Population: 33253.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1761.0
-Fourteen_day_test_rate_per_100000: 5296.0
-Percent_Positivity_in_prior_14_days: 0.117
+Tests_in_prior_14_days: 1556.0
+Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Percent_Positivity_in_prior_14_days: 0.102
 Level: Red
 url: /states/IA/marion-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Holt County, MO"
-date: 2020-09-28
+date: 2020-09-29
 draft: false
 type: county
-tags: [FIPS:29087.0,FEMA:7.0,Non-core,Yellow]
+tags: [FIPS:29087.0,FEMA:7.0,Non-core,Green]
 categories: [MO]
 County: Holt County
 State: MO
@@ -11,10 +11,10 @@ FIPS: 29087.0
 FEMA_Region: 7.0
 Population: 4403.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 34.0
-Fourteen_day_test_rate_per_100000: 772.0
-Percent_Positivity_in_prior_14_days: 0.059
-Level: Yellow
+Tests_in_prior_14_days: 42.0
+Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Percent_Positivity_in_prior_14_days: 0.024
+Level: Green
 url: /states/MO/holt-county
 ---
 

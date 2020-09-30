@@ -1,6 +1,6 @@
 ---
 title: "Pittsburg County, OK"
-date: 2020-09-28
+date: 2020-09-29
 draft: false
 type: county
 tags: [FIPS:40121.0,FEMA:6.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 40121.0
 FEMA_Region: 6.0
 Population: 43654.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 700.0
-Fourteen_day_test_rate_per_100000: 1604.0
-Percent_Positivity_in_prior_14_days: 0.236
+Tests_in_prior_14_days: 950.0
+Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Percent_Positivity_in_prior_14_days: 0.232
 Level: Red
 url: /states/OK/pittsburg-county
 ---

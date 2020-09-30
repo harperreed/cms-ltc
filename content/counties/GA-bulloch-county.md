@@ -1,6 +1,6 @@
 ---
 title: "Bulloch County, GA"
-date: 2020-09-28
+date: 2020-09-29
 draft: false
 type: county
 tags: [FIPS:13031.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 13031.0
 FEMA_Region: 4.0
 Population: 79608.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 758.0
-Fourteen_day_test_rate_per_100000: 952.0
-Percent_Positivity_in_prior_14_days: 0.166
+Tests_in_prior_14_days: 843.0
+Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Percent_Positivity_in_prior_14_days: 0.112
 Level: Red
 url: /states/GA/bulloch-county
 ---

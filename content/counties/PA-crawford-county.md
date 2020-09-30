@@ -1,6 +1,6 @@
 ---
 title: "Crawford County, PA"
-date: 2020-09-28
+date: 2020-09-29
 draft: false
 type: county
 tags: [FIPS:42039.0,FEMA:3.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 42039.0
 FEMA_Region: 3.0
 Population: 84629.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1758.0
-Fourteen_day_test_rate_per_100000: 2077.0
-Percent_Positivity_in_prior_14_days: 0.039
+Tests_in_prior_14_days: 2157.0
+Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Percent_Positivity_in_prior_14_days: 0.026
 Level: Green
 url: /states/PA/crawford-county
 ---

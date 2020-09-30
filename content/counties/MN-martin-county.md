@@ -1,9 +1,9 @@
 ---
 title: "Martin County, MN"
-date: 2020-09-28
+date: 2020-09-29
 draft: false
 type: county
-tags: [FIPS:27091.0,FEMA:5.0,Non-core,Yellow]
+tags: [FIPS:27091.0,FEMA:5.0,Non-core,Red]
 categories: [MN]
 County: Martin County
 State: MN
@@ -11,10 +11,10 @@ FIPS: 27091.0
 FEMA_Region: 5.0
 Population: 19683.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 746.0
-Fourteen_day_test_rate_per_100000: 3790.0
-Percent_Positivity_in_prior_14_days: 0.087
-Level: Yellow
+Tests_in_prior_14_days: 1315.0
+Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Percent_Positivity_in_prior_14_days: 0.153
+Level: Red
 url: /states/MN/martin-county
 ---
 

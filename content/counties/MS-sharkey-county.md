@@ -1,6 +1,6 @@
 ---
 title: "Sharkey County, MS"
-date: 2020-09-28
+date: 2020-09-29
 draft: false
 type: county
 tags: [FIPS:28125.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28125.0
 FEMA_Region: 4.0
 Population: 4321.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 26.0
-Fourteen_day_test_rate_per_100000: 602.0
-Percent_Positivity_in_prior_14_days: 0.115
+Tests_in_prior_14_days: 23.0
+Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Percent_Positivity_in_prior_14_days: 0.087
 Level: Yellow
 url: /states/MS/sharkey-county
 ---

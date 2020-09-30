@@ -1,6 +1,6 @@
 ---
 title: "Johnson County, TN"
-date: 2020-09-28
+date: 2020-09-29
 draft: false
 type: county
 tags: [FIPS:47091.0,FEMA:4.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 47091.0
 FEMA_Region: 4.0
 Population: 17788.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1009.0
-Fourteen_day_test_rate_per_100000: 5672.0
-Percent_Positivity_in_prior_14_days: 0.212
+Tests_in_prior_14_days: 819.0
+Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Percent_Positivity_in_prior_14_days: 0.189
 Level: Red
 url: /states/TN/johnson-county
 ---

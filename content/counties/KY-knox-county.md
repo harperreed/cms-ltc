@@ -1,9 +1,9 @@
 ---
 title: "Knox County, KY"
-date: 2020-09-28
+date: 2020-09-29
 draft: false
 type: county
-tags: [FIPS:21121.0,FEMA:4.0,Micropolitan,Green]
+tags: [FIPS:21121.0,FEMA:4.0,Micropolitan,Yellow]
 categories: [KY]
 County: Knox County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21121.0
 FEMA_Region: 4.0
 Population: 31145.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 574.0
-Fourteen_day_test_rate_per_100000: 1843.0
-Percent_Positivity_in_prior_14_days: 0.047
-Level: Green
+Tests_in_prior_14_days: 717.0
+Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Percent_Positivity_in_prior_14_days: 0.059
+Level: Yellow
 url: /states/KY/knox-county
 ---
 

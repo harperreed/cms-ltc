@@ -1,6 +1,6 @@
 ---
 title: "Oglethorpe County, GA"
-date: 2020-09-28
+date: 2020-09-29
 draft: false
 type: county
 tags: [FIPS:13221.0,FEMA:4.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13221.0
 FEMA_Region: 4.0
 Population: 15259.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 202.0
-Fourteen_day_test_rate_per_100000: 1324.0
-Percent_Positivity_in_prior_14_days: 0.059
+Tests_in_prior_14_days: 252.0
+Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Percent_Positivity_in_prior_14_days: 0.052
 Level: Yellow
 url: /states/GA/oglethorpe-county
 ---

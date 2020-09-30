@@ -1,9 +1,9 @@
 ---
 title: "Edgefield County, SC"
-date: 2020-09-28
+date: 2020-09-29
 draft: false
 type: county
-tags: [FIPS:45037.0,FEMA:4.0,Medium metro,Yellow]
+tags: [FIPS:45037.0,FEMA:4.0,Medium metro,Red]
 categories: [SC]
 County: Edgefield County
 State: SC
@@ -11,10 +11,10 @@ FIPS: 45037.0
 FEMA_Region: 4.0
 Population: 27260.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 268.0
-Fourteen_day_test_rate_per_100000: 983.0
-Percent_Positivity_in_prior_14_days: 0.108
-Level: Yellow
+Tests_in_prior_14_days: 594.0
+Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Percent_Positivity_in_prior_14_days: 0.126
+Level: Red
 url: /states/SC/edgefield-county
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Delta County, MI"
-date: 2020-09-28
+date: 2020-09-29
 draft: false
 type: county
-tags: [FIPS:26041.0,FEMA:5.0,Micropolitan,Green]
+tags: [FIPS:26041.0,FEMA:5.0,Micropolitan,Yellow]
 categories: [MI]
 County: Delta County
 State: MI
@@ -11,10 +11,10 @@ FIPS: 26041.0
 FEMA_Region: 5.0
 Population: 35784.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2003.0
-Fourteen_day_test_rate_per_100000: 5597.0
-Percent_Positivity_in_prior_14_days: 0.033
-Level: Green
+Tests_in_prior_14_days: 2173.0
+Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Percent_Positivity_in_prior_14_days: 0.052
+Level: Yellow
 url: /states/MI/delta-county
 ---
 

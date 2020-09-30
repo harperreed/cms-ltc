@@ -1,6 +1,6 @@
 ---
 title: "Queens County, NY"
-date: 2020-09-28
+date: 2020-09-29
 draft: false
 type: county
 tags: [FIPS:36081.0,FEMA:2.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 36081.0
 FEMA_Region: 2.0
 Population: 2253858.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 111479.0
-Fourteen_day_test_rate_per_100000: 4946.0
-Percent_Positivity_in_prior_14_days: 0.011
+Tests_in_prior_14_days: 114149.0
+Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Percent_Positivity_in_prior_14_days: 0.012
 Level: Green
 url: /states/NY/queens-county
 ---

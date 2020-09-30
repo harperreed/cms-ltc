@@ -1,6 +1,6 @@
 ---
 title: "Marquette County, MI"
-date: 2020-09-28
+date: 2020-09-29
 draft: false
 type: county
 tags: [FIPS:26103.0,FEMA:5.0,Micropolitan,Green]
@@ -11,8 +11,8 @@ FIPS: 26103.0
 FEMA_Region: 5.0
 Population: 66699.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2732.0
-Fourteen_day_test_rate_per_100000: 4096.0
+Tests_in_prior_14_days: 4942.0
+Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
 Percent_Positivity_in_prior_14_days: 0.011
 Level: Green
 url: /states/MI/marquette-county

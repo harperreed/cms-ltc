@@ -1,6 +1,6 @@
 ---
 title: "Spartanburg County, SC"
-date: 2020-09-28
+date: 2020-09-29
 draft: false
 type: county
 tags: [FIPS:45083.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 45083.0
 FEMA_Region: 4.0
 Population: 319785.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2405.0
-Fourteen_day_test_rate_per_100000: 752.0
-Percent_Positivity_in_prior_14_days: 0.296
+Tests_in_prior_14_days: 3174.0
+Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Percent_Positivity_in_prior_14_days: 0.189
 Level: Red
 url: /states/SC/spartanburg-county
 ---
