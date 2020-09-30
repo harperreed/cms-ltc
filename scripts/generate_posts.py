@@ -64,7 +64,8 @@ with open(j) as json_file:
     data = json.load(json_file)
 
 for i in data:
-    
+    print(i.keys())
+    break
 
     post = post_template
     post = post.replace("###TITLE###", i["County"])
@@ -75,10 +76,9 @@ for i in data:
     post = post.replace("###Population###", str(i["Population"]))
     post = post.replace("###NCHS_Urban_Rural_Classification###", i["NCHS Urban Rural Classification"])
     post = post.replace("###Tests_in_prior_14_days###", str(i["Tests in prior 14 days"]))
-    try:
-        post = post.replace("###14_day_test_rate_per_100000###", str(i["14-day test rate per 100,000"]))
-    except:
-        print(i)
+
+    post = post.replace("###14_day_test_rate_per_100000###", str(i['14-day test rate']))
+
     post = post.replace("###Percent_Positivity_in_prior_14_days###", str(i["Percent Positivity in prior 14 days"]))
     post = post.replace("###LEVEL###", i["Test Positivity Classification - 14 days"])
     tags = "FIPS:" + str(i["FIPS"]) +",FEMA:" + str(i["FEMA Region"]) +"," +i["NCHS Urban Rural Classification"] +"," +i["Test Positivity Classification - 14 days"]
