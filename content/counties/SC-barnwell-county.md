@@ -1,6 +1,6 @@
 ---
 title: "Barnwell County, SC"
-date: 2020-09-29
+date: 2020-09-30
 draft: false
 type: county
 tags: [FIPS:45011.0,FEMA:4.0,Non-core,Red]

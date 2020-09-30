@@ -1,6 +1,6 @@
 ---
 title: "Clinton County, IA"
-date: 2020-09-29
+date: 2020-09-30
 draft: false
 type: county
 tags: [FIPS:19045.0,FEMA:7.0,Micropolitan,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Boone County, KY"
-date: 2020-09-29
+date: 2020-09-30
 draft: false
 type: county
 tags: [FIPS:21015.0,FEMA:4.0,Large fringe metro,Yellow]

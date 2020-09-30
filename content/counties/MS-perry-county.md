@@ -1,6 +1,6 @@
 ---
 title: "Perry County, MS"
-date: 2020-09-29
+date: 2020-09-30
 draft: false
 type: county
 tags: [FIPS:28111.0,FEMA:4.0,Small metro,Yellow]

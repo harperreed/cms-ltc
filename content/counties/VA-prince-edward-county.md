@@ -1,6 +1,6 @@
 ---
 title: "Prince Edward County, VA"
-date: 2020-09-29
+date: 2020-09-30
 draft: false
 type: county
 tags: [FIPS:51147.0,FEMA:3.0,Non-core,Yellow]

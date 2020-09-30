@@ -1,6 +1,6 @@
 ---
 title: "Moore County, NC"
-date: 2020-09-29
+date: 2020-09-30
 draft: false
 type: county
 tags: [FIPS:37125.0,FEMA:4.0,Micropolitan,Green]

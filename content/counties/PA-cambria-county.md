@@ -1,6 +1,6 @@
 ---
 title: "Cambria County, PA"
-date: 2020-09-29
+date: 2020-09-30
 draft: false
 type: county
 tags: [FIPS:42021.0,FEMA:3.0,Small metro,Green]
