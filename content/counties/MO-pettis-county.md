@@ -1,6 +1,6 @@
 ---
 title: "Pettis County, MO"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:29159.0,FEMA:7.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 29159.0
 FEMA_Region: 7.0
 Population: 42339.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2483.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.101
+Tests_in_prior_14_days: 2557.0
+Fourteen_day_test_rate_per_100000: 6039.0
+Percent_Positivity_in_prior_14_days: 0.103
 Level: Red
 url: /states/MO/pettis-county
 ---

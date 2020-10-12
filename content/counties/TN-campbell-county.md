@@ -1,6 +1,6 @@
 ---
 title: "Campbell County, TN"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:47013.0,FEMA:4.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 47013.0
 FEMA_Region: 4.0
 Population: 39842.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1657.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.027
+Tests_in_prior_14_days: 1549.0
+Fourteen_day_test_rate_per_100000: 3888.0
+Percent_Positivity_in_prior_14_days: 0.039
 Level: Green
 url: /states/TN/campbell-county
 ---

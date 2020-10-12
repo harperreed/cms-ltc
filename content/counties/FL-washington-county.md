@@ -1,6 +1,6 @@
 ---
 title: "Washington County, FL"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:12133.0,FEMA:4.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 12133.0
 FEMA_Region: 4.0
 Population: 25473.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 408.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.01
+Tests_in_prior_14_days: 373.0
+Fourteen_day_test_rate_per_100000: 1464.0
+Percent_Positivity_in_prior_14_days: 0.019
 Level: Green
 url: /states/FL/washington-county
 ---

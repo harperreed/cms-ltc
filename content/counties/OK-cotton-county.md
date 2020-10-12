@@ -1,6 +1,6 @@
 ---
 title: "Cotton County, OK"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:40033.0,FEMA:6.0,Small metro,Green]
@@ -12,7 +12,7 @@ FEMA_Region: 6.0
 Population: 5666.0
 NCHS_Urban_Rural_Classification: Small metro
 Tests_in_prior_14_days: <20 tests
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Fourteen_day_test_rate_per_100000: <20 tests
 Percent_Positivity_in_prior_14_days: <20 tests
 Level: Green
 url: /states/OK/cotton-county

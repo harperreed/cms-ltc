@@ -1,6 +1,6 @@
 ---
 title: "Callahan County, TX"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:48059.0,FEMA:6.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48059.0
 FEMA_Region: 6.0
 Population: 13943.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 57.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 126.0
+Fourteen_day_test_rate_per_100000: 904.0
+Percent_Positivity_in_prior_14_days: 0.071
 Level: Yellow
 url: /states/TX/callahan-county
 ---

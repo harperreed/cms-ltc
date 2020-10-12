@@ -1,6 +1,6 @@
 ---
 title: "Contra Costa County, CA"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:6013.0,FEMA:9.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 6013.0
 FEMA_Region: 9.0
 Population: 1153526.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 44768.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.04
+Tests_in_prior_14_days: 42485.0
+Fourteen_day_test_rate_per_100000: 3683.0
+Percent_Positivity_in_prior_14_days: 0.034
 Level: Green
 url: /states/CA/contra-costa-county
 ---

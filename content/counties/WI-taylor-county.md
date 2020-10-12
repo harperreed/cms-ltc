@@ -1,9 +1,9 @@
 ---
 title: "Taylor County, WI"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:55119.0,FEMA:5.0,Non-core,Yellow]
+tags: [FIPS:55119.0,FEMA:5.0,Non-core,Red]
 categories: [WI]
 County: Taylor County
 State: WI
@@ -11,10 +11,10 @@ FIPS: 55119.0
 FEMA_Region: 5.0
 Population: 20343.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 310.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.11
-Level: Yellow
+Tests_in_prior_14_days: 454.0
+Fourteen_day_test_rate_per_100000: 2232.0
+Percent_Positivity_in_prior_14_days: 0.108
+Level: Red
 url: /states/WI/taylor-county
 ---
 

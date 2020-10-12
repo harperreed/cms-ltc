@@ -1,9 +1,9 @@
 ---
 title: "Colleton County, SC"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:45029.0,FEMA:4.0,Non-core,Yellow]
+tags: [FIPS:45029.0,FEMA:4.0,Non-core,Red]
 categories: [SC]
 County: Colleton County
 State: SC
@@ -11,10 +11,10 @@ FIPS: 45029.0
 FEMA_Region: 4.0
 Population: 37677.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 864.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.097
-Level: Yellow
+Tests_in_prior_14_days: 1169.0
+Fourteen_day_test_rate_per_100000: 3103.0
+Percent_Positivity_in_prior_14_days: 0.1
+Level: Red
 url: /states/SC/colleton-county
 ---
 

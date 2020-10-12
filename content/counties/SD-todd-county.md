@@ -1,9 +1,9 @@
 ---
 title: "Todd County, SD"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:46121.0,FEMA:8.0,Non-core,Yellow]
+tags: [FIPS:46121.0,FEMA:8.0,Non-core,Green]
 categories: [SD]
 County: Todd County
 State: SD
@@ -11,10 +11,10 @@ FIPS: 46121.0
 FEMA_Region: 8.0
 Population: 10177.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 44.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.068
-Level: Yellow
+Tests_in_prior_14_days: 56.0
+Fourteen_day_test_rate_per_100000: 550.0
+Percent_Positivity_in_prior_14_days: 0.036
+Level: Green
 url: /states/SD/todd-county
 ---
 

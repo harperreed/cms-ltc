@@ -1,6 +1,6 @@
 ---
 title: "Thomas County, GA"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:13275.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13275.0
 FEMA_Region: 4.0
 Population: 44451.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 725.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.094
+Tests_in_prior_14_days: 697.0
+Fourteen_day_test_rate_per_100000: 1568.0
+Percent_Positivity_in_prior_14_days: 0.072
 Level: Yellow
 url: /states/GA/thomas-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Canadian County, OK"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:40017.0,FEMA:6.0,Large fringe metro,Yellow]
+tags: [FIPS:40017.0,FEMA:6.0,Large fringe metro,Red]
 categories: [OK]
 County: Canadian County
 State: OK
@@ -11,10 +11,10 @@ FIPS: 40017.0
 FEMA_Region: 6.0
 Population: 148306.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 2070.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.099
-Level: Yellow
+Tests_in_prior_14_days: 1976.0
+Fourteen_day_test_rate_per_100000: 1332.0
+Percent_Positivity_in_prior_14_days: 0.114
+Level: Red
 url: /states/OK/canadian-county
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Flagler County, FL"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:12035.0,FEMA:4.0,Medium metro,Yellow]
+tags: [FIPS:12035.0,FEMA:4.0,Medium metro,Green]
 categories: [FL]
 County: Flagler County
 State: FL
@@ -11,10 +11,10 @@ FIPS: 12035.0
 FEMA_Region: 4.0
 Population: 115081.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 3428.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.05
-Level: Yellow
+Tests_in_prior_14_days: 2791.0
+Fourteen_day_test_rate_per_100000: 2425.0
+Percent_Positivity_in_prior_14_days: 0.041
+Level: Green
 url: /states/FL/flagler-county
 ---
 

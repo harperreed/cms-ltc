@@ -1,6 +1,6 @@
 ---
 title: "Edmonson County, KY"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:21061.0,FEMA:4.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 21061.0
 FEMA_Region: 4.0
 Population: 12150.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 93.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.151
+Tests_in_prior_14_days: 78.0
+Fourteen_day_test_rate_per_100000: 642.0
+Percent_Positivity_in_prior_14_days: 0.141
 Level: Yellow
 url: /states/KY/edmonson-county
 ---

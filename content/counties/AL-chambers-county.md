@@ -1,6 +1,6 @@
 ---
 title: "Chambers County, AL"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:1017.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 1017.0
 FEMA_Region: 4.0
 Population: 33254.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 407.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.081
+Tests_in_prior_14_days: 327.0
+Fourteen_day_test_rate_per_100000: 983.0
+Percent_Positivity_in_prior_14_days: 0.101
 Level: Yellow
 url: /states/AL/chambers-county
 ---

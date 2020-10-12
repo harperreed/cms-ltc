@@ -1,6 +1,6 @@
 ---
 title: "Kalawao County, HI"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:15005.0,FEMA:9.0,Small metro,Red]
@@ -12,7 +12,7 @@ FEMA_Region: 9.0
 Population: 86.0
 NCHS_Urban_Rural_Classification: Small metro
 Tests_in_prior_14_days: 
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Fourteen_day_test_rate_per_100000: 
 Percent_Positivity_in_prior_14_days: 
 Level: Red
 url: /states/HI/kalawao-county

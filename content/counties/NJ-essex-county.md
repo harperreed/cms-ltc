@@ -1,6 +1,6 @@
 ---
 title: "Essex County, NJ"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:34013.0,FEMA:2.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 34013.0
 FEMA_Region: 2.0
 Population: 798975.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 32782.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.014
+Tests_in_prior_14_days: 33172.0
+Fourteen_day_test_rate_per_100000: 4152.0
+Percent_Positivity_in_prior_14_days: 0.017
 Level: Green
 url: /states/NJ/essex-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Crittenden County, KY"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:21055.0,FEMA:4.0,Non-core,Yellow]
+tags: [FIPS:21055.0,FEMA:4.0,Non-core,Green]
 categories: [KY]
 County: Crittenden County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21055.0
 FEMA_Region: 4.0
 Population: 8806.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 497.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.07
-Level: Yellow
+Tests_in_prior_14_days: 596.0
+Fourteen_day_test_rate_per_100000: 6768.0
+Percent_Positivity_in_prior_14_days: 0.027
+Level: Green
 url: /states/KY/crittenden-county
 ---
 

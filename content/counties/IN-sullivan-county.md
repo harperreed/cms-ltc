@@ -1,6 +1,6 @@
 ---
 title: "Sullivan County, IN"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:18153.0,FEMA:5.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 18153.0
 FEMA_Region: 5.0
 Population: 20669.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1055.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.023
+Tests_in_prior_14_days: 945.0
+Fourteen_day_test_rate_per_100000: 4572.0
+Percent_Positivity_in_prior_14_days: 0.017
 Level: Green
 url: /states/IN/sullivan-county
 ---

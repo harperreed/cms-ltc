@@ -1,9 +1,9 @@
 ---
 title: "Lanier County, GA"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:13173.0,FEMA:4.0,Small metro,Yellow]
+tags: [FIPS:13173.0,FEMA:4.0,Small metro,Green]
 categories: [GA]
 County: Lanier County
 State: GA
@@ -11,10 +11,10 @@ FIPS: 13173.0
 FEMA_Region: 4.0
 Population: 10423.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 78.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.103
-Level: Yellow
+Tests_in_prior_14_days: 61.0
+Fourteen_day_test_rate_per_100000: 585.0
+Percent_Positivity_in_prior_14_days: 0.016
+Level: Green
 url: /states/GA/lanier-county
 ---
 

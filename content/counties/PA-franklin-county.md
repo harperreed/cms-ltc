@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, PA"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:42055.0,FEMA:3.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 42055.0
 FEMA_Region: 3.0
 Population: 155027.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3461.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.043
+Tests_in_prior_14_days: 3989.0
+Fourteen_day_test_rate_per_100000: 2573.0
+Percent_Positivity_in_prior_14_days: 0.033
 Level: Green
 url: /states/PA/franklin-county
 ---

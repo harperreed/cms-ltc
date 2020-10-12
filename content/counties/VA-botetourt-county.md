@@ -1,6 +1,6 @@
 ---
 title: "Botetourt County, VA"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:51023.0,FEMA:3.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51023.0
 FEMA_Region: 3.0
 Population: 33419.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 368.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.144
+Tests_in_prior_14_days: 559.0
+Fourteen_day_test_rate_per_100000: 1673.0
+Percent_Positivity_in_prior_14_days: 0.079
 Level: Yellow
 url: /states/VA/botetourt-county
 ---

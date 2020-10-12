@@ -1,9 +1,9 @@
 ---
 title: "Webster County, IA"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:19187.0,FEMA:7.0,Micropolitan,Green]
+tags: [FIPS:19187.0,FEMA:7.0,Micropolitan,Yellow]
 categories: [IA]
 County: Webster County
 State: IA
@@ -11,10 +11,10 @@ FIPS: 19187.0
 FEMA_Region: 7.0
 Population: 35904.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1076.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.042
-Level: Green
+Tests_in_prior_14_days: 1209.0
+Fourteen_day_test_rate_per_100000: 3367.0
+Percent_Positivity_in_prior_14_days: 0.072
+Level: Yellow
 url: /states/IA/webster-county
 ---
 

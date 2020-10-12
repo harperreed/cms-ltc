@@ -1,6 +1,6 @@
 ---
 title: "Appling County, GA"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:13001.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13001.0
 FEMA_Region: 4.0
 Population: 18386.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 254.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.098
+Tests_in_prior_14_days: 227.0
+Fourteen_day_test_rate_per_100000: 1235.0
+Percent_Positivity_in_prior_14_days: 0.137
 Level: Yellow
 url: /states/GA/appling-county
 ---

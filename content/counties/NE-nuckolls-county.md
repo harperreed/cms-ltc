@@ -1,6 +1,6 @@
 ---
 title: "Nuckolls County, NE"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:31129.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 31129.0
 FEMA_Region: 7.0
 Population: 4148.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 80.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.075
+Tests_in_prior_14_days: 70.0
+Fourteen_day_test_rate_per_100000: 1688.0
+Percent_Positivity_in_prior_14_days: 0.1
 Level: Yellow
 url: /states/NE/nuckolls-county
 ---

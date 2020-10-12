@@ -1,9 +1,9 @@
 ---
 title: "Harris County, GA"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:13145.0,FEMA:4.0,Medium metro,Green]
+tags: [FIPS:13145.0,FEMA:4.0,Medium metro,Yellow]
 categories: [GA]
 County: Harris County
 State: GA
@@ -11,10 +11,10 @@ FIPS: 13145.0
 FEMA_Region: 4.0
 Population: 35236.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 275.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.04
-Level: Green
+Tests_in_prior_14_days: 270.0
+Fourteen_day_test_rate_per_100000: 766.0
+Percent_Positivity_in_prior_14_days: 0.056
+Level: Yellow
 url: /states/GA/harris-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Dunn County, WI"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:55033.0,FEMA:5.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 55033.0
 FEMA_Region: 5.0
 Population: 45368.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2144.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.103
+Tests_in_prior_14_days: 2876.0
+Fourteen_day_test_rate_per_100000: 6339.0
+Percent_Positivity_in_prior_14_days: 0.111
 Level: Red
 url: /states/WI/dunn-county
 ---

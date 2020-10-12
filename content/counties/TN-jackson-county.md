@@ -1,9 +1,9 @@
 ---
 title: "Jackson County, TN"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:47087.0,FEMA:4.0,Micropolitan,Yellow]
+tags: [FIPS:47087.0,FEMA:4.0,Micropolitan,Red]
 categories: [TN]
 County: Jackson County
 State: TN
@@ -11,10 +11,10 @@ FIPS: 47087.0
 FEMA_Region: 4.0
 Population: 11786.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 155.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.071
-Level: Yellow
+Tests_in_prior_14_days: 270.0
+Fourteen_day_test_rate_per_100000: 2291.0
+Percent_Positivity_in_prior_14_days: 0.111
+Level: Red
 url: /states/TN/jackson-county
 ---
 

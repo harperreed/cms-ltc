@@ -1,9 +1,9 @@
 ---
 title: "Waukesha County, WI"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:55133.0,FEMA:5.0,Large fringe metro,Yellow]
+tags: [FIPS:55133.0,FEMA:5.0,Large fringe metro,Red]
 categories: [WI]
 County: Waukesha County
 State: WI
@@ -11,10 +11,10 @@ FIPS: 55133.0
 FEMA_Region: 5.0
 Population: 404198.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 16987.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.096
-Level: Yellow
+Tests_in_prior_14_days: 21890.0
+Fourteen_day_test_rate_per_100000: 5416.0
+Percent_Positivity_in_prior_14_days: 0.105
+Level: Red
 url: /states/WI/waukesha-county
 ---
 

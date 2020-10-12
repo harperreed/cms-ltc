@@ -1,9 +1,9 @@
 ---
 title: "Glascock County, GA"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:13125.0,FEMA:4.0,Non-core,Green]
+tags: [FIPS:13125.0,FEMA:4.0,Non-core,Yellow]
 categories: [GA]
 County: Glascock County
 State: GA
@@ -11,10 +11,10 @@ FIPS: 13125.0
 FEMA_Region: 4.0
 Population: 2971.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 30.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.033
-Level: Green
+Tests_in_prior_14_days: 20.0
+Fourteen_day_test_rate_per_100000: 673.0
+Percent_Positivity_in_prior_14_days: 0.05
+Level: Yellow
 url: /states/GA/glascock-county
 ---
 

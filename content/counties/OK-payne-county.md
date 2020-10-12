@@ -1,6 +1,6 @@
 ---
 title: "Payne County, OK"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:40119.0,FEMA:6.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 40119.0
 FEMA_Region: 6.0
 Population: 81784.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 621.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.14
+Tests_in_prior_14_days: 529.0
+Fourteen_day_test_rate_per_100000: 647.0
+Percent_Positivity_in_prior_14_days: 0.13
 Level: Red
 url: /states/OK/payne-county
 ---

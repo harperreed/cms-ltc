@@ -1,9 +1,9 @@
 ---
 title: "Ingham County, MI"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:26065.0,FEMA:5.0,Medium metro,Yellow]
+tags: [FIPS:26065.0,FEMA:5.0,Medium metro,Green]
 categories: [MI]
 County: Ingham County
 State: MI
@@ -11,10 +11,10 @@ FIPS: 26065.0
 FEMA_Region: 5.0
 Population: 292406.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 26929.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.059
-Level: Yellow
+Tests_in_prior_14_days: 23736.0
+Fourteen_day_test_rate_per_100000: 8117.0
+Percent_Positivity_in_prior_14_days: 0.044
+Level: Green
 url: /states/MI/ingham-county
 ---
 

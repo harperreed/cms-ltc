@@ -1,6 +1,6 @@
 ---
 title: "Jones County, MS"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:28067.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28067.0
 FEMA_Region: 4.0
 Population: 68098.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 882.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.059
+Tests_in_prior_14_days: 709.0
+Fourteen_day_test_rate_per_100000: 1041.0
+Percent_Positivity_in_prior_14_days: 0.058
 Level: Yellow
 url: /states/MS/jones-county
 ---

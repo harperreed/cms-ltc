@@ -1,6 +1,6 @@
 ---
 title: "Washington County, MD"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:24043.0,FEMA:3.0,Medium metro,Green]
@@ -11,8 +11,8 @@ FIPS: 24043.0
 FEMA_Region: 3.0
 Population: 151049.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 9540.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
+Tests_in_prior_14_days: 10213.0
+Fourteen_day_test_rate_per_100000: 6761.0
 Percent_Positivity_in_prior_14_days: 0.035
 Level: Green
 url: /states/MD/washington-county

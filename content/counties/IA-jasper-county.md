@@ -1,9 +1,9 @@
 ---
 title: "Jasper County, IA"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:19099.0,FEMA:7.0,Micropolitan,Red]
+tags: [FIPS:19099.0,FEMA:7.0,Micropolitan,Yellow]
 categories: [IA]
 County: Jasper County
 State: IA
@@ -11,10 +11,10 @@ FIPS: 19099.0
 FEMA_Region: 7.0
 Population: 37185.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1604.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.1
-Level: Red
+Tests_in_prior_14_days: 1755.0
+Fourteen_day_test_rate_per_100000: 4720.0
+Percent_Positivity_in_prior_14_days: 0.095
+Level: Yellow
 url: /states/IA/jasper-county
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Mingo County, WV"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:54059.0,FEMA:3.0,Non-core,Yellow]
+tags: [FIPS:54059.0,FEMA:3.0,Non-core,Green]
 categories: [WV]
 County: Mingo County
 State: WV
@@ -11,10 +11,10 @@ FIPS: 54059.0
 FEMA_Region: 3.0
 Population: 23424.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 843.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.059
-Level: Yellow
+Tests_in_prior_14_days: 770.0
+Fourteen_day_test_rate_per_100000: 3287.0
+Percent_Positivity_in_prior_14_days: 0.048
+Level: Green
 url: /states/WV/mingo-county
 ---
 

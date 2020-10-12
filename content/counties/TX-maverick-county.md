@@ -1,6 +1,6 @@
 ---
 title: "Maverick County, TX"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:48323.0,FEMA:6.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 48323.0
 FEMA_Region: 6.0
 Population: 58722.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1782.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.137
+Tests_in_prior_14_days: 1684.0
+Fourteen_day_test_rate_per_100000: 2868.0
+Percent_Positivity_in_prior_14_days: 0.126
 Level: Red
 url: /states/TX/maverick-county
 ---

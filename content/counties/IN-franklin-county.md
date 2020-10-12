@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, IN"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:18047.0,FEMA:5.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 18047.0
 FEMA_Region: 5.0
 Population: 22758.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 507.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.051
+Tests_in_prior_14_days: 418.0
+Fourteen_day_test_rate_per_100000: 1837.0
+Percent_Positivity_in_prior_14_days: 0.065
 Level: Yellow
 url: /states/IN/franklin-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Greenwood County, SC"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:45047.0,FEMA:4.0,Micropolitan,Red]
+tags: [FIPS:45047.0,FEMA:4.0,Micropolitan,Yellow]
 categories: [SC]
 County: Greenwood County
 State: SC
@@ -11,10 +11,10 @@ FIPS: 45047.0
 FEMA_Region: 4.0
 Population: 70811.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1487.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.102
-Level: Red
+Tests_in_prior_14_days: 2128.0
+Fourteen_day_test_rate_per_100000: 3005.0
+Percent_Positivity_in_prior_14_days: 0.089
+Level: Yellow
 url: /states/SC/greenwood-county
 ---
 

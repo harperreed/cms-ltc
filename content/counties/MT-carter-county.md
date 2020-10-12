@@ -1,9 +1,9 @@
 ---
 title: "Carter County, MT"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:30011.0,FEMA:8.0,Non-core,Green]
+tags: [FIPS:30011.0,FEMA:8.0,Non-core,Red]
 categories: [MT]
 County: Carter County
 State: MT
@@ -11,10 +11,10 @@ FIPS: 30011.0
 FEMA_Region: 8.0
 Population: 1252.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: <20 tests
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: <20 tests
-Level: Green
+Tests_in_prior_14_days: 75.0
+Fourteen_day_test_rate_per_100000: 5990.0
+Percent_Positivity_in_prior_14_days: 0.107
+Level: Red
 url: /states/MT/carter-county
 ---
 

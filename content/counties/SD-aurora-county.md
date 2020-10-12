@@ -1,9 +1,9 @@
 ---
 title: "Aurora County, SD"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:46003.0,FEMA:8.0,Non-core,Yellow]
+tags: [FIPS:46003.0,FEMA:8.0,Non-core,Red]
 categories: [SD]
 County: Aurora County
 State: SD
@@ -11,10 +11,10 @@ FIPS: 46003.0
 FEMA_Region: 8.0
 Population: 2751.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 69.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.072
-Level: Yellow
+Tests_in_prior_14_days: 100.0
+Fourteen_day_test_rate_per_100000: 3635.0
+Percent_Positivity_in_prior_14_days: 0.17
+Level: Red
 url: /states/SD/aurora-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Bastrop County, TX"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:48021.0,FEMA:6.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48021.0
 FEMA_Region: 6.0
 Population: 88723.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 799.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.058
+Tests_in_prior_14_days: 1079.0
+Fourteen_day_test_rate_per_100000: 1216.0
+Percent_Positivity_in_prior_14_days: 0.063
 Level: Yellow
 url: /states/TX/bastrop-county
 ---

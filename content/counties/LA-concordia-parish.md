@@ -1,6 +1,6 @@
 ---
 title: "Concordia Parish, LA"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:22029.0,FEMA:6.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 22029.0
 FEMA_Region: 6.0
 Population: 19259.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 555.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.032
+Tests_in_prior_14_days: 455.0
+Fourteen_day_test_rate_per_100000: 2363.0
+Percent_Positivity_in_prior_14_days: 0.042
 Level: Green
 url: /states/LA/concordia-parish
 ---

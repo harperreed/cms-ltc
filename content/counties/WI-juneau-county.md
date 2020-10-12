@@ -1,6 +1,6 @@
 ---
 title: "Juneau County, WI"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:55057.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 55057.0
 FEMA_Region: 5.0
 Population: 26687.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1059.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.154
+Tests_in_prior_14_days: 1719.0
+Fourteen_day_test_rate_per_100000: 6441.0
+Percent_Positivity_in_prior_14_days: 0.143
 Level: Red
 url: /states/WI/juneau-county
 ---

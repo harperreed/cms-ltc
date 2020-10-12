@@ -1,6 +1,6 @@
 ---
 title: "Union County, IA"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:19175.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 19175.0
 FEMA_Region: 7.0
 Population: 12241.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 567.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.06
+Tests_in_prior_14_days: 523.0
+Fourteen_day_test_rate_per_100000: 4273.0
+Percent_Positivity_in_prior_14_days: 0.069
 Level: Yellow
 url: /states/IA/union-county
 ---

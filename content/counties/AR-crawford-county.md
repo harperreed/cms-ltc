@@ -1,6 +1,6 @@
 ---
 title: "Crawford County, AR"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:5033.0,FEMA:6.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 5033.0
 FEMA_Region: 6.0
 Population: 63257.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2847.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.126
+Tests_in_prior_14_days: 3311.0
+Fourteen_day_test_rate_per_100000: 5234.0
+Percent_Positivity_in_prior_14_days: 0.11
 Level: Red
 url: /states/AR/crawford-county
 ---

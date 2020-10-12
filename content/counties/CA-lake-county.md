@@ -1,6 +1,6 @@
 ---
 title: "Lake County, CA"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:6033.0,FEMA:9.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 6033.0
 FEMA_Region: 9.0
 Population: 64386.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2958.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.067
+Tests_in_prior_14_days: 3329.0
+Fourteen_day_test_rate_per_100000: 5170.0
+Percent_Positivity_in_prior_14_days: 0.06
 Level: Yellow
 url: /states/CA/lake-county
 ---

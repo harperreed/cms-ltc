@@ -1,6 +1,6 @@
 ---
 title: "Centre County, PA"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
 tags: [FIPS:42027.0,FEMA:3.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 42027.0
 FEMA_Region: 3.0
 Population: 162385.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 11714.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.12
+Tests_in_prior_14_days: 12641.0
+Fourteen_day_test_rate_per_100000: 7785.0
+Percent_Positivity_in_prior_14_days: 0.105
 Level: Red
 url: /states/PA/centre-county
 ---

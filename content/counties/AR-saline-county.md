@@ -1,9 +1,9 @@
 ---
 title: "Saline County, AR"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:5125.0,FEMA:6.0,Medium metro,Green]
+tags: [FIPS:5125.0,FEMA:6.0,Medium metro,Yellow]
 categories: [AR]
 County: Saline County
 State: AR
@@ -11,10 +11,10 @@ FIPS: 5125.0
 FEMA_Region: 6.0
 Population: 122437.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 4385.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.042
-Level: Green
+Tests_in_prior_14_days: 3808.0
+Fourteen_day_test_rate_per_100000: 3110.0
+Percent_Positivity_in_prior_14_days: 0.062
+Level: Yellow
 url: /states/AR/saline-county
 ---
 

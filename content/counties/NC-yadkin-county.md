@@ -1,9 +1,9 @@
 ---
 title: "Yadkin County, NC"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:37197.0,FEMA:4.0,Medium metro,Yellow]
+tags: [FIPS:37197.0,FEMA:4.0,Medium metro,Green]
 categories: [NC]
 County: Yadkin County
 State: NC
@@ -11,10 +11,10 @@ FIPS: 37197.0
 FEMA_Region: 4.0
 Population: 37667.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 799.0
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: 0.055
-Level: Yellow
+Tests_in_prior_14_days: 996.0
+Fourteen_day_test_rate_per_100000: 2644.0
+Percent_Positivity_in_prior_14_days: 0.049
+Level: Green
 url: /states/NC/yadkin-county
 ---
 

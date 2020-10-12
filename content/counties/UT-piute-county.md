@@ -1,9 +1,9 @@
 ---
 title: "Piute County, UT"
-date: 2020-09-30
+date: 2020-10-12
 draft: false
 type: county
-tags: [FIPS:49031.0,FEMA:8.0,Non-core,Green]
+tags: [FIPS:49031.0,FEMA:8.0,Non-core,Red]
 categories: [UT]
 County: Piute County
 State: UT
@@ -11,10 +11,10 @@ FIPS: 49031.0
 FEMA_Region: 8.0
 Population: 1479.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: <20 tests
-Fourteen_day_test_rate_per_100000: ###14_day_test_rate_per_100000###
-Percent_Positivity_in_prior_14_days: <20 tests
-Level: Green
+Tests_in_prior_14_days: 32.0
+Fourteen_day_test_rate_per_100000: 2164.0
+Percent_Positivity_in_prior_14_days: 0.188
+Level: Red
 url: /states/UT/piute-county
 ---
 
