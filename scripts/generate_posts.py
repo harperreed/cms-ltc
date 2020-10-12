@@ -64,9 +64,6 @@ with open(j) as json_file:
     data = json.load(json_file)
 
 for i in data:
-    print(i.keys())
-    break
-
     post = post_template
     post = post.replace("###TITLE###", i["County"])
     post = post.replace("###County###", i["County"].split(",")[0])
