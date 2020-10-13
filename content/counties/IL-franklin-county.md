@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, IL"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:17055.0,FEMA:5.0,Non-core,Yellow]

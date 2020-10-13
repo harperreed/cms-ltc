@@ -1,6 +1,6 @@
 ---
 title: "Sherman County, OR"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:41055.0,FEMA:10.0,Non-core,Green]

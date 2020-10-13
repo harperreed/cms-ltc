@@ -1,6 +1,6 @@
 ---
 title: "Smith County, TX"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:48423.0,FEMA:6.0,Small metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Dallas County, MO"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:29059.0,FEMA:7.0,Medium metro,Green]

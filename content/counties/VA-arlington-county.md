@@ -1,6 +1,6 @@
 ---
 title: "Arlington County, VA"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:51013.0,FEMA:3.0,Large central metro,Green]

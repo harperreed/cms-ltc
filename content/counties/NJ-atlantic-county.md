@@ -1,6 +1,6 @@
 ---
 title: "Atlantic County, NJ"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:34001.0,FEMA:2.0,Medium metro,Green]

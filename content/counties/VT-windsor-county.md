@@ -1,6 +1,6 @@
 ---
 title: "Windsor County, VT"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:50027.0,FEMA:1.0,Micropolitan,Green]

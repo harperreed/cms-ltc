@@ -1,6 +1,6 @@
 ---
 title: "Columbia County, GA"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:13073.0,FEMA:4.0,Medium metro,Yellow]

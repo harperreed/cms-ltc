@@ -1,6 +1,6 @@
 ---
 title: "Barnstable County, MA"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:25001.0,FEMA:1.0,Small metro,Green]

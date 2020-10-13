@@ -1,6 +1,6 @@
 ---
 title: "Norton City, VA"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:51720.0,FEMA:3.0,Micropolitan,Green]

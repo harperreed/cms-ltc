@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, TN"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:47089.0,FEMA:4.0,Small metro,Yellow]

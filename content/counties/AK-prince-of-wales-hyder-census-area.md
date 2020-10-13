@@ -1,6 +1,6 @@
 ---
 title: "Prince of Wales-Hyder Census Area, AK"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:2198.0,FEMA:10.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Candler County, GA"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:13043.0,FEMA:4.0,Non-core,Yellow]

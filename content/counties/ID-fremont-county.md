@@ -1,6 +1,6 @@
 ---
 title: "Fremont County, ID"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:16043.0,FEMA:10.0,Micropolitan,Red]

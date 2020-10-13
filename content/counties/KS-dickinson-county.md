@@ -1,6 +1,6 @@
 ---
 title: "Dickinson County, KS"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:20041.0,FEMA:7.0,Non-core,Red]

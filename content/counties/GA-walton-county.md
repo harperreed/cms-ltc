@@ -1,6 +1,6 @@
 ---
 title: "Walton County, GA"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:13297.0,FEMA:4.0,Large fringe metro,Yellow]

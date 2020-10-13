@@ -1,6 +1,6 @@
 ---
 title: "Sumter County, GA"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:13261.0,FEMA:4.0,Micropolitan,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Wilson County, NC"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:37195.0,FEMA:4.0,Micropolitan,Yellow]

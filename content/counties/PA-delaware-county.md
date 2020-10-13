@@ -1,6 +1,6 @@
 ---
 title: "Delaware County, PA"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:42045.0,FEMA:3.0,Large fringe metro,Green]

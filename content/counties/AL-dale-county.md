@@ -1,6 +1,6 @@
 ---
 title: "Dale County, AL"
-date: 2020-10-12
+date: 2020-10-13
 draft: false
 type: county
 tags: [FIPS:1045.0,FEMA:4.0,Micropolitan,Yellow]
