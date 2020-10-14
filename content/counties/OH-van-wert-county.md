@@ -1,9 +1,9 @@
 ---
 title: "Van Wert County, OH"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
-tags: [FIPS:39161.0,FEMA:5.0,Micropolitan,Green]
+tags: [FIPS:39161.0,FEMA:5.0,Micropolitan,Yellow]
 categories: [OH]
 County: Van Wert County
 State: OH
@@ -11,10 +11,10 @@ FIPS: 39161.0
 FEMA_Region: 5.0
 Population: 28275.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 419.0
-Fourteen_day_test_rate_per_100000: 1482.0
-Percent_Positivity_in_prior_14_days: 0.024
-Level: Green
+Tests_in_prior_14_days: 410.0
+Fourteen_day_test_rate_per_100000: 1450.0
+Percent_Positivity_in_prior_14_days: 0.054
+Level: Yellow
 url: /states/OH/van-wert-county
 ---
 

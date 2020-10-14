@@ -1,9 +1,9 @@
 ---
 title: "Calhoun County, IL"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
-tags: [FIPS:17013.0,FEMA:5.0,Large fringe metro,Red]
+tags: [FIPS:17013.0,FEMA:5.0,Large fringe metro,Green]
 categories: [IL]
 County: Calhoun County
 State: IL
@@ -11,10 +11,10 @@ FIPS: 17013.0
 FEMA_Region: 5.0
 Population: 4739.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 104.0
-Fourteen_day_test_rate_per_100000: 2195.0
-Percent_Positivity_in_prior_14_days: 0.24
-Level: Red
+Tests_in_prior_14_days: 188.0
+Fourteen_day_test_rate_per_100000: 3967.0
+Percent_Positivity_in_prior_14_days: 0.032
+Level: Green
 url: /states/IL/calhoun-county
 ---
 

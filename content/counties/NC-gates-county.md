@@ -1,9 +1,9 @@
 ---
 title: "Gates County, NC"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
-tags: [FIPS:37073.0,FEMA:4.0,Large fringe metro,Green]
+tags: [FIPS:37073.0,FEMA:4.0,Large fringe metro,Yellow]
 categories: [NC]
 County: Gates County
 State: NC
@@ -11,10 +11,10 @@ FIPS: 37073.0
 FEMA_Region: 4.0
 Population: 11562.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 208.0
-Fourteen_day_test_rate_per_100000: 1799.0
-Percent_Positivity_in_prior_14_days: 0.038
-Level: Green
+Tests_in_prior_14_days: 222.0
+Fourteen_day_test_rate_per_100000: 1920.0
+Percent_Positivity_in_prior_14_days: 0.068
+Level: Yellow
 url: /states/NC/gates-county
 ---
 

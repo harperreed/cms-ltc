@@ -1,9 +1,9 @@
 ---
 title: "Meigs County, TN"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
-tags: [FIPS:47121.0,FEMA:4.0,Non-core,Green]
+tags: [FIPS:47121.0,FEMA:4.0,Non-core,Yellow]
 categories: [TN]
 County: Meigs County
 State: TN
@@ -11,10 +11,10 @@ FIPS: 47121.0
 FEMA_Region: 4.0
 Population: 12422.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 448.0
-Fourteen_day_test_rate_per_100000: 3607.0
-Percent_Positivity_in_prior_14_days: 0.036
-Level: Green
+Tests_in_prior_14_days: 393.0
+Fourteen_day_test_rate_per_100000: 3164.0
+Percent_Positivity_in_prior_14_days: 0.059
+Level: Yellow
 url: /states/TN/meigs-county
 ---
 

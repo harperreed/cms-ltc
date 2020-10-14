@@ -1,6 +1,6 @@
 ---
 title: "Bonneville County, ID"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:16019.0,FEMA:10.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 16019.0
 FEMA_Region: 10.0
 Population: 119062.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3052.0
-Fourteen_day_test_rate_per_100000: 2563.0
-Percent_Positivity_in_prior_14_days: 0.132
+Tests_in_prior_14_days: 2588.0
+Fourteen_day_test_rate_per_100000: 2174.0
+Percent_Positivity_in_prior_14_days: 0.16
 Level: Red
 url: /states/ID/bonneville-county
 ---

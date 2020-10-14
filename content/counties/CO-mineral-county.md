@@ -1,6 +1,6 @@
 ---
 title: "Mineral County, CO"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:8079.0,FEMA:8.0,Non-core,Green]

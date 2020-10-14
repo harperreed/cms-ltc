@@ -1,6 +1,6 @@
 ---
 title: "Spencer County, IN"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:18147.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 18147.0
 FEMA_Region: 5.0
 Population: 20277.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 844.0
-Fourteen_day_test_rate_per_100000: 4162.0
-Percent_Positivity_in_prior_14_days: 0.111
+Tests_in_prior_14_days: 659.0
+Fourteen_day_test_rate_per_100000: 3250.0
+Percent_Positivity_in_prior_14_days: 0.121
 Level: Red
 url: /states/IN/spencer-county
 ---

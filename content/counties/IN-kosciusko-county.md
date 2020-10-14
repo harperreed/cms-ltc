@@ -1,9 +1,9 @@
 ---
 title: "Kosciusko County, IN"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
-tags: [FIPS:18085.0,FEMA:5.0,Micropolitan,Green]
+tags: [FIPS:18085.0,FEMA:5.0,Micropolitan,Yellow]
 categories: [IN]
 County: Kosciusko County
 State: IN
@@ -11,10 +11,10 @@ FIPS: 18085.0
 FEMA_Region: 5.0
 Population: 79456.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1506.0
-Fourteen_day_test_rate_per_100000: 1895.0
-Percent_Positivity_in_prior_14_days: 0.044
-Level: Green
+Tests_in_prior_14_days: 1409.0
+Fourteen_day_test_rate_per_100000: 1773.0
+Percent_Positivity_in_prior_14_days: 0.058
+Level: Yellow
 url: /states/IN/kosciusko-county
 ---
 

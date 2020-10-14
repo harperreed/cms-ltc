@@ -1,6 +1,6 @@
 ---
 title: "Texas County, OK"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:40139.0,FEMA:6.0,Micropolitan,Yellow]
@@ -13,7 +13,7 @@ Population: 19983.0
 NCHS_Urban_Rural_Classification: Micropolitan
 Tests_in_prior_14_days: 39.0
 Fourteen_day_test_rate_per_100000: 195.0
-Percent_Positivity_in_prior_14_days: 0.205
+Percent_Positivity_in_prior_14_days: 0.154
 Level: Yellow
 url: /states/OK/texas-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Coffee County, GA"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:13069.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13069.0
 FEMA_Region: 4.0
 Population: 43273.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 252.0
-Fourteen_day_test_rate_per_100000: 582.0
-Percent_Positivity_in_prior_14_days: 0.087
+Tests_in_prior_14_days: 274.0
+Fourteen_day_test_rate_per_100000: 633.0
+Percent_Positivity_in_prior_14_days: 0.066
 Level: Yellow
 url: /states/GA/coffee-county
 ---

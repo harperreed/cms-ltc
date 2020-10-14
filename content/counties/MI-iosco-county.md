@@ -1,6 +1,6 @@
 ---
 title: "Iosco County, MI"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:26069.0,FEMA:5.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 26069.0
 FEMA_Region: 5.0
 Population: 25127.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 839.0
-Fourteen_day_test_rate_per_100000: 3339.0
-Percent_Positivity_in_prior_14_days: 0.08
+Tests_in_prior_14_days: 776.0
+Fourteen_day_test_rate_per_100000: 3088.0
+Percent_Positivity_in_prior_14_days: 0.054
 Level: Yellow
 url: /states/MI/iosco-county
 ---

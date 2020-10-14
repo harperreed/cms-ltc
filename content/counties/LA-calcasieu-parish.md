@@ -1,9 +1,9 @@
 ---
 title: "Calcasieu Parish, LA"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
-tags: [FIPS:22019.0,FEMA:6.0,Small metro,Red]
+tags: [FIPS:22019.0,FEMA:6.0,Small metro,Yellow]
 categories: [LA]
 County: Calcasieu Parish
 State: LA
@@ -11,10 +11,10 @@ FIPS: 22019.0
 FEMA_Region: 6.0
 Population: 203436.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2441.0
-Fourteen_day_test_rate_per_100000: 1200.0
-Percent_Positivity_in_prior_14_days: 0.102
-Level: Red
+Tests_in_prior_14_days: 2504.0
+Fourteen_day_test_rate_per_100000: 1231.0
+Percent_Positivity_in_prior_14_days: 0.093
+Level: Yellow
 url: /states/LA/calcasieu-parish
 ---
 

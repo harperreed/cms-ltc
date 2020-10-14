@@ -1,9 +1,9 @@
 ---
 title: "Iron County, MI"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
-tags: [FIPS:26071.0,FEMA:5.0,Non-core,Red]
+tags: [FIPS:26071.0,FEMA:5.0,Non-core,Yellow]
 categories: [MI]
 County: Iron County
 State: MI
@@ -13,8 +13,8 @@ Population: 11066.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 1517.0
 Fourteen_day_test_rate_per_100000: 13709.0
-Percent_Positivity_in_prior_14_days: 0.103
-Level: Red
+Percent_Positivity_in_prior_14_days: 0.087
+Level: Yellow
 url: /states/MI/iron-county
 ---
 

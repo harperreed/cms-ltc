@@ -1,6 +1,6 @@
 ---
 title: "Del Norte County, CA"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:6015.0,FEMA:9.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 6015.0
 FEMA_Region: 9.0
 Population: 27812.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3715.0
-Fourteen_day_test_rate_per_100000: 13358.0
-Percent_Positivity_in_prior_14_days: 0.009
+Tests_in_prior_14_days: 1688.0
+Fourteen_day_test_rate_per_100000: 6069.0
+Percent_Positivity_in_prior_14_days: 0.011
 Level: Green
 url: /states/CA/del-norte-county
 ---

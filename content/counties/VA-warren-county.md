@@ -1,9 +1,9 @@
 ---
 title: "Warren County, VA"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
-tags: [FIPS:51187.0,FEMA:3.0,Large fringe metro,Green]
+tags: [FIPS:51187.0,FEMA:3.0,Large fringe metro,Yellow]
 categories: [VA]
 County: Warren County
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51187.0
 FEMA_Region: 3.0
 Population: 40164.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1199.0
-Fourteen_day_test_rate_per_100000: 2985.0
-Percent_Positivity_in_prior_14_days: 0.033
-Level: Green
+Tests_in_prior_14_days: 983.0
+Fourteen_day_test_rate_per_100000: 2447.0
+Percent_Positivity_in_prior_14_days: 0.065
+Level: Yellow
 url: /states/VA/warren-county
 ---
 

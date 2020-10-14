@@ -1,9 +1,9 @@
 ---
 title: "DeSoto County, FL"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
-tags: [FIPS:12027.0,FEMA:4.0,Micropolitan,Yellow]
+tags: [FIPS:12027.0,FEMA:4.0,Micropolitan,Green]
 categories: [FL]
 County: DeSoto County
 State: FL
@@ -11,10 +11,10 @@ FIPS: 12027.0
 FEMA_Region: 4.0
 Population: 38001.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1324.0
-Fourteen_day_test_rate_per_100000: 3484.0
-Percent_Positivity_in_prior_14_days: 0.053
-Level: Yellow
+Tests_in_prior_14_days: 1328.0
+Fourteen_day_test_rate_per_100000: 3495.0
+Percent_Positivity_in_prior_14_days: 0.047
+Level: Green
 url: /states/FL/desoto-county
 ---
 

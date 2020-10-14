@@ -1,9 +1,9 @@
 ---
 title: "Walla Walla County, WA"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
-tags: [FIPS:53071.0,FEMA:10.0,Small metro,Yellow]
+tags: [FIPS:53071.0,FEMA:10.0,Small metro,Green]
 categories: [WA]
 County: Walla Walla County
 State: WA
@@ -11,10 +11,10 @@ FIPS: 53071.0
 FEMA_Region: 10.0
 Population: 60760.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1183.0
-Fourteen_day_test_rate_per_100000: 1947.0
-Percent_Positivity_in_prior_14_days: 0.052
-Level: Yellow
+Tests_in_prior_14_days: 1451.0
+Fourteen_day_test_rate_per_100000: 2388.0
+Percent_Positivity_in_prior_14_days: 0.034
+Level: Green
 url: /states/WA/walla-walla-county
 ---
 

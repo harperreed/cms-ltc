@@ -1,6 +1,6 @@
 ---
 title: "Dougherty County, GA"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:13095.0,FEMA:4.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 13095.0
 FEMA_Region: 4.0
 Population: 87956.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1749.0
-Fourteen_day_test_rate_per_100000: 1988.0
-Percent_Positivity_in_prior_14_days: 0.034
+Tests_in_prior_14_days: 1564.0
+Fourteen_day_test_rate_per_100000: 1778.0
+Percent_Positivity_in_prior_14_days: 0.035
 Level: Green
 url: /states/GA/dougherty-county
 ---

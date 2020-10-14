@@ -1,9 +1,9 @@
 ---
 title: "Racine County, WI"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
-tags: [FIPS:55101.0,FEMA:5.0,Small metro,Red]
+tags: [FIPS:55101.0,FEMA:5.0,Small metro,Yellow]
 categories: [WI]
 County: Racine County
 State: WI
@@ -11,10 +11,10 @@ FIPS: 55101.0
 FEMA_Region: 5.0
 Population: 196311.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 9046.0
-Fourteen_day_test_rate_per_100000: 4608.0
-Percent_Positivity_in_prior_14_days: 0.1
-Level: Red
+Tests_in_prior_14_days: 9939.0
+Fourteen_day_test_rate_per_100000: 5063.0
+Percent_Positivity_in_prior_14_days: 0.095
+Level: Yellow
 url: /states/WI/racine-county
 ---
 

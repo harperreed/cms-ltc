@@ -1,6 +1,6 @@
 ---
 title: "Newberry County, SC"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:45071.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 45071.0
 FEMA_Region: 4.0
 Population: 38440.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1313.0
-Fourteen_day_test_rate_per_100000: 3416.0
-Percent_Positivity_in_prior_14_days: 0.136
+Tests_in_prior_14_days: 1212.0
+Fourteen_day_test_rate_per_100000: 3153.0
+Percent_Positivity_in_prior_14_days: 0.126
 Level: Red
 url: /states/SC/newberry-county
 ---

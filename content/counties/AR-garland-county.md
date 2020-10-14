@@ -1,6 +1,6 @@
 ---
 title: "Garland County, AR"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:5051.0,FEMA:6.0,Small metro,Green]
@@ -11,8 +11,8 @@ FIPS: 5051.0
 FEMA_Region: 6.0
 Population: 99386.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 5067.0
-Fourteen_day_test_rate_per_100000: 5098.0
+Tests_in_prior_14_days: 4761.0
+Fourteen_day_test_rate_per_100000: 4790.0
 Percent_Positivity_in_prior_14_days: 0.043
 Level: Green
 url: /states/AR/garland-county

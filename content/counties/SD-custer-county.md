@@ -1,6 +1,6 @@
 ---
 title: "Custer County, SD"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:46033.0,FEMA:8.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 46033.0
 FEMA_Region: 8.0
 Population: 8972.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 276.0
-Fourteen_day_test_rate_per_100000: 3076.0
-Percent_Positivity_in_prior_14_days: 0.094
+Tests_in_prior_14_days: 302.0
+Fourteen_day_test_rate_per_100000: 3366.0
+Percent_Positivity_in_prior_14_days: 0.083
 Level: Yellow
 url: /states/SD/custer-county
 ---

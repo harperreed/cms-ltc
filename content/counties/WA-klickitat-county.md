@@ -1,6 +1,6 @@
 ---
 title: "Klickitat County, WA"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:53039.0,FEMA:10.0,Non-core,Green]

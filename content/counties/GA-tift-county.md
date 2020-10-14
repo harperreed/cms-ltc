@@ -1,6 +1,6 @@
 ---
 title: "Tift County, GA"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:13277.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 13277.0
 FEMA_Region: 4.0
 Population: 40644.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 761.0
-Fourteen_day_test_rate_per_100000: 1872.0
-Percent_Positivity_in_prior_14_days: 0.137
+Tests_in_prior_14_days: 798.0
+Fourteen_day_test_rate_per_100000: 1963.0
+Percent_Positivity_in_prior_14_days: 0.1
 Level: Red
 url: /states/GA/tift-county
 ---

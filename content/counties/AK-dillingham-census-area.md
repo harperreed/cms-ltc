@@ -1,6 +1,6 @@
 ---
 title: "Dillingham Census Area, AK"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:2070.0,FEMA:10.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 2070.0
 FEMA_Region: 10.0
 Population: 4916.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 158.0
-Fourteen_day_test_rate_per_100000: 3214.0
-Percent_Positivity_in_prior_14_days: 0.006
+Tests_in_prior_14_days: 223.0
+Fourteen_day_test_rate_per_100000: 4536.0
+Percent_Positivity_in_prior_14_days: 0.0
 Level: Green
 url: /states/AK/dillingham-census-area
 ---

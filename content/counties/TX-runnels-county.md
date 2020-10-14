@@ -1,6 +1,6 @@
 ---
 title: "Runnels County, TX"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:48399.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48399.0
 FEMA_Region: 6.0
 Population: 10264.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 307.0
-Fourteen_day_test_rate_per_100000: 2991.0
-Percent_Positivity_in_prior_14_days: 0.098
+Tests_in_prior_14_days: 227.0
+Fourteen_day_test_rate_per_100000: 2212.0
+Percent_Positivity_in_prior_14_days: 0.07
 Level: Yellow
 url: /states/TX/runnels-county
 ---

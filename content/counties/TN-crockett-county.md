@@ -1,6 +1,6 @@
 ---
 title: "Crockett County, TN"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:47033.0,FEMA:4.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 47033.0
 FEMA_Region: 4.0
 Population: 14230.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 446.0
-Fourteen_day_test_rate_per_100000: 3134.0
-Percent_Positivity_in_prior_14_days: 0.146
+Tests_in_prior_14_days: 474.0
+Fourteen_day_test_rate_per_100000: 3331.0
+Percent_Positivity_in_prior_14_days: 0.122
 Level: Red
 url: /states/TN/crockett-county
 ---

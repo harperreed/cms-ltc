@@ -1,6 +1,6 @@
 ---
 title: "Colorado County, TX"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:48089.0,FEMA:6.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 48089.0
 FEMA_Region: 6.0
 Population: 21493.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 508.0
-Fourteen_day_test_rate_per_100000: 2364.0
-Percent_Positivity_in_prior_14_days: 0.016
+Tests_in_prior_14_days: 368.0
+Fourteen_day_test_rate_per_100000: 1712.0
+Percent_Positivity_in_prior_14_days: 0.033
 Level: Green
 url: /states/TX/colorado-county
 ---

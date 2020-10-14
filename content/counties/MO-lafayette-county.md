@@ -1,9 +1,9 @@
 ---
 title: "Lafayette County, MO"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
-tags: [FIPS:29107.0,FEMA:7.0,Large fringe metro,Red]
+tags: [FIPS:29107.0,FEMA:7.0,Large fringe metro,Yellow]
 categories: [MO]
 County: Lafayette County
 State: MO
@@ -11,10 +11,10 @@ FIPS: 29107.0
 FEMA_Region: 7.0
 Population: 32708.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 966.0
-Fourteen_day_test_rate_per_100000: 2953.0
-Percent_Positivity_in_prior_14_days: 0.15
-Level: Red
+Tests_in_prior_14_days: 1093.0
+Fourteen_day_test_rate_per_100000: 3342.0
+Percent_Positivity_in_prior_14_days: 0.093
+Level: Yellow
 url: /states/MO/lafayette-county
 ---
 

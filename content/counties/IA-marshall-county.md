@@ -1,6 +1,6 @@
 ---
 title: "Marshall County, IA"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:19127.0,FEMA:7.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 19127.0
 FEMA_Region: 7.0
 Population: 39369.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1982.0
-Fourteen_day_test_rate_per_100000: 5034.0
-Percent_Positivity_in_prior_14_days: 0.028
+Tests_in_prior_14_days: 1799.0
+Fourteen_day_test_rate_per_100000: 4570.0
+Percent_Positivity_in_prior_14_days: 0.044
 Level: Green
 url: /states/IA/marshall-county
 ---

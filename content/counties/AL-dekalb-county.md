@@ -1,6 +1,6 @@
 ---
 title: "DeKalb County, AL"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:1049.0,FEMA:4.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 1049.0
 FEMA_Region: 4.0
 Population: 71513.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2028.0
-Fourteen_day_test_rate_per_100000: 2836.0
-Percent_Positivity_in_prior_14_days: 0.114
+Tests_in_prior_14_days: 2290.0
+Fourteen_day_test_rate_per_100000: 3202.0
+Percent_Positivity_in_prior_14_days: 0.142
 Level: Red
 url: /states/AL/dekalb-county
 ---

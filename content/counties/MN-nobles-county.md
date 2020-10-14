@@ -1,6 +1,6 @@
 ---
 title: "Nobles County, MN"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:27105.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 27105.0
 FEMA_Region: 5.0
 Population: 21629.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1666.0
-Fourteen_day_test_rate_per_100000: 7703.0
-Percent_Positivity_in_prior_14_days: 0.062
+Tests_in_prior_14_days: 1561.0
+Fourteen_day_test_rate_per_100000: 7217.0
+Percent_Positivity_in_prior_14_days: 0.063
 Level: Yellow
 url: /states/MN/nobles-county
 ---

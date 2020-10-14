@@ -1,9 +1,9 @@
 ---
 title: "San Patricio County, TX"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
-tags: [FIPS:48409.0,FEMA:6.0,Medium metro,Green]
+tags: [FIPS:48409.0,FEMA:6.0,Medium metro,Yellow]
 categories: [TX]
 County: San Patricio County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48409.0
 FEMA_Region: 6.0
 Population: 66730.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 965.0
-Fourteen_day_test_rate_per_100000: 1446.0
-Percent_Positivity_in_prior_14_days: 0.036
-Level: Green
+Tests_in_prior_14_days: 625.0
+Fourteen_day_test_rate_per_100000: 937.0
+Percent_Positivity_in_prior_14_days: 0.056
+Level: Yellow
 url: /states/TX/san-patricio-county
 ---
 

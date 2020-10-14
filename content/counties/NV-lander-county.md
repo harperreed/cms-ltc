@@ -1,9 +1,9 @@
 ---
 title: "Lander County, NV"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
-tags: [FIPS:32015.0,FEMA:9.0,Non-core,Green]
+tags: [FIPS:32015.0,FEMA:9.0,Non-core,Yellow]
 categories: [NV]
 County: Lander County
 State: NV
@@ -11,10 +11,10 @@ FIPS: 32015.0
 FEMA_Region: 9.0
 Population: 5532.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 246.0
-Fourteen_day_test_rate_per_100000: 4447.0
-Percent_Positivity_in_prior_14_days: 0.02
-Level: Green
+Tests_in_prior_14_days: 253.0
+Fourteen_day_test_rate_per_100000: 4573.0
+Percent_Positivity_in_prior_14_days: 0.095
+Level: Yellow
 url: /states/NV/lander-county
 ---
 

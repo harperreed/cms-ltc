@@ -1,6 +1,6 @@
 ---
 title: "Putnam County, FL"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:12107.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 12107.0
 FEMA_Region: 4.0
 Population: 74521.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3006.0
-Fourteen_day_test_rate_per_100000: 4034.0
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 3147.0
+Fourteen_day_test_rate_per_100000: 4223.0
+Percent_Positivity_in_prior_14_days: 0.052
 Level: Yellow
 url: /states/FL/putnam-county
 ---

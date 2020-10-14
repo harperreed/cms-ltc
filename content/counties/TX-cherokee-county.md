@@ -1,6 +1,6 @@
 ---
 title: "Cherokee County, TX"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:48073.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48073.0
 FEMA_Region: 6.0
 Population: 52646.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 362.0
-Fourteen_day_test_rate_per_100000: 688.0
-Percent_Positivity_in_prior_14_days: 0.072
+Tests_in_prior_14_days: 361.0
+Fourteen_day_test_rate_per_100000: 686.0
+Percent_Positivity_in_prior_14_days: 0.061
 Level: Yellow
 url: /states/TX/cherokee-county
 ---

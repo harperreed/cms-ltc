@@ -1,6 +1,6 @@
 ---
 title: "Hardy County, WV"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:54031.0,FEMA:3.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 54031.0
 FEMA_Region: 3.0
 Population: 13776.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 554.0
-Fourteen_day_test_rate_per_100000: 4021.0
-Percent_Positivity_in_prior_14_days: 0.031
+Tests_in_prior_14_days: 660.0
+Fourteen_day_test_rate_per_100000: 4791.0
+Percent_Positivity_in_prior_14_days: 0.023
 Level: Green
 url: /states/WV/hardy-county
 ---

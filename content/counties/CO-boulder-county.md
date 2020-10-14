@@ -1,9 +1,9 @@
 ---
 title: "Boulder County, CO"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
-tags: [FIPS:8013.0,FEMA:8.0,Medium metro,Yellow]
+tags: [FIPS:8013.0,FEMA:8.0,Medium metro,Green]
 categories: [CO]
 County: Boulder County
 State: CO
@@ -11,10 +11,10 @@ FIPS: 8013.0
 FEMA_Region: 8.0
 Population: 326196.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 16814.0
-Fourteen_day_test_rate_per_100000: 5155.0
-Percent_Positivity_in_prior_14_days: 0.058
-Level: Yellow
+Tests_in_prior_14_days: 16676.0
+Fourteen_day_test_rate_per_100000: 5112.0
+Percent_Positivity_in_prior_14_days: 0.035
+Level: Green
 url: /states/CO/boulder-county
 ---
 

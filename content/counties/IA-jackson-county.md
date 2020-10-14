@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, IA"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:19097.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 19097.0
 FEMA_Region: 7.0
 Population: 19439.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 836.0
-Fourteen_day_test_rate_per_100000: 4301.0
-Percent_Positivity_in_prior_14_days: 0.128
+Tests_in_prior_14_days: 829.0
+Fourteen_day_test_rate_per_100000: 4265.0
+Percent_Positivity_in_prior_14_days: 0.135
 Level: Red
 url: /states/IA/jackson-county
 ---

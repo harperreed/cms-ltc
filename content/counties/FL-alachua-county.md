@@ -1,9 +1,9 @@
 ---
 title: "Alachua County, FL"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
-tags: [FIPS:12001.0,FEMA:4.0,Medium metro,Yellow]
+tags: [FIPS:12001.0,FEMA:4.0,Medium metro,Green]
 categories: [FL]
 County: Alachua County
 State: FL
@@ -11,10 +11,10 @@ FIPS: 12001.0
 FEMA_Region: 4.0
 Population: 269043.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 16232.0
-Fourteen_day_test_rate_per_100000: 6033.0
-Percent_Positivity_in_prior_14_days: 0.062
-Level: Yellow
+Tests_in_prior_14_days: 16395.0
+Fourteen_day_test_rate_per_100000: 6094.0
+Percent_Positivity_in_prior_14_days: 0.048
+Level: Green
 url: /states/FL/alachua-county
 ---
 

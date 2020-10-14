@@ -1,6 +1,6 @@
 ---
 title: "Atchison County, KS"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:20005.0,FEMA:7.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 20005.0
 FEMA_Region: 7.0
 Population: 16073.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 991.0
-Fourteen_day_test_rate_per_100000: 6166.0
-Percent_Positivity_in_prior_14_days: 0.06
+Tests_in_prior_14_days: 1058.0
+Fourteen_day_test_rate_per_100000: 6582.0
+Percent_Positivity_in_prior_14_days: 0.076
 Level: Yellow
 url: /states/KS/atchison-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Lincoln County, SD"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:46083.0,FEMA:8.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 46083.0
 FEMA_Region: 8.0
 Population: 61128.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2613.0
-Fourteen_day_test_rate_per_100000: 4275.0
-Percent_Positivity_in_prior_14_days: 0.15
+Tests_in_prior_14_days: 2834.0
+Fourteen_day_test_rate_per_100000: 4636.0
+Percent_Positivity_in_prior_14_days: 0.153
 Level: Red
 url: /states/SD/lincoln-county
 ---

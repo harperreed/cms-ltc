@@ -1,6 +1,6 @@
 ---
 title: "Daviess County, IN"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:18027.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 18027.0
 FEMA_Region: 5.0
 Population: 33351.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1490.0
-Fourteen_day_test_rate_per_100000: 4468.0
-Percent_Positivity_in_prior_14_days: 0.072
+Tests_in_prior_14_days: 1306.0
+Fourteen_day_test_rate_per_100000: 3916.0
+Percent_Positivity_in_prior_14_days: 0.074
 Level: Yellow
 url: /states/IN/daviess-county
 ---

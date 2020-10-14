@@ -1,6 +1,6 @@
 ---
 title: "Newton County, TX"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:48351.0,FEMA:6.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48351.0
 FEMA_Region: 6.0
 Population: 13595.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 98.0
-Fourteen_day_test_rate_per_100000: 721.0
-Percent_Positivity_in_prior_14_days: 0.143
+Tests_in_prior_14_days: 107.0
+Fourteen_day_test_rate_per_100000: 787.0
+Percent_Positivity_in_prior_14_days: 0.084
 Level: Yellow
 url: /states/TX/newton-county
 ---

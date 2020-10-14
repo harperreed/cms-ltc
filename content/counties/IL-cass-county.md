@@ -1,6 +1,6 @@
 ---
 title: "Cass County, IL"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:17017.0,FEMA:5.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 17017.0
 FEMA_Region: 5.0
 Population: 12147.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 433.0
-Fourteen_day_test_rate_per_100000: 3565.0
-Percent_Positivity_in_prior_14_days: 0.09
+Tests_in_prior_14_days: 390.0
+Fourteen_day_test_rate_per_100000: 3211.0
+Percent_Positivity_in_prior_14_days: 0.072
 Level: Yellow
 url: /states/IL/cass-county
 ---

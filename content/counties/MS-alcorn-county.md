@@ -1,6 +1,6 @@
 ---
 title: "Alcorn County, MS"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
 tags: [FIPS:28003.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28003.0
 FEMA_Region: 4.0
 Population: 36953.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 317.0
-Fourteen_day_test_rate_per_100000: 858.0
-Percent_Positivity_in_prior_14_days: 0.129
+Tests_in_prior_14_days: 469.0
+Fourteen_day_test_rate_per_100000: 1269.0
+Percent_Positivity_in_prior_14_days: 0.141
 Level: Yellow
 url: /states/MS/alcorn-county
 ---

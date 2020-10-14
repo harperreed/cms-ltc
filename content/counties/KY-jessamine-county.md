@@ -1,9 +1,9 @@
 ---
 title: "Jessamine County, KY"
-date: 2020-10-13
+date: 2020-10-14
 draft: false
 type: county
-tags: [FIPS:21113.0,FEMA:4.0,Medium metro,Yellow]
+tags: [FIPS:21113.0,FEMA:4.0,Medium metro,Red]
 categories: [KY]
 County: Jessamine County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21113.0
 FEMA_Region: 4.0
 Population: 54115.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1088.0
-Fourteen_day_test_rate_per_100000: 2011.0
-Percent_Positivity_in_prior_14_days: 0.085
-Level: Yellow
+Tests_in_prior_14_days: 1176.0
+Fourteen_day_test_rate_per_100000: 2173.0
+Percent_Positivity_in_prior_14_days: 0.12
+Level: Red
 url: /states/KY/jessamine-county
 ---
 
