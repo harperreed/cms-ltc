@@ -1,6 +1,6 @@
 ---
 title: "Lampasas County, TX"
-date: 2020-10-14
+date: 2020-10-15
 draft: false
 type: county
 tags: [FIPS:48281.0,FEMA:6.0,Medium metro,Yellow]

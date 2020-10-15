@@ -1,6 +1,6 @@
 ---
 title: "Clear Creek County, CO"
-date: 2020-10-14
+date: 2020-10-15
 draft: false
 type: county
 tags: [FIPS:8019.0,FEMA:8.0,Large fringe metro,Yellow]

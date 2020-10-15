@@ -1,6 +1,6 @@
 ---
 title: "Hale County, AL"
-date: 2020-10-14
+date: 2020-10-15
 draft: false
 type: county
 tags: [FIPS:1065.0,FEMA:4.0,Small metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Crawford County, MI"
-date: 2020-10-14
+date: 2020-10-15
 draft: false
 type: county
 tags: [FIPS:26039.0,FEMA:5.0,Non-core,Green]

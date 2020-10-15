@@ -1,6 +1,6 @@
 ---
 title: "Albany County, WY"
-date: 2020-10-14
+date: 2020-10-15
 draft: false
 type: county
 tags: [FIPS:56001.0,FEMA:8.0,Micropolitan,Yellow]

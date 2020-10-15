@@ -1,6 +1,6 @@
 ---
 title: "Pontotoc County, OK"
-date: 2020-10-14
+date: 2020-10-15
 draft: false
 type: county
 tags: [FIPS:40123.0,FEMA:6.0,Micropolitan,Yellow]

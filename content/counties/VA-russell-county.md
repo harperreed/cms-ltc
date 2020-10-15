@@ -1,6 +1,6 @@
 ---
 title: "Russell County, VA"
-date: 2020-10-14
+date: 2020-10-15
 draft: false
 type: county
 tags: [FIPS:51167.0,FEMA:3.0,Non-core,Yellow]

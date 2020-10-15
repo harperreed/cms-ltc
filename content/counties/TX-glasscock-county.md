@@ -1,6 +1,6 @@
 ---
 title: "Glasscock County, TX"
-date: 2020-10-14
+date: 2020-10-15
 draft: false
 type: county
 tags: [FIPS:48173.0,FEMA:6.0,Micropolitan,Green]

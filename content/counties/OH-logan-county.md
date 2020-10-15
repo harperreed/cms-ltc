@@ -1,6 +1,6 @@
 ---
 title: "Logan County, OH"
-date: 2020-10-14
+date: 2020-10-15
 draft: false
 type: county
 tags: [FIPS:39091.0,FEMA:5.0,Micropolitan,Green]

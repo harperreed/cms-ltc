@@ -1,6 +1,6 @@
 ---
 title: "Alfalfa County, OK"
-date: 2020-10-14
+date: 2020-10-15
 draft: false
 type: county
 tags: [FIPS:40003.0,FEMA:6.0,Non-core,Red]
