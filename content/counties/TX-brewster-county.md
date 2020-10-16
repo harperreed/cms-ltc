@@ -1,6 +1,6 @@
 ---
 title: "Brewster County, TX"
-date: 2020-10-15
+date: 2020-10-16
 draft: false
 type: county
 tags: [FIPS:48043.0,FEMA:6.0,Non-core,Yellow]

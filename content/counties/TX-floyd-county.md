@@ -1,6 +1,6 @@
 ---
 title: "Floyd County, TX"
-date: 2020-10-15
+date: 2020-10-16
 draft: false
 type: county
 tags: [FIPS:48153.0,FEMA:6.0,Non-core,Green]

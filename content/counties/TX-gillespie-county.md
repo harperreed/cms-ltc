@@ -1,6 +1,6 @@
 ---
 title: "Gillespie County, TX"
-date: 2020-10-15
+date: 2020-10-16
 draft: false
 type: county
 tags: [FIPS:48171.0,FEMA:6.0,Micropolitan,Green]

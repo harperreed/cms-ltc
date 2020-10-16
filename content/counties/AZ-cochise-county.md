@@ -1,6 +1,6 @@
 ---
 title: "Cochise County, AZ"
-date: 2020-10-15
+date: 2020-10-16
 draft: false
 type: county
 tags: [FIPS:4003.0,FEMA:9.0,Small metro,Green]

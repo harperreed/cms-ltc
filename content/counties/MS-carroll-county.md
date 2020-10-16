@@ -1,6 +1,6 @@
 ---
 title: "Carroll County, MS"
-date: 2020-10-15
+date: 2020-10-16
 draft: false
 type: county
 tags: [FIPS:28015.0,FEMA:4.0,Micropolitan,Red]

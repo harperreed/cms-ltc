@@ -1,6 +1,6 @@
 ---
 title: "Lynchburg City, VA"
-date: 2020-10-15
+date: 2020-10-16
 draft: false
 type: county
 tags: [FIPS:51680.0,FEMA:3.0,Medium metro,Yellow]

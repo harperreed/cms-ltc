@@ -1,6 +1,6 @@
 ---
 title: "Chisago County, MN"
-date: 2020-10-15
+date: 2020-10-16
 draft: false
 type: county
 tags: [FIPS:27025.0,FEMA:5.0,Large fringe metro,Yellow]

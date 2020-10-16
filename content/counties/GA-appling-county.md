@@ -1,6 +1,6 @@
 ---
 title: "Appling County, GA"
-date: 2020-10-15
+date: 2020-10-16
 draft: false
 type: county
 tags: [FIPS:13001.0,FEMA:4.0,Non-core,Yellow]

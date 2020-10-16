@@ -1,6 +1,6 @@
 ---
 title: "Hudson County, NJ"
-date: 2020-10-15
+date: 2020-10-16
 draft: false
 type: county
 tags: [FIPS:34017.0,FEMA:2.0,Large central metro,Green]

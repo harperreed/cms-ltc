@@ -1,6 +1,6 @@
 ---
 title: "Delaware County, IN"
-date: 2020-10-15
+date: 2020-10-16
 draft: false
 type: county
 tags: [FIPS:18035.0,FEMA:5.0,Small metro,Yellow]

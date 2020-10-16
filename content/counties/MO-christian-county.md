@@ -1,6 +1,6 @@
 ---
 title: "Christian County, MO"
-date: 2020-10-15
+date: 2020-10-16
 draft: false
 type: county
 tags: [FIPS:29043.0,FEMA:7.0,Medium metro,Yellow]

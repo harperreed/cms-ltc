@@ -1,6 +1,6 @@
 ---
 title: "Van Buren County, AR"
-date: 2020-10-15
+date: 2020-10-16
 draft: false
 type: county
 tags: [FIPS:5141.0,FEMA:6.0,Non-core,Green]

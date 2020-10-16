@@ -1,6 +1,6 @@
 ---
 title: "San Juan County, UT"
-date: 2020-10-15
+date: 2020-10-16
 draft: false
 type: county
 tags: [FIPS:49037.0,FEMA:8.0,Non-core,Yellow]
