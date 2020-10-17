@@ -1,6 +1,6 @@
 ---
 title: "Jeff Davis County, GA"
-date: 2020-10-16
+date: 2020-10-17
 draft: false
 type: county
 tags: [FIPS:13161.0,FEMA:4.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Houston County, MN"
-date: 2020-10-16
+date: 2020-10-17
 draft: false
 type: county
 tags: [FIPS:27055.0,FEMA:5.0,Small metro,Green]

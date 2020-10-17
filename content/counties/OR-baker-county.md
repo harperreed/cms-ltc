@@ -1,6 +1,6 @@
 ---
 title: "Baker County, OR"
-date: 2020-10-16
+date: 2020-10-17
 draft: false
 type: county
 tags: [FIPS:41001.0,FEMA:10.0,Non-core,Green]

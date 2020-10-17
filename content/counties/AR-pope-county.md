@@ -1,6 +1,6 @@
 ---
 title: "Pope County, AR"
-date: 2020-10-16
+date: 2020-10-17
 draft: false
 type: county
 tags: [FIPS:5115.0,FEMA:6.0,Micropolitan,Yellow]

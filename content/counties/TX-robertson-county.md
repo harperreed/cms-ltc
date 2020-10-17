@@ -1,6 +1,6 @@
 ---
 title: "Robertson County, TX"
-date: 2020-10-16
+date: 2020-10-17
 draft: false
 type: county
 tags: [FIPS:48395.0,FEMA:6.0,Small metro,Yellow]

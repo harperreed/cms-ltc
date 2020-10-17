@@ -1,6 +1,6 @@
 ---
 title: "Gilpin County, CO"
-date: 2020-10-16
+date: 2020-10-17
 draft: false
 type: county
 tags: [FIPS:8047.0,FEMA:8.0,Large fringe metro,Green]

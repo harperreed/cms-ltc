@@ -1,6 +1,6 @@
 ---
 title: "York County, PA"
-date: 2020-10-16
+date: 2020-10-17
 draft: false
 type: county
 tags: [FIPS:42133.0,FEMA:3.0,Medium metro,Green]

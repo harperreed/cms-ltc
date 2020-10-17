@@ -1,6 +1,6 @@
 ---
 title: "Whitley County, KY"
-date: 2020-10-16
+date: 2020-10-17
 draft: false
 type: county
 tags: [FIPS:21235.0,FEMA:4.0,Micropolitan,Red]

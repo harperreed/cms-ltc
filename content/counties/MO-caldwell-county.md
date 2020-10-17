@@ -1,6 +1,6 @@
 ---
 title: "Caldwell County, MO"
-date: 2020-10-16
+date: 2020-10-17
 draft: false
 type: county
 tags: [FIPS:29025.0,FEMA:7.0,Large fringe metro,Red]

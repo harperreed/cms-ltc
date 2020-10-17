@@ -1,6 +1,6 @@
 ---
 title: "Blount County, TN"
-date: 2020-10-16
+date: 2020-10-17
 draft: false
 type: county
 tags: [FIPS:47009.0,FEMA:4.0,Medium metro,Yellow]
