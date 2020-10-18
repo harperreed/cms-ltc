@@ -1,6 +1,6 @@
 ---
 title: "Des Moines County, IA"
-date: 2020-10-17
+date: 2020-10-18
 draft: false
 type: county
 tags: [FIPS:19057.0,FEMA:7.0,Micropolitan,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Roanoke City, VA"
-date: 2020-10-17
+date: 2020-10-18
 draft: false
 type: county
 tags: [FIPS:51770.0,FEMA:3.0,Medium metro,Yellow]

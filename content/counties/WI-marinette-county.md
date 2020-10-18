@@ -1,6 +1,6 @@
 ---
 title: "Marinette County, WI"
-date: 2020-10-17
+date: 2020-10-18
 draft: false
 type: county
 tags: [FIPS:55075.0,FEMA:5.0,Micropolitan,Red]

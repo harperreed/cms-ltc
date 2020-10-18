@@ -1,6 +1,6 @@
 ---
 title: "Sussex County, DE"
-date: 2020-10-17
+date: 2020-10-18
 draft: false
 type: county
 tags: [FIPS:10005.0,FEMA:3.0,Medium metro,Green]

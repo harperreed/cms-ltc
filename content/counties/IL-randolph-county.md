@@ -1,6 +1,6 @@
 ---
 title: "Randolph County, IL"
-date: 2020-10-17
+date: 2020-10-18
 draft: false
 type: county
 tags: [FIPS:17157.0,FEMA:5.0,Non-core,Yellow]

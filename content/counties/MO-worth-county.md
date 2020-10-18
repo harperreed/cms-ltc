@@ -1,6 +1,6 @@
 ---
 title: "Worth County, MO"
-date: 2020-10-17
+date: 2020-10-18
 draft: false
 type: county
 tags: [FIPS:29227.0,FEMA:7.0,Non-core,Yellow]

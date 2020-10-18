@@ -1,6 +1,6 @@
 ---
 title: "Midland County, TX"
-date: 2020-10-17
+date: 2020-10-18
 draft: false
 type: county
 tags: [FIPS:48329.0,FEMA:6.0,Small metro,Green]
