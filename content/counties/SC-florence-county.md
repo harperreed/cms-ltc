@@ -1,6 +1,6 @@
 ---
 title: "Florence County, SC"
-date: 2020-10-18
+date: 2020-10-19
 draft: false
 type: county
 tags: [FIPS:45041.0,FEMA:4.0,Small metro,Yellow]

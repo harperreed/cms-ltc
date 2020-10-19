@@ -1,6 +1,6 @@
 ---
 title: "McCreary County, KY"
-date: 2020-10-18
+date: 2020-10-19
 draft: false
 type: county
 tags: [FIPS:21147.0,FEMA:4.0,Non-core,Yellow]

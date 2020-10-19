@@ -1,6 +1,6 @@
 ---
 title: "Sacramento County, CA"
-date: 2020-10-18
+date: 2020-10-19
 draft: false
 type: county
 tags: [FIPS:6067.0,FEMA:9.0,Large central metro,Green]

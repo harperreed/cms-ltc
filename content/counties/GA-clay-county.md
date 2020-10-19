@@ -1,6 +1,6 @@
 ---
 title: "Clay County, GA"
-date: 2020-10-18
+date: 2020-10-19
 draft: false
 type: county
 tags: [FIPS:13061.0,FEMA:4.0,Non-core,Yellow]

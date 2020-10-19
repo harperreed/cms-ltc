@@ -1,6 +1,6 @@
 ---
 title: "Roanoke County, VA"
-date: 2020-10-18
+date: 2020-10-19
 draft: false
 type: county
 tags: [FIPS:51161.0,FEMA:3.0,Medium metro,Yellow]

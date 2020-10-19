@@ -1,6 +1,6 @@
 ---
 title: "Kings County, CA"
-date: 2020-10-18
+date: 2020-10-19
 draft: false
 type: county
 tags: [FIPS:6031.0,FEMA:9.0,Small metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, NE"
-date: 2020-10-18
+date: 2020-10-19
 draft: false
 type: county
 tags: [FIPS:31095.0,FEMA:7.0,Non-core,Green]

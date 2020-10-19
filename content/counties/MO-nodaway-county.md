@@ -1,6 +1,6 @@
 ---
 title: "Nodaway County, MO"
-date: 2020-10-18
+date: 2020-10-19
 draft: false
 type: county
 tags: [FIPS:29147.0,FEMA:7.0,Micropolitan,Yellow]
