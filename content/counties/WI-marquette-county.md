@@ -1,6 +1,6 @@
 ---
 title: "Marquette County, WI"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:55077.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 55077.0
 FEMA_Region: 5.0
 Population: 15574.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1379.0
-Fourteen_day_test_rate_per_100000: 8855.0
-Percent_Positivity_in_prior_14_days: 0.144
+Tests_in_prior_14_days: 1314.0
+Fourteen_day_test_rate_per_100000: 8437.0
+Percent_Positivity_in_prior_14_days: 0.167
 Level: Red
 url: /states/WI/marquette-county
 ---

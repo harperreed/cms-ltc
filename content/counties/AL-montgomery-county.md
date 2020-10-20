@@ -1,6 +1,6 @@
 ---
 title: "Montgomery County, AL"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:1101.0,FEMA:4.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 1101.0
 FEMA_Region: 4.0
 Population: 226486.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 5863.0
-Fourteen_day_test_rate_per_100000: 2589.0
-Percent_Positivity_in_prior_14_days: 0.069
+Tests_in_prior_14_days: 5328.0
+Fourteen_day_test_rate_per_100000: 2352.0
+Percent_Positivity_in_prior_14_days: 0.091
 Level: Yellow
 url: /states/AL/montgomery-county
 ---

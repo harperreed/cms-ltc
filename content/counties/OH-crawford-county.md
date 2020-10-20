@@ -1,9 +1,9 @@
 ---
 title: "Crawford County, OH"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:39033.0,FEMA:5.0,Micropolitan,Green]
+tags: [FIPS:39033.0,FEMA:5.0,Micropolitan,Yellow]
 categories: [OH]
 County: Crawford County
 State: OH
@@ -11,10 +11,10 @@ FIPS: 39033.0
 FEMA_Region: 5.0
 Population: 41494.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 751.0
-Fourteen_day_test_rate_per_100000: 1810.0
-Percent_Positivity_in_prior_14_days: 0.035
-Level: Green
+Tests_in_prior_14_days: 834.0
+Fourteen_day_test_rate_per_100000: 2010.0
+Percent_Positivity_in_prior_14_days: 0.061
+Level: Yellow
 url: /states/OH/crawford-county
 ---
 

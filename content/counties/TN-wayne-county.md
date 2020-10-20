@@ -1,6 +1,6 @@
 ---
 title: "Wayne County, TN"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:47181.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 47181.0
 FEMA_Region: 4.0
 Population: 16673.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 594.0
-Fourteen_day_test_rate_per_100000: 3563.0
-Percent_Positivity_in_prior_14_days: 0.051
+Tests_in_prior_14_days: 362.0
+Fourteen_day_test_rate_per_100000: 2171.0
+Percent_Positivity_in_prior_14_days: 0.055
 Level: Yellow
 url: /states/TN/wayne-county
 ---

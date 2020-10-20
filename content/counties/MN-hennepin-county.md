@@ -1,6 +1,6 @@
 ---
 title: "Hennepin County, MN"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:27053.0,FEMA:5.0,Large central metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 27053.0
 FEMA_Region: 5.0
 Population: 1265843.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 78873.0
-Fourteen_day_test_rate_per_100000: 6231.0
-Percent_Positivity_in_prior_14_days: 0.059
+Tests_in_prior_14_days: 86616.0
+Fourteen_day_test_rate_per_100000: 6843.0
+Percent_Positivity_in_prior_14_days: 0.061
 Level: Yellow
 url: /states/MN/hennepin-county
 ---

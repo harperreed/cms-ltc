@@ -1,9 +1,9 @@
 ---
 title: "Clay County, IN"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:18021.0,FEMA:5.0,Small metro,Green]
+tags: [FIPS:18021.0,FEMA:5.0,Small metro,Yellow]
 categories: [IN]
 County: Clay County
 State: IN
@@ -11,10 +11,10 @@ FIPS: 18021.0
 FEMA_Region: 5.0
 Population: 26225.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 799.0
-Fourteen_day_test_rate_per_100000: 3047.0
-Percent_Positivity_in_prior_14_days: 0.045
-Level: Green
+Tests_in_prior_14_days: 773.0
+Fourteen_day_test_rate_per_100000: 2948.0
+Percent_Positivity_in_prior_14_days: 0.093
+Level: Yellow
 url: /states/IN/clay-county
 ---
 

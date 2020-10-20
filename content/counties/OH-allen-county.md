@@ -1,6 +1,6 @@
 ---
 title: "Allen County, OH"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:39003.0,FEMA:5.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 39003.0
 FEMA_Region: 5.0
 Population: 102351.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1852.0
-Fourteen_day_test_rate_per_100000: 1809.0
-Percent_Positivity_in_prior_14_days: 0.053
+Tests_in_prior_14_days: 2055.0
+Fourteen_day_test_rate_per_100000: 2008.0
+Percent_Positivity_in_prior_14_days: 0.082
 Level: Yellow
 url: /states/OH/allen-county
 ---

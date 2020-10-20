@@ -1,6 +1,6 @@
 ---
 title: "Hyde County, NC"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:37095.0,FEMA:4.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 37095.0
 FEMA_Region: 4.0
 Population: 4937.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 209.0
-Fourteen_day_test_rate_per_100000: 4233.0
-Percent_Positivity_in_prior_14_days: 0.1
+Tests_in_prior_14_days: 259.0
+Fourteen_day_test_rate_per_100000: 5246.0
+Percent_Positivity_in_prior_14_days: 0.151
 Level: Red
 url: /states/NC/hyde-county
 ---

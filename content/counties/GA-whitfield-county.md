@@ -1,6 +1,6 @@
 ---
 title: "Whitfield County, GA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:13313.0,FEMA:4.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13313.0
 FEMA_Region: 4.0
 Population: 104628.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1596.0
-Fourteen_day_test_rate_per_100000: 1525.0
-Percent_Positivity_in_prior_14_days: 0.064
+Tests_in_prior_14_days: 1093.0
+Fourteen_day_test_rate_per_100000: 1045.0
+Percent_Positivity_in_prior_14_days: 0.059
 Level: Yellow
 url: /states/GA/whitfield-county
 ---

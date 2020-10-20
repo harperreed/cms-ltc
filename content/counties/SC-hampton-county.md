@@ -1,9 +1,9 @@
 ---
 title: "Hampton County, SC"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:45049.0,FEMA:4.0,Non-core,Red]
+tags: [FIPS:45049.0,FEMA:4.0,Non-core,Yellow]
 categories: [SC]
 County: Hampton County
 State: SC
@@ -11,10 +11,10 @@ FIPS: 45049.0
 FEMA_Region: 4.0
 Population: 19222.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 703.0
-Fourteen_day_test_rate_per_100000: 3657.0
-Percent_Positivity_in_prior_14_days: 0.102
-Level: Red
+Tests_in_prior_14_days: 726.0
+Fourteen_day_test_rate_per_100000: 3777.0
+Percent_Positivity_in_prior_14_days: 0.088
+Level: Yellow
 url: /states/SC/hampton-county
 ---
 

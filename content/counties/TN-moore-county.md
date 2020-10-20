@@ -1,9 +1,9 @@
 ---
 title: "Moore County, TN"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:47127.0,FEMA:4.0,Micropolitan,Red]
+tags: [FIPS:47127.0,FEMA:4.0,Micropolitan,Yellow]
 categories: [TN]
 County: Moore County
 State: TN
@@ -11,10 +11,10 @@ FIPS: 47127.0
 FEMA_Region: 4.0
 Population: 6488.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 169.0
-Fourteen_day_test_rate_per_100000: 2605.0
-Percent_Positivity_in_prior_14_days: 0.154
-Level: Red
+Tests_in_prior_14_days: 126.0
+Fourteen_day_test_rate_per_100000: 1942.0
+Percent_Positivity_in_prior_14_days: 0.159
+Level: Yellow
 url: /states/TN/moore-county
 ---
 

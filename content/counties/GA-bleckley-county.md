@@ -1,6 +1,6 @@
 ---
 title: "Bleckley County, GA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:13023.0,FEMA:4.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 13023.0
 FEMA_Region: 4.0
 Population: 12873.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 84.0
-Fourteen_day_test_rate_per_100000: 653.0
-Percent_Positivity_in_prior_14_days: 0.036
+Tests_in_prior_14_days: 78.0
+Fourteen_day_test_rate_per_100000: 606.0
+Percent_Positivity_in_prior_14_days: 0.013
 Level: Green
 url: /states/GA/bleckley-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Gilpin County, CO"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:8047.0,FEMA:8.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 8047.0
 FEMA_Region: 8.0
 Population: 6243.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 95.0
-Fourteen_day_test_rate_per_100000: 1522.0
-Percent_Positivity_in_prior_14_days: 0.011
+Tests_in_prior_14_days: 90.0
+Fourteen_day_test_rate_per_100000: 1442.0
+Percent_Positivity_in_prior_14_days: 0.022
 Level: Green
 url: /states/CO/gilpin-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Elbert County, CO"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:8039.0,FEMA:8.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 8039.0
 FEMA_Region: 8.0
 Population: 26729.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 344.0
-Fourteen_day_test_rate_per_100000: 1287.0
-Percent_Positivity_in_prior_14_days: 0.035
+Tests_in_prior_14_days: 310.0
+Fourteen_day_test_rate_per_100000: 1160.0
+Percent_Positivity_in_prior_14_days: 0.023
 Level: Green
 url: /states/CO/elbert-county
 ---

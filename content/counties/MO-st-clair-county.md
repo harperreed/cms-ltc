@@ -1,6 +1,6 @@
 ---
 title: "St. Clair County, MO"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:29185.0,FEMA:7.0,Non-core,Yellow]
@@ -11,8 +11,8 @@ FIPS: 29185.0
 FEMA_Region: 7.0
 Population: 9397.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 258.0
-Fourteen_day_test_rate_per_100000: 2746.0
+Tests_in_prior_14_days: 222.0
+Fourteen_day_test_rate_per_100000: 2362.0
 Percent_Positivity_in_prior_14_days: 0.081
 Level: Yellow
 url: /states/MO/st-clair-county

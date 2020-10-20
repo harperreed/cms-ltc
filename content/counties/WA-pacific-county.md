@@ -1,9 +1,9 @@
 ---
 title: "Pacific County, WA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:53049.0,FEMA:10.0,Non-core,Green]
+tags: [FIPS:53049.0,FEMA:10.0,Non-core,Yellow]
 categories: [WA]
 County: Pacific County
 State: WA
@@ -11,10 +11,10 @@ FIPS: 53049.0
 FEMA_Region: 10.0
 Population: 22471.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 229.0
-Fourteen_day_test_rate_per_100000: 1019.0
-Percent_Positivity_in_prior_14_days: 0.039
-Level: Green
+Tests_in_prior_14_days: 291.0
+Fourteen_day_test_rate_per_100000: 1295.0
+Percent_Positivity_in_prior_14_days: 0.062
+Level: Yellow
 url: /states/WA/pacific-county
 ---
 

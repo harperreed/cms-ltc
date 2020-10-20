@@ -1,9 +1,9 @@
 ---
 title: "Sherburne County, MN"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:27141.0,FEMA:5.0,Large fringe metro,Green]
+tags: [FIPS:27141.0,FEMA:5.0,Large fringe metro,Yellow]
 categories: [MN]
 County: Sherburne County
 State: MN
@@ -11,10 +11,10 @@ FIPS: 27141.0
 FEMA_Region: 5.0
 Population: 97238.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 6914.0
-Fourteen_day_test_rate_per_100000: 7110.0
-Percent_Positivity_in_prior_14_days: 0.043
-Level: Green
+Tests_in_prior_14_days: 7863.0
+Fourteen_day_test_rate_per_100000: 8086.0
+Percent_Positivity_in_prior_14_days: 0.055
+Level: Yellow
 url: /states/MN/sherburne-county
 ---
 

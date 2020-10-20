@@ -1,6 +1,6 @@
 ---
 title: "McKean County, PA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:42083.0,FEMA:3.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 42083.0
 FEMA_Region: 3.0
 Population: 40625.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1089.0
-Fourteen_day_test_rate_per_100000: 2681.0
-Percent_Positivity_in_prior_14_days: 0.009
+Tests_in_prior_14_days: 910.0
+Fourteen_day_test_rate_per_100000: 2240.0
+Percent_Positivity_in_prior_14_days: 0.022
 Level: Green
 url: /states/PA/mckean-county
 ---

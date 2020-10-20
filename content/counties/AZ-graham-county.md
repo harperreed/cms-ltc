@@ -1,9 +1,9 @@
 ---
 title: "Graham County, AZ"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:4009.0,FEMA:9.0,Micropolitan,Yellow]
+tags: [FIPS:4009.0,FEMA:9.0,Micropolitan,Red]
 categories: [AZ]
 County: Graham County
 State: AZ
@@ -11,10 +11,10 @@ FIPS: 4009.0
 FEMA_Region: 9.0
 Population: 38837.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 746.0
-Fourteen_day_test_rate_per_100000: 1921.0
-Percent_Positivity_in_prior_14_days: 0.097
-Level: Yellow
+Tests_in_prior_14_days: 568.0
+Fourteen_day_test_rate_per_100000: 1463.0
+Percent_Positivity_in_prior_14_days: 0.134
+Level: Red
 url: /states/AZ/graham-county
 ---
 

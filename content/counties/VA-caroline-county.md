@@ -1,9 +1,9 @@
 ---
 title: "Caroline County, VA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:51033.0,FEMA:3.0,Large fringe metro,Yellow]
+tags: [FIPS:51033.0,FEMA:3.0,Large fringe metro,Green]
 categories: [VA]
 County: Caroline County
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51033.0
 FEMA_Region: 3.0
 Population: 30725.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 598.0
-Fourteen_day_test_rate_per_100000: 1946.0
-Percent_Positivity_in_prior_14_days: 0.054
-Level: Yellow
+Tests_in_prior_14_days: 613.0
+Fourteen_day_test_rate_per_100000: 1995.0
+Percent_Positivity_in_prior_14_days: 0.044
+Level: Green
 url: /states/VA/caroline-county
 ---
 

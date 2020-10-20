@@ -1,6 +1,6 @@
 ---
 title: "Union County, NC"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:37179.0,FEMA:4.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 37179.0
 FEMA_Region: 4.0
 Population: 239859.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 8308.0
-Fourteen_day_test_rate_per_100000: 3464.0
-Percent_Positivity_in_prior_14_days: 0.068
+Tests_in_prior_14_days: 8931.0
+Fourteen_day_test_rate_per_100000: 3723.0
+Percent_Positivity_in_prior_14_days: 0.066
 Level: Yellow
 url: /states/NC/union-county
 ---

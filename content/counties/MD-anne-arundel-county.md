@@ -1,9 +1,9 @@
 ---
 title: "Anne Arundel County, MD"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:24003.0,FEMA:3.0,Large fringe metro,Green]
+tags: [FIPS:24003.0,FEMA:3.0,Large fringe metro,Yellow]
 categories: [MD]
 County: Anne Arundel County
 State: MD
@@ -11,10 +11,10 @@ FIPS: 24003.0
 FEMA_Region: 3.0
 Population: 579234.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 27511.0
-Fourteen_day_test_rate_per_100000: 4750.0
-Percent_Positivity_in_prior_14_days: 0.046
-Level: Green
+Tests_in_prior_14_days: 25157.0
+Fourteen_day_test_rate_per_100000: 4343.0
+Percent_Positivity_in_prior_14_days: 0.053
+Level: Yellow
 url: /states/MD/anne-arundel-county
 ---
 

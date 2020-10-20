@@ -1,9 +1,9 @@
 ---
 title: "Anderson County, KY"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:21005.0,FEMA:4.0,Micropolitan,Yellow]
+tags: [FIPS:21005.0,FEMA:4.0,Micropolitan,Green]
 categories: [KY]
 County: Anderson County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21005.0
 FEMA_Region: 4.0
 Population: 22747.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 352.0
-Fourteen_day_test_rate_per_100000: 1547.0
-Percent_Positivity_in_prior_14_days: 0.082
-Level: Yellow
+Tests_in_prior_14_days: 433.0
+Fourteen_day_test_rate_per_100000: 1904.0
+Percent_Positivity_in_prior_14_days: 0.048
+Level: Green
 url: /states/KY/anderson-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Bladen County, NC"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:37017.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 37017.0
 FEMA_Region: 4.0
 Population: 32722.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1059.0
-Fourteen_day_test_rate_per_100000: 3236.0
-Percent_Positivity_in_prior_14_days: 0.065
+Tests_in_prior_14_days: 1119.0
+Fourteen_day_test_rate_per_100000: 3420.0
+Percent_Positivity_in_prior_14_days: 0.054
 Level: Yellow
 url: /states/NC/bladen-county
 ---

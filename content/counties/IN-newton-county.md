@@ -1,9 +1,9 @@
 ---
 title: "Newton County, IN"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:18111.0,FEMA:5.0,Large fringe metro,Yellow]
+tags: [FIPS:18111.0,FEMA:5.0,Large fringe metro,Green]
 categories: [IN]
 County: Newton County
 State: IN
@@ -11,10 +11,10 @@ FIPS: 18111.0
 FEMA_Region: 5.0
 Population: 13984.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 100.0
-Fourteen_day_test_rate_per_100000: 715.0
-Percent_Positivity_in_prior_14_days: 0.06
-Level: Yellow
+Tests_in_prior_14_days: 104.0
+Fourteen_day_test_rate_per_100000: 744.0
+Percent_Positivity_in_prior_14_days: 0.048
+Level: Green
 url: /states/IN/newton-county
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Richland County, ND"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:38077.0,FEMA:8.0,Micropolitan,Green]
+tags: [FIPS:38077.0,FEMA:8.0,Micropolitan,Yellow]
 categories: [ND]
 County: Richland County
 State: ND
@@ -11,10 +11,10 @@ FIPS: 38077.0
 FEMA_Region: 8.0
 Population: 16177.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1064.0
-Fourteen_day_test_rate_per_100000: 6577.0
-Percent_Positivity_in_prior_14_days: 0.043
-Level: Green
+Tests_in_prior_14_days: 890.0
+Fourteen_day_test_rate_per_100000: 5502.0
+Percent_Positivity_in_prior_14_days: 0.066
+Level: Yellow
 url: /states/ND/richland-county
 ---
 

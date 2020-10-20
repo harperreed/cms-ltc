@@ -1,9 +1,9 @@
 ---
 title: "Hardin County, TX"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:48199.0,FEMA:6.0,Medium metro,Green]
+tags: [FIPS:48199.0,FEMA:6.0,Medium metro,Yellow]
 categories: [TX]
 County: Hardin County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48199.0
 FEMA_Region: 6.0
 Population: 57602.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 678.0
-Fourteen_day_test_rate_per_100000: 1177.0
-Percent_Positivity_in_prior_14_days: 0.049
-Level: Green
+Tests_in_prior_14_days: 661.0
+Fourteen_day_test_rate_per_100000: 1148.0
+Percent_Positivity_in_prior_14_days: 0.079
+Level: Yellow
 url: /states/TX/hardin-county
 ---
 

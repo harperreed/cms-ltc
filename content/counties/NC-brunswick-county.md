@@ -1,6 +1,6 @@
 ---
 title: "Brunswick County, NC"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:37019.0,FEMA:4.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 37019.0
 FEMA_Region: 4.0
 Population: 142820.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 3211.0
-Fourteen_day_test_rate_per_100000: 2248.0
-Percent_Positivity_in_prior_14_days: 0.054
+Tests_in_prior_14_days: 3579.0
+Fourteen_day_test_rate_per_100000: 2506.0
+Percent_Positivity_in_prior_14_days: 0.072
 Level: Yellow
 url: /states/NC/brunswick-county
 ---

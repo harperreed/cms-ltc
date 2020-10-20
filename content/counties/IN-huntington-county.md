@@ -1,6 +1,6 @@
 ---
 title: "Huntington County, IN"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:18069.0,FEMA:5.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 18069.0
 FEMA_Region: 5.0
 Population: 36520.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1867.0
-Fourteen_day_test_rate_per_100000: 5112.0
-Percent_Positivity_in_prior_14_days: 0.041
+Tests_in_prior_14_days: 2316.0
+Fourteen_day_test_rate_per_100000: 6342.0
+Percent_Positivity_in_prior_14_days: 0.039
 Level: Green
 url: /states/IN/huntington-county
 ---

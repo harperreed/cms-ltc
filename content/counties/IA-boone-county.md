@@ -1,6 +1,6 @@
 ---
 title: "Boone County, IA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:19015.0,FEMA:7.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 19015.0
 FEMA_Region: 7.0
 Population: 26234.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1030.0
-Fourteen_day_test_rate_per_100000: 3926.0
-Percent_Positivity_in_prior_14_days: 0.076
+Tests_in_prior_14_days: 1106.0
+Fourteen_day_test_rate_per_100000: 4216.0
+Percent_Positivity_in_prior_14_days: 0.091
 Level: Yellow
 url: /states/IA/boone-county
 ---

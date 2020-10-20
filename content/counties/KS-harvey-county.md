@@ -1,9 +1,9 @@
 ---
 title: "Harvey County, KS"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:20079.0,FEMA:7.0,Medium metro,Yellow]
+tags: [FIPS:20079.0,FEMA:7.0,Medium metro,Red]
 categories: [KS]
 County: Harvey County
 State: KS
@@ -11,10 +11,10 @@ FIPS: 20079.0
 FEMA_Region: 7.0
 Population: 34429.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1053.0
-Fourteen_day_test_rate_per_100000: 3058.0
-Percent_Positivity_in_prior_14_days: 0.074
-Level: Yellow
+Tests_in_prior_14_days: 700.0
+Fourteen_day_test_rate_per_100000: 2033.0
+Percent_Positivity_in_prior_14_days: 0.151
+Level: Red
 url: /states/KS/harvey-county
 ---
 

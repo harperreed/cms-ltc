@@ -1,6 +1,6 @@
 ---
 title: "Navarro County, TX"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:48349.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48349.0
 FEMA_Region: 6.0
 Population: 50113.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 788.0
-Fourteen_day_test_rate_per_100000: 1572.0
-Percent_Positivity_in_prior_14_days: 0.094
+Tests_in_prior_14_days: 827.0
+Fourteen_day_test_rate_per_100000: 1650.0
+Percent_Positivity_in_prior_14_days: 0.067
 Level: Yellow
 url: /states/TX/navarro-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Owsley County, KY"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:21189.0,FEMA:4.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 21189.0
 FEMA_Region: 4.0
 Population: 4415.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 103.0
-Fourteen_day_test_rate_per_100000: 2333.0
-Percent_Positivity_in_prior_14_days: 0.146
+Tests_in_prior_14_days: 121.0
+Fourteen_day_test_rate_per_100000: 2741.0
+Percent_Positivity_in_prior_14_days: 0.132
 Level: Red
 url: /states/KY/owsley-county
 ---

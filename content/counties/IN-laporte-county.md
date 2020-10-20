@@ -1,6 +1,6 @@
 ---
 title: "LaPorte County, IN"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:18091.0,FEMA:5.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 18091.0
 FEMA_Region: 5.0
 Population: 109888.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3336.0
-Fourteen_day_test_rate_per_100000: 3036.0
-Percent_Positivity_in_prior_14_days: 0.083
+Tests_in_prior_14_days: 3934.0
+Fourteen_day_test_rate_per_100000: 3580.0
+Percent_Positivity_in_prior_14_days: 0.089
 Level: Yellow
 url: /states/IN/laporte-county
 ---

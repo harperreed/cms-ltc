@@ -1,6 +1,6 @@
 ---
 title: "Fayette County, WV"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:54019.0,FEMA:3.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 54019.0
 FEMA_Region: 3.0
 Population: 42406.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3545.0
-Fourteen_day_test_rate_per_100000: 8360.0
-Percent_Positivity_in_prior_14_days: 0.04
+Tests_in_prior_14_days: 3537.0
+Fourteen_day_test_rate_per_100000: 8341.0
+Percent_Positivity_in_prior_14_days: 0.031
 Level: Green
 url: /states/WV/fayette-county
 ---

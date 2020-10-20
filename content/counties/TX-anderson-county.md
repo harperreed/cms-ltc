@@ -1,6 +1,6 @@
 ---
 title: "Anderson County, TX"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:48001.0,FEMA:6.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 48001.0
 FEMA_Region: 6.0
 Population: 57735.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 564.0
-Fourteen_day_test_rate_per_100000: 977.0
-Percent_Positivity_in_prior_14_days: 0.126
+Tests_in_prior_14_days: 855.0
+Fourteen_day_test_rate_per_100000: 1481.0
+Percent_Positivity_in_prior_14_days: 0.103
 Level: Red
 url: /states/TX/anderson-county
 ---

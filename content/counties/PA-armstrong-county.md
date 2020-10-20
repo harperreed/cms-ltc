@@ -1,9 +1,9 @@
 ---
 title: "Armstrong County, PA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:42005.0,FEMA:3.0,Large fringe metro,Green]
+tags: [FIPS:42005.0,FEMA:3.0,Large fringe metro,Yellow]
 categories: [PA]
 County: Armstrong County
 State: PA
@@ -11,10 +11,10 @@ FIPS: 42005.0
 FEMA_Region: 3.0
 Population: 64735.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 2038.0
-Fourteen_day_test_rate_per_100000: 3148.0
-Percent_Positivity_in_prior_14_days: 0.036
-Level: Green
+Tests_in_prior_14_days: 2004.0
+Fourteen_day_test_rate_per_100000: 3096.0
+Percent_Positivity_in_prior_14_days: 0.051
+Level: Yellow
 url: /states/PA/armstrong-county
 ---
 

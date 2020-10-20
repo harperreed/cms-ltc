@@ -1,6 +1,6 @@
 ---
 title: "Bee County, TX"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:48025.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48025.0
 FEMA_Region: 6.0
 Population: 32565.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 319.0
-Fourteen_day_test_rate_per_100000: 980.0
-Percent_Positivity_in_prior_14_days: 0.1
+Tests_in_prior_14_days: 346.0
+Fourteen_day_test_rate_per_100000: 1062.0
+Percent_Positivity_in_prior_14_days: 0.098
 Level: Yellow
 url: /states/TX/bee-county
 ---

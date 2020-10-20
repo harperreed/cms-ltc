@@ -1,6 +1,6 @@
 ---
 title: "Dickens County, TX"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:48125.0,FEMA:6.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 48125.0
 FEMA_Region: 6.0
 Population: 2211.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: <20 tests
-Fourteen_day_test_rate_per_100000: <20 tests
-Percent_Positivity_in_prior_14_days: <20 tests
+Tests_in_prior_14_days: 29.0
+Fourteen_day_test_rate_per_100000: 1312.0
+Percent_Positivity_in_prior_14_days: 0.0
 Level: Green
 url: /states/TX/dickens-county
 ---

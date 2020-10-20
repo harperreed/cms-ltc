@@ -1,6 +1,6 @@
 ---
 title: "Wood County, OH"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:39173.0,FEMA:5.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 39173.0
 FEMA_Region: 5.0
 Population: 130817.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 3457.0
-Fourteen_day_test_rate_per_100000: 2643.0
-Percent_Positivity_in_prior_14_days: 0.062
+Tests_in_prior_14_days: 2700.0
+Fourteen_day_test_rate_per_100000: 2064.0
+Percent_Positivity_in_prior_14_days: 0.05
 Level: Yellow
 url: /states/OH/wood-county
 ---

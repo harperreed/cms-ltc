@@ -1,9 +1,9 @@
 ---
 title: "Grant County, OK"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:40053.0,FEMA:6.0,Non-core,Yellow]
+tags: [FIPS:40053.0,FEMA:6.0,Non-core,Green]
 categories: [OK]
 County: Grant County
 State: OK
@@ -11,10 +11,10 @@ FIPS: 40053.0
 FEMA_Region: 6.0
 Population: 4333.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 96.0
-Fourteen_day_test_rate_per_100000: 2216.0
-Percent_Positivity_in_prior_14_days: 0.073
-Level: Yellow
+Tests_in_prior_14_days: 137.0
+Fourteen_day_test_rate_per_100000: 3162.0
+Percent_Positivity_in_prior_14_days: 0.044
+Level: Green
 url: /states/OK/grant-county
 ---
 

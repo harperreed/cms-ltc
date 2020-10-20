@@ -1,6 +1,6 @@
 ---
 title: "Sheridan County, ND"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:38083.0,FEMA:8.0,Non-core,Red]
@@ -13,7 +13,7 @@ Population: 1315.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 86.0
 Fourteen_day_test_rate_per_100000: 6540.0
-Percent_Positivity_in_prior_14_days: 0.116
+Percent_Positivity_in_prior_14_days: 0.128
 Level: Red
 url: /states/ND/sheridan-county
 ---

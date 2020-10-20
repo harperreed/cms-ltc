@@ -1,9 +1,9 @@
 ---
 title: "New London County, CT"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:9011.0,FEMA:1.0,Medium metro,Yellow]
+tags: [FIPS:9011.0,FEMA:1.0,Medium metro,Green]
 categories: [CT]
 County: New London County
 State: CT
@@ -11,10 +11,10 @@ FIPS: 9011.0
 FEMA_Region: 1.0
 Population: 265206.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 8548.0
-Fourteen_day_test_rate_per_100000: 3223.0
-Percent_Positivity_in_prior_14_days: 0.057
-Level: Yellow
+Tests_in_prior_14_days: 13400.0
+Fourteen_day_test_rate_per_100000: 5053.0
+Percent_Positivity_in_prior_14_days: 0.045
+Level: Green
 url: /states/CT/new-london-county
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Henry County, IN"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:18065.0,FEMA:5.0,Micropolitan,Yellow]
+tags: [FIPS:18065.0,FEMA:5.0,Micropolitan,Red]
 categories: [IN]
 County: Henry County
 State: IN
@@ -11,10 +11,10 @@ FIPS: 18065.0
 FEMA_Region: 5.0
 Population: 47972.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2051.0
-Fourteen_day_test_rate_per_100000: 4275.0
-Percent_Positivity_in_prior_14_days: 0.076
-Level: Yellow
+Tests_in_prior_14_days: 2223.0
+Fourteen_day_test_rate_per_100000: 4634.0
+Percent_Positivity_in_prior_14_days: 0.114
+Level: Red
 url: /states/IN/henry-county
 ---
 

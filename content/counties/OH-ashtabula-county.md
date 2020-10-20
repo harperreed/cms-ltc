@@ -1,6 +1,6 @@
 ---
 title: "Ashtabula County, OH"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:39007.0,FEMA:5.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 39007.0
 FEMA_Region: 5.0
 Population: 97241.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1363.0
-Fourteen_day_test_rate_per_100000: 1402.0
-Percent_Positivity_in_prior_14_days: 0.004
+Tests_in_prior_14_days: 754.0
+Fourteen_day_test_rate_per_100000: 775.0
+Percent_Positivity_in_prior_14_days: 0.009
 Level: Green
 url: /states/OH/ashtabula-county
 ---

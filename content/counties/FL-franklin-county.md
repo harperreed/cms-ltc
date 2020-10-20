@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, FL"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:12037.0,FEMA:4.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 12037.0
 FEMA_Region: 4.0
 Population: 12125.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 431.0
-Fourteen_day_test_rate_per_100000: 3555.0
-Percent_Positivity_in_prior_14_days: 0.107
+Tests_in_prior_14_days: 359.0
+Fourteen_day_test_rate_per_100000: 2961.0
+Percent_Positivity_in_prior_14_days: 0.1
 Level: Red
 url: /states/FL/franklin-county
 ---

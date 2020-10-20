@@ -1,9 +1,9 @@
 ---
 title: "Bear Lake County, ID"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:16007.0,FEMA:10.0,Non-core,Green]
+tags: [FIPS:16007.0,FEMA:10.0,Non-core,Yellow]
 categories: [ID]
 County: Bear Lake County
 State: ID
@@ -11,10 +11,10 @@ FIPS: 16007.0
 FEMA_Region: 10.0
 Population: 6125.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 154.0
-Fourteen_day_test_rate_per_100000: 2514.0
-Percent_Positivity_in_prior_14_days: 0.045
-Level: Green
+Tests_in_prior_14_days: 126.0
+Fourteen_day_test_rate_per_100000: 2057.0
+Percent_Positivity_in_prior_14_days: 0.087
+Level: Yellow
 url: /states/ID/bear-lake-county
 ---
 

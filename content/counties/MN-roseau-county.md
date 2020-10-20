@@ -1,6 +1,6 @@
 ---
 title: "Roseau County, MN"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:27135.0,FEMA:5.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 27135.0
 FEMA_Region: 5.0
 Population: 15165.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1256.0
-Fourteen_day_test_rate_per_100000: 8282.0
-Percent_Positivity_in_prior_14_days: 0.032
+Tests_in_prior_14_days: 2028.0
+Fourteen_day_test_rate_per_100000: 13373.0
+Percent_Positivity_in_prior_14_days: 0.033
 Level: Green
 url: /states/MN/roseau-county
 ---

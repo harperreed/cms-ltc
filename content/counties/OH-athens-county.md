@@ -1,9 +1,9 @@
 ---
 title: "Athens County, OH"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:39009.0,FEMA:5.0,Micropolitan,Red]
+tags: [FIPS:39009.0,FEMA:5.0,Micropolitan,Yellow]
 categories: [OH]
 County: Athens County
 State: OH
@@ -11,10 +11,10 @@ FIPS: 39009.0
 FEMA_Region: 5.0
 Population: 65327.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 510.0
-Fourteen_day_test_rate_per_100000: 781.0
-Percent_Positivity_in_prior_14_days: 0.116
-Level: Red
+Tests_in_prior_14_days: 562.0
+Fourteen_day_test_rate_per_100000: 860.0
+Percent_Positivity_in_prior_14_days: 0.091
+Level: Yellow
 url: /states/OH/athens-county
 ---
 

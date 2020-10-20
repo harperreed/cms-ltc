@@ -1,6 +1,6 @@
 ---
 title: "Norton County, KS"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:20137.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 20137.0
 FEMA_Region: 7.0
 Population: 5361.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 515.0
-Fourteen_day_test_rate_per_100000: 9606.0
-Percent_Positivity_in_prior_14_days: 0.252
+Tests_in_prior_14_days: 948.0
+Fourteen_day_test_rate_per_100000: 17683.0
+Percent_Positivity_in_prior_14_days: 0.267
 Level: Red
 url: /states/KS/norton-county
 ---

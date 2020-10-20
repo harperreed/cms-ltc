@@ -1,6 +1,6 @@
 ---
 title: "Northampton County, NC"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:37131.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 37131.0
 FEMA_Region: 4.0
 Population: 19483.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 839.0
-Fourteen_day_test_rate_per_100000: 4306.0
-Percent_Positivity_in_prior_14_days: 0.062
+Tests_in_prior_14_days: 909.0
+Fourteen_day_test_rate_per_100000: 4666.0
+Percent_Positivity_in_prior_14_days: 0.052
 Level: Yellow
 url: /states/NC/northampton-county
 ---

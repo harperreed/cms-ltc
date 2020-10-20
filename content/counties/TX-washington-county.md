@@ -1,6 +1,6 @@
 ---
 title: "Washington County, TX"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:48477.0,FEMA:6.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 48477.0
 FEMA_Region: 6.0
 Population: 35882.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1471.0
-Fourteen_day_test_rate_per_100000: 4100.0
-Percent_Positivity_in_prior_14_days: 0.021
+Tests_in_prior_14_days: 1736.0
+Fourteen_day_test_rate_per_100000: 4838.0
+Percent_Positivity_in_prior_14_days: 0.025
 Level: Green
 url: /states/TX/washington-county
 ---

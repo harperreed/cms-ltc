@@ -1,9 +1,9 @@
 ---
 title: "Crosby County, TX"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:48107.0,FEMA:6.0,Medium metro,Yellow]
+tags: [FIPS:48107.0,FEMA:6.0,Medium metro,Red]
 categories: [TX]
 County: Crosby County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48107.0
 FEMA_Region: 6.0
 Population: 5737.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 72.0
-Fourteen_day_test_rate_per_100000: 1255.0
-Percent_Positivity_in_prior_14_days: 0.139
-Level: Yellow
+Tests_in_prior_14_days: 157.0
+Fourteen_day_test_rate_per_100000: 2737.0
+Percent_Positivity_in_prior_14_days: 0.146
+Level: Red
 url: /states/TX/crosby-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Osceola County, IA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:19143.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 19143.0
 FEMA_Region: 7.0
 Population: 5958.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 210.0
-Fourteen_day_test_rate_per_100000: 3525.0
-Percent_Positivity_in_prior_14_days: 0.229
+Tests_in_prior_14_days: 213.0
+Fourteen_day_test_rate_per_100000: 3575.0
+Percent_Positivity_in_prior_14_days: 0.277
 Level: Red
 url: /states/IA/osceola-county
 ---

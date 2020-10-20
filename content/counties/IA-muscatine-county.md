@@ -1,6 +1,6 @@
 ---
 title: "Muscatine County, IA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:19139.0,FEMA:7.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 19139.0
 FEMA_Region: 7.0
 Population: 42664.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1802.0
-Fourteen_day_test_rate_per_100000: 4224.0
-Percent_Positivity_in_prior_14_days: 0.056
+Tests_in_prior_14_days: 1888.0
+Fourteen_day_test_rate_per_100000: 4425.0
+Percent_Positivity_in_prior_14_days: 0.062
 Level: Yellow
 url: /states/IA/muscatine-county
 ---

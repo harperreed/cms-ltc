@@ -1,6 +1,6 @@
 ---
 title: "Tarrant County, TX"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:48439.0,FEMA:6.0,Large central metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48439.0
 FEMA_Region: 6.0
 Population: 2102515.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 40163.0
-Fourteen_day_test_rate_per_100000: 1910.0
-Percent_Positivity_in_prior_14_days: 0.086
+Tests_in_prior_14_days: 52081.0
+Fourteen_day_test_rate_per_100000: 2477.0
+Percent_Positivity_in_prior_14_days: 0.098
 Level: Yellow
 url: /states/TX/tarrant-county
 ---

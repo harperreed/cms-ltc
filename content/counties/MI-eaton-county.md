@@ -1,6 +1,6 @@
 ---
 title: "Eaton County, MI"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:26045.0,FEMA:5.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 26045.0
 FEMA_Region: 5.0
 Population: 110268.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 7319.0
-Fourteen_day_test_rate_per_100000: 6637.0
-Percent_Positivity_in_prior_14_days: 0.03
+Tests_in_prior_14_days: 8287.0
+Fourteen_day_test_rate_per_100000: 7515.0
+Percent_Positivity_in_prior_14_days: 0.044
 Level: Green
 url: /states/MI/eaton-county
 ---

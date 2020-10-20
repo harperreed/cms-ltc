@@ -1,6 +1,6 @@
 ---
 title: "Valdez-Cordova Census Area, AK"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:2261.0,FEMA:10.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 2261.0
 FEMA_Region: 10.0
 Population: 9202.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 268.0
-Fourteen_day_test_rate_per_100000: 2912.0
-Percent_Positivity_in_prior_14_days: 0.037
+Tests_in_prior_14_days: 620.0
+Fourteen_day_test_rate_per_100000: 6738.0
+Percent_Positivity_in_prior_14_days: 0.047
 Level: Green
 url: /states/AK/valdez-cordova-census-area
 ---

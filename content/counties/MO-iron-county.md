@@ -1,9 +1,9 @@
 ---
 title: "Iron County, MO"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:29093.0,FEMA:7.0,Non-core,Green]
+tags: [FIPS:29093.0,FEMA:7.0,Non-core,Yellow]
 categories: [MO]
 County: Iron County
 State: MO
@@ -11,10 +11,10 @@ FIPS: 29093.0
 FEMA_Region: 7.0
 Population: 10125.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 43.0
-Fourteen_day_test_rate_per_100000: 425.0
-Percent_Positivity_in_prior_14_days: 0.023
-Level: Green
+Tests_in_prior_14_days: 54.0
+Fourteen_day_test_rate_per_100000: 533.0
+Percent_Positivity_in_prior_14_days: 0.074
+Level: Yellow
 url: /states/MO/iron-county
 ---
 

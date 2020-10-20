@@ -1,9 +1,9 @@
 ---
 title: "Wilcox County, AL"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:1131.0,FEMA:4.0,Non-core,Yellow]
+tags: [FIPS:1131.0,FEMA:4.0,Non-core,Green]
 categories: [AL]
 County: Wilcox County
 State: AL
@@ -11,10 +11,10 @@ FIPS: 1131.0
 FEMA_Region: 4.0
 Population: 10373.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 232.0
-Fourteen_day_test_rate_per_100000: 2237.0
-Percent_Positivity_in_prior_14_days: 0.065
-Level: Yellow
+Tests_in_prior_14_days: 332.0
+Fourteen_day_test_rate_per_100000: 3201.0
+Percent_Positivity_in_prior_14_days: 0.045
+Level: Green
 url: /states/AL/wilcox-county
 ---
 

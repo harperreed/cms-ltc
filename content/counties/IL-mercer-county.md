@@ -1,6 +1,6 @@
 ---
 title: "Mercer County, IL"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:17131.0,FEMA:5.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 17131.0
 FEMA_Region: 5.0
 Population: 15437.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 581.0
-Fourteen_day_test_rate_per_100000: 3764.0
-Percent_Positivity_in_prior_14_days: 0.053
+Tests_in_prior_14_days: 648.0
+Fourteen_day_test_rate_per_100000: 4198.0
+Percent_Positivity_in_prior_14_days: 0.091
 Level: Yellow
 url: /states/IL/mercer-county
 ---

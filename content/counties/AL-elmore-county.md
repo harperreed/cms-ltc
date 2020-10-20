@@ -1,6 +1,6 @@
 ---
 title: "Elmore County, AL"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:1051.0,FEMA:4.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 1051.0
 FEMA_Region: 4.0
 Population: 81209.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2857.0
-Fourteen_day_test_rate_per_100000: 3518.0
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 2646.0
+Fourteen_day_test_rate_per_100000: 3258.0
+Percent_Positivity_in_prior_14_days: 0.065
 Level: Yellow
 url: /states/AL/elmore-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Tazewell County, VA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:51185.0,FEMA:3.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51185.0
 FEMA_Region: 3.0
 Population: 40595.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 682.0
-Fourteen_day_test_rate_per_100000: 1680.0
-Percent_Positivity_in_prior_14_days: 0.069
+Tests_in_prior_14_days: 641.0
+Fourteen_day_test_rate_per_100000: 1579.0
+Percent_Positivity_in_prior_14_days: 0.086
 Level: Yellow
 url: /states/VA/tazewell-county
 ---

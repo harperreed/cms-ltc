@@ -1,6 +1,6 @@
 ---
 title: "Toombs County, GA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:13279.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13279.0
 FEMA_Region: 4.0
 Population: 26830.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 430.0
-Fourteen_day_test_rate_per_100000: 1603.0
-Percent_Positivity_in_prior_14_days: 0.156
+Tests_in_prior_14_days: 459.0
+Fourteen_day_test_rate_per_100000: 1711.0
+Percent_Positivity_in_prior_14_days: 0.126
 Level: Yellow
 url: /states/GA/toombs-county
 ---

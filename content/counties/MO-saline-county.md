@@ -1,6 +1,6 @@
 ---
 title: "Saline County, MO"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:29195.0,FEMA:7.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 29195.0
 FEMA_Region: 7.0
 Population: 22761.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 924.0
-Fourteen_day_test_rate_per_100000: 4060.0
-Percent_Positivity_in_prior_14_days: 0.133
+Tests_in_prior_14_days: 678.0
+Fourteen_day_test_rate_per_100000: 2979.0
+Percent_Positivity_in_prior_14_days: 0.137
 Level: Red
 url: /states/MO/saline-county
 ---

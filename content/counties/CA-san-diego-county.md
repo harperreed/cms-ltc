@@ -1,6 +1,6 @@
 ---
 title: "San Diego County, CA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:6073.0,FEMA:9.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 6073.0
 FEMA_Region: 9.0
 Population: 3338330.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 179764.0
-Fourteen_day_test_rate_per_100000: 5385.0
-Percent_Positivity_in_prior_14_days: 0.017
+Tests_in_prior_14_days: 190878.0
+Fourteen_day_test_rate_per_100000: 5718.0
+Percent_Positivity_in_prior_14_days: 0.015
 Level: Green
 url: /states/CA/san-diego-county
 ---

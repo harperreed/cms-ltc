@@ -1,9 +1,9 @@
 ---
 title: "Norton City, VA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:51720.0,FEMA:3.0,Micropolitan,Yellow]
+tags: [FIPS:51720.0,FEMA:3.0,Micropolitan,Green]
 categories: [VA]
 County: Norton City
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51720.0
 FEMA_Region: 3.0
 Population: 3981.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 220.0
-Fourteen_day_test_rate_per_100000: 5526.0
-Percent_Positivity_in_prior_14_days: 0.05
-Level: Yellow
+Tests_in_prior_14_days: 233.0
+Fourteen_day_test_rate_per_100000: 5853.0
+Percent_Positivity_in_prior_14_days: 0.043
+Level: Green
 url: /states/VA/norton-city
 ---
 

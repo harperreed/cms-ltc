@@ -1,6 +1,6 @@
 ---
 title: "Van Buren County, IA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:19177.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 19177.0
 FEMA_Region: 7.0
 Population: 7044.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 165.0
-Fourteen_day_test_rate_per_100000: 2342.0
-Percent_Positivity_in_prior_14_days: 0.067
+Tests_in_prior_14_days: 200.0
+Fourteen_day_test_rate_per_100000: 2839.0
+Percent_Positivity_in_prior_14_days: 0.07
 Level: Yellow
 url: /states/IA/van-buren-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Wabash County, IN"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:18169.0,FEMA:5.0,Micropolitan,Green]
+tags: [FIPS:18169.0,FEMA:5.0,Micropolitan,Yellow]
 categories: [IN]
 County: Wabash County
 State: IN
@@ -11,10 +11,10 @@ FIPS: 18169.0
 FEMA_Region: 5.0
 Population: 30996.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 937.0
-Fourteen_day_test_rate_per_100000: 3023.0
-Percent_Positivity_in_prior_14_days: 0.034
-Level: Green
+Tests_in_prior_14_days: 1099.0
+Fourteen_day_test_rate_per_100000: 3546.0
+Percent_Positivity_in_prior_14_days: 0.057
+Level: Yellow
 url: /states/IN/wabash-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Ouachita Parish, LA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:22073.0,FEMA:6.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 22073.0
 FEMA_Region: 6.0
 Population: 153279.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 5046.0
-Fourteen_day_test_rate_per_100000: 3292.0
-Percent_Positivity_in_prior_14_days: 0.084
+Tests_in_prior_14_days: 4961.0
+Fourteen_day_test_rate_per_100000: 3237.0
+Percent_Positivity_in_prior_14_days: 0.086
 Level: Yellow
 url: /states/LA/ouachita-parish
 ---

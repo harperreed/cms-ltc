@@ -1,6 +1,6 @@
 ---
 title: "Lake County, MN"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:27075.0,FEMA:5.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 27075.0
 FEMA_Region: 5.0
 Population: 10641.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1106.0
-Fourteen_day_test_rate_per_100000: 10394.0
-Percent_Positivity_in_prior_14_days: 0.045
+Tests_in_prior_14_days: 1331.0
+Fourteen_day_test_rate_per_100000: 12508.0
+Percent_Positivity_in_prior_14_days: 0.04
 Level: Green
 url: /states/MN/lake-county
 ---

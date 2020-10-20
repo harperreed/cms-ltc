@@ -1,6 +1,6 @@
 ---
 title: "Carroll County, AR"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:5015.0,FEMA:6.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 5015.0
 FEMA_Region: 6.0
 Population: 28380.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1038.0
-Fourteen_day_test_rate_per_100000: 3658.0
-Percent_Positivity_in_prior_14_days: 0.15
+Tests_in_prior_14_days: 1017.0
+Fourteen_day_test_rate_per_100000: 3584.0
+Percent_Positivity_in_prior_14_days: 0.131
 Level: Red
 url: /states/AR/carroll-county
 ---

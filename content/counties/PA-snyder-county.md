@@ -1,6 +1,6 @@
 ---
 title: "Snyder County, PA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:42109.0,FEMA:3.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 42109.0
 FEMA_Region: 3.0
 Population: 40372.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2693.0
-Fourteen_day_test_rate_per_100000: 6670.0
-Percent_Positivity_in_prior_14_days: 0.042
+Tests_in_prior_14_days: 2850.0
+Fourteen_day_test_rate_per_100000: 7059.0
+Percent_Positivity_in_prior_14_days: 0.026
 Level: Green
 url: /states/PA/snyder-county
 ---

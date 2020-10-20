@@ -1,6 +1,6 @@
 ---
 title: "Alpena County, MI"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:26007.0,FEMA:5.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 26007.0
 FEMA_Region: 5.0
 Population: 28405.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 297.0
-Fourteen_day_test_rate_per_100000: 1046.0
-Percent_Positivity_in_prior_14_days: 0.01
+Tests_in_prior_14_days: 246.0
+Fourteen_day_test_rate_per_100000: 866.0
+Percent_Positivity_in_prior_14_days: 0.016
 Level: Green
 url: /states/MI/alpena-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Baldwin County, GA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:13009.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 13009.0
 FEMA_Region: 4.0
 Population: 44890.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 950.0
-Fourteen_day_test_rate_per_100000: 2116.0
-Percent_Positivity_in_prior_14_days: 0.047
+Tests_in_prior_14_days: 1266.0
+Fourteen_day_test_rate_per_100000: 2820.0
+Percent_Positivity_in_prior_14_days: 0.036
 Level: Green
 url: /states/GA/baldwin-county
 ---

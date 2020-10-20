@@ -1,9 +1,9 @@
 ---
 title: "Dillon County, SC"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:45033.0,FEMA:4.0,Non-core,Red]
+tags: [FIPS:45033.0,FEMA:4.0,Non-core,Yellow]
 categories: [SC]
 County: Dillon County
 State: SC
@@ -11,10 +11,10 @@ FIPS: 45033.0
 FEMA_Region: 4.0
 Population: 30479.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1225.0
-Fourteen_day_test_rate_per_100000: 4019.0
-Percent_Positivity_in_prior_14_days: 0.123
-Level: Red
+Tests_in_prior_14_days: 1606.0
+Fourteen_day_test_rate_per_100000: 5269.0
+Percent_Positivity_in_prior_14_days: 0.092
+Level: Yellow
 url: /states/SC/dillon-county
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Jefferson County, FL"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:12065.0,FEMA:4.0,Medium metro,Green]
+tags: [FIPS:12065.0,FEMA:4.0,Medium metro,Yellow]
 categories: [FL]
 County: Jefferson County
 State: FL
@@ -11,10 +11,10 @@ FIPS: 12065.0
 FEMA_Region: 4.0
 Population: 14246.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 726.0
-Fourteen_day_test_rate_per_100000: 5096.0
-Percent_Positivity_in_prior_14_days: 0.04
-Level: Green
+Tests_in_prior_14_days: 649.0
+Fourteen_day_test_rate_per_100000: 4556.0
+Percent_Positivity_in_prior_14_days: 0.074
+Level: Yellow
 url: /states/FL/jefferson-county
 ---
 

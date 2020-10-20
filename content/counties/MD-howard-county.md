@@ -1,6 +1,6 @@
 ---
 title: "Howard County, MD"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:24027.0,FEMA:3.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 24027.0
 FEMA_Region: 3.0
 Population: 325690.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 19608.0
-Fourteen_day_test_rate_per_100000: 6020.0
-Percent_Positivity_in_prior_14_days: 0.025
+Tests_in_prior_14_days: 17692.0
+Fourteen_day_test_rate_per_100000: 5432.0
+Percent_Positivity_in_prior_14_days: 0.028
 Level: Green
 url: /states/MD/howard-county
 ---

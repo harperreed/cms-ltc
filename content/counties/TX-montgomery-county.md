@@ -1,6 +1,6 @@
 ---
 title: "Montgomery County, TX"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:48339.0,FEMA:6.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48339.0
 FEMA_Region: 6.0
 Population: 607391.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 9496.0
-Fourteen_day_test_rate_per_100000: 1563.0
-Percent_Positivity_in_prior_14_days: 0.059
+Tests_in_prior_14_days: 11804.0
+Fourteen_day_test_rate_per_100000: 1943.0
+Percent_Positivity_in_prior_14_days: 0.071
 Level: Yellow
 url: /states/TX/montgomery-county
 ---

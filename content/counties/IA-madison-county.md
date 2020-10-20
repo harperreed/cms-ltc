@@ -1,9 +1,9 @@
 ---
 title: "Madison County, IA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:19121.0,FEMA:7.0,Medium metro,Red]
+tags: [FIPS:19121.0,FEMA:7.0,Medium metro,Yellow]
 categories: [IA]
 County: Madison County
 State: IA
@@ -11,10 +11,10 @@ FIPS: 19121.0
 FEMA_Region: 7.0
 Population: 16338.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 594.0
-Fourteen_day_test_rate_per_100000: 3636.0
-Percent_Positivity_in_prior_14_days: 0.106
-Level: Red
+Tests_in_prior_14_days: 607.0
+Fourteen_day_test_rate_per_100000: 3715.0
+Percent_Positivity_in_prior_14_days: 0.087
+Level: Yellow
 url: /states/IA/madison-county
 ---
 

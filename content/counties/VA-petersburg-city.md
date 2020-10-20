@@ -1,6 +1,6 @@
 ---
 title: "Petersburg City, VA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:51730.0,FEMA:3.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 51730.0
 FEMA_Region: 3.0
 Population: 31346.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 2130.0
-Fourteen_day_test_rate_per_100000: 6795.0
-Percent_Positivity_in_prior_14_days: 0.042
+Tests_in_prior_14_days: 2050.0
+Fourteen_day_test_rate_per_100000: 6540.0
+Percent_Positivity_in_prior_14_days: 0.047
 Level: Green
 url: /states/VA/petersburg-city
 ---

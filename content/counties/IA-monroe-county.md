@@ -1,9 +1,9 @@
 ---
 title: "Monroe County, IA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
-tags: [FIPS:19135.0,FEMA:7.0,Non-core,Yellow]
+tags: [FIPS:19135.0,FEMA:7.0,Non-core,Red]
 categories: [IA]
 County: Monroe County
 State: IA
@@ -11,10 +11,10 @@ FIPS: 19135.0
 FEMA_Region: 7.0
 Population: 7707.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 259.0
-Fourteen_day_test_rate_per_100000: 3361.0
-Percent_Positivity_in_prior_14_days: 0.073
-Level: Yellow
+Tests_in_prior_14_days: 341.0
+Fourteen_day_test_rate_per_100000: 4425.0
+Percent_Positivity_in_prior_14_days: 0.191
+Level: Red
 url: /states/IA/monroe-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "New Haven County, CT"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:9009.0,FEMA:1.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 9009.0
 FEMA_Region: 1.0
 Population: 854757.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 16509.0
-Fourteen_day_test_rate_per_100000: 1931.0
-Percent_Positivity_in_prior_14_days: 0.021
+Tests_in_prior_14_days: 23270.0
+Fourteen_day_test_rate_per_100000: 2722.0
+Percent_Positivity_in_prior_14_days: 0.024
 Level: Green
 url: /states/CT/new-haven-county
 ---

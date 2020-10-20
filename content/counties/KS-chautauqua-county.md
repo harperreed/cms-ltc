@@ -1,6 +1,6 @@
 ---
 title: "Chautauqua County, KS"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:20019.0,FEMA:7.0,Non-core,Green]
@@ -13,7 +13,7 @@ Population: 3250.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 185.0
 Fourteen_day_test_rate_per_100000: 5692.0
-Percent_Positivity_in_prior_14_days: 0.043
+Percent_Positivity_in_prior_14_days: 0.027
 Level: Green
 url: /states/KS/chautauqua-county
 ---

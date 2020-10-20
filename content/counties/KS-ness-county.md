@@ -1,6 +1,6 @@
 ---
 title: "Ness County, KS"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:20135.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 20135.0
 FEMA_Region: 7.0
 Population: 2750.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 204.0
-Fourteen_day_test_rate_per_100000: 7418.0
-Percent_Positivity_in_prior_14_days: 0.098
+Tests_in_prior_14_days: 199.0
+Fourteen_day_test_rate_per_100000: 7236.0
+Percent_Positivity_in_prior_14_days: 0.085
 Level: Yellow
 url: /states/KS/ness-county
 ---

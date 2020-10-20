@@ -1,6 +1,6 @@
 ---
 title: "Butler County, PA"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:42019.0,FEMA:3.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 42019.0
 FEMA_Region: 3.0
 Population: 187853.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 4942.0
-Fourteen_day_test_rate_per_100000: 2631.0
-Percent_Positivity_in_prior_14_days: 0.032
+Tests_in_prior_14_days: 6477.0
+Fourteen_day_test_rate_per_100000: 3448.0
+Percent_Positivity_in_prior_14_days: 0.031
 Level: Green
 url: /states/PA/butler-county
 ---

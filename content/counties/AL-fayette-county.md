@@ -1,6 +1,6 @@
 ---
 title: "Fayette County, AL"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:1057.0,FEMA:4.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 1057.0
 FEMA_Region: 4.0
 Population: 16302.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 367.0
-Fourteen_day_test_rate_per_100000: 2251.0
-Percent_Positivity_in_prior_14_days: 0.147
+Tests_in_prior_14_days: 398.0
+Fourteen_day_test_rate_per_100000: 2441.0
+Percent_Positivity_in_prior_14_days: 0.148
 Level: Red
 url: /states/AL/fayette-county
 ---

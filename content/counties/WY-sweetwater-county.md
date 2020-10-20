@@ -1,6 +1,6 @@
 ---
 title: "Sweetwater County, WY"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:56037.0,FEMA:8.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 56037.0
 FEMA_Region: 8.0
 Population: 42343.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 147.0
-Fourteen_day_test_rate_per_100000: 347.0
-Percent_Positivity_in_prior_14_days: 0.014
+Tests_in_prior_14_days: 116.0
+Fourteen_day_test_rate_per_100000: 274.0
+Percent_Positivity_in_prior_14_days: 0.009
 Level: Green
 url: /states/WY/sweetwater-county
 ---

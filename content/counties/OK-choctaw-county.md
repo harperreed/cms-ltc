@@ -1,6 +1,6 @@
 ---
 title: "Choctaw County, OK"
-date: 2020-10-19
+date: 2020-10-20
 draft: false
 type: county
 tags: [FIPS:40023.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 40023.0
 FEMA_Region: 6.0
 Population: 14672.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 166.0
-Fourteen_day_test_rate_per_100000: 1131.0
-Percent_Positivity_in_prior_14_days: 0.169
+Tests_in_prior_14_days: 152.0
+Fourteen_day_test_rate_per_100000: 1036.0
+Percent_Positivity_in_prior_14_days: 0.158
 Level: Yellow
 url: /states/OK/choctaw-county
 ---
