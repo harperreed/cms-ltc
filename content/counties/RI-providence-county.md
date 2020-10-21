@@ -1,6 +1,6 @@
 ---
 title: "Providence County, RI"
-date: 2020-10-20
+date: 2020-10-21
 draft: false
 type: county
 tags: [FIPS:44007.0,FEMA:1.0,Large central metro,Green]

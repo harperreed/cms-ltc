@@ -1,6 +1,6 @@
 ---
 title: "Mohave County, AZ"
-date: 2020-10-20
+date: 2020-10-21
 draft: false
 type: county
 tags: [FIPS:4015.0,FEMA:9.0,Small metro,Green]

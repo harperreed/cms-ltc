@@ -1,6 +1,6 @@
 ---
 title: "Delaware County, OH"
-date: 2020-10-20
+date: 2020-10-21
 draft: false
 type: county
 tags: [FIPS:39041.0,FEMA:5.0,Large fringe metro,Yellow]

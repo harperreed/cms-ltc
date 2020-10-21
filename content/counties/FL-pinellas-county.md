@@ -1,6 +1,6 @@
 ---
 title: "Pinellas County, FL"
-date: 2020-10-20
+date: 2020-10-21
 draft: false
 type: county
 tags: [FIPS:12103.0,FEMA:4.0,Large central metro,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Moniteau County, MO"
-date: 2020-10-20
+date: 2020-10-21
 draft: false
 type: county
 tags: [FIPS:29135.0,FEMA:7.0,Small metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, IA"
-date: 2020-10-20
+date: 2020-10-21
 draft: false
 type: county
 tags: [FIPS:19069.0,FEMA:7.0,Non-core,Green]

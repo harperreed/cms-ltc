@@ -1,6 +1,6 @@
 ---
 title: "Claiborne County, MS"
-date: 2020-10-20
+date: 2020-10-21
 draft: false
 type: county
 tags: [FIPS:28021.0,FEMA:4.0,Micropolitan,Yellow]

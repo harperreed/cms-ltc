@@ -1,6 +1,6 @@
 ---
 title: "Sheridan County, WY"
-date: 2020-10-20
+date: 2020-10-21
 draft: false
 type: county
 tags: [FIPS:56033.0,FEMA:8.0,Micropolitan,Green]

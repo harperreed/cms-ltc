@@ -1,6 +1,6 @@
 ---
 title: "Ramsey County, MN"
-date: 2020-10-20
+date: 2020-10-21
 draft: false
 type: county
 tags: [FIPS:27123.0,FEMA:5.0,Large central metro,Yellow]

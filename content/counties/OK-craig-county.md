@@ -1,6 +1,6 @@
 ---
 title: "Craig County, OK"
-date: 2020-10-20
+date: 2020-10-21
 draft: false
 type: county
 tags: [FIPS:40035.0,FEMA:6.0,Non-core,Red]

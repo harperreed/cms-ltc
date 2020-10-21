@@ -1,6 +1,6 @@
 ---
 title: "Maricopa County, AZ"
-date: 2020-10-20
+date: 2020-10-21
 draft: false
 type: county
 tags: [FIPS:4013.0,FEMA:9.0,Large central metro,Green]

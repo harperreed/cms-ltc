@@ -1,6 +1,6 @@
 ---
 title: "Clay County, MO"
-date: 2020-10-20
+date: 2020-10-21
 draft: false
 type: county
 tags: [FIPS:29047.0,FEMA:7.0,Large fringe metro,Red]

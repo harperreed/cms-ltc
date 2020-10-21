@@ -1,6 +1,6 @@
 ---
 title: "Faulkner County, AR"
-date: 2020-10-20
+date: 2020-10-21
 draft: false
 type: county
 tags: [FIPS:5045.0,FEMA:6.0,Medium metro,Yellow]

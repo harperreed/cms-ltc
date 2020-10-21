@@ -1,6 +1,6 @@
 ---
 title: "Jefferson Davis County, MS"
-date: 2020-10-20
+date: 2020-10-21
 draft: false
 type: county
 tags: [FIPS:28065.0,FEMA:4.0,Non-core,Green]
