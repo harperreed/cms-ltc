@@ -1,6 +1,6 @@
 ---
 title: "Sherman County, KS"
-date: 2020-10-21
+date: 2020-10-22
 draft: false
 type: county
 tags: [FIPS:20181.0,FEMA:7.0,Non-core,Red]

@@ -1,6 +1,6 @@
 ---
 title: "East Feliciana Parish, LA"
-date: 2020-10-21
+date: 2020-10-22
 draft: false
 type: county
 tags: [FIPS:22037.0,FEMA:6.0,Medium metro,Green]

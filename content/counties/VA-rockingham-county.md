@@ -1,6 +1,6 @@
 ---
 title: "Rockingham County, VA"
-date: 2020-10-21
+date: 2020-10-22
 draft: false
 type: county
 tags: [FIPS:51165.0,FEMA:3.0,Small metro,Red]

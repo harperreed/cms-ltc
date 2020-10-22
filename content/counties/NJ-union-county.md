@@ -1,6 +1,6 @@
 ---
 title: "Union County, NJ"
-date: 2020-10-21
+date: 2020-10-22
 draft: false
 type: county
 tags: [FIPS:34039.0,FEMA:2.0,Large central metro,Green]

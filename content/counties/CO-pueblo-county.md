@@ -1,6 +1,6 @@
 ---
 title: "Pueblo County, CO"
-date: 2020-10-21
+date: 2020-10-22
 draft: false
 type: county
 tags: [FIPS:8101.0,FEMA:8.0,Small metro,Green]

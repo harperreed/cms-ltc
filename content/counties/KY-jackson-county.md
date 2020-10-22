@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, KY"
-date: 2020-10-21
+date: 2020-10-22
 draft: false
 type: county
 tags: [FIPS:21109.0,FEMA:4.0,Non-core,Yellow]

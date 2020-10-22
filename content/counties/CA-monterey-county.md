@@ -1,6 +1,6 @@
 ---
 title: "Monterey County, CA"
-date: 2020-10-21
+date: 2020-10-22
 draft: false
 type: county
 tags: [FIPS:6053.0,FEMA:9.0,Medium metro,Green]

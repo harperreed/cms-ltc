@@ -1,6 +1,6 @@
 ---
 title: "Texas County, OK"
-date: 2020-10-21
+date: 2020-10-22
 draft: false
 type: county
 tags: [FIPS:40139.0,FEMA:6.0,Micropolitan,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Vermilion Parish, LA"
-date: 2020-10-21
+date: 2020-10-22
 draft: false
 type: county
 tags: [FIPS:22113.0,FEMA:6.0,Medium metro,Green]

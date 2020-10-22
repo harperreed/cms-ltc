@@ -1,6 +1,6 @@
 ---
 title: "Madison County, FL"
-date: 2020-10-21
+date: 2020-10-22
 draft: false
 type: county
 tags: [FIPS:12079.0,FEMA:4.0,Non-core,Green]

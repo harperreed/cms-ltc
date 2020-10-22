@@ -1,6 +1,6 @@
 ---
 title: "Callaway County, MO"
-date: 2020-10-21
+date: 2020-10-22
 draft: false
 type: county
 tags: [FIPS:29027.0,FEMA:7.0,Small metro,Yellow]

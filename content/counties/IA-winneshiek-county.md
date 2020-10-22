@@ -1,6 +1,6 @@
 ---
 title: "Winneshiek County, IA"
-date: 2020-10-21
+date: 2020-10-22
 draft: false
 type: county
 tags: [FIPS:19191.0,FEMA:7.0,Non-core,Yellow]
