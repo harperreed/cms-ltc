@@ -1,6 +1,6 @@
 ---
 title: "Uintah County, UT"
-date: 2020-10-22
+date: 2020-10-23
 draft: false
 type: county
 tags: [FIPS:49047.0,FEMA:8.0,Micropolitan,Yellow]

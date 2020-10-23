@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, NC"
-date: 2020-10-22
+date: 2020-10-23
 draft: false
 type: county
 tags: [FIPS:37099.0,FEMA:4.0,Micropolitan,Yellow]

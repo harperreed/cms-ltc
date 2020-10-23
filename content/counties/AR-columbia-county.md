@@ -1,6 +1,6 @@
 ---
 title: "Columbia County, AR"
-date: 2020-10-22
+date: 2020-10-23
 draft: false
 type: county
 tags: [FIPS:5027.0,FEMA:6.0,Micropolitan,Yellow]

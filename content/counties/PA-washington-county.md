@@ -1,6 +1,6 @@
 ---
 title: "Washington County, PA"
-date: 2020-10-22
+date: 2020-10-23
 draft: false
 type: county
 tags: [FIPS:42125.0,FEMA:3.0,Large fringe metro,Green]

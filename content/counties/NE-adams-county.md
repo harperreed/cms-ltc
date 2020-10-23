@@ -1,6 +1,6 @@
 ---
 title: "Adams County, NE"
-date: 2020-10-22
+date: 2020-10-23
 draft: false
 type: county
 tags: [FIPS:31001.0,FEMA:7.0,Micropolitan,Red]

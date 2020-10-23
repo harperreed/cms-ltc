@@ -1,6 +1,6 @@
 ---
 title: "King William County, VA"
-date: 2020-10-22
+date: 2020-10-23
 draft: false
 type: county
 tags: [FIPS:51101.0,FEMA:3.0,Large fringe metro,Yellow]

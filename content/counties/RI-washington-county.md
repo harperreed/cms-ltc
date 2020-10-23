@@ -1,6 +1,6 @@
 ---
 title: "Washington County, RI"
-date: 2020-10-22
+date: 2020-10-23
 draft: false
 type: county
 tags: [FIPS:44009.0,FEMA:1.0,Large fringe metro,Green]

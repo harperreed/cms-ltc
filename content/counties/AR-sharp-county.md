@@ -1,6 +1,6 @@
 ---
 title: "Sharp County, AR"
-date: 2020-10-22
+date: 2020-10-23
 draft: false
 type: county
 tags: [FIPS:5135.0,FEMA:6.0,Non-core,Green]

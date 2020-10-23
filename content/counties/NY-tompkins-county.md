@@ -1,6 +1,6 @@
 ---
 title: "Tompkins County, NY"
-date: 2020-10-22
+date: 2020-10-23
 draft: false
 type: county
 tags: [FIPS:36109.0,FEMA:2.0,Small metro,Green]

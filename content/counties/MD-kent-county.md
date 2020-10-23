@@ -1,6 +1,6 @@
 ---
 title: "Kent County, MD"
-date: 2020-10-22
+date: 2020-10-23
 draft: false
 type: county
 tags: [FIPS:24029.0,FEMA:3.0,Non-core,Green]
