@@ -1,6 +1,6 @@
 ---
 title: "Throckmorton County, TX"
-date: 2020-10-23
+date: 2020-10-24
 draft: false
 type: county
 tags: [FIPS:48447.0,FEMA:6.0,Non-core,Green]

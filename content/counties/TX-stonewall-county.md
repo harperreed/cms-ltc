@@ -1,6 +1,6 @@
 ---
 title: "Stonewall County, TX"
-date: 2020-10-23
+date: 2020-10-24
 draft: false
 type: county
 tags: [FIPS:48433.0,FEMA:6.0,Non-core,Green]

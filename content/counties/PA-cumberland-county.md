@@ -1,6 +1,6 @@
 ---
 title: "Cumberland County, PA"
-date: 2020-10-23
+date: 2020-10-24
 draft: false
 type: county
 tags: [FIPS:42041.0,FEMA:3.0,Medium metro,Green]

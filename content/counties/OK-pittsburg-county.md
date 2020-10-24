@@ -1,6 +1,6 @@
 ---
 title: "Pittsburg County, OK"
-date: 2020-10-23
+date: 2020-10-24
 draft: false
 type: county
 tags: [FIPS:40121.0,FEMA:6.0,Micropolitan,Red]

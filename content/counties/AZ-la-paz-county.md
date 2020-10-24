@@ -1,6 +1,6 @@
 ---
 title: "La Paz County, AZ"
-date: 2020-10-23
+date: 2020-10-24
 draft: false
 type: county
 tags: [FIPS:4012.0,FEMA:9.0,Non-core,Green]
