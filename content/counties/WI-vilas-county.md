@@ -1,6 +1,6 @@
 ---
 title: "Vilas County, WI"
-date: 2020-10-24
+date: 2020-10-25
 draft: false
 type: county
 tags: [FIPS:55125.0,FEMA:5.0,Non-core,Red]

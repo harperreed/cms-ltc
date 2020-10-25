@@ -1,6 +1,6 @@
 ---
 title: "Creek County, OK"
-date: 2020-10-24
+date: 2020-10-25
 draft: false
 type: county
 tags: [FIPS:40037.0,FEMA:6.0,Medium metro,Yellow]

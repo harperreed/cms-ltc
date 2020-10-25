@@ -1,6 +1,6 @@
 ---
 title: "Tensas Parish, LA"
-date: 2020-10-24
+date: 2020-10-25
 draft: false
 type: county
 tags: [FIPS:22107.0,FEMA:6.0,Non-core,Red]

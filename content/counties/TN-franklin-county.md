@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, TN"
-date: 2020-10-24
+date: 2020-10-25
 draft: false
 type: county
 tags: [FIPS:47051.0,FEMA:4.0,Micropolitan,Green]

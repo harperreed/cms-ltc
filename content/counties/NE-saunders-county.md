@@ -1,6 +1,6 @@
 ---
 title: "Saunders County, NE"
-date: 2020-10-24
+date: 2020-10-25
 draft: false
 type: county
 tags: [FIPS:31155.0,FEMA:7.0,Medium metro,Red]

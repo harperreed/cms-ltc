@@ -1,6 +1,6 @@
 ---
 title: "Northampton County, VA"
-date: 2020-10-24
+date: 2020-10-25
 draft: false
 type: county
 tags: [FIPS:51131.0,FEMA:3.0,Non-core,Green]

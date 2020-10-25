@@ -1,6 +1,6 @@
 ---
 title: "Howell County, MO"
-date: 2020-10-24
+date: 2020-10-25
 draft: false
 type: county
 tags: [FIPS:29091.0,FEMA:7.0,Micropolitan,Red]

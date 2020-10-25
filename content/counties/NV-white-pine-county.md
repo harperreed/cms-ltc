@@ -1,6 +1,6 @@
 ---
 title: "White Pine County, NV"
-date: 2020-10-24
+date: 2020-10-25
 draft: false
 type: county
 tags: [FIPS:32033.0,FEMA:9.0,Non-core,Green]

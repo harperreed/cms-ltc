@@ -1,6 +1,6 @@
 ---
 title: "Gaston County, NC"
-date: 2020-10-24
+date: 2020-10-25
 draft: false
 type: county
 tags: [FIPS:37071.0,FEMA:4.0,Large fringe metro,Red]

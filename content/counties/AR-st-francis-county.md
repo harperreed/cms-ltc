@@ -1,6 +1,6 @@
 ---
 title: "St. Francis County, AR"
-date: 2020-10-24
+date: 2020-10-25
 draft: false
 type: county
 tags: [FIPS:5123.0,FEMA:6.0,Micropolitan,Yellow]
