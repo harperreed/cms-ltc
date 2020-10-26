@@ -1,6 +1,6 @@
 ---
 title: "Lonoke County, AR"
-date: 2020-10-25
+date: 2020-10-26
 draft: false
 type: county
 tags: [FIPS:5085.0,FEMA:6.0,Medium metro,Green]

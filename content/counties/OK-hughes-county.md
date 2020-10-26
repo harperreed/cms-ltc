@@ -1,6 +1,6 @@
 ---
 title: "Hughes County, OK"
-date: 2020-10-25
+date: 2020-10-26
 draft: false
 type: county
 tags: [FIPS:40063.0,FEMA:6.0,Non-core,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Webster County, KY"
-date: 2020-10-25
+date: 2020-10-26
 draft: false
 type: county
 tags: [FIPS:21233.0,FEMA:4.0,Non-core,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Knox County, IN"
-date: 2020-10-25
+date: 2020-10-26
 draft: false
 type: county
 tags: [FIPS:18083.0,FEMA:5.0,Micropolitan,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Emery County, UT"
-date: 2020-10-25
+date: 2020-10-26
 draft: false
 type: county
 tags: [FIPS:49015.0,FEMA:8.0,Non-core,Yellow]

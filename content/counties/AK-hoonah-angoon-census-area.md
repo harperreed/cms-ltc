@@ -1,6 +1,6 @@
 ---
 title: "Hoonah-Angoon Census Area, AK"
-date: 2020-10-25
+date: 2020-10-26
 draft: false
 type: county
 tags: [FIPS:2105.0,FEMA:10.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Towner County, ND"
-date: 2020-10-25
+date: 2020-10-26
 draft: false
 type: county
 tags: [FIPS:38095.0,FEMA:8.0,Non-core,Red]

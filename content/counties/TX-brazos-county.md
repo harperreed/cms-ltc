@@ -1,6 +1,6 @@
 ---
 title: "Brazos County, TX"
-date: 2020-10-25
+date: 2020-10-26
 draft: false
 type: county
 tags: [FIPS:48041.0,FEMA:6.0,Small metro,Green]
