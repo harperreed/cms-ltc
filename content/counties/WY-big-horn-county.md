@@ -1,6 +1,6 @@
 ---
 title: "Big Horn County, WY"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:56003.0,FEMA:8.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 56003.0
 FEMA_Region: 8.0
 Population: 11790.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 27.0
-Fourteen_day_test_rate_per_100000: 229.0
-Percent_Positivity_in_prior_14_days: 0.185
+Tests_in_prior_14_days: 66.0
+Fourteen_day_test_rate_per_100000: 560.0
+Percent_Positivity_in_prior_14_days: 0.303
 Level: Yellow
 url: /states/WY/big-horn-county
 ---

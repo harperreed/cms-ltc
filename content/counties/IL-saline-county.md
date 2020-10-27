@@ -1,9 +1,9 @@
 ---
 title: "Saline County, IL"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
-tags: [FIPS:17165.0,FEMA:5.0,Non-core,Yellow]
+tags: [FIPS:17165.0,FEMA:5.0,Non-core,Red]
 categories: [IL]
 County: Saline County
 State: IL
@@ -13,8 +13,8 @@ Population: 23491.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 837.0
 Fourteen_day_test_rate_per_100000: 3563.0
-Percent_Positivity_in_prior_14_days: 0.096
-Level: Yellow
+Percent_Positivity_in_prior_14_days: 0.117
+Level: Red
 url: /states/IL/saline-county
 ---
 

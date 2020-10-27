@@ -1,6 +1,6 @@
 ---
 title: "Carroll County, TN"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:47017.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 47017.0
 FEMA_Region: 4.0
 Population: 27767.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1255.0
-Fourteen_day_test_rate_per_100000: 4520.0
-Percent_Positivity_in_prior_14_days: 0.08
+Tests_in_prior_14_days: 834.0
+Fourteen_day_test_rate_per_100000: 3004.0
+Percent_Positivity_in_prior_14_days: 0.086
 Level: Yellow
 url: /states/TN/carroll-county
 ---

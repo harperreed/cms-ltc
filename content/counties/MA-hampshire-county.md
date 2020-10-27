@@ -1,6 +1,6 @@
 ---
 title: "Hampshire County, MA"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:25015.0,FEMA:1.0,Medium metro,Green]
@@ -11,8 +11,8 @@ FIPS: 25015.0
 FEMA_Region: 1.0
 Population: 160830.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 33631.0
-Fourteen_day_test_rate_per_100000: 20911.0
+Tests_in_prior_14_days: 38760.0
+Fourteen_day_test_rate_per_100000: 24100.0
 Percent_Positivity_in_prior_14_days: 0.003
 Level: Green
 url: /states/MA/hampshire-county

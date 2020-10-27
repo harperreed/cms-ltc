@@ -1,6 +1,6 @@
 ---
 title: "Harrison County, MS"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:28047.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 28047.0
 FEMA_Region: 4.0
 Population: 208080.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2000.0
-Fourteen_day_test_rate_per_100000: 961.0
-Percent_Positivity_in_prior_14_days: 0.124
+Tests_in_prior_14_days: 1732.0
+Fourteen_day_test_rate_per_100000: 832.0
+Percent_Positivity_in_prior_14_days: 0.137
 Level: Red
 url: /states/MS/harrison-county
 ---

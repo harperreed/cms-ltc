@@ -1,6 +1,6 @@
 ---
 title: "Davis County, IA"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:19051.0,FEMA:7.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 19051.0
 FEMA_Region: 7.0
 Population: 9000.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 355.0
-Fourteen_day_test_rate_per_100000: 3944.0
-Percent_Positivity_in_prior_14_days: 0.054
+Tests_in_prior_14_days: 308.0
+Fourteen_day_test_rate_per_100000: 3422.0
+Percent_Positivity_in_prior_14_days: 0.078
 Level: Yellow
 url: /states/IA/davis-county
 ---

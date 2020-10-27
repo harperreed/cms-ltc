@@ -1,6 +1,6 @@
 ---
 title: "Sullivan County, PA"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:42113.0,FEMA:3.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 42113.0
 FEMA_Region: 3.0
 Population: 6066.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 221.0
-Fourteen_day_test_rate_per_100000: 3643.0
-Percent_Positivity_in_prior_14_days: 0.009
+Tests_in_prior_14_days: 239.0
+Fourteen_day_test_rate_per_100000: 3940.0
+Percent_Positivity_in_prior_14_days: 0.008
 Level: Green
 url: /states/PA/sullivan-county
 ---

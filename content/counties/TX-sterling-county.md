@@ -1,6 +1,6 @@
 ---
 title: "Sterling County, TX"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:48431.0,FEMA:6.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 48431.0
 FEMA_Region: 6.0
 Population: 1291.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 37.0
-Fourteen_day_test_rate_per_100000: 2866.0
-Percent_Positivity_in_prior_14_days: 0.216
+Tests_in_prior_14_days: 50.0
+Fourteen_day_test_rate_per_100000: 3873.0
+Percent_Positivity_in_prior_14_days: 0.22
 Level: Red
 url: /states/TX/sterling-county
 ---

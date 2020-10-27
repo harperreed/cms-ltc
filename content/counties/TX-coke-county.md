@@ -1,6 +1,6 @@
 ---
 title: "Coke County, TX"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:48081.0,FEMA:6.0,Non-core,Red]
@@ -13,7 +13,7 @@ Population: 3387.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 161.0
 Fourteen_day_test_rate_per_100000: 4753.0
-Percent_Positivity_in_prior_14_days: 0.292
+Percent_Positivity_in_prior_14_days: 0.41
 Level: Red
 url: /states/TX/coke-county
 ---

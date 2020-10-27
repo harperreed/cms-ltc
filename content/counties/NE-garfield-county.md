@@ -1,9 +1,9 @@
 ---
 title: "Garfield County, NE"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
-tags: [FIPS:31071.0,FEMA:7.0,Non-core,Yellow]
+tags: [FIPS:31071.0,FEMA:7.0,Non-core,Red]
 categories: [NE]
 County: Garfield County
 State: NE
@@ -11,10 +11,10 @@ FIPS: 31071.0
 FEMA_Region: 7.0
 Population: 1969.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 43.0
-Fourteen_day_test_rate_per_100000: 2184.0
-Percent_Positivity_in_prior_14_days: 0.093
-Level: Yellow
+Tests_in_prior_14_days: 66.0
+Fourteen_day_test_rate_per_100000: 3352.0
+Percent_Positivity_in_prior_14_days: 0.136
+Level: Red
 url: /states/NE/garfield-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Logan County, NE"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:31113.0,FEMA:7.0,Micropolitan,Green]

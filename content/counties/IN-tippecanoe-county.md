@@ -1,6 +1,6 @@
 ---
 title: "Tippecanoe County, IN"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:18157.0,FEMA:5.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 18157.0
 FEMA_Region: 5.0
 Population: 195732.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 15865.0
-Fourteen_day_test_rate_per_100000: 8105.0
-Percent_Positivity_in_prior_14_days: 0.032
+Tests_in_prior_14_days: 16238.0
+Fourteen_day_test_rate_per_100000: 8296.0
+Percent_Positivity_in_prior_14_days: 0.038
 Level: Green
 url: /states/IN/tippecanoe-county
 ---

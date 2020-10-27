@@ -1,9 +1,9 @@
 ---
 title: "Burt County, NE"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
-tags: [FIPS:31021.0,FEMA:7.0,Non-core,Red]
+tags: [FIPS:31021.0,FEMA:7.0,Non-core,Yellow]
 categories: [NE]
 County: Burt County
 State: NE
@@ -11,10 +11,10 @@ FIPS: 31021.0
 FEMA_Region: 7.0
 Population: 6459.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 197.0
-Fourteen_day_test_rate_per_100000: 3050.0
-Percent_Positivity_in_prior_14_days: 0.107
-Level: Red
+Tests_in_prior_14_days: 224.0
+Fourteen_day_test_rate_per_100000: 3468.0
+Percent_Positivity_in_prior_14_days: 0.062
+Level: Yellow
 url: /states/NE/burt-county
 ---
 

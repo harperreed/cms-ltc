@@ -1,6 +1,6 @@
 ---
 title: "Lawrence County, AL"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:1079.0,FEMA:4.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 1079.0
 FEMA_Region: 4.0
 Population: 32924.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 999.0
-Fourteen_day_test_rate_per_100000: 3034.0
-Percent_Positivity_in_prior_14_days: 0.112
+Tests_in_prior_14_days: 934.0
+Fourteen_day_test_rate_per_100000: 2837.0
+Percent_Positivity_in_prior_14_days: 0.139
 Level: Red
 url: /states/AL/lawrence-county
 ---

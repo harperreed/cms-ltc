@@ -1,9 +1,9 @@
 ---
 title: "Ogle County, IL"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
-tags: [FIPS:17141.0,FEMA:5.0,Micropolitan,Yellow]
+tags: [FIPS:17141.0,FEMA:5.0,Micropolitan,Red]
 categories: [IL]
 County: Ogle County
 State: IL
@@ -11,10 +11,10 @@ FIPS: 17141.0
 FEMA_Region: 5.0
 Population: 50643.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1998.0
-Fourteen_day_test_rate_per_100000: 3945.0
-Percent_Positivity_in_prior_14_days: 0.074
-Level: Yellow
+Tests_in_prior_14_days: 2135.0
+Fourteen_day_test_rate_per_100000: 4216.0
+Percent_Positivity_in_prior_14_days: 0.117
+Level: Red
 url: /states/IL/ogle-county
 ---
 

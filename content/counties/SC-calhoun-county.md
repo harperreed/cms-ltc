@@ -1,6 +1,6 @@
 ---
 title: "Calhoun County, SC"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:45017.0,FEMA:4.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 45017.0
 FEMA_Region: 4.0
 Population: 14553.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 247.0
-Fourteen_day_test_rate_per_100000: 1697.0
-Percent_Positivity_in_prior_14_days: 0.073
+Tests_in_prior_14_days: 209.0
+Fourteen_day_test_rate_per_100000: 1436.0
+Percent_Positivity_in_prior_14_days: 0.081
 Level: Yellow
 url: /states/SC/calhoun-county
 ---

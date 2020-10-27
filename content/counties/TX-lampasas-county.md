@@ -1,9 +1,9 @@
 ---
 title: "Lampasas County, TX"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
-tags: [FIPS:48281.0,FEMA:6.0,Medium metro,Yellow]
+tags: [FIPS:48281.0,FEMA:6.0,Medium metro,Green]
 categories: [TX]
 County: Lampasas County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48281.0
 FEMA_Region: 6.0
 Population: 21428.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 885.0
-Fourteen_day_test_rate_per_100000: 4130.0
-Percent_Positivity_in_prior_14_days: 0.051
-Level: Yellow
+Tests_in_prior_14_days: 815.0
+Fourteen_day_test_rate_per_100000: 3803.0
+Percent_Positivity_in_prior_14_days: 0.04
+Level: Green
 url: /states/TX/lampasas-county
 ---
 

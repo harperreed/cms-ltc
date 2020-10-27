@@ -1,6 +1,6 @@
 ---
 title: "Cheyenne County, CO"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:8017.0,FEMA:8.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 8017.0
 FEMA_Region: 8.0
 Population: 1831.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 77.0
-Fourteen_day_test_rate_per_100000: 4205.0
-Percent_Positivity_in_prior_14_days: 0.0
+Tests_in_prior_14_days: 76.0
+Fourteen_day_test_rate_per_100000: 4151.0
+Percent_Positivity_in_prior_14_days: 0.013
 Level: Green
 url: /states/CO/cheyenne-county
 ---

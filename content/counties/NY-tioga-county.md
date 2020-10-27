@@ -1,6 +1,6 @@
 ---
 title: "Tioga County, NY"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:36107.0,FEMA:2.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 36107.0
 FEMA_Region: 2.0
 Population: 48203.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 4496.0
-Fourteen_day_test_rate_per_100000: 9327.0
-Percent_Positivity_in_prior_14_days: 0.034
+Tests_in_prior_14_days: 4593.0
+Fourteen_day_test_rate_per_100000: 9528.0
+Percent_Positivity_in_prior_14_days: 0.046
 Level: Green
 url: /states/NY/tioga-county
 ---

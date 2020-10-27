@@ -1,6 +1,6 @@
 ---
 title: "Lawrence County, MO"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:29109.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 29109.0
 FEMA_Region: 7.0
 Population: 38355.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 340.0
-Fourteen_day_test_rate_per_100000: 886.0
-Percent_Positivity_in_prior_14_days: 0.115
+Tests_in_prior_14_days: 332.0
+Fourteen_day_test_rate_per_100000: 866.0
+Percent_Positivity_in_prior_14_days: 0.154
 Level: Yellow
 url: /states/MO/lawrence-county
 ---

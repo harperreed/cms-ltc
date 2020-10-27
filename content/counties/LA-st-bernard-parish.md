@@ -1,6 +1,6 @@
 ---
 title: "St. Bernard Parish, LA"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:22087.0,FEMA:6.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 22087.0
 FEMA_Region: 6.0
 Population: 47244.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 2870.0
-Fourteen_day_test_rate_per_100000: 6075.0
-Percent_Positivity_in_prior_14_days: 0.022
+Tests_in_prior_14_days: 2873.0
+Fourteen_day_test_rate_per_100000: 6081.0
+Percent_Positivity_in_prior_14_days: 0.021
 Level: Green
 url: /states/LA/st-bernard-parish
 ---

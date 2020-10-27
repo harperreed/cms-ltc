@@ -1,9 +1,9 @@
 ---
 title: "Adair County, KY"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
-tags: [FIPS:21001.0,FEMA:4.0,Non-core,Green]
+tags: [FIPS:21001.0,FEMA:4.0,Non-core,Yellow]
 categories: [KY]
 County: Adair County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21001.0
 FEMA_Region: 4.0
 Population: 19202.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 648.0
-Fourteen_day_test_rate_per_100000: 3375.0
-Percent_Positivity_in_prior_14_days: 0.046
-Level: Green
+Tests_in_prior_14_days: 656.0
+Fourteen_day_test_rate_per_100000: 3416.0
+Percent_Positivity_in_prior_14_days: 0.053
+Level: Yellow
 url: /states/KY/adair-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Carter County, OK"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:40019.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 40019.0
 FEMA_Region: 6.0
 Population: 48111.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1006.0
-Fourteen_day_test_rate_per_100000: 2091.0
-Percent_Positivity_in_prior_14_days: 0.068
+Tests_in_prior_14_days: 1004.0
+Fourteen_day_test_rate_per_100000: 2087.0
+Percent_Positivity_in_prior_14_days: 0.075
 Level: Yellow
 url: /states/OK/carter-county
 ---

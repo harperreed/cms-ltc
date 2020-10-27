@@ -1,9 +1,9 @@
 ---
 title: "Shelby County, MO"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
-tags: [FIPS:29205.0,FEMA:7.0,Non-core,Green]
+tags: [FIPS:29205.0,FEMA:7.0,Non-core,Yellow]
 categories: [MO]
 County: Shelby County
 State: MO
@@ -11,10 +11,10 @@ FIPS: 29205.0
 FEMA_Region: 7.0
 Population: 5930.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 25.0
-Fourteen_day_test_rate_per_100000: 422.0
-Percent_Positivity_in_prior_14_days: 0.04
-Level: Green
+Tests_in_prior_14_days: 26.0
+Fourteen_day_test_rate_per_100000: 438.0
+Percent_Positivity_in_prior_14_days: 0.192
+Level: Yellow
 url: /states/MO/shelby-county
 ---
 

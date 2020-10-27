@@ -1,6 +1,6 @@
 ---
 title: "Rensselaer County, NY"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:36083.0,FEMA:2.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 36083.0
 FEMA_Region: 2.0
 Population: 158714.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 7289.0
-Fourteen_day_test_rate_per_100000: 4593.0
-Percent_Positivity_in_prior_14_days: 0.011
+Tests_in_prior_14_days: 8261.0
+Fourteen_day_test_rate_per_100000: 5205.0
+Percent_Positivity_in_prior_14_days: 0.012
 Level: Green
 url: /states/NY/rensselaer-county
 ---

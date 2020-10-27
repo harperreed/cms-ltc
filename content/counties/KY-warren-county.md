@@ -1,9 +1,9 @@
 ---
 title: "Warren County, KY"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
-tags: [FIPS:21227.0,FEMA:4.0,Small metro,Red]
+tags: [FIPS:21227.0,FEMA:4.0,Small metro,Yellow]
 categories: [KY]
 County: Warren County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21227.0
 FEMA_Region: 4.0
 Population: 132896.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2568.0
-Fourteen_day_test_rate_per_100000: 1932.0
-Percent_Positivity_in_prior_14_days: 0.11
-Level: Red
+Tests_in_prior_14_days: 2836.0
+Fourteen_day_test_rate_per_100000: 2134.0
+Percent_Positivity_in_prior_14_days: 0.097
+Level: Yellow
 url: /states/KY/warren-county
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Mecosta County, MI"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
-tags: [FIPS:26107.0,FEMA:5.0,Micropolitan,Green]
+tags: [FIPS:26107.0,FEMA:5.0,Micropolitan,Yellow]
 categories: [MI]
 County: Mecosta County
 State: MI
@@ -11,10 +11,10 @@ FIPS: 26107.0
 FEMA_Region: 5.0
 Population: 43453.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2197.0
-Fourteen_day_test_rate_per_100000: 5056.0
-Percent_Positivity_in_prior_14_days: 0.041
-Level: Green
+Tests_in_prior_14_days: 2103.0
+Fourteen_day_test_rate_per_100000: 4840.0
+Percent_Positivity_in_prior_14_days: 0.05
+Level: Yellow
 url: /states/MI/mecosta-county
 ---
 

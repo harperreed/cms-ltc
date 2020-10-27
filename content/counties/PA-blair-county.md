@@ -1,9 +1,9 @@
 ---
 title: "Blair County, PA"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
-tags: [FIPS:42013.0,FEMA:3.0,Small metro,Green]
+tags: [FIPS:42013.0,FEMA:3.0,Small metro,Yellow]
 categories: [PA]
 County: Blair County
 State: PA
@@ -11,10 +11,10 @@ FIPS: 42013.0
 FEMA_Region: 3.0
 Population: 121829.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 6066.0
-Fourteen_day_test_rate_per_100000: 4979.0
-Percent_Positivity_in_prior_14_days: 0.046
-Level: Green
+Tests_in_prior_14_days: 5623.0
+Fourteen_day_test_rate_per_100000: 4615.0
+Percent_Positivity_in_prior_14_days: 0.05
+Level: Yellow
 url: /states/PA/blair-county
 ---
 

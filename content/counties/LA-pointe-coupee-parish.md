@@ -1,9 +1,9 @@
 ---
 title: "Pointe Coupee Parish, LA"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
-tags: [FIPS:22077.0,FEMA:6.0,Medium metro,Green]
+tags: [FIPS:22077.0,FEMA:6.0,Medium metro,Yellow]
 categories: [LA]
 County: Pointe Coupee Parish
 State: LA
@@ -11,10 +11,10 @@ FIPS: 22077.0
 FEMA_Region: 6.0
 Population: 21730.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 881.0
-Fourteen_day_test_rate_per_100000: 4054.0
-Percent_Positivity_in_prior_14_days: 0.043
-Level: Green
+Tests_in_prior_14_days: 719.0
+Fourteen_day_test_rate_per_100000: 3309.0
+Percent_Positivity_in_prior_14_days: 0.081
+Level: Yellow
 url: /states/LA/pointe-coupee-parish
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Warren County, NJ"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:34041.0,FEMA:2.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 34041.0
 FEMA_Region: 2.0
 Population: 105267.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 3057.0
-Fourteen_day_test_rate_per_100000: 2904.0
-Percent_Positivity_in_prior_14_days: 0.018
+Tests_in_prior_14_days: 3226.0
+Fourteen_day_test_rate_per_100000: 3065.0
+Percent_Positivity_in_prior_14_days: 0.021
 Level: Green
 url: /states/NJ/warren-county
 ---

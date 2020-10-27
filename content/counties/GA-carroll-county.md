@@ -1,6 +1,6 @@
 ---
 title: "Carroll County, GA"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:13045.0,FEMA:4.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 13045.0
 FEMA_Region: 4.0
 Population: 119992.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1903.0
-Fourteen_day_test_rate_per_100000: 1586.0
-Percent_Positivity_in_prior_14_days: 0.123
+Tests_in_prior_14_days: 2059.0
+Fourteen_day_test_rate_per_100000: 1716.0
+Percent_Positivity_in_prior_14_days: 0.141
 Level: Red
 url: /states/GA/carroll-county
 ---

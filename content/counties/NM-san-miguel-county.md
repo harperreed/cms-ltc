@@ -1,6 +1,6 @@
 ---
 title: "San Miguel County, NM"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:35047.0,FEMA:6.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 35047.0
 FEMA_Region: 6.0
 Population: 27277.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 863.0
-Fourteen_day_test_rate_per_100000: 3164.0
-Percent_Positivity_in_prior_14_days: 0.03
+Tests_in_prior_14_days: 893.0
+Fourteen_day_test_rate_per_100000: 3274.0
+Percent_Positivity_in_prior_14_days: 0.036
 Level: Green
 url: /states/NM/san-miguel-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Wayne County, NE"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:31179.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 31179.0
 FEMA_Region: 7.0
 Population: 9385.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 419.0
-Fourteen_day_test_rate_per_100000: 4465.0
-Percent_Positivity_in_prior_14_days: 0.2
+Tests_in_prior_14_days: 491.0
+Fourteen_day_test_rate_per_100000: 5232.0
+Percent_Positivity_in_prior_14_days: 0.149
 Level: Red
 url: /states/NE/wayne-county
 ---

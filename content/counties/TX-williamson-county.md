@@ -1,6 +1,6 @@
 ---
 title: "Williamson County, TX"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:48491.0,FEMA:6.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 48491.0
 FEMA_Region: 6.0
 Population: 590551.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 14702.0
-Fourteen_day_test_rate_per_100000: 2490.0
-Percent_Positivity_in_prior_14_days: 0.039
+Tests_in_prior_14_days: 15861.0
+Fourteen_day_test_rate_per_100000: 2686.0
+Percent_Positivity_in_prior_14_days: 0.036
 Level: Green
 url: /states/TX/williamson-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Terry County, TX"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
-tags: [FIPS:48445.0,FEMA:6.0,Non-core,Green]
+tags: [FIPS:48445.0,FEMA:6.0,Non-core,Yellow]
 categories: [TX]
 County: Terry County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48445.0
 FEMA_Region: 6.0
 Population: 12337.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 93.0
-Fourteen_day_test_rate_per_100000: 754.0
-Percent_Positivity_in_prior_14_days: 0.043
-Level: Green
+Tests_in_prior_14_days: 83.0
+Fourteen_day_test_rate_per_100000: 673.0
+Percent_Positivity_in_prior_14_days: 0.096
+Level: Yellow
 url: /states/TX/terry-county
 ---
 

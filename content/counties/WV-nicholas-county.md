@@ -1,6 +1,6 @@
 ---
 title: "Nicholas County, WV"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:54067.0,FEMA:3.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 54067.0
 FEMA_Region: 3.0
 Population: 24496.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 987.0
-Fourteen_day_test_rate_per_100000: 4029.0
-Percent_Positivity_in_prior_14_days: 0.064
+Tests_in_prior_14_days: 1006.0
+Fourteen_day_test_rate_per_100000: 4107.0
+Percent_Positivity_in_prior_14_days: 0.058
 Level: Yellow
 url: /states/WV/nicholas-county
 ---

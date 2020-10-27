@@ -1,6 +1,6 @@
 ---
 title: "Grand County, UT"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:49019.0,FEMA:8.0,Non-core,Green]
@@ -11,8 +11,8 @@ FIPS: 49019.0
 FEMA_Region: 8.0
 Population: 9754.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 798.0
-Fourteen_day_test_rate_per_100000: 8181.0
+Tests_in_prior_14_days: 660.0
+Fourteen_day_test_rate_per_100000: 6766.0
 Percent_Positivity_in_prior_14_days: 0.033
 Level: Green
 url: /states/UT/grand-county

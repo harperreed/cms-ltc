@@ -1,6 +1,6 @@
 ---
 title: "Ketchikan Gateway Borough, AK"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:2130.0,FEMA:10.0,Micropolitan,Green]
@@ -11,8 +11,8 @@ FIPS: 2130.0
 FEMA_Region: 10.0
 Population: 13901.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1131.0
-Fourteen_day_test_rate_per_100000: 8136.0
+Tests_in_prior_14_days: 1045.0
+Fourteen_day_test_rate_per_100000: 7517.0
 Percent_Positivity_in_prior_14_days: 0.001
 Level: Green
 url: /states/AK/ketchikan-gateway-borough

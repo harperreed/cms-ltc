@@ -1,6 +1,6 @@
 ---
 title: "Covington County, MS"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:28031.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28031.0
 FEMA_Region: 4.0
 Population: 18636.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1572.0
-Fourteen_day_test_rate_per_100000: 8435.0
-Percent_Positivity_in_prior_14_days: 0.083
+Tests_in_prior_14_days: 1951.0
+Fourteen_day_test_rate_per_100000: 10469.0
+Percent_Positivity_in_prior_14_days: 0.091
 Level: Yellow
 url: /states/MS/covington-county
 ---

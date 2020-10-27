@@ -1,9 +1,9 @@
 ---
 title: "Suffolk City, VA"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
-tags: [FIPS:51800.0,FEMA:3.0,Large fringe metro,Red]
+tags: [FIPS:51800.0,FEMA:3.0,Large fringe metro,Yellow]
 categories: [VA]
 County: Suffolk City
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51800.0
 FEMA_Region: 3.0
 Population: 92108.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 2723.0
-Fourteen_day_test_rate_per_100000: 2956.0
-Percent_Positivity_in_prior_14_days: 0.107
-Level: Red
+Tests_in_prior_14_days: 1842.0
+Fourteen_day_test_rate_per_100000: 2000.0
+Percent_Positivity_in_prior_14_days: 0.058
+Level: Yellow
 url: /states/VA/suffolk-city
 ---
 

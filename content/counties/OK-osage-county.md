@@ -1,6 +1,6 @@
 ---
 title: "Osage County, OK"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:40113.0,FEMA:6.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 40113.0
 FEMA_Region: 6.0
 Population: 46963.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 439.0
-Fourteen_day_test_rate_per_100000: 935.0
-Percent_Positivity_in_prior_14_days: 0.123
+Tests_in_prior_14_days: 401.0
+Fourteen_day_test_rate_per_100000: 854.0
+Percent_Positivity_in_prior_14_days: 0.18
 Level: Yellow
 url: /states/OK/osage-county
 ---

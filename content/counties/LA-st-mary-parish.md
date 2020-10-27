@@ -1,6 +1,6 @@
 ---
 title: "St. Mary Parish, LA"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:22101.0,FEMA:6.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 22101.0
 FEMA_Region: 6.0
 Population: 49348.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1242.0
-Fourteen_day_test_rate_per_100000: 2517.0
-Percent_Positivity_in_prior_14_days: 0.033
+Tests_in_prior_14_days: 1046.0
+Fourteen_day_test_rate_per_100000: 2120.0
+Percent_Positivity_in_prior_14_days: 0.036
 Level: Green
 url: /states/LA/st-mary-parish
 ---

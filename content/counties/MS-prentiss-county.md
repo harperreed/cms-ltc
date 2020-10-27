@@ -1,6 +1,6 @@
 ---
 title: "Prentiss County, MS"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:28117.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28117.0
 FEMA_Region: 4.0
 Population: 25126.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 237.0
-Fourteen_day_test_rate_per_100000: 943.0
-Percent_Positivity_in_prior_14_days: 0.11
+Tests_in_prior_14_days: 271.0
+Fourteen_day_test_rate_per_100000: 1079.0
+Percent_Positivity_in_prior_14_days: 0.14
 Level: Yellow
 url: /states/MS/prentiss-county
 ---

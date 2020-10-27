@@ -1,6 +1,6 @@
 ---
 title: "Morgan County, AL"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:1103.0,FEMA:4.0,Small metro,Red]
@@ -11,8 +11,8 @@ FIPS: 1103.0
 FEMA_Region: 4.0
 Population: 119679.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3733.0
-Fourteen_day_test_rate_per_100000: 3119.0
+Tests_in_prior_14_days: 3886.0
+Fourteen_day_test_rate_per_100000: 3247.0
 Percent_Positivity_in_prior_14_days: 0.127
 Level: Red
 url: /states/AL/morgan-county

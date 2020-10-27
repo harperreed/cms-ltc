@@ -1,6 +1,6 @@
 ---
 title: "Newton County, GA"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:13217.0,FEMA:4.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13217.0
 FEMA_Region: 4.0
 Population: 111744.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1821.0
-Fourteen_day_test_rate_per_100000: 1630.0
-Percent_Positivity_in_prior_14_days: 0.051
+Tests_in_prior_14_days: 1601.0
+Fourteen_day_test_rate_per_100000: 1433.0
+Percent_Positivity_in_prior_14_days: 0.064
 Level: Yellow
 url: /states/GA/newton-county
 ---

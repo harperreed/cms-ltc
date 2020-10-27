@@ -1,6 +1,6 @@
 ---
 title: "Lycoming County, PA"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:42081.0,FEMA:3.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 42081.0
 FEMA_Region: 3.0
 Population: 113299.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 4656.0
-Fourteen_day_test_rate_per_100000: 4109.0
-Percent_Positivity_in_prior_14_days: 0.026
+Tests_in_prior_14_days: 3853.0
+Fourteen_day_test_rate_per_100000: 3401.0
+Percent_Positivity_in_prior_14_days: 0.029
 Level: Green
 url: /states/PA/lycoming-county
 ---

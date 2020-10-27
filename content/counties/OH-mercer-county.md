@@ -1,9 +1,9 @@
 ---
 title: "Mercer County, OH"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
-tags: [FIPS:39107.0,FEMA:5.0,Micropolitan,Green]
+tags: [FIPS:39107.0,FEMA:5.0,Micropolitan,Yellow]
 categories: [OH]
 County: Mercer County
 State: OH
@@ -11,10 +11,10 @@ FIPS: 39107.0
 FEMA_Region: 5.0
 Population: 41172.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 481.0
-Fourteen_day_test_rate_per_100000: 1168.0
-Percent_Positivity_in_prior_14_days: 0.048
-Level: Green
+Tests_in_prior_14_days: 156.0
+Fourteen_day_test_rate_per_100000: 379.0
+Percent_Positivity_in_prior_14_days: 0.147
+Level: Yellow
 url: /states/OH/mercer-county
 ---
 

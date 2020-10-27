@@ -1,6 +1,6 @@
 ---
 title: "Pope County, AR"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:5115.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 5115.0
 FEMA_Region: 6.0
 Population: 64072.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2322.0
-Fourteen_day_test_rate_per_100000: 3624.0
-Percent_Positivity_in_prior_14_days: 0.062
+Tests_in_prior_14_days: 2058.0
+Fourteen_day_test_rate_per_100000: 3212.0
+Percent_Positivity_in_prior_14_days: 0.061
 Level: Yellow
 url: /states/AR/pope-county
 ---

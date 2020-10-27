@@ -1,6 +1,6 @@
 ---
 title: "Hampshire County, WV"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:54027.0,FEMA:3.0,Small metro,Green]
@@ -11,8 +11,8 @@ FIPS: 54027.0
 FEMA_Region: 3.0
 Population: 23175.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 794.0
-Fourteen_day_test_rate_per_100000: 3426.0
+Tests_in_prior_14_days: 755.0
+Fourteen_day_test_rate_per_100000: 3258.0
 Percent_Positivity_in_prior_14_days: 0.019
 Level: Green
 url: /states/WV/hampshire-county

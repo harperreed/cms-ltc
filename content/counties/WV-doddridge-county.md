@@ -1,9 +1,9 @@
 ---
 title: "Doddridge County, WV"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
-tags: [FIPS:54017.0,FEMA:3.0,Micropolitan,Yellow]
+tags: [FIPS:54017.0,FEMA:3.0,Micropolitan,Green]
 categories: [WV]
 County: Doddridge County
 State: WV
@@ -11,10 +11,10 @@ FIPS: 54017.0
 FEMA_Region: 3.0
 Population: 8448.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 380.0
-Fourteen_day_test_rate_per_100000: 4498.0
-Percent_Positivity_in_prior_14_days: 0.066
-Level: Yellow
+Tests_in_prior_14_days: 423.0
+Fourteen_day_test_rate_per_100000: 5007.0
+Percent_Positivity_in_prior_14_days: 0.043
+Level: Green
 url: /states/WV/doddridge-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "St. Francis County, AR"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:5123.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 5123.0
 FEMA_Region: 6.0
 Population: 24994.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1022.0
-Fourteen_day_test_rate_per_100000: 4089.0
-Percent_Positivity_in_prior_14_days: 0.088
+Tests_in_prior_14_days: 993.0
+Fourteen_day_test_rate_per_100000: 3973.0
+Percent_Positivity_in_prior_14_days: 0.063
 Level: Yellow
 url: /states/AR/st-francis-county
 ---

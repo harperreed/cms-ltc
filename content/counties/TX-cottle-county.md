@@ -1,6 +1,6 @@
 ---
 title: "Cottle County, TX"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:48101.0,FEMA:6.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 48101.0
 FEMA_Region: 6.0
 Population: 1398.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 42.0
-Fourteen_day_test_rate_per_100000: 3004.0
-Percent_Positivity_in_prior_14_days: 0.238
+Tests_in_prior_14_days: 40.0
+Fourteen_day_test_rate_per_100000: 2861.0
+Percent_Positivity_in_prior_14_days: 0.275
 Level: Red
 url: /states/TX/cottle-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Shoshone County, ID"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
-tags: [FIPS:16079.0,FEMA:10.0,Non-core,Yellow]
+tags: [FIPS:16079.0,FEMA:10.0,Non-core,Red]
 categories: [ID]
 County: Shoshone County
 State: ID
@@ -11,10 +11,10 @@ FIPS: 16079.0
 FEMA_Region: 10.0
 Population: 12882.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 245.0
-Fourteen_day_test_rate_per_100000: 1902.0
-Percent_Positivity_in_prior_14_days: 0.073
-Level: Yellow
+Tests_in_prior_14_days: 273.0
+Fourteen_day_test_rate_per_100000: 2119.0
+Percent_Positivity_in_prior_14_days: 0.143
+Level: Red
 url: /states/ID/shoshone-county
 ---
 

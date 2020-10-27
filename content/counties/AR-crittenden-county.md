@@ -1,9 +1,9 @@
 ---
 title: "Crittenden County, AR"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
-tags: [FIPS:5035.0,FEMA:6.0,Large fringe metro,Green]
+tags: [FIPS:5035.0,FEMA:6.0,Large fringe metro,Yellow]
 categories: [AR]
 County: Crittenden County
 State: AR
@@ -11,10 +11,10 @@ FIPS: 5035.0
 FEMA_Region: 6.0
 Population: 47955.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1226.0
-Fourteen_day_test_rate_per_100000: 2557.0
-Percent_Positivity_in_prior_14_days: 0.042
-Level: Green
+Tests_in_prior_14_days: 1218.0
+Fourteen_day_test_rate_per_100000: 2540.0
+Percent_Positivity_in_prior_14_days: 0.077
+Level: Yellow
 url: /states/AR/crittenden-county
 ---
 

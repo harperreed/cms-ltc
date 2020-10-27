@@ -1,6 +1,6 @@
 ---
 title: "Alameda County, CA"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:6001.0,FEMA:9.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 6001.0
 FEMA_Region: 9.0
 Population: 1671329.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 77675.0
-Fourteen_day_test_rate_per_100000: 4647.0
-Percent_Positivity_in_prior_14_days: 0.016
+Tests_in_prior_14_days: 45102.0
+Fourteen_day_test_rate_per_100000: 2699.0
+Percent_Positivity_in_prior_14_days: 0.018
 Level: Green
 url: /states/CA/alameda-county
 ---

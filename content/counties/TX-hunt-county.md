@@ -1,6 +1,6 @@
 ---
 title: "Hunt County, TX"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:48231.0,FEMA:6.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48231.0
 FEMA_Region: 6.0
 Population: 98594.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1268.0
-Fourteen_day_test_rate_per_100000: 1286.0
-Percent_Positivity_in_prior_14_days: 0.055
+Tests_in_prior_14_days: 1310.0
+Fourteen_day_test_rate_per_100000: 1329.0
+Percent_Positivity_in_prior_14_days: 0.074
 Level: Yellow
 url: /states/TX/hunt-county
 ---

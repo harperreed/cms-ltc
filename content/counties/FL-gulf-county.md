@@ -1,9 +1,9 @@
 ---
 title: "Gulf County, FL"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
-tags: [FIPS:12045.0,FEMA:4.0,Small metro,Red]
+tags: [FIPS:12045.0,FEMA:4.0,Small metro,Yellow]
 categories: [FL]
 County: Gulf County
 State: FL
@@ -11,10 +11,10 @@ FIPS: 12045.0
 FEMA_Region: 4.0
 Population: 13639.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 299.0
-Fourteen_day_test_rate_per_100000: 2192.0
-Percent_Positivity_in_prior_14_days: 0.1
-Level: Red
+Tests_in_prior_14_days: 361.0
+Fourteen_day_test_rate_per_100000: 2647.0
+Percent_Positivity_in_prior_14_days: 0.078
+Level: Yellow
 url: /states/FL/gulf-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Tulsa County, OK"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:40143.0,FEMA:6.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 40143.0
 FEMA_Region: 6.0
 Population: 651552.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 13707.0
-Fourteen_day_test_rate_per_100000: 2104.0
-Percent_Positivity_in_prior_14_days: 0.114
+Tests_in_prior_14_days: 13252.0
+Fourteen_day_test_rate_per_100000: 2034.0
+Percent_Positivity_in_prior_14_days: 0.123
 Level: Red
 url: /states/OK/tulsa-county
 ---

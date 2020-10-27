@@ -1,6 +1,6 @@
 ---
 title: "Adams County, IN"
-date: 2020-10-26
+date: 2020-10-27
 draft: false
 type: county
 tags: [FIPS:18001.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 18001.0
 FEMA_Region: 5.0
 Population: 35777.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2463.0
-Fourteen_day_test_rate_per_100000: 6884.0
-Percent_Positivity_in_prior_14_days: 0.072
+Tests_in_prior_14_days: 2868.0
+Fourteen_day_test_rate_per_100000: 8016.0
+Percent_Positivity_in_prior_14_days: 0.068
 Level: Yellow
 url: /states/IN/adams-county
 ---
