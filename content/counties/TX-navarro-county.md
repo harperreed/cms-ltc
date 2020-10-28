@@ -1,6 +1,6 @@
 ---
 title: "Navarro County, TX"
-date: 2020-10-27
+date: 2020-10-28
 draft: false
 type: county
 tags: [FIPS:48349.0,FEMA:6.0,Micropolitan,Green]

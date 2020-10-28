@@ -1,6 +1,6 @@
 ---
 title: "Carroll County, GA"
-date: 2020-10-27
+date: 2020-10-28
 draft: false
 type: county
 tags: [FIPS:13045.0,FEMA:4.0,Large fringe metro,Red]

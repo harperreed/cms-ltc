@@ -1,6 +1,6 @@
 ---
 title: "Marengo County, AL"
-date: 2020-10-27
+date: 2020-10-28
 draft: false
 type: county
 tags: [FIPS:1091.0,FEMA:4.0,Non-core,Red]

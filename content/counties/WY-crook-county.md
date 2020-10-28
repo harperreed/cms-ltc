@@ -1,6 +1,6 @@
 ---
 title: "Crook County, WY"
-date: 2020-10-27
+date: 2020-10-28
 draft: false
 type: county
 tags: [FIPS:56011.0,FEMA:8.0,Non-core,Green]

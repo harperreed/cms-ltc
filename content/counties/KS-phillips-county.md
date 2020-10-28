@@ -1,6 +1,6 @@
 ---
 title: "Phillips County, KS"
-date: 2020-10-27
+date: 2020-10-28
 draft: false
 type: county
 tags: [FIPS:20147.0,FEMA:7.0,Non-core,Red]

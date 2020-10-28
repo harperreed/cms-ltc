@@ -1,6 +1,6 @@
 ---
 title: "Lincoln County, NV"
-date: 2020-10-27
+date: 2020-10-28
 draft: false
 type: county
 tags: [FIPS:32017.0,FEMA:9.0,Non-core,Red]

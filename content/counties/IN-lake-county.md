@@ -1,6 +1,6 @@
 ---
 title: "Lake County, IN"
-date: 2020-10-27
+date: 2020-10-28
 draft: false
 type: county
 tags: [FIPS:18089.0,FEMA:5.0,Large fringe metro,Red]

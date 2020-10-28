@@ -1,6 +1,6 @@
 ---
 title: "Herkimer County, NY"
-date: 2020-10-27
+date: 2020-10-28
 draft: false
 type: county
 tags: [FIPS:36043.0,FEMA:2.0,Medium metro,Green]
