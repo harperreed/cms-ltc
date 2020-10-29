@@ -1,6 +1,6 @@
 ---
 title: "Sullivan County, TN"
-date: 2020-10-28
+date: 2020-10-29
 draft: false
 type: county
 tags: [FIPS:47163.0,FEMA:4.0,Medium metro,Red]

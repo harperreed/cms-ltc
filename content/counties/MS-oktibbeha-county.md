@@ -1,6 +1,6 @@
 ---
 title: "Oktibbeha County, MS"
-date: 2020-10-28
+date: 2020-10-29
 draft: false
 type: county
 tags: [FIPS:28105.0,FEMA:4.0,Micropolitan,Green]

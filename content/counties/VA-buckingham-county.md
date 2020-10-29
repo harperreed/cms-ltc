@@ -1,6 +1,6 @@
 ---
 title: "Buckingham County, VA"
-date: 2020-10-28
+date: 2020-10-29
 draft: false
 type: county
 tags: [FIPS:51029.0,FEMA:3.0,Small metro,Green]

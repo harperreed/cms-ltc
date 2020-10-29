@@ -1,6 +1,6 @@
 ---
 title: "Mower County, MN"
-date: 2020-10-28
+date: 2020-10-29
 draft: false
 type: county
 tags: [FIPS:27099.0,FEMA:5.0,Micropolitan,Green]

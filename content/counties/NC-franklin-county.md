@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, NC"
-date: 2020-10-28
+date: 2020-10-29
 draft: false
 type: county
 tags: [FIPS:37069.0,FEMA:4.0,Large fringe metro,Green]

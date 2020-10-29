@@ -1,6 +1,6 @@
 ---
 title: "Somervell County, TX"
-date: 2020-10-28
+date: 2020-10-29
 draft: false
 type: county
 tags: [FIPS:48425.0,FEMA:6.0,Large fringe metro,Green]

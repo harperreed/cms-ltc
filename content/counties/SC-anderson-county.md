@@ -1,6 +1,6 @@
 ---
 title: "Anderson County, SC"
-date: 2020-10-28
+date: 2020-10-29
 draft: false
 type: county
 tags: [FIPS:45007.0,FEMA:4.0,Medium metro,Red]

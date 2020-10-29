@@ -1,6 +1,6 @@
 ---
 title: "Bandera County, TX"
-date: 2020-10-28
+date: 2020-10-29
 draft: false
 type: county
 tags: [FIPS:48019.0,FEMA:6.0,Large fringe metro,Green]

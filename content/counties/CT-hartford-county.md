@@ -1,6 +1,6 @@
 ---
 title: "Hartford County, CT"
-date: 2020-10-28
+date: 2020-10-29
 draft: false
 type: county
 tags: [FIPS:9003.0,FEMA:1.0,Large central metro,Green]

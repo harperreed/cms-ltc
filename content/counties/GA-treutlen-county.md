@@ -1,6 +1,6 @@
 ---
 title: "Treutlen County, GA"
-date: 2020-10-28
+date: 2020-10-29
 draft: false
 type: county
 tags: [FIPS:13283.0,FEMA:4.0,Non-core,Yellow]

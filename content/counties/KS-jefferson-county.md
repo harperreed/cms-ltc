@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, KS"
-date: 2020-10-28
+date: 2020-10-29
 draft: false
 type: county
 tags: [FIPS:20087.0,FEMA:7.0,Small metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Pike County, PA"
-date: 2020-10-28
+date: 2020-10-29
 draft: false
 type: county
 tags: [FIPS:42103.0,FEMA:3.0,Large fringe metro,Green]

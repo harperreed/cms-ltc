@@ -1,6 +1,6 @@
 ---
 title: "Simpson County, MS"
-date: 2020-10-28
+date: 2020-10-29
 draft: false
 type: county
 tags: [FIPS:28127.0,FEMA:4.0,Medium metro,Green]
