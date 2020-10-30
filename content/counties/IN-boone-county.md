@@ -1,6 +1,6 @@
 ---
 title: "Boone County, IN"
-date: 2020-10-29
+date: 2020-10-30
 draft: false
 type: county
 tags: [FIPS:18011.0,FEMA:5.0,Large fringe metro,Yellow]

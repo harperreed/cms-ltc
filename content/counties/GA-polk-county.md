@@ -1,6 +1,6 @@
 ---
 title: "Polk County, GA"
-date: 2020-10-29
+date: 2020-10-30
 draft: false
 type: county
 tags: [FIPS:13233.0,FEMA:4.0,Micropolitan,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Baker County, GA"
-date: 2020-10-29
+date: 2020-10-30
 draft: false
 type: county
 tags: [FIPS:13007.0,FEMA:4.0,Small metro,Yellow]

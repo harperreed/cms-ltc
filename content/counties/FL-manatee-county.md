@@ -1,6 +1,6 @@
 ---
 title: "Manatee County, FL"
-date: 2020-10-29
+date: 2020-10-30
 draft: false
 type: county
 tags: [FIPS:12081.0,FEMA:4.0,Medium metro,Yellow]

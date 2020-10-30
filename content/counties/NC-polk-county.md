@@ -1,6 +1,6 @@
 ---
 title: "Polk County, NC"
-date: 2020-10-29
+date: 2020-10-30
 draft: false
 type: county
 tags: [FIPS:37149.0,FEMA:4.0,Non-core,Green]

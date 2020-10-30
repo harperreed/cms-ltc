@@ -1,6 +1,6 @@
 ---
 title: "New Kent County, VA"
-date: 2020-10-29
+date: 2020-10-30
 draft: false
 type: county
 tags: [FIPS:51127.0,FEMA:3.0,Large fringe metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "De Witt County, IL"
-date: 2020-10-29
+date: 2020-10-30
 draft: false
 type: county
 tags: [FIPS:17039.0,FEMA:5.0,Small metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Grant County, WV"
-date: 2020-10-29
+date: 2020-10-30
 draft: false
 type: county
 tags: [FIPS:54023.0,FEMA:3.0,Non-core,Green]

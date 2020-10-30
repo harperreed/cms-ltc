@@ -1,6 +1,6 @@
 ---
 title: "Winston County, AL"
-date: 2020-10-29
+date: 2020-10-30
 draft: false
 type: county
 tags: [FIPS:1133.0,FEMA:4.0,Non-core,Yellow]

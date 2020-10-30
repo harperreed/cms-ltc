@@ -1,6 +1,6 @@
 ---
 title: "Pawnee County, OK"
-date: 2020-10-29
+date: 2020-10-30
 draft: false
 type: county
 tags: [FIPS:40117.0,FEMA:6.0,Medium metro,Yellow]

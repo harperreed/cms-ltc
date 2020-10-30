@@ -1,6 +1,6 @@
 ---
 title: "Fillmore County, MN"
-date: 2020-10-29
+date: 2020-10-30
 draft: false
 type: county
 tags: [FIPS:27045.0,FEMA:5.0,Small metro,Green]

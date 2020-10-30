@@ -1,6 +1,6 @@
 ---
 title: "Mason County, KY"
-date: 2020-10-29
+date: 2020-10-30
 draft: false
 type: county
 tags: [FIPS:21161.0,FEMA:4.0,Micropolitan,Yellow]
