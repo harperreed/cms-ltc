@@ -1,6 +1,6 @@
 ---
 title: "Dubois County, IN"
-date: 2020-10-30
+date: 2020-10-31
 draft: false
 type: county
 tags: [FIPS:18037.0,FEMA:5.0,Micropolitan,Red]

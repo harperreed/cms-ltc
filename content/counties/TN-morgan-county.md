@@ -1,6 +1,6 @@
 ---
 title: "Morgan County, TN"
-date: 2020-10-30
+date: 2020-10-31
 draft: false
 type: county
 tags: [FIPS:47129.0,FEMA:4.0,Medium metro,Yellow]

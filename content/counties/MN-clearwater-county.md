@@ -1,6 +1,6 @@
 ---
 title: "Clearwater County, MN"
-date: 2020-10-30
+date: 2020-10-31
 draft: false
 type: county
 tags: [FIPS:27029.0,FEMA:5.0,Non-core,Red]

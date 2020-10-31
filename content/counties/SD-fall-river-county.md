@@ -1,6 +1,6 @@
 ---
 title: "Fall River County, SD"
-date: 2020-10-30
+date: 2020-10-31
 draft: false
 type: county
 tags: [FIPS:46047.0,FEMA:8.0,Non-core,Red]

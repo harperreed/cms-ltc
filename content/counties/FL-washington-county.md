@@ -1,6 +1,6 @@
 ---
 title: "Washington County, FL"
-date: 2020-10-30
+date: 2020-10-31
 draft: false
 type: county
 tags: [FIPS:12133.0,FEMA:4.0,Non-core,Yellow]

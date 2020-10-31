@@ -1,6 +1,6 @@
 ---
 title: "Ripley County, MO"
-date: 2020-10-30
+date: 2020-10-31
 draft: false
 type: county
 tags: [FIPS:29181.0,FEMA:7.0,Non-core,Yellow]

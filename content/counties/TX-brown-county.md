@@ -1,6 +1,6 @@
 ---
 title: "Brown County, TX"
-date: 2020-10-30
+date: 2020-10-31
 draft: false
 type: county
 tags: [FIPS:48049.0,FEMA:6.0,Micropolitan,Yellow]
