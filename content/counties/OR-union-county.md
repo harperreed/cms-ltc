@@ -1,6 +1,6 @@
 ---
 title: "Union County, OR"
-date: 2020-10-31
+date: 2020-11-01
 draft: false
 type: county
 tags: [FIPS:41061.0,FEMA:10.0,Micropolitan,Green]

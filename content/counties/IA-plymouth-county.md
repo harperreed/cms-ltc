@@ -1,6 +1,6 @@
 ---
 title: "Plymouth County, IA"
-date: 2020-10-31
+date: 2020-11-01
 draft: false
 type: county
 tags: [FIPS:19149.0,FEMA:7.0,Small metro,Red]
