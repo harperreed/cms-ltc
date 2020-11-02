@@ -1,6 +1,6 @@
 ---
 title: "Prentiss County, MS"
-date: 2020-11-01
+date: 2020-11-02
 draft: false
 type: county
 tags: [FIPS:28117.0,FEMA:4.0,Non-core,Yellow]

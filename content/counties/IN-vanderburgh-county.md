@@ -1,6 +1,6 @@
 ---
 title: "Vanderburgh County, IN"
-date: 2020-11-01
+date: 2020-11-02
 draft: false
 type: county
 tags: [FIPS:18163.0,FEMA:5.0,Medium metro,Red]

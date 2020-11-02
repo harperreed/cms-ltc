@@ -1,6 +1,6 @@
 ---
 title: "Cerro Gordo County, IA"
-date: 2020-11-01
+date: 2020-11-02
 draft: false
 type: county
 tags: [FIPS:19033.0,FEMA:7.0,Micropolitan,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Renville County, ND"
-date: 2020-11-01
+date: 2020-11-02
 draft: false
 type: county
 tags: [FIPS:38075.0,FEMA:8.0,Micropolitan,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Orleans Parish, LA"
-date: 2020-11-01
+date: 2020-11-02
 draft: false
 type: county
 tags: [FIPS:22071.0,FEMA:6.0,Large central metro,Green]

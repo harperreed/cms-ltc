@@ -1,6 +1,6 @@
 ---
 title: "Duval County, FL"
-date: 2020-11-01
+date: 2020-11-02
 draft: false
 type: county
 tags: [FIPS:12031.0,FEMA:4.0,Large central metro,Yellow]

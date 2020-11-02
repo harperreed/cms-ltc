@@ -1,6 +1,6 @@
 ---
 title: "Hutchinson County, TX"
-date: 2020-11-01
+date: 2020-11-02
 draft: false
 type: county
 tags: [FIPS:48233.0,FEMA:6.0,Micropolitan,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Fannin County, GA"
-date: 2020-11-01
+date: 2020-11-02
 draft: false
 type: county
 tags: [FIPS:13111.0,FEMA:4.0,Non-core,Yellow]

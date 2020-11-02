@@ -1,6 +1,6 @@
 ---
 title: "Rock County, WI"
-date: 2020-11-01
+date: 2020-11-02
 draft: false
 type: county
 tags: [FIPS:55105.0,FEMA:5.0,Small metro,Red]

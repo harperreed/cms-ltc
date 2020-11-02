@@ -1,6 +1,6 @@
 ---
 title: "Etowah County, AL"
-date: 2020-11-01
+date: 2020-11-02
 draft: false
 type: county
 tags: [FIPS:1055.0,FEMA:4.0,Small metro,Red]

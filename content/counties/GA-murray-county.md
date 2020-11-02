@@ -1,6 +1,6 @@
 ---
 title: "Murray County, GA"
-date: 2020-11-01
+date: 2020-11-02
 draft: false
 type: county
 tags: [FIPS:13213.0,FEMA:4.0,Small metro,Yellow]

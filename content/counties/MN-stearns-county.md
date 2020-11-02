@@ -1,6 +1,6 @@
 ---
 title: "Stearns County, MN"
-date: 2020-11-01
+date: 2020-11-02
 draft: false
 type: county
 tags: [FIPS:27145.0,FEMA:5.0,Small metro,Yellow]

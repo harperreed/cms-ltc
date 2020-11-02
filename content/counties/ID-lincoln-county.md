@@ -1,6 +1,6 @@
 ---
 title: "Lincoln County, ID"
-date: 2020-11-01
+date: 2020-11-02
 draft: false
 type: county
 tags: [FIPS:16063.0,FEMA:10.0,Micropolitan,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Yukon-Koyukuk Census Area, AK"
-date: 2020-11-01
+date: 2020-11-02
 draft: false
 type: county
 tags: [FIPS:2290.0,FEMA:10.0,Non-core,Green]

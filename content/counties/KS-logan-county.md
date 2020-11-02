@@ -1,6 +1,6 @@
 ---
 title: "Logan County, KS"
-date: 2020-11-01
+date: 2020-11-02
 draft: false
 type: county
 tags: [FIPS:20109.0,FEMA:7.0,Non-core,Red]

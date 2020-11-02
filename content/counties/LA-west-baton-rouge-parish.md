@@ -1,6 +1,6 @@
 ---
 title: "West Baton Rouge Parish, LA"
-date: 2020-11-01
+date: 2020-11-02
 draft: false
 type: county
 tags: [FIPS:22121.0,FEMA:6.0,Medium metro,Yellow]
