@@ -1,6 +1,6 @@
 ---
 title: "Champaign County, IL"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:17019.0,FEMA:5.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 17019.0
 FEMA_Region: 5.0
 Population: 209689.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 120862.0
-Fourteen_day_test_rate_per_100000: 57639.0
-Percent_Positivity_in_prior_14_days: 0.009
+Tests_in_prior_14_days: 127910.0
+Fourteen_day_test_rate_per_100000: 61000.0
+Percent_Positivity_in_prior_14_days: 0.01
 Level: Green
 url: /states/IL/champaign-county
 ---

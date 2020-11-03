@@ -1,6 +1,6 @@
 ---
 title: "Hood River County, OR"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:41027.0,FEMA:10.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 41027.0
 FEMA_Region: 10.0
 Population: 23382.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3393.0
-Fourteen_day_test_rate_per_100000: 14511.0
-Percent_Positivity_in_prior_14_days: 0.048
+Tests_in_prior_14_days: 3242.0
+Fourteen_day_test_rate_per_100000: 13865.0
+Percent_Positivity_in_prior_14_days: 0.041
 Level: Green
 url: /states/OR/hood-river-county
 ---

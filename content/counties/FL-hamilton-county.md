@@ -1,9 +1,9 @@
 ---
 title: "Hamilton County, FL"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:12047.0,FEMA:4.0,Non-core,Green]
+tags: [FIPS:12047.0,FEMA:4.0,Non-core,Yellow]
 categories: [FL]
 County: Hamilton County
 State: FL
@@ -11,10 +11,10 @@ FIPS: 12047.0
 FEMA_Region: 4.0
 Population: 14428.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 321.0
-Fourteen_day_test_rate_per_100000: 2225.0
-Percent_Positivity_in_prior_14_days: 0.044
-Level: Green
+Tests_in_prior_14_days: 329.0
+Fourteen_day_test_rate_per_100000: 2280.0
+Percent_Positivity_in_prior_14_days: 0.052
+Level: Yellow
 url: /states/FL/hamilton-county
 ---
 

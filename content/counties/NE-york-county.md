@@ -1,6 +1,6 @@
 ---
 title: "York County, NE"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:31185.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 31185.0
 FEMA_Region: 7.0
 Population: 13679.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 783.0
-Fourteen_day_test_rate_per_100000: 5724.0
-Percent_Positivity_in_prior_14_days: 0.192
+Tests_in_prior_14_days: 565.0
+Fourteen_day_test_rate_per_100000: 4130.0
+Percent_Positivity_in_prior_14_days: 0.253
 Level: Red
 url: /states/NE/york-county
 ---

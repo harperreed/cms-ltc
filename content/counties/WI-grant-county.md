@@ -1,9 +1,9 @@
 ---
 title: "Grant County, WI"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:55043.0,FEMA:5.0,Micropolitan,Yellow]
+tags: [FIPS:55043.0,FEMA:5.0,Micropolitan,Red]
 categories: [WI]
 County: Grant County
 State: WI
@@ -11,10 +11,10 @@ FIPS: 55043.0
 FEMA_Region: 5.0
 Population: 51439.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3666.0
-Fourteen_day_test_rate_per_100000: 7127.0
-Percent_Positivity_in_prior_14_days: 0.097
-Level: Yellow
+Tests_in_prior_14_days: 2452.0
+Fourteen_day_test_rate_per_100000: 4767.0
+Percent_Positivity_in_prior_14_days: 0.106
+Level: Red
 url: /states/WI/grant-county
 ---
 

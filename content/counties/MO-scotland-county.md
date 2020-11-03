@@ -1,6 +1,6 @@
 ---
 title: "Scotland County, MO"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:29199.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 29199.0
 FEMA_Region: 7.0
 Population: 4902.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 59.0
-Fourteen_day_test_rate_per_100000: 1204.0
-Percent_Positivity_in_prior_14_days: 0.305
+Tests_in_prior_14_days: 96.0
+Fourteen_day_test_rate_per_100000: 1958.0
+Percent_Positivity_in_prior_14_days: 0.25
 Level: Yellow
 url: /states/MO/scotland-county
 ---

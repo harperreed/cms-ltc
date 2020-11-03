@@ -1,6 +1,6 @@
 ---
 title: "Box Butte County, NE"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:31013.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 31013.0
 FEMA_Region: 7.0
 Population: 10783.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 321.0
-Fourteen_day_test_rate_per_100000: 2977.0
-Percent_Positivity_in_prior_14_days: 0.134
+Tests_in_prior_14_days: 419.0
+Fourteen_day_test_rate_per_100000: 3886.0
+Percent_Positivity_in_prior_14_days: 0.227
 Level: Red
 url: /states/NE/box-butte-county
 ---

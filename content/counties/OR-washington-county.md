@@ -1,6 +1,6 @@
 ---
 title: "Washington County, OR"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:41067.0,FEMA:10.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 41067.0
 FEMA_Region: 10.0
 Population: 601592.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 39903.0
-Fourteen_day_test_rate_per_100000: 6633.0
-Percent_Positivity_in_prior_14_days: 0.08
+Tests_in_prior_14_days: 47403.0
+Fourteen_day_test_rate_per_100000: 7880.0
+Percent_Positivity_in_prior_14_days: 0.081
 Level: Yellow
 url: /states/OR/washington-county
 ---

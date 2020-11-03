@@ -1,9 +1,9 @@
 ---
 title: "Greene County, IN"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:18055.0,FEMA:5.0,Non-core,Yellow]
+tags: [FIPS:18055.0,FEMA:5.0,Non-core,Red]
 categories: [IN]
 County: Greene County
 State: IN
@@ -11,10 +11,10 @@ FIPS: 18055.0
 FEMA_Region: 5.0
 Population: 31922.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1476.0
-Fourteen_day_test_rate_per_100000: 4624.0
-Percent_Positivity_in_prior_14_days: 0.085
-Level: Yellow
+Tests_in_prior_14_days: 1532.0
+Fourteen_day_test_rate_per_100000: 4799.0
+Percent_Positivity_in_prior_14_days: 0.114
+Level: Red
 url: /states/IN/greene-county
 ---
 

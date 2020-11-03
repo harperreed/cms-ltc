@@ -1,6 +1,6 @@
 ---
 title: "Douglas County, IL"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:17041.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 17041.0
 FEMA_Region: 5.0
 Population: 19465.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1780.0
-Fourteen_day_test_rate_per_100000: 9145.0
-Percent_Positivity_in_prior_14_days: 0.124
+Tests_in_prior_14_days: 2120.0
+Fourteen_day_test_rate_per_100000: 10891.0
+Percent_Positivity_in_prior_14_days: 0.143
 Level: Red
 url: /states/IL/douglas-county
 ---

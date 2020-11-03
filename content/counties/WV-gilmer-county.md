@@ -1,6 +1,6 @@
 ---
 title: "Gilmer County, WV"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:54021.0,FEMA:3.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 54021.0
 FEMA_Region: 3.0
 Population: 7823.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 417.0
-Fourteen_day_test_rate_per_100000: 5330.0
-Percent_Positivity_in_prior_14_days: 0.036
+Tests_in_prior_14_days: 459.0
+Fourteen_day_test_rate_per_100000: 5867.0
+Percent_Positivity_in_prior_14_days: 0.013
 Level: Green
 url: /states/WV/gilmer-county
 ---

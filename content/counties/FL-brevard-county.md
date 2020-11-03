@@ -1,9 +1,9 @@
 ---
 title: "Brevard County, FL"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:12009.0,FEMA:4.0,Medium metro,Green]
+tags: [FIPS:12009.0,FEMA:4.0,Medium metro,Yellow]
 categories: [FL]
 County: Brevard County
 State: FL
@@ -11,10 +11,10 @@ FIPS: 12009.0
 FEMA_Region: 4.0
 Population: 601942.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 13079.0
-Fourteen_day_test_rate_per_100000: 2173.0
-Percent_Positivity_in_prior_14_days: 0.045
-Level: Green
+Tests_in_prior_14_days: 15484.0
+Fourteen_day_test_rate_per_100000: 2572.0
+Percent_Positivity_in_prior_14_days: 0.05
+Level: Yellow
 url: /states/FL/brevard-county
 ---
 

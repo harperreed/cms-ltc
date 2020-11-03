@@ -1,6 +1,6 @@
 ---
 title: "Eddy County, ND"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:38027.0,FEMA:8.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 38027.0
 FEMA_Region: 8.0
 Population: 2287.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 752.0
-Fourteen_day_test_rate_per_100000: 32882.0
-Percent_Positivity_in_prior_14_days: 0.072
+Tests_in_prior_14_days: 730.0
+Fourteen_day_test_rate_per_100000: 31920.0
+Percent_Positivity_in_prior_14_days: 0.082
 Level: Yellow
 url: /states/ND/eddy-county
 ---

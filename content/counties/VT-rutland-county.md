@@ -1,6 +1,6 @@
 ---
 title: "Rutland County, VT"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:50021.0,FEMA:1.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 50021.0
 FEMA_Region: 1.0
 Population: 58191.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2398.0
-Fourteen_day_test_rate_per_100000: 4121.0
-Percent_Positivity_in_prior_14_days: 0.001
+Tests_in_prior_14_days: 1755.0
+Fourteen_day_test_rate_per_100000: 3016.0
+Percent_Positivity_in_prior_14_days: 0.002
 Level: Green
 url: /states/VT/rutland-county
 ---

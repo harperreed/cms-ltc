@@ -1,6 +1,6 @@
 ---
 title: "Fayette County, TN"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:47047.0,FEMA:4.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 47047.0
 FEMA_Region: 4.0
 Population: 41133.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1444.0
-Fourteen_day_test_rate_per_100000: 3511.0
-Percent_Positivity_in_prior_14_days: 0.147
+Tests_in_prior_14_days: 1811.0
+Fourteen_day_test_rate_per_100000: 4403.0
+Percent_Positivity_in_prior_14_days: 0.114
 Level: Red
 url: /states/TN/fayette-county
 ---

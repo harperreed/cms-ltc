@@ -1,9 +1,9 @@
 ---
 title: "Marion County, IL"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:17121.0,FEMA:5.0,Micropolitan,Yellow]
+tags: [FIPS:17121.0,FEMA:5.0,Micropolitan,Red]
 categories: [IL]
 County: Marion County
 State: IL
@@ -11,10 +11,10 @@ FIPS: 17121.0
 FEMA_Region: 5.0
 Population: 37205.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3513.0
-Fourteen_day_test_rate_per_100000: 9442.0
-Percent_Positivity_in_prior_14_days: 0.086
-Level: Yellow
+Tests_in_prior_14_days: 3261.0
+Fourteen_day_test_rate_per_100000: 8765.0
+Percent_Positivity_in_prior_14_days: 0.101
+Level: Red
 url: /states/IL/marion-county
 ---
 

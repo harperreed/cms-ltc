@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, NY"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:36033.0,FEMA:2.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 36033.0
 FEMA_Region: 2.0
 Population: 50022.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4573.0
-Fourteen_day_test_rate_per_100000: 9142.0
-Percent_Positivity_in_prior_14_days: 0.002
+Tests_in_prior_14_days: 3171.0
+Fourteen_day_test_rate_per_100000: 6339.0
+Percent_Positivity_in_prior_14_days: 0.001
 Level: Green
 url: /states/NY/franklin-county
 ---

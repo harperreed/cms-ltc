@@ -1,6 +1,6 @@
 ---
 title: "Cerro Gordo County, IA"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:19033.0,FEMA:7.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 19033.0
 FEMA_Region: 7.0
 Population: 42450.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2817.0
-Fourteen_day_test_rate_per_100000: 6636.0
-Percent_Positivity_in_prior_14_days: 0.05
+Tests_in_prior_14_days: 3420.0
+Fourteen_day_test_rate_per_100000: 8057.0
+Percent_Positivity_in_prior_14_days: 0.068
 Level: Yellow
 url: /states/IA/cerro-gordo-county
 ---

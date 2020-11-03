@@ -1,6 +1,6 @@
 ---
 title: "Hudspeth County, TX"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:48229.0,FEMA:6.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48229.0
 FEMA_Region: 6.0
 Population: 4886.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 259.0
-Fourteen_day_test_rate_per_100000: 5301.0
-Percent_Positivity_in_prior_14_days: 0.124
+Tests_in_prior_14_days: 311.0
+Fourteen_day_test_rate_per_100000: 6365.0
+Percent_Positivity_in_prior_14_days: 0.148
 Level: Red
 url: /states/TX/hudspeth-county
 ---

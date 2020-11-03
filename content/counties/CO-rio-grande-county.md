@@ -1,6 +1,6 @@
 ---
 title: "Rio Grande County, CO"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:8105.0,FEMA:8.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 8105.0
 FEMA_Region: 8.0
 Population: 11267.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 472.0
-Fourteen_day_test_rate_per_100000: 4189.0
-Percent_Positivity_in_prior_14_days: 0.0
+Tests_in_prior_14_days: 454.0
+Fourteen_day_test_rate_per_100000: 4029.0
+Percent_Positivity_in_prior_14_days: 0.004
 Level: Green
 url: /states/CO/rio-grande-county
 ---

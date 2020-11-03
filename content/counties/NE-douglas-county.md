@@ -1,6 +1,6 @@
 ---
 title: "Douglas County, NE"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:31055.0,FEMA:7.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 31055.0
 FEMA_Region: 7.0
 Population: 571327.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 34776.0
-Fourteen_day_test_rate_per_100000: 6087.0
-Percent_Positivity_in_prior_14_days: 0.09
+Tests_in_prior_14_days: 31545.0
+Fourteen_day_test_rate_per_100000: 5521.0
+Percent_Positivity_in_prior_14_days: 0.099
 Level: Yellow
 url: /states/NE/douglas-county
 ---

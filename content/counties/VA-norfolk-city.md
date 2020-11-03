@@ -1,9 +1,9 @@
 ---
 title: "Norfolk City, VA"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:51710.0,FEMA:3.0,Large central metro,Green]
+tags: [FIPS:51710.0,FEMA:3.0,Large central metro,Yellow]
 categories: [VA]
 County: Norfolk City
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51710.0
 FEMA_Region: 3.0
 Population: 242742.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 6232.0
-Fourteen_day_test_rate_per_100000: 2567.0
-Percent_Positivity_in_prior_14_days: 0.046
-Level: Green
+Tests_in_prior_14_days: 6777.0
+Fourteen_day_test_rate_per_100000: 2792.0
+Percent_Positivity_in_prior_14_days: 0.065
+Level: Yellow
 url: /states/VA/norfolk-city
 ---
 

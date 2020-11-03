@@ -1,6 +1,6 @@
 ---
 title: "Hoonah-Angoon Census Area, AK"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:2105.0,FEMA:10.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 2105.0
 FEMA_Region: 10.0
 Population: 2148.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 261.0
-Fourteen_day_test_rate_per_100000: 12151.0
-Percent_Positivity_in_prior_14_days: 0.015
+Tests_in_prior_14_days: 288.0
+Fourteen_day_test_rate_per_100000: 13408.0
+Percent_Positivity_in_prior_14_days: 0.014
 Level: Green
 url: /states/AK/hoonah-angoon-census-area
 ---

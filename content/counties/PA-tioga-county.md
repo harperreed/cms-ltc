@@ -1,6 +1,6 @@
 ---
 title: "Tioga County, PA"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:42117.0,FEMA:3.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 42117.0
 FEMA_Region: 3.0
 Population: 40591.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 961.0
-Fourteen_day_test_rate_per_100000: 2368.0
-Percent_Positivity_in_prior_14_days: 0.066
+Tests_in_prior_14_days: 1071.0
+Fourteen_day_test_rate_per_100000: 2639.0
+Percent_Positivity_in_prior_14_days: 0.076
 Level: Yellow
 url: /states/PA/tioga-county
 ---

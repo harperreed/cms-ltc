@@ -1,6 +1,6 @@
 ---
 title: "Marin County, CA"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:6041.0,FEMA:9.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 6041.0
 FEMA_Region: 9.0
 Population: 258826.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 11565.0
-Fourteen_day_test_rate_per_100000: 4468.0
-Percent_Positivity_in_prior_14_days: 0.013
+Tests_in_prior_14_days: 11687.0
+Fourteen_day_test_rate_per_100000: 4515.0
+Percent_Positivity_in_prior_14_days: 0.009
 Level: Green
 url: /states/CA/marin-county
 ---

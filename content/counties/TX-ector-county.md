@@ -1,6 +1,6 @@
 ---
 title: "Ector County, TX"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:48135.0,FEMA:6.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48135.0
 FEMA_Region: 6.0
 Population: 166223.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1526.0
-Fourteen_day_test_rate_per_100000: 918.0
-Percent_Positivity_in_prior_14_days: 0.189
+Tests_in_prior_14_days: 2593.0
+Fourteen_day_test_rate_per_100000: 1560.0
+Percent_Positivity_in_prior_14_days: 0.173
 Level: Red
 url: /states/TX/ector-county
 ---

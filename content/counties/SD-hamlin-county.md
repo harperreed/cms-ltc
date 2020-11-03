@@ -1,9 +1,9 @@
 ---
 title: "Hamlin County, SD"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:46057.0,FEMA:8.0,Non-core,Yellow]
+tags: [FIPS:46057.0,FEMA:8.0,Non-core,Green]
 categories: [SD]
 County: Hamlin County
 State: SD
@@ -11,10 +11,10 @@ FIPS: 46057.0
 FEMA_Region: 8.0
 Population: 6164.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 313.0
-Fourteen_day_test_rate_per_100000: 5078.0
-Percent_Positivity_in_prior_14_days: 0.058
-Level: Yellow
+Tests_in_prior_14_days: 353.0
+Fourteen_day_test_rate_per_100000: 5727.0
+Percent_Positivity_in_prior_14_days: 0.023
+Level: Green
 url: /states/SD/hamlin-county
 ---
 

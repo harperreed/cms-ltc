@@ -1,6 +1,6 @@
 ---
 title: "Dodge County, NE"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:31053.0,FEMA:7.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 31053.0
 FEMA_Region: 7.0
 Population: 36565.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1708.0
-Fourteen_day_test_rate_per_100000: 4671.0
-Percent_Positivity_in_prior_14_days: 0.124
+Tests_in_prior_14_days: 1301.0
+Fourteen_day_test_rate_per_100000: 3558.0
+Percent_Positivity_in_prior_14_days: 0.193
 Level: Red
 url: /states/NE/dodge-county
 ---

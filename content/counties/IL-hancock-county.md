@@ -1,6 +1,6 @@
 ---
 title: "Hancock County, IL"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:17067.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 17067.0
 FEMA_Region: 5.0
 Population: 17708.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 715.0
-Fourteen_day_test_rate_per_100000: 4038.0
-Percent_Positivity_in_prior_14_days: 0.067
+Tests_in_prior_14_days: 723.0
+Fourteen_day_test_rate_per_100000: 4083.0
+Percent_Positivity_in_prior_14_days: 0.09
 Level: Yellow
 url: /states/IL/hancock-county
 ---

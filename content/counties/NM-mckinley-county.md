@@ -1,9 +1,9 @@
 ---
 title: "McKinley County, NM"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:35031.0,FEMA:6.0,Micropolitan,Green]
+tags: [FIPS:35031.0,FEMA:6.0,Micropolitan,Yellow]
 categories: [NM]
 County: McKinley County
 State: NM
@@ -11,10 +11,10 @@ FIPS: 35031.0
 FEMA_Region: 6.0
 Population: 71367.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2713.0
-Fourteen_day_test_rate_per_100000: 3801.0
-Percent_Positivity_in_prior_14_days: 0.036
-Level: Green
+Tests_in_prior_14_days: 2970.0
+Fourteen_day_test_rate_per_100000: 4162.0
+Percent_Positivity_in_prior_14_days: 0.061
+Level: Yellow
 url: /states/NM/mckinley-county
 ---
 

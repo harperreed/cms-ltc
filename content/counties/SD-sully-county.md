@@ -1,6 +1,6 @@
 ---
 title: "Sully County, SD"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:46119.0,FEMA:8.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 46119.0
 FEMA_Region: 8.0
 Population: 1391.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 45.0
-Fourteen_day_test_rate_per_100000: 3235.0
-Percent_Positivity_in_prior_14_days: 0.378
+Tests_in_prior_14_days: 41.0
+Fourteen_day_test_rate_per_100000: 2948.0
+Percent_Positivity_in_prior_14_days: 0.341
 Level: Red
 url: /states/SD/sully-county
 ---

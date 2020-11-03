@@ -1,6 +1,6 @@
 ---
 title: "Wibaux County, MT"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:30109.0,FEMA:8.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 30109.0
 FEMA_Region: 8.0
 Population: 969.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 43.0
-Fourteen_day_test_rate_per_100000: 4438.0
-Percent_Positivity_in_prior_14_days: 0.488
+Tests_in_prior_14_days: 23.0
+Fourteen_day_test_rate_per_100000: 2374.0
+Percent_Positivity_in_prior_14_days: 0.304
 Level: Red
 url: /states/MT/wibaux-county
 ---

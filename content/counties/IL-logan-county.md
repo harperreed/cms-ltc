@@ -1,9 +1,9 @@
 ---
 title: "Logan County, IL"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:17107.0,FEMA:5.0,Micropolitan,Green]
+tags: [FIPS:17107.0,FEMA:5.0,Micropolitan,Yellow]
 categories: [IL]
 County: Logan County
 State: IL
@@ -11,10 +11,10 @@ FIPS: 17107.0
 FEMA_Region: 5.0
 Population: 28618.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1763.0
-Fourteen_day_test_rate_per_100000: 6160.0
-Percent_Positivity_in_prior_14_days: 0.043
-Level: Green
+Tests_in_prior_14_days: 1807.0
+Fourteen_day_test_rate_per_100000: 6314.0
+Percent_Positivity_in_prior_14_days: 0.068
+Level: Yellow
 url: /states/IL/logan-county
 ---
 

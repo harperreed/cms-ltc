@@ -1,9 +1,9 @@
 ---
 title: "Churchill County, NV"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:32001.0,FEMA:9.0,Micropolitan,Green]
+tags: [FIPS:32001.0,FEMA:9.0,Micropolitan,Red]
 categories: [NV]
 County: Churchill County
 State: NV
@@ -11,10 +11,10 @@ FIPS: 32001.0
 FEMA_Region: 9.0
 Population: 24909.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1086.0
-Fourteen_day_test_rate_per_100000: 4360.0
-Percent_Positivity_in_prior_14_days: 0.045
-Level: Green
+Tests_in_prior_14_days: 977.0
+Fourteen_day_test_rate_per_100000: 3922.0
+Percent_Positivity_in_prior_14_days: 0.103
+Level: Red
 url: /states/NV/churchill-county
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Sharp County, AR"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:5135.0,FEMA:6.0,Non-core,Green]
+tags: [FIPS:5135.0,FEMA:6.0,Non-core,Yellow]
 categories: [AR]
 County: Sharp County
 State: AR
@@ -11,10 +11,10 @@ FIPS: 5135.0
 FEMA_Region: 6.0
 Population: 17442.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 825.0
-Fourteen_day_test_rate_per_100000: 4730.0
-Percent_Positivity_in_prior_14_days: 0.04
-Level: Green
+Tests_in_prior_14_days: 936.0
+Fourteen_day_test_rate_per_100000: 5366.0
+Percent_Positivity_in_prior_14_days: 0.065
+Level: Yellow
 url: /states/AR/sharp-county
 ---
 

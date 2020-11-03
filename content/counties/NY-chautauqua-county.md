@@ -1,6 +1,6 @@
 ---
 title: "Chautauqua County, NY"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:36013.0,FEMA:2.0,Micropolitan,Green]
@@ -11,8 +11,8 @@ FIPS: 36013.0
 FEMA_Region: 2.0
 Population: 126903.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 7167.0
-Fourteen_day_test_rate_per_100000: 5648.0
+Tests_in_prior_14_days: 7002.0
+Fourteen_day_test_rate_per_100000: 5518.0
 Percent_Positivity_in_prior_14_days: 0.03
 Level: Green
 url: /states/NY/chautauqua-county

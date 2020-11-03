@@ -1,6 +1,6 @@
 ---
 title: "Warren County, MS"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:28149.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28149.0
 FEMA_Region: 4.0
 Population: 45381.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 146.0
-Fourteen_day_test_rate_per_100000: 322.0
-Percent_Positivity_in_prior_14_days: 0.055
+Tests_in_prior_14_days: 323.0
+Fourteen_day_test_rate_per_100000: 712.0
+Percent_Positivity_in_prior_14_days: 0.093
 Level: Yellow
 url: /states/MS/warren-county
 ---

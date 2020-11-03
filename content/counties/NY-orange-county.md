@@ -1,6 +1,6 @@
 ---
 title: "Orange County, NY"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:36071.0,FEMA:2.0,Large fringe metro,Green]
@@ -11,8 +11,8 @@ FIPS: 36071.0
 FEMA_Region: 2.0
 Population: 384940.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 23796.0
-Fourteen_day_test_rate_per_100000: 6182.0
+Tests_in_prior_14_days: 26642.0
+Fourteen_day_test_rate_per_100000: 6921.0
 Percent_Positivity_in_prior_14_days: 0.023
 Level: Green
 url: /states/NY/orange-county

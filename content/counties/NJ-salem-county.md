@@ -1,6 +1,6 @@
 ---
 title: "Salem County, NJ"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:34033.0,FEMA:2.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 34033.0
 FEMA_Region: 2.0
 Population: 62385.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 2065.0
-Fourteen_day_test_rate_per_100000: 3310.0
-Percent_Positivity_in_prior_14_days: 0.024
+Tests_in_prior_14_days: 2303.0
+Fourteen_day_test_rate_per_100000: 3692.0
+Percent_Positivity_in_prior_14_days: 0.025
 Level: Green
 url: /states/NJ/salem-county
 ---

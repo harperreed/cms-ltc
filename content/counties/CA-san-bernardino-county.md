@@ -1,6 +1,6 @@
 ---
 title: "San Bernardino County, CA"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:6071.0,FEMA:9.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 6071.0
 FEMA_Region: 9.0
 Population: 2180085.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 49342.0
-Fourteen_day_test_rate_per_100000: 2263.0
-Percent_Positivity_in_prior_14_days: 0.063
+Tests_in_prior_14_days: 59618.0
+Fourteen_day_test_rate_per_100000: 2735.0
+Percent_Positivity_in_prior_14_days: 0.068
 Level: Yellow
 url: /states/CA/san-bernardino-county
 ---

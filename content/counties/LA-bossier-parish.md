@@ -1,6 +1,6 @@
 ---
 title: "Bossier Parish, LA"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:22015.0,FEMA:6.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 22015.0
 FEMA_Region: 6.0
 Population: 127039.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 5367.0
-Fourteen_day_test_rate_per_100000: 4225.0
-Percent_Positivity_in_prior_14_days: 0.126
+Tests_in_prior_14_days: 4824.0
+Fourteen_day_test_rate_per_100000: 3797.0
+Percent_Positivity_in_prior_14_days: 0.112
 Level: Red
 url: /states/LA/bossier-parish
 ---

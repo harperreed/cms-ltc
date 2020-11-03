@@ -1,9 +1,9 @@
 ---
 title: "Taney County, MO"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:29213.0,FEMA:7.0,Micropolitan,Red]
+tags: [FIPS:29213.0,FEMA:7.0,Micropolitan,Yellow]
 categories: [MO]
 County: Taney County
 State: MO
@@ -11,10 +11,10 @@ FIPS: 29213.0
 FEMA_Region: 7.0
 Population: 55928.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 674.0
-Fourteen_day_test_rate_per_100000: 1205.0
-Percent_Positivity_in_prior_14_days: 0.151
-Level: Red
+Tests_in_prior_14_days: 450.0
+Fourteen_day_test_rate_per_100000: 805.0
+Percent_Positivity_in_prior_14_days: 0.251
+Level: Yellow
 url: /states/MO/taney-county
 ---
 

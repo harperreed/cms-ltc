@@ -1,9 +1,9 @@
 ---
 title: "Lucas County, OH"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:39095.0,FEMA:5.0,Medium metro,Green]
+tags: [FIPS:39095.0,FEMA:5.0,Medium metro,Yellow]
 categories: [OH]
 County: Lucas County
 State: OH
@@ -11,10 +11,10 @@ FIPS: 39095.0
 FEMA_Region: 5.0
 Population: 428348.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 16056.0
-Fourteen_day_test_rate_per_100000: 3748.0
-Percent_Positivity_in_prior_14_days: 0.049
-Level: Green
+Tests_in_prior_14_days: 16480.0
+Fourteen_day_test_rate_per_100000: 3847.0
+Percent_Positivity_in_prior_14_days: 0.067
+Level: Yellow
 url: /states/OH/lucas-county
 ---
 

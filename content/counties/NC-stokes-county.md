@@ -1,9 +1,9 @@
 ---
 title: "Stokes County, NC"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:37169.0,FEMA:4.0,Medium metro,Yellow]
+tags: [FIPS:37169.0,FEMA:4.0,Medium metro,Green]
 categories: [NC]
 County: Stokes County
 State: NC
@@ -11,10 +11,10 @@ FIPS: 37169.0
 FEMA_Region: 4.0
 Population: 45591.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2593.0
-Fourteen_day_test_rate_per_100000: 5688.0
-Percent_Positivity_in_prior_14_days: 0.051
-Level: Yellow
+Tests_in_prior_14_days: 2592.0
+Fourteen_day_test_rate_per_100000: 5685.0
+Percent_Positivity_in_prior_14_days: 0.044
+Level: Green
 url: /states/NC/stokes-county
 ---
 

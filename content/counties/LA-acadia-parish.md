@@ -1,6 +1,6 @@
 ---
 title: "Acadia Parish, LA"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:22001.0,FEMA:6.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 22001.0
 FEMA_Region: 6.0
 Population: 62045.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1840.0
-Fourteen_day_test_rate_per_100000: 2966.0
-Percent_Positivity_in_prior_14_days: 0.062
+Tests_in_prior_14_days: 1926.0
+Fourteen_day_test_rate_per_100000: 3104.0
+Percent_Positivity_in_prior_14_days: 0.05
 Level: Yellow
 url: /states/LA/acadia-parish
 ---

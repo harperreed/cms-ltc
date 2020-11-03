@@ -1,6 +1,6 @@
 ---
 title: "Rabun County, GA"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:13241.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13241.0
 FEMA_Region: 4.0
 Population: 17137.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 235.0
-Fourteen_day_test_rate_per_100000: 1371.0
-Percent_Positivity_in_prior_14_days: 0.068
+Tests_in_prior_14_days: 205.0
+Fourteen_day_test_rate_per_100000: 1196.0
+Percent_Positivity_in_prior_14_days: 0.059
 Level: Yellow
 url: /states/GA/rabun-county
 ---

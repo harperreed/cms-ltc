@@ -1,9 +1,9 @@
 ---
 title: "Oneida County, ID"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:16071.0,FEMA:10.0,Non-core,Green]
+tags: [FIPS:16071.0,FEMA:10.0,Non-core,Yellow]
 categories: [ID]
 County: Oneida County
 State: ID
@@ -11,10 +11,10 @@ FIPS: 16071.0
 FEMA_Region: 10.0
 Population: 4531.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 177.0
-Fourteen_day_test_rate_per_100000: 3906.0
-Percent_Positivity_in_prior_14_days: 0.028
-Level: Green
+Tests_in_prior_14_days: 147.0
+Fourteen_day_test_rate_per_100000: 3244.0
+Percent_Positivity_in_prior_14_days: 0.054
+Level: Yellow
 url: /states/ID/oneida-county
 ---
 

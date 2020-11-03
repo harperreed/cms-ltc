@@ -1,9 +1,9 @@
 ---
 title: "Chemung County, NY"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:36015.0,FEMA:2.0,Small metro,Yellow]
+tags: [FIPS:36015.0,FEMA:2.0,Small metro,Red]
 categories: [NY]
 County: Chemung County
 State: NY
@@ -11,10 +11,10 @@ FIPS: 36015.0
 FEMA_Region: 2.0
 Population: 83456.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 10500.0
-Fourteen_day_test_rate_per_100000: 12581.0
-Percent_Positivity_in_prior_14_days: 0.094
-Level: Yellow
+Tests_in_prior_14_days: 10893.0
+Fourteen_day_test_rate_per_100000: 13052.0
+Percent_Positivity_in_prior_14_days: 0.111
+Level: Red
 url: /states/NY/chemung-county
 ---
 

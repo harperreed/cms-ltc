@@ -1,6 +1,6 @@
 ---
 title: "Mobile County, AL"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:1097.0,FEMA:4.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 1097.0
 FEMA_Region: 4.0
 Population: 413210.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 14188.0
-Fourteen_day_test_rate_per_100000: 3434.0
-Percent_Positivity_in_prior_14_days: 0.041
+Tests_in_prior_14_days: 14871.0
+Fourteen_day_test_rate_per_100000: 3599.0
+Percent_Positivity_in_prior_14_days: 0.046
 Level: Green
 url: /states/AL/mobile-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Stephens County, TX"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:48429.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48429.0
 FEMA_Region: 6.0
 Population: 9366.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 86.0
-Fourteen_day_test_rate_per_100000: 918.0
-Percent_Positivity_in_prior_14_days: 0.14
+Tests_in_prior_14_days: 90.0
+Fourteen_day_test_rate_per_100000: 961.0
+Percent_Positivity_in_prior_14_days: 0.122
 Level: Yellow
 url: /states/TX/stephens-county
 ---

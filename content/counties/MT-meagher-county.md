@@ -1,6 +1,6 @@
 ---
 title: "Meagher County, MT"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:30059.0,FEMA:8.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 30059.0
 FEMA_Region: 8.0
 Population: 1862.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 155.0
-Fourteen_day_test_rate_per_100000: 8324.0
-Percent_Positivity_in_prior_14_days: 0.11
+Tests_in_prior_14_days: 163.0
+Fourteen_day_test_rate_per_100000: 8754.0
+Percent_Positivity_in_prior_14_days: 0.184
 Level: Red
 url: /states/MT/meagher-county
 ---

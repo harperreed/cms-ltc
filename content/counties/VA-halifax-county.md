@@ -1,9 +1,9 @@
 ---
 title: "Halifax County, VA"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:51083.0,FEMA:3.0,Non-core,Green]
+tags: [FIPS:51083.0,FEMA:3.0,Non-core,Yellow]
 categories: [VA]
 County: Halifax County
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51083.0
 FEMA_Region: 3.0
 Population: 33911.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1244.0
-Fourteen_day_test_rate_per_100000: 3668.0
-Percent_Positivity_in_prior_14_days: 0.043
-Level: Green
+Tests_in_prior_14_days: 1289.0
+Fourteen_day_test_rate_per_100000: 3801.0
+Percent_Positivity_in_prior_14_days: 0.075
+Level: Yellow
 url: /states/VA/halifax-county
 ---
 

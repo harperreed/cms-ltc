@@ -1,6 +1,6 @@
 ---
 title: "Lucas County, IA"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:19117.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 19117.0
 FEMA_Region: 7.0
 Population: 8600.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 264.0
-Fourteen_day_test_rate_per_100000: 3070.0
-Percent_Positivity_in_prior_14_days: 0.152
+Tests_in_prior_14_days: 260.0
+Fourteen_day_test_rate_per_100000: 3023.0
+Percent_Positivity_in_prior_14_days: 0.154
 Level: Red
 url: /states/IA/lucas-county
 ---

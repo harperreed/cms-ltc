@@ -1,9 +1,9 @@
 ---
 title: "Denali Borough, AK"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:2068.0,FEMA:10.0,Non-core,Yellow]
+tags: [FIPS:2068.0,FEMA:10.0,Non-core,Green]
 categories: [AK]
 County: Denali Borough
 State: AK
@@ -11,10 +11,10 @@ FIPS: 2068.0
 FEMA_Region: 10.0
 Population: 2097.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 147.0
-Fourteen_day_test_rate_per_100000: 7010.0
-Percent_Positivity_in_prior_14_days: 0.061
-Level: Yellow
+Tests_in_prior_14_days: 128.0
+Fourteen_day_test_rate_per_100000: 6104.0
+Percent_Positivity_in_prior_14_days: 0.031
+Level: Green
 url: /states/AK/denali-borough
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Louisa County, VA"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:51109.0,FEMA:3.0,Non-core,Yellow]
+tags: [FIPS:51109.0,FEMA:3.0,Non-core,Green]
 categories: [VA]
 County: Louisa County
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51109.0
 FEMA_Region: 3.0
 Population: 37591.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 862.0
-Fourteen_day_test_rate_per_100000: 2293.0
-Percent_Positivity_in_prior_14_days: 0.05
-Level: Yellow
+Tests_in_prior_14_days: 1011.0
+Fourteen_day_test_rate_per_100000: 2689.0
+Percent_Positivity_in_prior_14_days: 0.045
+Level: Green
 url: /states/VA/louisa-county
 ---
 

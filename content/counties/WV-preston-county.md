@@ -1,6 +1,6 @@
 ---
 title: "Preston County, WV"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
 tags: [FIPS:54077.0,FEMA:3.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 54077.0
 FEMA_Region: 3.0
 Population: 33432.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1944.0
-Fourteen_day_test_rate_per_100000: 5815.0
-Percent_Positivity_in_prior_14_days: 0.019
+Tests_in_prior_14_days: 2091.0
+Fourteen_day_test_rate_per_100000: 6254.0
+Percent_Positivity_in_prior_14_days: 0.023
 Level: Green
 url: /states/WV/preston-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Crawford County, IN"
-date: 2020-11-02
+date: 2020-11-03
 draft: false
 type: county
-tags: [FIPS:18025.0,FEMA:5.0,Non-core,Red]
+tags: [FIPS:18025.0,FEMA:5.0,Non-core,Yellow]
 categories: [IN]
 County: Crawford County
 State: IN
@@ -11,10 +11,10 @@ FIPS: 18025.0
 FEMA_Region: 5.0
 Population: 10577.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 329.0
-Fourteen_day_test_rate_per_100000: 3111.0
-Percent_Positivity_in_prior_14_days: 0.116
-Level: Red
+Tests_in_prior_14_days: 515.0
+Fourteen_day_test_rate_per_100000: 4869.0
+Percent_Positivity_in_prior_14_days: 0.078
+Level: Yellow
 url: /states/IN/crawford-county
 ---
 
