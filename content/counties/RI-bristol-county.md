@@ -1,6 +1,6 @@
 ---
 title: "Bristol County, RI"
-date: 2020-11-03
+date: 2020-11-04
 draft: false
 type: county
 tags: [FIPS:44001.0,FEMA:1.0,Large fringe metro,Green]

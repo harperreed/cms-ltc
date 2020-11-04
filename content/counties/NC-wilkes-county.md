@@ -1,6 +1,6 @@
 ---
 title: "Wilkes County, NC"
-date: 2020-11-03
+date: 2020-11-04
 draft: false
 type: county
 tags: [FIPS:37193.0,FEMA:4.0,Micropolitan,Yellow]

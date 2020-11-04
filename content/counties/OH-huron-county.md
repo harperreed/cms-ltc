@@ -1,6 +1,6 @@
 ---
 title: "Huron County, OH"
-date: 2020-11-03
+date: 2020-11-04
 draft: false
 type: county
 tags: [FIPS:39077.0,FEMA:5.0,Micropolitan,Green]

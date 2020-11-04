@@ -1,6 +1,6 @@
 ---
 title: "Otsego County, MI"
-date: 2020-11-03
+date: 2020-11-04
 draft: false
 type: county
 tags: [FIPS:26137.0,FEMA:5.0,Non-core,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Christian County, KY"
-date: 2020-11-03
+date: 2020-11-04
 draft: false
 type: county
 tags: [FIPS:21047.0,FEMA:4.0,Medium metro,Red]

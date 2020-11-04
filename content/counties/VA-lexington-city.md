@@ -1,6 +1,6 @@
 ---
 title: "Lexington City, VA"
-date: 2020-11-03
+date: 2020-11-04
 draft: false
 type: county
 tags: [FIPS:51678.0,FEMA:3.0,Non-core,Green]

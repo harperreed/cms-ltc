@@ -1,6 +1,6 @@
 ---
 title: "Grant County, ND"
-date: 2020-11-03
+date: 2020-11-04
 draft: false
 type: county
 tags: [FIPS:38037.0,FEMA:8.0,Non-core,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Okanogan County, WA"
-date: 2020-11-03
+date: 2020-11-04
 draft: false
 type: county
 tags: [FIPS:53047.0,FEMA:10.0,Non-core,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Baldwin County, GA"
-date: 2020-11-03
+date: 2020-11-04
 draft: false
 type: county
 tags: [FIPS:13009.0,FEMA:4.0,Micropolitan,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Hood River County, OR"
-date: 2020-11-03
+date: 2020-11-04
 draft: false
 type: county
 tags: [FIPS:41027.0,FEMA:10.0,Micropolitan,Green]

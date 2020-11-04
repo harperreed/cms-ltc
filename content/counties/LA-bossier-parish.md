@@ -1,6 +1,6 @@
 ---
 title: "Bossier Parish, LA"
-date: 2020-11-03
+date: 2020-11-04
 draft: false
 type: county
 tags: [FIPS:22015.0,FEMA:6.0,Medium metro,Red]

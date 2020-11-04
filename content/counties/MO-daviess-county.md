@@ -1,6 +1,6 @@
 ---
 title: "Daviess County, MO"
-date: 2020-11-03
+date: 2020-11-04
 draft: false
 type: county
 tags: [FIPS:29061.0,FEMA:7.0,Non-core,Red]
