@@ -1,6 +1,6 @@
 ---
 title: "San Miguel County, NM"
-date: 2020-11-04
+date: 2020-11-05
 draft: false
 type: county
 tags: [FIPS:35047.0,FEMA:6.0,Micropolitan,Green]

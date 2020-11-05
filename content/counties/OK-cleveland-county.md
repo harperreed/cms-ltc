@@ -1,6 +1,6 @@
 ---
 title: "Cleveland County, OK"
-date: 2020-11-04
+date: 2020-11-05
 draft: false
 type: county
 tags: [FIPS:40027.0,FEMA:6.0,Large fringe metro,Yellow]

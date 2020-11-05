@@ -1,6 +1,6 @@
 ---
 title: "Merced County, CA"
-date: 2020-11-04
+date: 2020-11-05
 draft: false
 type: county
 tags: [FIPS:6047.0,FEMA:9.0,Medium metro,Green]

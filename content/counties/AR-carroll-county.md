@@ -1,6 +1,6 @@
 ---
 title: "Carroll County, AR"
-date: 2020-11-04
+date: 2020-11-05
 draft: false
 type: county
 tags: [FIPS:5015.0,FEMA:6.0,Non-core,Yellow]

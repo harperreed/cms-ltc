@@ -1,6 +1,6 @@
 ---
 title: "Sebastian County, AR"
-date: 2020-11-04
+date: 2020-11-05
 draft: false
 type: county
 tags: [FIPS:5131.0,FEMA:6.0,Medium metro,Yellow]

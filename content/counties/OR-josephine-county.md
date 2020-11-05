@@ -1,6 +1,6 @@
 ---
 title: "Josephine County, OR"
-date: 2020-11-04
+date: 2020-11-05
 draft: false
 type: county
 tags: [FIPS:41033.0,FEMA:10.0,Small metro,Green]

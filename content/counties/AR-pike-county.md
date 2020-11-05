@@ -1,6 +1,6 @@
 ---
 title: "Pike County, AR"
-date: 2020-11-04
+date: 2020-11-05
 draft: false
 type: county
 tags: [FIPS:5109.0,FEMA:6.0,Non-core,Green]
