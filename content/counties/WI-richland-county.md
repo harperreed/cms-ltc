@@ -1,6 +1,6 @@
 ---
 title: "Richland County, WI"
-date: 2020-11-05
+date: 2020-11-06
 draft: false
 type: county
 tags: [FIPS:55103.0,FEMA:5.0,Non-core,Red]

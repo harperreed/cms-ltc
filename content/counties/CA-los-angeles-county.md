@@ -1,6 +1,6 @@
 ---
 title: "Los Angeles County, CA"
-date: 2020-11-05
+date: 2020-11-06
 draft: false
 type: county
 tags: [FIPS:6037.0,FEMA:9.0,Large central metro,Green]

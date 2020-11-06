@@ -1,6 +1,6 @@
 ---
 title: "Weber County, UT"
-date: 2020-11-05
+date: 2020-11-06
 draft: false
 type: county
 tags: [FIPS:49057.0,FEMA:8.0,Medium metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Walker County, GA"
-date: 2020-11-05
+date: 2020-11-06
 draft: false
 type: county
 tags: [FIPS:13295.0,FEMA:4.0,Medium metro,Red]

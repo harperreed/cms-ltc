@@ -1,6 +1,6 @@
 ---
 title: "Jones County, NC"
-date: 2020-11-05
+date: 2020-11-06
 draft: false
 type: county
 tags: [FIPS:37103.0,FEMA:4.0,Small metro,Yellow]

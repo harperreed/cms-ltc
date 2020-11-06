@@ -1,6 +1,6 @@
 ---
 title: "Essex County, NY"
-date: 2020-11-05
+date: 2020-11-06
 draft: false
 type: county
 tags: [FIPS:36031.0,FEMA:2.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Floyd County, IN"
-date: 2020-11-05
+date: 2020-11-06
 draft: false
 type: county
 tags: [FIPS:18043.0,FEMA:5.0,Large fringe metro,Yellow]

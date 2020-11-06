@@ -1,6 +1,6 @@
 ---
 title: "Pawnee County, KS"
-date: 2020-11-05
+date: 2020-11-06
 draft: false
 type: county
 tags: [FIPS:20145.0,FEMA:7.0,Non-core,Yellow]

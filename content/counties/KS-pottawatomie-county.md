@@ -1,6 +1,6 @@
 ---
 title: "Pottawatomie County, KS"
-date: 2020-11-05
+date: 2020-11-06
 draft: false
 type: county
 tags: [FIPS:20149.0,FEMA:7.0,Small metro,Yellow]
