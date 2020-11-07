@@ -1,6 +1,6 @@
 ---
 title: "Johnson County, IN"
-date: 2020-11-06
+date: 2020-11-07
 draft: false
 type: county
 tags: [FIPS:18081.0,FEMA:5.0,Large fringe metro,Yellow]

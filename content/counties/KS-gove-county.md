@@ -1,6 +1,6 @@
 ---
 title: "Gove County, KS"
-date: 2020-11-06
+date: 2020-11-07
 draft: false
 type: county
 tags: [FIPS:20063.0,FEMA:7.0,Non-core,Red]

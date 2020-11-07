@@ -1,6 +1,6 @@
 ---
 title: "Nevada County, AR"
-date: 2020-11-06
+date: 2020-11-07
 draft: false
 type: county
 tags: [FIPS:5099.0,FEMA:6.0,Non-core,Yellow]

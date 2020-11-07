@@ -1,6 +1,6 @@
 ---
 title: "Howard County, NE"
-date: 2020-11-06
+date: 2020-11-07
 draft: false
 type: county
 tags: [FIPS:31093.0,FEMA:7.0,Small metro,Yellow]

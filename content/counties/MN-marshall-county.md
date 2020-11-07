@@ -1,6 +1,6 @@
 ---
 title: "Marshall County, MN"
-date: 2020-11-06
+date: 2020-11-07
 draft: false
 type: county
 tags: [FIPS:27089.0,FEMA:5.0,Non-core,Red]

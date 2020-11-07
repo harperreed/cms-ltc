@@ -1,6 +1,6 @@
 ---
 title: "Greenwood County, SC"
-date: 2020-11-06
+date: 2020-11-07
 draft: false
 type: county
 tags: [FIPS:45047.0,FEMA:4.0,Micropolitan,Yellow]

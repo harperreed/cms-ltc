@@ -1,6 +1,6 @@
 ---
 title: "McKinley County, NM"
-date: 2020-11-06
+date: 2020-11-07
 draft: false
 type: county
 tags: [FIPS:35031.0,FEMA:6.0,Micropolitan,Yellow]

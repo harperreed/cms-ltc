@@ -1,6 +1,6 @@
 ---
 title: "Niagara County, NY"
-date: 2020-11-06
+date: 2020-11-07
 draft: false
 type: county
 tags: [FIPS:36063.0,FEMA:2.0,Large fringe metro,Green]

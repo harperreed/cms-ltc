@@ -1,6 +1,6 @@
 ---
 title: "New York County, NY"
-date: 2020-11-06
+date: 2020-11-07
 draft: false
 type: county
 tags: [FIPS:36061.0,FEMA:2.0,Large central metro,Green]

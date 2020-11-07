@@ -1,6 +1,6 @@
 ---
 title: "McCracken County, KY"
-date: 2020-11-06
+date: 2020-11-07
 draft: false
 type: county
 tags: [FIPS:21145.0,FEMA:4.0,Micropolitan,Yellow]
