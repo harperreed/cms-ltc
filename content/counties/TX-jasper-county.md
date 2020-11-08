@@ -1,6 +1,6 @@
 ---
 title: "Jasper County, TX"
-date: 2020-11-07
+date: 2020-11-08
 draft: false
 type: county
 tags: [FIPS:48241.0,FEMA:6.0,Non-core,Green]

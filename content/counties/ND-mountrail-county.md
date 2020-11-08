@@ -1,6 +1,6 @@
 ---
 title: "Mountrail County, ND"
-date: 2020-11-07
+date: 2020-11-08
 draft: false
 type: county
 tags: [FIPS:38061.0,FEMA:8.0,Non-core,Red]

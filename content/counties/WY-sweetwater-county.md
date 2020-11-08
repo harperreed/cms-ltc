@@ -1,6 +1,6 @@
 ---
 title: "Sweetwater County, WY"
-date: 2020-11-07
+date: 2020-11-08
 draft: false
 type: county
 tags: [FIPS:56037.0,FEMA:8.0,Micropolitan,Yellow]

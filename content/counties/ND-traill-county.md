@@ -1,6 +1,6 @@
 ---
 title: "Traill County, ND"
-date: 2020-11-07
+date: 2020-11-08
 draft: false
 type: county
 tags: [FIPS:38097.0,FEMA:8.0,Non-core,Yellow]

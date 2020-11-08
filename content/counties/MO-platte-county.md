@@ -1,6 +1,6 @@
 ---
 title: "Platte County, MO"
-date: 2020-11-07
+date: 2020-11-08
 draft: false
 type: county
 tags: [FIPS:29165.0,FEMA:7.0,Large fringe metro,Red]

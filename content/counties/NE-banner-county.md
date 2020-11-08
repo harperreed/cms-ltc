@@ -1,6 +1,6 @@
 ---
 title: "Banner County, NE"
-date: 2020-11-07
+date: 2020-11-08
 draft: false
 type: county
 tags: [FIPS:31007.0,FEMA:7.0,Micropolitan,Green]
