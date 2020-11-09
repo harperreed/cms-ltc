@@ -1,6 +1,6 @@
 ---
 title: "Leflore County, MS"
-date: 2020-11-08
+date: 2020-11-09
 draft: false
 type: county
 tags: [FIPS:28083.0,FEMA:4.0,Micropolitan,Red]

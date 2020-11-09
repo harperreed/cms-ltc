@@ -1,6 +1,6 @@
 ---
 title: "Vigo County, IN"
-date: 2020-11-08
+date: 2020-11-09
 draft: false
 type: county
 tags: [FIPS:18167.0,FEMA:5.0,Small metro,Yellow]

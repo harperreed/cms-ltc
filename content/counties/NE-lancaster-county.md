@@ -1,6 +1,6 @@
 ---
 title: "Lancaster County, NE"
-date: 2020-11-08
+date: 2020-11-09
 draft: false
 type: county
 tags: [FIPS:31109.0,FEMA:7.0,Medium metro,Yellow]

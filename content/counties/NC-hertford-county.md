@@ -1,6 +1,6 @@
 ---
 title: "Hertford County, NC"
-date: 2020-11-08
+date: 2020-11-09
 draft: false
 type: county
 tags: [FIPS:37091.0,FEMA:4.0,Non-core,Green]

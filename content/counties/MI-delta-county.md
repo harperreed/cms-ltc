@@ -1,6 +1,6 @@
 ---
 title: "Delta County, MI"
-date: 2020-11-08
+date: 2020-11-09
 draft: false
 type: county
 tags: [FIPS:26041.0,FEMA:5.0,Micropolitan,Red]

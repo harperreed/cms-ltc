@@ -1,6 +1,6 @@
 ---
 title: "Lyon County, NV"
-date: 2020-11-08
+date: 2020-11-09
 draft: false
 type: county
 tags: [FIPS:32019.0,FEMA:9.0,Micropolitan,Yellow]

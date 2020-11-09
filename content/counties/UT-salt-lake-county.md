@@ -1,6 +1,6 @@
 ---
 title: "Salt Lake County, UT"
-date: 2020-11-08
+date: 2020-11-09
 draft: false
 type: county
 tags: [FIPS:49035.0,FEMA:8.0,Large central metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Newton County, GA"
-date: 2020-11-08
+date: 2020-11-09
 draft: false
 type: county
 tags: [FIPS:13217.0,FEMA:4.0,Large fringe metro,Yellow]
