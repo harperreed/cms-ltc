@@ -1,6 +1,6 @@
 ---
 title: "Mono County, CA"
-date: 2020-11-09
+date: 2020-11-10
 draft: false
 type: county
 tags: [FIPS:6051.0,FEMA:9.0,Non-core,Red]

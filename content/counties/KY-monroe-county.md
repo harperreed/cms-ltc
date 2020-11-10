@@ -1,6 +1,6 @@
 ---
 title: "Monroe County, KY"
-date: 2020-11-09
+date: 2020-11-10
 draft: false
 type: county
 tags: [FIPS:21171.0,FEMA:4.0,Non-core,Red]

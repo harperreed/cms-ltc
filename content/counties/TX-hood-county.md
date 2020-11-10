@@ -1,6 +1,6 @@
 ---
 title: "Hood County, TX"
-date: 2020-11-09
+date: 2020-11-10
 draft: false
 type: county
 tags: [FIPS:48221.0,FEMA:6.0,Large fringe metro,Red]

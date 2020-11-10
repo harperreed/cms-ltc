@@ -1,6 +1,6 @@
 ---
 title: "El Paso County, CO"
-date: 2020-11-09
+date: 2020-11-10
 draft: false
 type: county
 tags: [FIPS:8041.0,FEMA:8.0,Medium metro,Yellow]

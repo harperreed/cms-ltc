@@ -1,6 +1,6 @@
 ---
 title: "Randolph County, AL"
-date: 2020-11-09
+date: 2020-11-10
 draft: false
 type: county
 tags: [FIPS:1111.0,FEMA:4.0,Non-core,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Greenville County, SC"
-date: 2020-11-09
+date: 2020-11-10
 draft: false
 type: county
 tags: [FIPS:45045.0,FEMA:4.0,Medium metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Independence County, AR"
-date: 2020-11-09
+date: 2020-11-10
 draft: false
 type: county
 tags: [FIPS:5063.0,FEMA:6.0,Micropolitan,Green]

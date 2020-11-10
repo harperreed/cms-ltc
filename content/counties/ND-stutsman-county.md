@@ -1,6 +1,6 @@
 ---
 title: "Stutsman County, ND"
-date: 2020-11-09
+date: 2020-11-10
 draft: false
 type: county
 tags: [FIPS:38093.0,FEMA:8.0,Micropolitan,Yellow]

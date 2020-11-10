@@ -1,6 +1,6 @@
 ---
 title: "Cullman County, AL"
-date: 2020-11-09
+date: 2020-11-10
 draft: false
 type: county
 tags: [FIPS:1043.0,FEMA:4.0,Micropolitan,Red]

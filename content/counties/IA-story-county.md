@@ -1,6 +1,6 @@
 ---
 title: "Story County, IA"
-date: 2020-11-09
+date: 2020-11-10
 draft: false
 type: county
 tags: [FIPS:19169.0,FEMA:7.0,Small metro,Yellow]

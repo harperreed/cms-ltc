@@ -1,6 +1,6 @@
 ---
 title: "Natrona County, WY"
-date: 2020-11-09
+date: 2020-11-10
 draft: false
 type: county
 tags: [FIPS:56025.0,FEMA:8.0,Small metro,Red]

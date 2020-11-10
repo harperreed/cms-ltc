@@ -1,6 +1,6 @@
 ---
 title: "Dixon County, NE"
-date: 2020-11-09
+date: 2020-11-10
 draft: false
 type: county
 tags: [FIPS:31051.0,FEMA:7.0,Small metro,Red]
