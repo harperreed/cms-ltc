@@ -1,9 +1,9 @@
 ---
 title: "Morrow County, OR"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:41049.0,FEMA:10.0,Micropolitan,Green]
+tags: [FIPS:41049.0,FEMA:10.0,Micropolitan,Yellow]
 categories: [OR]
 County: Morrow County
 State: OR
@@ -11,10 +11,10 @@ FIPS: 41049.0
 FEMA_Region: 10.0
 Population: 11603.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 187.0
-Fourteen_day_test_rate_per_100000: 1612.0
-Percent_Positivity_in_prior_14_days: 0.027
-Level: Green
+Tests_in_prior_14_days: 233.0
+Fourteen_day_test_rate_per_100000: 2008.0
+Percent_Positivity_in_prior_14_days: 0.056
+Level: Yellow
 url: /states/OR/morrow-county
 ---
 

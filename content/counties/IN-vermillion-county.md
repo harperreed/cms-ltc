@@ -1,9 +1,9 @@
 ---
 title: "Vermillion County, IN"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:18165.0,FEMA:5.0,Small metro,Red]
+tags: [FIPS:18165.0,FEMA:5.0,Small metro,Yellow]
 categories: [IN]
 County: Vermillion County
 State: IN
@@ -11,10 +11,10 @@ FIPS: 18165.0
 FEMA_Region: 5.0
 Population: 15498.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1020.0
-Fourteen_day_test_rate_per_100000: 6581.0
-Percent_Positivity_in_prior_14_days: 0.113
-Level: Red
+Tests_in_prior_14_days: 1135.0
+Fourteen_day_test_rate_per_100000: 7324.0
+Percent_Positivity_in_prior_14_days: 0.098
+Level: Yellow
 url: /states/IN/vermillion-county
 ---
 

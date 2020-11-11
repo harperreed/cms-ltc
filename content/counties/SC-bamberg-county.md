@@ -1,9 +1,9 @@
 ---
 title: "Bamberg County, SC"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:45009.0,FEMA:4.0,Non-core,Red]
+tags: [FIPS:45009.0,FEMA:4.0,Non-core,Yellow]
 categories: [SC]
 County: Bamberg County
 State: SC
@@ -11,10 +11,10 @@ FIPS: 45009.0
 FEMA_Region: 4.0
 Population: 14066.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 394.0
-Fourteen_day_test_rate_per_100000: 2801.0
-Percent_Positivity_in_prior_14_days: 0.102
-Level: Red
+Tests_in_prior_14_days: 386.0
+Fourteen_day_test_rate_per_100000: 2744.0
+Percent_Positivity_in_prior_14_days: 0.073
+Level: Yellow
 url: /states/SC/bamberg-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Benton County, OR"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:41003.0,FEMA:10.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 41003.0
 FEMA_Region: 10.0
 Population: 93053.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 6697.0
-Fourteen_day_test_rate_per_100000: 7197.0
-Percent_Positivity_in_prior_14_days: 0.008
+Tests_in_prior_14_days: 7957.0
+Fourteen_day_test_rate_per_100000: 8551.0
+Percent_Positivity_in_prior_14_days: 0.007
 Level: Green
 url: /states/OR/benton-county
 ---

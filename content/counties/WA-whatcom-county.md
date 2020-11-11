@@ -1,6 +1,6 @@
 ---
 title: "Whatcom County, WA"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:53073.0,FEMA:10.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 53073.0
 FEMA_Region: 10.0
 Population: 229247.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 408.0
-Fourteen_day_test_rate_per_100000: 178.0
-Percent_Positivity_in_prior_14_days: 0.022
+Tests_in_prior_14_days: 484.0
+Fourteen_day_test_rate_per_100000: 211.0
+Percent_Positivity_in_prior_14_days: 0.012
 Level: Green
 url: /states/WA/whatcom-county
 ---

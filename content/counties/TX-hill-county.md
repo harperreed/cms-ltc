@@ -1,6 +1,6 @@
 ---
 title: "Hill County, TX"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:48217.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48217.0
 FEMA_Region: 6.0
 Population: 36649.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1854.0
-Fourteen_day_test_rate_per_100000: 5059.0
-Percent_Positivity_in_prior_14_days: 0.08
+Tests_in_prior_14_days: 1819.0
+Fourteen_day_test_rate_per_100000: 4963.0
+Percent_Positivity_in_prior_14_days: 0.095
 Level: Yellow
 url: /states/TX/hill-county
 ---

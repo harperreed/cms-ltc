@@ -1,9 +1,9 @@
 ---
 title: "Kankakee County, IL"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:17091.0,FEMA:5.0,Small metro,Yellow]
+tags: [FIPS:17091.0,FEMA:5.0,Small metro,Red]
 categories: [IL]
 County: Kankakee County
 State: IL
@@ -11,10 +11,10 @@ FIPS: 17091.0
 FEMA_Region: 5.0
 Population: 109862.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 8811.0
-Fourteen_day_test_rate_per_100000: 8020.0
-Percent_Positivity_in_prior_14_days: 0.097
-Level: Yellow
+Tests_in_prior_14_days: 10697.0
+Fourteen_day_test_rate_per_100000: 9737.0
+Percent_Positivity_in_prior_14_days: 0.134
+Level: Red
 url: /states/IL/kankakee-county
 ---
 

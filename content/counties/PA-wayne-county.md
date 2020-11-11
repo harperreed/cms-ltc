@@ -1,6 +1,6 @@
 ---
 title: "Wayne County, PA"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:42127.0,FEMA:3.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 42127.0
 FEMA_Region: 3.0
 Population: 51361.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1141.0
-Fourteen_day_test_rate_per_100000: 2222.0
-Percent_Positivity_in_prior_14_days: 0.008
+Tests_in_prior_14_days: 1220.0
+Fourteen_day_test_rate_per_100000: 2375.0
+Percent_Positivity_in_prior_14_days: 0.02
 Level: Green
 url: /states/PA/wayne-county
 ---

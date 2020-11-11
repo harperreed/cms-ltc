@@ -1,6 +1,6 @@
 ---
 title: "Hardin County, IA"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:19083.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 19083.0
 FEMA_Region: 7.0
 Population: 16846.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 534.0
-Fourteen_day_test_rate_per_100000: 3170.0
-Percent_Positivity_in_prior_14_days: 0.14
+Tests_in_prior_14_days: 624.0
+Fourteen_day_test_rate_per_100000: 3704.0
+Percent_Positivity_in_prior_14_days: 0.213
 Level: Red
 url: /states/IA/hardin-county
 ---

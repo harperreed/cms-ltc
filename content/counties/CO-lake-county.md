@@ -1,9 +1,9 @@
 ---
 title: "Lake County, CO"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:8065.0,FEMA:8.0,Non-core,Yellow]
+tags: [FIPS:8065.0,FEMA:8.0,Non-core,Red]
 categories: [CO]
 County: Lake County
 State: CO
@@ -11,10 +11,10 @@ FIPS: 8065.0
 FEMA_Region: 8.0
 Population: 8127.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 177.0
-Fourteen_day_test_rate_per_100000: 2178.0
-Percent_Positivity_in_prior_14_days: 0.096
-Level: Yellow
+Tests_in_prior_14_days: 233.0
+Fourteen_day_test_rate_per_100000: 2867.0
+Percent_Positivity_in_prior_14_days: 0.107
+Level: Red
 url: /states/CO/lake-county
 ---
 

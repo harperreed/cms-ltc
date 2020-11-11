@@ -1,6 +1,6 @@
 ---
 title: "Barrow County, GA"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:13013.0,FEMA:4.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 13013.0
 FEMA_Region: 4.0
 Population: 83240.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1222.0
-Fourteen_day_test_rate_per_100000: 1468.0
-Percent_Positivity_in_prior_14_days: 0.121
+Tests_in_prior_14_days: 1231.0
+Fourteen_day_test_rate_per_100000: 1479.0
+Percent_Positivity_in_prior_14_days: 0.104
 Level: Red
 url: /states/GA/barrow-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Powell County, KY"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:21197.0,FEMA:4.0,Non-core,Green]
+tags: [FIPS:21197.0,FEMA:4.0,Non-core,Yellow]
 categories: [KY]
 County: Powell County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21197.0
 FEMA_Region: 4.0
 Population: 12359.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 328.0
-Fourteen_day_test_rate_per_100000: 2654.0
-Percent_Positivity_in_prior_14_days: 0.037
-Level: Green
+Tests_in_prior_14_days: 349.0
+Fourteen_day_test_rate_per_100000: 2824.0
+Percent_Positivity_in_prior_14_days: 0.086
+Level: Yellow
 url: /states/KY/powell-county
 ---
 

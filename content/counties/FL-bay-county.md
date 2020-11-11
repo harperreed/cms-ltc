@@ -1,6 +1,6 @@
 ---
 title: "Bay County, FL"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:12005.0,FEMA:4.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 12005.0
 FEMA_Region: 4.0
 Population: 174705.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2135.0
-Fourteen_day_test_rate_per_100000: 1222.0
-Percent_Positivity_in_prior_14_days: 0.056
+Tests_in_prior_14_days: 2070.0
+Fourteen_day_test_rate_per_100000: 1185.0
+Percent_Positivity_in_prior_14_days: 0.072
 Level: Yellow
 url: /states/FL/bay-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Ellis County, TX"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:48139.0,FEMA:6.0,Large fringe metro,Yellow]
+tags: [FIPS:48139.0,FEMA:6.0,Large fringe metro,Red]
 categories: [TX]
 County: Ellis County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48139.0
 FEMA_Region: 6.0
 Population: 184826.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 5558.0
-Fourteen_day_test_rate_per_100000: 3007.0
-Percent_Positivity_in_prior_14_days: 0.095
-Level: Yellow
+Tests_in_prior_14_days: 5840.0
+Fourteen_day_test_rate_per_100000: 3160.0
+Percent_Positivity_in_prior_14_days: 0.105
+Level: Red
 url: /states/TX/ellis-county
 ---
 

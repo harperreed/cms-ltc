@@ -1,9 +1,9 @@
 ---
 title: "Clinton County, MO"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:29049.0,FEMA:7.0,Large fringe metro,Yellow]
+tags: [FIPS:29049.0,FEMA:7.0,Large fringe metro,Red]
 categories: [MO]
 County: Clinton County
 State: MO
@@ -11,10 +11,10 @@ FIPS: 29049.0
 FEMA_Region: 7.0
 Population: 20387.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 760.0
-Fourteen_day_test_rate_per_100000: 3728.0
-Percent_Positivity_in_prior_14_days: 0.097
-Level: Yellow
+Tests_in_prior_14_days: 854.0
+Fourteen_day_test_rate_per_100000: 4189.0
+Percent_Positivity_in_prior_14_days: 0.157
+Level: Red
 url: /states/MO/clinton-county
 ---
 

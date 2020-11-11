@@ -1,6 +1,6 @@
 ---
 title: "San Miguel County, CO"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:8113.0,FEMA:8.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 8113.0
 FEMA_Region: 8.0
 Population: 8179.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 225.0
-Fourteen_day_test_rate_per_100000: 2751.0
-Percent_Positivity_in_prior_14_days: 0.004
+Tests_in_prior_14_days: 289.0
+Fourteen_day_test_rate_per_100000: 3533.0
+Percent_Positivity_in_prior_14_days: 0.01
 Level: Green
 url: /states/CO/san-miguel-county
 ---

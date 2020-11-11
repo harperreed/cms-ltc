@@ -1,6 +1,6 @@
 ---
 title: "Holt County, NE"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:31089.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 31089.0
 FEMA_Region: 7.0
 Population: 10067.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 260.0
-Fourteen_day_test_rate_per_100000: 2583.0
-Percent_Positivity_in_prior_14_days: 0.362
+Tests_in_prior_14_days: 316.0
+Fourteen_day_test_rate_per_100000: 3139.0
+Percent_Positivity_in_prior_14_days: 0.339
 Level: Red
 url: /states/NE/holt-county
 ---

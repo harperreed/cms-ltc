@@ -1,6 +1,6 @@
 ---
 title: "Blaine County, ID"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:16013.0,FEMA:10.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 16013.0
 FEMA_Region: 10.0
 Population: 23021.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 839.0
-Fourteen_day_test_rate_per_100000: 3644.0
-Percent_Positivity_in_prior_14_days: 0.176
+Tests_in_prior_14_days: 768.0
+Fourteen_day_test_rate_per_100000: 3336.0
+Percent_Positivity_in_prior_14_days: 0.138
 Level: Red
 url: /states/ID/blaine-county
 ---

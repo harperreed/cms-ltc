@@ -1,6 +1,6 @@
 ---
 title: "Berkshire County, MA"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:25003.0,FEMA:1.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 25003.0
 FEMA_Region: 1.0
 Population: 124944.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 15649.0
-Fourteen_day_test_rate_per_100000: 12525.0
-Percent_Positivity_in_prior_14_days: 0.003
+Tests_in_prior_14_days: 16250.0
+Fourteen_day_test_rate_per_100000: 13006.0
+Percent_Positivity_in_prior_14_days: 0.005
 Level: Green
 url: /states/MA/berkshire-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Forest County, WI"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:55041.0,FEMA:5.0,Non-core,Red]
@@ -11,8 +11,8 @@ FIPS: 55041.0
 FEMA_Region: 5.0
 Population: 9004.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 249.0
-Fourteen_day_test_rate_per_100000: 2765.0
+Tests_in_prior_14_days: 450.0
+Fourteen_day_test_rate_per_100000: 4998.0
 Percent_Positivity_in_prior_14_days: 0.169
 Level: Red
 url: /states/WI/forest-county

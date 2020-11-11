@@ -1,6 +1,6 @@
 ---
 title: "Polk County, NC"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:37149.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 37149.0
 FEMA_Region: 4.0
 Population: 20724.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 701.0
-Fourteen_day_test_rate_per_100000: 3383.0
-Percent_Positivity_in_prior_14_days: 0.056
+Tests_in_prior_14_days: 617.0
+Fourteen_day_test_rate_per_100000: 2977.0
+Percent_Positivity_in_prior_14_days: 0.058
 Level: Yellow
 url: /states/NC/polk-county
 ---

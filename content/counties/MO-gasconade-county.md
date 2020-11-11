@@ -1,9 +1,9 @@
 ---
 title: "Gasconade County, MO"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:29073.0,FEMA:7.0,Non-core,Red]
+tags: [FIPS:29073.0,FEMA:7.0,Non-core,Yellow]
 categories: [MO]
 County: Gasconade County
 State: MO
@@ -11,10 +11,10 @@ FIPS: 29073.0
 FEMA_Region: 7.0
 Population: 14706.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 301.0
-Fourteen_day_test_rate_per_100000: 2047.0
-Percent_Positivity_in_prior_14_days: 0.113
-Level: Red
+Tests_in_prior_14_days: 453.0
+Fourteen_day_test_rate_per_100000: 3080.0
+Percent_Positivity_in_prior_14_days: 0.091
+Level: Yellow
 url: /states/MO/gasconade-county
 ---
 

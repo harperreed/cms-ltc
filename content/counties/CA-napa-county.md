@@ -1,6 +1,6 @@
 ---
 title: "Napa County, CA"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:6055.0,FEMA:9.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 6055.0
 FEMA_Region: 9.0
 Population: 137744.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 5816.0
-Fourteen_day_test_rate_per_100000: 4222.0
-Percent_Positivity_in_prior_14_days: 0.019
+Tests_in_prior_14_days: 3144.0
+Fourteen_day_test_rate_per_100000: 2282.0
+Percent_Positivity_in_prior_14_days: 0.018
 Level: Green
 url: /states/CA/napa-county
 ---

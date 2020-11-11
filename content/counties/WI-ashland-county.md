@@ -1,9 +1,9 @@
 ---
 title: "Ashland County, WI"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:55003.0,FEMA:5.0,Non-core,Yellow]
+tags: [FIPS:55003.0,FEMA:5.0,Non-core,Red]
 categories: [WI]
 County: Ashland County
 State: WI
@@ -11,10 +11,10 @@ FIPS: 55003.0
 FEMA_Region: 5.0
 Population: 15562.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 618.0
-Fourteen_day_test_rate_per_100000: 3971.0
-Percent_Positivity_in_prior_14_days: 0.066
-Level: Yellow
+Tests_in_prior_14_days: 1290.0
+Fourteen_day_test_rate_per_100000: 8289.0
+Percent_Positivity_in_prior_14_days: 0.109
+Level: Red
 url: /states/WI/ashland-county
 ---
 

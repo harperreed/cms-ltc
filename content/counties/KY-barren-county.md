@@ -1,6 +1,6 @@
 ---
 title: "Barren County, KY"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:21009.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 21009.0
 FEMA_Region: 4.0
 Population: 44249.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1956.0
-Fourteen_day_test_rate_per_100000: 4420.0
-Percent_Positivity_in_prior_14_days: 0.145
+Tests_in_prior_14_days: 2449.0
+Fourteen_day_test_rate_per_100000: 5535.0
+Percent_Positivity_in_prior_14_days: 0.119
 Level: Red
 url: /states/KY/barren-county
 ---

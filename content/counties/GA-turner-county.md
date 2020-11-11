@@ -1,9 +1,9 @@
 ---
 title: "Turner County, GA"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:13287.0,FEMA:4.0,Non-core,Green]
+tags: [FIPS:13287.0,FEMA:4.0,Non-core,Yellow]
 categories: [GA]
 County: Turner County
 State: GA
@@ -11,10 +11,10 @@ FIPS: 13287.0
 FEMA_Region: 4.0
 Population: 7985.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 151.0
-Fourteen_day_test_rate_per_100000: 1891.0
-Percent_Positivity_in_prior_14_days: 0.04
-Level: Green
+Tests_in_prior_14_days: 92.0
+Fourteen_day_test_rate_per_100000: 1152.0
+Percent_Positivity_in_prior_14_days: 0.065
+Level: Yellow
 url: /states/GA/turner-county
 ---
 

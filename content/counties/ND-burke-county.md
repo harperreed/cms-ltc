@@ -1,6 +1,6 @@
 ---
 title: "Burke County, ND"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:38013.0,FEMA:8.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 38013.0
 FEMA_Region: 8.0
 Population: 2115.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 143.0
-Fourteen_day_test_rate_per_100000: 6761.0
-Percent_Positivity_in_prior_14_days: 0.203
+Tests_in_prior_14_days: 175.0
+Fourteen_day_test_rate_per_100000: 8274.0
+Percent_Positivity_in_prior_14_days: 0.183
 Level: Red
 url: /states/ND/burke-county
 ---

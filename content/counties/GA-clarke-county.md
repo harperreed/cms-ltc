@@ -1,6 +1,6 @@
 ---
 title: "Clarke County, GA"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:13059.0,FEMA:4.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 13059.0
 FEMA_Region: 4.0
 Population: 128331.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 4396.0
-Fourteen_day_test_rate_per_100000: 3426.0
-Percent_Positivity_in_prior_14_days: 0.039
+Tests_in_prior_14_days: 4260.0
+Fourteen_day_test_rate_per_100000: 3320.0
+Percent_Positivity_in_prior_14_days: 0.047
 Level: Green
 url: /states/GA/clarke-county
 ---

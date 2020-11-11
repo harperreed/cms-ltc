@@ -1,9 +1,9 @@
 ---
 title: "Clark County, WI"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:55019.0,FEMA:5.0,Non-core,Yellow]
+tags: [FIPS:55019.0,FEMA:5.0,Non-core,Red]
 categories: [WI]
 County: Clark County
 State: WI
@@ -11,10 +11,10 @@ FIPS: 55019.0
 FEMA_Region: 5.0
 Population: 34774.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2154.0
-Fourteen_day_test_rate_per_100000: 6194.0
-Percent_Positivity_in_prior_14_days: 0.094
-Level: Yellow
+Tests_in_prior_14_days: 3840.0
+Fourteen_day_test_rate_per_100000: 11043.0
+Percent_Positivity_in_prior_14_days: 0.13
+Level: Red
 url: /states/WI/clark-county
 ---
 

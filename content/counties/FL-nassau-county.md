@@ -1,6 +1,6 @@
 ---
 title: "Nassau County, FL"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:12089.0,FEMA:4.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 12089.0
 FEMA_Region: 4.0
 Population: 88625.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 3228.0
-Fourteen_day_test_rate_per_100000: 3642.0
-Percent_Positivity_in_prior_14_days: 0.032
+Tests_in_prior_14_days: 3035.0
+Fourteen_day_test_rate_per_100000: 3425.0
+Percent_Positivity_in_prior_14_days: 0.036
 Level: Green
 url: /states/FL/nassau-county
 ---

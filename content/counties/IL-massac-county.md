@@ -1,9 +1,9 @@
 ---
 title: "Massac County, IL"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:17127.0,FEMA:5.0,Micropolitan,Yellow]
+tags: [FIPS:17127.0,FEMA:5.0,Micropolitan,Red]
 categories: [IL]
 County: Massac County
 State: IL
@@ -11,10 +11,10 @@ FIPS: 17127.0
 FEMA_Region: 5.0
 Population: 13772.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 278.0
-Fourteen_day_test_rate_per_100000: 2019.0
-Percent_Positivity_in_prior_14_days: 0.061
-Level: Yellow
+Tests_in_prior_14_days: 331.0
+Fourteen_day_test_rate_per_100000: 2403.0
+Percent_Positivity_in_prior_14_days: 0.112
+Level: Red
 url: /states/IL/massac-county
 ---
 

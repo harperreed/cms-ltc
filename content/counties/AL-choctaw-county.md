@@ -1,9 +1,9 @@
 ---
 title: "Choctaw County, AL"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:1023.0,FEMA:4.0,Non-core,Yellow]
+tags: [FIPS:1023.0,FEMA:4.0,Non-core,Green]
 categories: [AL]
 County: Choctaw County
 State: AL
@@ -13,8 +13,8 @@ Population: 12589.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 153.0
 Fourteen_day_test_rate_per_100000: 1215.0
-Percent_Positivity_in_prior_14_days: 0.065
-Level: Yellow
+Percent_Positivity_in_prior_14_days: 0.033
+Level: Green
 url: /states/AL/choctaw-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Newton County, MO"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:29145.0,FEMA:7.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 29145.0
 FEMA_Region: 7.0
 Population: 58236.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 292.0
-Fourteen_day_test_rate_per_100000: 501.0
-Percent_Positivity_in_prior_14_days: 0.161
+Tests_in_prior_14_days: 222.0
+Fourteen_day_test_rate_per_100000: 381.0
+Percent_Positivity_in_prior_14_days: 0.104
 Level: Yellow
 url: /states/MO/newton-county
 ---

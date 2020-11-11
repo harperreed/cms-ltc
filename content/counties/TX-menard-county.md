@@ -1,6 +1,6 @@
 ---
 title: "Menard County, TX"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:48327.0,FEMA:6.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 48327.0
 FEMA_Region: 6.0
 Population: 2138.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 313.0
-Fourteen_day_test_rate_per_100000: 14640.0
-Percent_Positivity_in_prior_14_days: 0.105
+Tests_in_prior_14_days: 241.0
+Fourteen_day_test_rate_per_100000: 11272.0
+Percent_Positivity_in_prior_14_days: 0.104
 Level: Red
 url: /states/TX/menard-county
 ---

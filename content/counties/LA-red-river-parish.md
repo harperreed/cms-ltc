@@ -1,6 +1,6 @@
 ---
 title: "Red River Parish, LA"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:22081.0,FEMA:6.0,Non-core,Red]
@@ -13,7 +13,7 @@ Population: 8442.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 351.0
 Fourteen_day_test_rate_per_100000: 4158.0
-Percent_Positivity_in_prior_14_days: 0.219
+Percent_Positivity_in_prior_14_days: 0.222
 Level: Red
 url: /states/LA/red-river-parish
 ---

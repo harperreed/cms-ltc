@@ -1,9 +1,9 @@
 ---
 title: "Butler County, IA"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:19023.0,FEMA:7.0,Non-core,Yellow]
+tags: [FIPS:19023.0,FEMA:7.0,Non-core,Red]
 categories: [IA]
 County: Butler County
 State: IA
@@ -11,10 +11,10 @@ FIPS: 19023.0
 FEMA_Region: 7.0
 Population: 14439.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 663.0
-Fourteen_day_test_rate_per_100000: 4592.0
-Percent_Positivity_in_prior_14_days: 0.09
-Level: Yellow
+Tests_in_prior_14_days: 901.0
+Fourteen_day_test_rate_per_100000: 6240.0
+Percent_Positivity_in_prior_14_days: 0.152
+Level: Red
 url: /states/IA/butler-county
 ---
 

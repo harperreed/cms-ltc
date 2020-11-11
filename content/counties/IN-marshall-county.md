@@ -1,6 +1,6 @@
 ---
 title: "Marshall County, IN"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:18099.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 18099.0
 FEMA_Region: 5.0
 Population: 46258.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 5876.0
-Fourteen_day_test_rate_per_100000: 12703.0
-Percent_Positivity_in_prior_14_days: 0.068
+Tests_in_prior_14_days: 6304.0
+Fourteen_day_test_rate_per_100000: 13628.0
+Percent_Positivity_in_prior_14_days: 0.094
 Level: Yellow
 url: /states/IN/marshall-county
 ---

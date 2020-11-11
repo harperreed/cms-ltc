@@ -1,6 +1,6 @@
 ---
 title: "Scotts Bluff County, NE"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:31157.0,FEMA:7.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 31157.0
 FEMA_Region: 7.0
 Population: 35618.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2046.0
-Fourteen_day_test_rate_per_100000: 5744.0
-Percent_Positivity_in_prior_14_days: 0.324
+Tests_in_prior_14_days: 2515.0
+Fourteen_day_test_rate_per_100000: 7061.0
+Percent_Positivity_in_prior_14_days: 0.373
 Level: Red
 url: /states/NE/scotts-bluff-county
 ---

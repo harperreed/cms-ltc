@@ -1,6 +1,6 @@
 ---
 title: "Midland County, MI"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:26111.0,FEMA:5.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 26111.0
 FEMA_Region: 5.0
 Population: 83156.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2454.0
-Fourteen_day_test_rate_per_100000: 2951.0
-Percent_Positivity_in_prior_14_days: 0.063
+Tests_in_prior_14_days: 3115.0
+Fourteen_day_test_rate_per_100000: 3746.0
+Percent_Positivity_in_prior_14_days: 0.075
 Level: Yellow
 url: /states/MI/midland-county
 ---

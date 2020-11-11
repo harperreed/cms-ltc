@@ -1,6 +1,6 @@
 ---
 title: "Jeff Davis County, GA"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:13161.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13161.0
 FEMA_Region: 4.0
 Population: 15115.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 133.0
-Fourteen_day_test_rate_per_100000: 880.0
-Percent_Positivity_in_prior_14_days: 0.053
+Tests_in_prior_14_days: 97.0
+Fourteen_day_test_rate_per_100000: 642.0
+Percent_Positivity_in_prior_14_days: 0.072
 Level: Yellow
 url: /states/GA/jeff-davis-county
 ---

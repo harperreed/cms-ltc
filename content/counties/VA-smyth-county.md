@@ -1,9 +1,9 @@
 ---
 title: "Smyth County, VA"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:51173.0,FEMA:3.0,Non-core,Green]
+tags: [FIPS:51173.0,FEMA:3.0,Non-core,Yellow]
 categories: [VA]
 County: Smyth County
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51173.0
 FEMA_Region: 3.0
 Population: 30104.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1709.0
-Fourteen_day_test_rate_per_100000: 5677.0
-Percent_Positivity_in_prior_14_days: 0.036
-Level: Green
+Tests_in_prior_14_days: 1630.0
+Fourteen_day_test_rate_per_100000: 5415.0
+Percent_Positivity_in_prior_14_days: 0.06
+Level: Yellow
 url: /states/VA/smyth-county
 ---
 

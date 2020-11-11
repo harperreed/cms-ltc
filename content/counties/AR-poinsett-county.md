@@ -1,6 +1,6 @@
 ---
 title: "Poinsett County, AR"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:5111.0,FEMA:6.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 5111.0
 FEMA_Region: 6.0
 Population: 23528.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1868.0
-Fourteen_day_test_rate_per_100000: 7939.0
-Percent_Positivity_in_prior_14_days: 0.138
+Tests_in_prior_14_days: 1657.0
+Fourteen_day_test_rate_per_100000: 7043.0
+Percent_Positivity_in_prior_14_days: 0.153
 Level: Red
 url: /states/AR/poinsett-county
 ---

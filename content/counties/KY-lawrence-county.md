@@ -1,9 +1,9 @@
 ---
 title: "Lawrence County, KY"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:21127.0,FEMA:4.0,Non-core,Yellow]
+tags: [FIPS:21127.0,FEMA:4.0,Non-core,Green]
 categories: [KY]
 County: Lawrence County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21127.0
 FEMA_Region: 4.0
 Population: 15317.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 551.0
-Fourteen_day_test_rate_per_100000: 3597.0
-Percent_Positivity_in_prior_14_days: 0.089
-Level: Yellow
+Tests_in_prior_14_days: 572.0
+Fourteen_day_test_rate_per_100000: 3734.0
+Percent_Positivity_in_prior_14_days: 0.049
+Level: Green
 url: /states/KY/lawrence-county
 ---
 

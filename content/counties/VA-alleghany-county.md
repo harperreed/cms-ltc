@@ -1,6 +1,6 @@
 ---
 title: "Alleghany County, VA"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:51005.0,FEMA:3.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 51005.0
 FEMA_Region: 3.0
 Population: 14860.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 400.0
-Fourteen_day_test_rate_per_100000: 2692.0
-Percent_Positivity_in_prior_14_days: 0.19
+Tests_in_prior_14_days: 463.0
+Fourteen_day_test_rate_per_100000: 3116.0
+Percent_Positivity_in_prior_14_days: 0.218
 Level: Red
 url: /states/VA/alleghany-county
 ---

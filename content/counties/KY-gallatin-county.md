@@ -1,9 +1,9 @@
 ---
 title: "Gallatin County, KY"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:21077.0,FEMA:4.0,Large fringe metro,Yellow]
+tags: [FIPS:21077.0,FEMA:4.0,Large fringe metro,Green]
 categories: [KY]
 County: Gallatin County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21077.0
 FEMA_Region: 4.0
 Population: 8869.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 258.0
-Fourteen_day_test_rate_per_100000: 2909.0
-Percent_Positivity_in_prior_14_days: 0.074
-Level: Yellow
+Tests_in_prior_14_days: 290.0
+Fourteen_day_test_rate_per_100000: 3270.0
+Percent_Positivity_in_prior_14_days: 0.048
+Level: Green
 url: /states/KY/gallatin-county
 ---
 

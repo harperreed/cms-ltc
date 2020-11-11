@@ -1,6 +1,6 @@
 ---
 title: "Beauregard Parish, LA"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:22011.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 22011.0
 FEMA_Region: 6.0
 Population: 37497.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 507.0
-Fourteen_day_test_rate_per_100000: 1352.0
-Percent_Positivity_in_prior_14_days: 0.067
+Tests_in_prior_14_days: 580.0
+Fourteen_day_test_rate_per_100000: 1547.0
+Percent_Positivity_in_prior_14_days: 0.091
 Level: Yellow
 url: /states/LA/beauregard-parish
 ---

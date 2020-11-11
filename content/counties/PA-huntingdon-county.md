@@ -1,9 +1,9 @@
 ---
 title: "Huntingdon County, PA"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:42061.0,FEMA:3.0,Micropolitan,Red]
+tags: [FIPS:42061.0,FEMA:3.0,Micropolitan,Yellow]
 categories: [PA]
 County: Huntingdon County
 State: PA
@@ -11,10 +11,10 @@ FIPS: 42061.0
 FEMA_Region: 3.0
 Population: 45144.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3901.0
-Fourteen_day_test_rate_per_100000: 8641.0
-Percent_Positivity_in_prior_14_days: 0.103
-Level: Red
+Tests_in_prior_14_days: 4165.0
+Fourteen_day_test_rate_per_100000: 9226.0
+Percent_Positivity_in_prior_14_days: 0.088
+Level: Yellow
 url: /states/PA/huntingdon-county
 ---
 

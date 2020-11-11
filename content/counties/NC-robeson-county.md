@@ -1,6 +1,6 @@
 ---
 title: "Robeson County, NC"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:37155.0,FEMA:4.0,Micropolitan,Red]
@@ -11,8 +11,8 @@ FIPS: 37155.0
 FEMA_Region: 4.0
 Population: 130625.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 5088.0
-Fourteen_day_test_rate_per_100000: 3895.0
+Tests_in_prior_14_days: 5326.0
+Fourteen_day_test_rate_per_100000: 4077.0
 Percent_Positivity_in_prior_14_days: 0.123
 Level: Red
 url: /states/NC/robeson-county

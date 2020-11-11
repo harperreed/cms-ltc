@@ -1,6 +1,6 @@
 ---
 title: "Pendleton County, WV"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:54071.0,FEMA:3.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 54071.0
 FEMA_Region: 3.0
 Population: 6969.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 632.0
-Fourteen_day_test_rate_per_100000: 9069.0
-Percent_Positivity_in_prior_14_days: 0.035
+Tests_in_prior_14_days: 710.0
+Fourteen_day_test_rate_per_100000: 10188.0
+Percent_Positivity_in_prior_14_days: 0.015
 Level: Green
 url: /states/WV/pendleton-county
 ---

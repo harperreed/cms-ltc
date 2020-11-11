@@ -1,9 +1,9 @@
 ---
 title: "Marshall County, WV"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:54051.0,FEMA:3.0,Small metro,Green]
+tags: [FIPS:54051.0,FEMA:3.0,Small metro,Yellow]
 categories: [WV]
 County: Marshall County
 State: WV
@@ -11,10 +11,10 @@ FIPS: 54051.0
 FEMA_Region: 3.0
 Population: 30531.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2580.0
-Fourteen_day_test_rate_per_100000: 8450.0
-Percent_Positivity_in_prior_14_days: 0.048
-Level: Green
+Tests_in_prior_14_days: 3012.0
+Fourteen_day_test_rate_per_100000: 9865.0
+Percent_Positivity_in_prior_14_days: 0.087
+Level: Yellow
 url: /states/WV/marshall-county
 ---
 

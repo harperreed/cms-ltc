@@ -1,6 +1,6 @@
 ---
 title: "Citrus County, FL"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:12017.0,FEMA:4.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 12017.0
 FEMA_Region: 4.0
 Population: 149657.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3860.0
-Fourteen_day_test_rate_per_100000: 2579.0
-Percent_Positivity_in_prior_14_days: 0.052
+Tests_in_prior_14_days: 4225.0
+Fourteen_day_test_rate_per_100000: 2823.0
+Percent_Positivity_in_prior_14_days: 0.066
 Level: Yellow
 url: /states/FL/citrus-county
 ---

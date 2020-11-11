@@ -1,6 +1,6 @@
 ---
 title: "Moore County, TX"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:48341.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48341.0
 FEMA_Region: 6.0
 Population: 20940.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 157.0
-Fourteen_day_test_rate_per_100000: 750.0
-Percent_Positivity_in_prior_14_days: 0.287
+Tests_in_prior_14_days: 167.0
+Fourteen_day_test_rate_per_100000: 798.0
+Percent_Positivity_in_prior_14_days: 0.299
 Level: Yellow
 url: /states/TX/moore-county
 ---

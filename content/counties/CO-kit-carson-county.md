@@ -1,6 +1,6 @@
 ---
 title: "Kit Carson County, CO"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:8063.0,FEMA:8.0,Non-core,Green]
@@ -13,7 +13,7 @@ Population: 7097.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 155.0
 Fourteen_day_test_rate_per_100000: 2184.0
-Percent_Positivity_in_prior_14_days: 0.006
+Percent_Positivity_in_prior_14_days: 0.019
 Level: Green
 url: /states/CO/kit-carson-county
 ---

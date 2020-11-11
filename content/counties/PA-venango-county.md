@@ -1,6 +1,6 @@
 ---
 title: "Venango County, PA"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:42121.0,FEMA:3.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 42121.0
 FEMA_Region: 3.0
 Population: 50668.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1065.0
-Fourteen_day_test_rate_per_100000: 2102.0
-Percent_Positivity_in_prior_14_days: 0.108
+Tests_in_prior_14_days: 1488.0
+Fourteen_day_test_rate_per_100000: 2937.0
+Percent_Positivity_in_prior_14_days: 0.13
 Level: Red
 url: /states/PA/venango-county
 ---

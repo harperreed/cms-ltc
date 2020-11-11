@@ -1,9 +1,9 @@
 ---
 title: "Lee County, AR"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:5077.0,FEMA:6.0,Non-core,Yellow]
+tags: [FIPS:5077.0,FEMA:6.0,Non-core,Green]
 categories: [AR]
 County: Lee County
 State: AR
@@ -11,10 +11,10 @@ FIPS: 5077.0
 FEMA_Region: 6.0
 Population: 8857.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 311.0
-Fourteen_day_test_rate_per_100000: 3511.0
-Percent_Positivity_in_prior_14_days: 0.055
-Level: Yellow
+Tests_in_prior_14_days: 584.0
+Fourteen_day_test_rate_per_100000: 6594.0
+Percent_Positivity_in_prior_14_days: 0.019
+Level: Green
 url: /states/AR/lee-county
 ---
 

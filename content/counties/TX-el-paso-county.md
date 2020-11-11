@@ -1,6 +1,6 @@
 ---
 title: "El Paso County, TX"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:48141.0,FEMA:6.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48141.0
 FEMA_Region: 6.0
 Population: 839238.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 70787.0
-Fourteen_day_test_rate_per_100000: 8435.0
-Percent_Positivity_in_prior_14_days: 0.237
+Tests_in_prior_14_days: 82124.0
+Fourteen_day_test_rate_per_100000: 9786.0
+Percent_Positivity_in_prior_14_days: 0.255
 Level: Red
 url: /states/TX/el-paso-county
 ---

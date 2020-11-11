@@ -1,6 +1,6 @@
 ---
 title: "Baylor County, TX"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:48023.0,FEMA:6.0,Non-core,Yellow]
@@ -13,7 +13,7 @@ Population: 3509.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 168.0
 Fourteen_day_test_rate_per_100000: 4788.0
-Percent_Positivity_in_prior_14_days: 0.06
+Percent_Positivity_in_prior_14_days: 0.071
 Level: Yellow
 url: /states/TX/baylor-county
 ---

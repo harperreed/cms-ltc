@@ -1,6 +1,6 @@
 ---
 title: "Avery County, NC"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:37011.0,FEMA:4.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 37011.0
 FEMA_Region: 4.0
 Population: 17557.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 871.0
-Fourteen_day_test_rate_per_100000: 4961.0
-Percent_Positivity_in_prior_14_days: 0.171
+Tests_in_prior_14_days: 894.0
+Fourteen_day_test_rate_per_100000: 5092.0
+Percent_Positivity_in_prior_14_days: 0.114
 Level: Red
 url: /states/NC/avery-county
 ---

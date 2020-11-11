@@ -1,6 +1,6 @@
 ---
 title: "Madison County, AR"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:5087.0,FEMA:6.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 5087.0
 FEMA_Region: 6.0
 Population: 16576.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 554.0
-Fourteen_day_test_rate_per_100000: 3342.0
-Percent_Positivity_in_prior_14_days: 0.018
+Tests_in_prior_14_days: 425.0
+Fourteen_day_test_rate_per_100000: 2564.0
+Percent_Positivity_in_prior_14_days: 0.019
 Level: Green
 url: /states/AR/madison-county
 ---

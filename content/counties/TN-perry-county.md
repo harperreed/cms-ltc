@@ -1,6 +1,6 @@
 ---
 title: "Perry County, TN"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:47135.0,FEMA:4.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 47135.0
 FEMA_Region: 4.0
 Population: 8076.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 538.0
-Fourteen_day_test_rate_per_100000: 6662.0
-Percent_Positivity_in_prior_14_days: 0.351
+Tests_in_prior_14_days: 339.0
+Fourteen_day_test_rate_per_100000: 4198.0
+Percent_Positivity_in_prior_14_days: 0.369
 Level: Red
 url: /states/TN/perry-county
 ---

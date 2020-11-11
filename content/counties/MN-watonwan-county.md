@@ -1,6 +1,6 @@
 ---
 title: "Watonwan County, MN"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:27165.0,FEMA:5.0,Non-core,Yellow]
@@ -13,7 +13,7 @@ Population: 10897.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 743.0
 Fourteen_day_test_rate_per_100000: 6818.0
-Percent_Positivity_in_prior_14_days: 0.055
+Percent_Positivity_in_prior_14_days: 0.074
 Level: Yellow
 url: /states/MN/watonwan-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Dawson County, TX"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:48115.0,FEMA:6.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 48115.0
 FEMA_Region: 6.0
 Population: 12728.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 385.0
-Fourteen_day_test_rate_per_100000: 3025.0
-Percent_Positivity_in_prior_14_days: 0.278
+Tests_in_prior_14_days: 261.0
+Fourteen_day_test_rate_per_100000: 2051.0
+Percent_Positivity_in_prior_14_days: 0.211
 Level: Red
 url: /states/TX/dawson-county
 ---

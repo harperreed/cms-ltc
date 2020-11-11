@@ -1,6 +1,6 @@
 ---
 title: "Martinsville City, VA"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:51690.0,FEMA:3.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 51690.0
 FEMA_Region: 3.0
 Population: 12554.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 577.0
-Fourteen_day_test_rate_per_100000: 4596.0
-Percent_Positivity_in_prior_14_days: 0.132
+Tests_in_prior_14_days: 565.0
+Fourteen_day_test_rate_per_100000: 4501.0
+Percent_Positivity_in_prior_14_days: 0.119
 Level: Red
 url: /states/VA/martinsville-city
 ---

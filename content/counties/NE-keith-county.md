@@ -1,6 +1,6 @@
 ---
 title: "Keith County, NE"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:31101.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 31101.0
 FEMA_Region: 7.0
 Population: 8034.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 169.0
-Fourteen_day_test_rate_per_100000: 2104.0
-Percent_Positivity_in_prior_14_days: 0.16
+Tests_in_prior_14_days: 188.0
+Fourteen_day_test_rate_per_100000: 2340.0
+Percent_Positivity_in_prior_14_days: 0.218
 Level: Red
 url: /states/NE/keith-county
 ---

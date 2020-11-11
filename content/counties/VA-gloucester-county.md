@@ -1,6 +1,6 @@
 ---
 title: "Gloucester County, VA"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:51073.0,FEMA:3.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 51073.0
 FEMA_Region: 3.0
 Population: 37348.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 946.0
-Fourteen_day_test_rate_per_100000: 2533.0
-Percent_Positivity_in_prior_14_days: 0.038
+Tests_in_prior_14_days: 912.0
+Fourteen_day_test_rate_per_100000: 2442.0
+Percent_Positivity_in_prior_14_days: 0.034
 Level: Green
 url: /states/VA/gloucester-county
 ---

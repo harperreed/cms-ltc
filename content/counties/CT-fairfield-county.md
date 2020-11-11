@@ -1,6 +1,6 @@
 ---
 title: "Fairfield County, CT"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:9001.0,FEMA:1.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 9001.0
 FEMA_Region: 1.0
 Population: 943332.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 28924.0
-Fourteen_day_test_rate_per_100000: 3066.0
-Percent_Positivity_in_prior_14_days: 0.054
+Tests_in_prior_14_days: 32503.0
+Fourteen_day_test_rate_per_100000: 3446.0
+Percent_Positivity_in_prior_14_days: 0.07
 Level: Yellow
 url: /states/CT/fairfield-county
 ---

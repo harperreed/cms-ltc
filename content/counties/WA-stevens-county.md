@@ -1,9 +1,9 @@
 ---
 title: "Stevens County, WA"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:53065.0,FEMA:10.0,Medium metro,Green]
+tags: [FIPS:53065.0,FEMA:10.0,Medium metro,Yellow]
 categories: [WA]
 County: Stevens County
 State: WA
@@ -11,10 +11,10 @@ FIPS: 53065.0
 FEMA_Region: 10.0
 Population: 45723.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 430.0
-Fourteen_day_test_rate_per_100000: 940.0
-Percent_Positivity_in_prior_14_days: 0.047
-Level: Green
+Tests_in_prior_14_days: 232.0
+Fourteen_day_test_rate_per_100000: 507.0
+Percent_Positivity_in_prior_14_days: 0.151
+Level: Yellow
 url: /states/WA/stevens-county
 ---
 

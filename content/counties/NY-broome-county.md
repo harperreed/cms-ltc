@@ -1,6 +1,6 @@
 ---
 title: "Broome County, NY"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:36007.0,FEMA:2.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 36007.0
 FEMA_Region: 2.0
 Population: 190488.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 20444.0
-Fourteen_day_test_rate_per_100000: 10732.0
-Percent_Positivity_in_prior_14_days: 0.058
+Tests_in_prior_14_days: 18445.0
+Fourteen_day_test_rate_per_100000: 9683.0
+Percent_Positivity_in_prior_14_days: 0.05
 Level: Yellow
 url: /states/NY/broome-county
 ---

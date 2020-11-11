@@ -1,6 +1,6 @@
 ---
 title: "Sheboygan County, WI"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
 tags: [FIPS:55117.0,FEMA:5.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 55117.0
 FEMA_Region: 5.0
 Population: 115340.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 5582.0
-Fourteen_day_test_rate_per_100000: 4840.0
-Percent_Positivity_in_prior_14_days: 0.201
+Tests_in_prior_14_days: 8951.0
+Fourteen_day_test_rate_per_100000: 7761.0
+Percent_Positivity_in_prior_14_days: 0.211
 Level: Red
 url: /states/WI/sheboygan-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Mason County, MI"
-date: 2020-11-10
+date: 2020-11-11
 draft: false
 type: county
-tags: [FIPS:26105.0,FEMA:5.0,Micropolitan,Green]
+tags: [FIPS:26105.0,FEMA:5.0,Micropolitan,Yellow]
 categories: [MI]
 County: Mason County
 State: MI
@@ -11,10 +11,10 @@ FIPS: 26105.0
 FEMA_Region: 5.0
 Population: 29144.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1454.0
-Fourteen_day_test_rate_per_100000: 4989.0
-Percent_Positivity_in_prior_14_days: 0.048
-Level: Green
+Tests_in_prior_14_days: 1565.0
+Fourteen_day_test_rate_per_100000: 5370.0
+Percent_Positivity_in_prior_14_days: 0.066
+Level: Yellow
 url: /states/MI/mason-county
 ---
 
