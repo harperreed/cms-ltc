@@ -1,6 +1,6 @@
 ---
 title: "Lowndes County, GA"
-date: 2020-11-11
+date: 2020-11-12
 draft: false
 type: county
 tags: [FIPS:13185.0,FEMA:4.0,Small metro,Red]

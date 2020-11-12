@@ -1,6 +1,6 @@
 ---
 title: "Somerset County, PA"
-date: 2020-11-11
+date: 2020-11-12
 draft: false
 type: county
 tags: [FIPS:42111.0,FEMA:3.0,Micropolitan,Green]

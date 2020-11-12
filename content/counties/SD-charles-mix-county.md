@@ -1,6 +1,6 @@
 ---
 title: "Charles Mix County, SD"
-date: 2020-11-11
+date: 2020-11-12
 draft: false
 type: county
 tags: [FIPS:46023.0,FEMA:8.0,Non-core,Red]

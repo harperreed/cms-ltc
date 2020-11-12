@@ -1,6 +1,6 @@
 ---
 title: "La Crosse County, WI"
-date: 2020-11-11
+date: 2020-11-12
 draft: false
 type: county
 tags: [FIPS:55063.0,FEMA:5.0,Small metro,Red]

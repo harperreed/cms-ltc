@@ -1,6 +1,6 @@
 ---
 title: "Noxubee County, MS"
-date: 2020-11-11
+date: 2020-11-12
 draft: false
 type: county
 tags: [FIPS:28103.0,FEMA:4.0,Non-core,Green]

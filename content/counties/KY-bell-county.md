@@ -1,6 +1,6 @@
 ---
 title: "Bell County, KY"
-date: 2020-11-11
+date: 2020-11-12
 draft: false
 type: county
 tags: [FIPS:21013.0,FEMA:4.0,Micropolitan,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Barbour County, WV"
-date: 2020-11-11
+date: 2020-11-12
 draft: false
 type: county
 tags: [FIPS:54001.0,FEMA:3.0,Non-core,Green]

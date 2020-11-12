@@ -1,6 +1,6 @@
 ---
 title: "Red Lake County, MN"
-date: 2020-11-11
+date: 2020-11-12
 draft: false
 type: county
 tags: [FIPS:27125.0,FEMA:5.0,Non-core,Red]

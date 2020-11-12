@@ -1,6 +1,6 @@
 ---
 title: "Colonial Heights City, VA"
-date: 2020-11-11
+date: 2020-11-12
 draft: false
 type: county
 tags: [FIPS:51570.0,FEMA:3.0,Large fringe metro,Yellow]

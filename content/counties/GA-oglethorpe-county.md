@@ -1,6 +1,6 @@
 ---
 title: "Oglethorpe County, GA"
-date: 2020-11-11
+date: 2020-11-12
 draft: false
 type: county
 tags: [FIPS:13221.0,FEMA:4.0,Small metro,Yellow]

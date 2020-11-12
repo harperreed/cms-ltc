@@ -1,6 +1,6 @@
 ---
 title: "Pima County, AZ"
-date: 2020-11-11
+date: 2020-11-12
 draft: false
 type: county
 tags: [FIPS:4019.0,FEMA:9.0,Medium metro,Yellow]

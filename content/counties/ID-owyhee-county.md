@@ -1,6 +1,6 @@
 ---
 title: "Owyhee County, ID"
-date: 2020-11-11
+date: 2020-11-12
 draft: false
 type: county
 tags: [FIPS:16073.0,FEMA:10.0,Medium metro,Yellow]

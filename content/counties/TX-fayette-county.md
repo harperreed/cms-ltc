@@ -1,6 +1,6 @@
 ---
 title: "Fayette County, TX"
-date: 2020-11-11
+date: 2020-11-12
 draft: false
 type: county
 tags: [FIPS:48149.0,FEMA:6.0,Non-core,Yellow]

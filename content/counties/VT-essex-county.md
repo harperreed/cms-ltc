@@ -1,6 +1,6 @@
 ---
 title: "Essex County, VT"
-date: 2020-11-11
+date: 2020-11-12
 draft: false
 type: county
 tags: [FIPS:50009.0,FEMA:1.0,Micropolitan,Yellow]

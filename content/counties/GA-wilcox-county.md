@@ -1,6 +1,6 @@
 ---
 title: "Wilcox County, GA"
-date: 2020-11-11
+date: 2020-11-12
 draft: false
 type: county
 tags: [FIPS:13315.0,FEMA:4.0,Non-core,Green]
