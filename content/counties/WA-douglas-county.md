@@ -1,6 +1,6 @@
 ---
 title: "Douglas County, WA"
-date: 2020-11-12
+date: 2020-11-13
 draft: false
 type: county
 tags: [FIPS:53017.0,FEMA:10.0,Small metro,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Ascension Parish, LA"
-date: 2020-11-12
+date: 2020-11-13
 draft: false
 type: county
 tags: [FIPS:22005.0,FEMA:6.0,Medium metro,Red]

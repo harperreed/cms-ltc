@@ -1,6 +1,6 @@
 ---
 title: "Harrison County, IA"
-date: 2020-11-12
+date: 2020-11-13
 draft: false
 type: county
 tags: [FIPS:19085.0,FEMA:7.0,Medium metro,Red]

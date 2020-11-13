@@ -1,6 +1,6 @@
 ---
 title: "McIntosh County, GA"
-date: 2020-11-12
+date: 2020-11-13
 draft: false
 type: county
 tags: [FIPS:13191.0,FEMA:4.0,Small metro,Green]

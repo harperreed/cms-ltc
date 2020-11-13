@@ -1,6 +1,6 @@
 ---
 title: "Bergen County, NJ"
-date: 2020-11-12
+date: 2020-11-13
 draft: false
 type: county
 tags: [FIPS:34003.0,FEMA:2.0,Large fringe metro,Yellow]

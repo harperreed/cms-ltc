@@ -1,6 +1,6 @@
 ---
 title: "Caddo County, OK"
-date: 2020-11-12
+date: 2020-11-13
 draft: false
 type: county
 tags: [FIPS:40015.0,FEMA:6.0,Non-core,Yellow]

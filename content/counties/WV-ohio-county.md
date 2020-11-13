@@ -1,6 +1,6 @@
 ---
 title: "Ohio County, WV"
-date: 2020-11-12
+date: 2020-11-13
 draft: false
 type: county
 tags: [FIPS:54069.0,FEMA:3.0,Small metro,Yellow]

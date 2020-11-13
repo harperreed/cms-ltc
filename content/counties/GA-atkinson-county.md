@@ -1,6 +1,6 @@
 ---
 title: "Atkinson County, GA"
-date: 2020-11-12
+date: 2020-11-13
 draft: false
 type: county
 tags: [FIPS:13003.0,FEMA:4.0,Non-core,Yellow]

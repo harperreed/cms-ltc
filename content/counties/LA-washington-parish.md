@@ -1,6 +1,6 @@
 ---
 title: "Washington Parish, LA"
-date: 2020-11-12
+date: 2020-11-13
 draft: false
 type: county
 tags: [FIPS:22117.0,FEMA:6.0,Micropolitan,Yellow]

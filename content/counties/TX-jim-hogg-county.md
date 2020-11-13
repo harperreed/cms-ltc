@@ -1,6 +1,6 @@
 ---
 title: "Jim Hogg County, TX"
-date: 2020-11-12
+date: 2020-11-13
 draft: false
 type: county
 tags: [FIPS:48247.0,FEMA:6.0,Non-core,Green]

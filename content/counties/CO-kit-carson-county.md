@@ -1,6 +1,6 @@
 ---
 title: "Kit Carson County, CO"
-date: 2020-11-12
+date: 2020-11-13
 draft: false
 type: county
 tags: [FIPS:8063.0,FEMA:8.0,Non-core,Green]

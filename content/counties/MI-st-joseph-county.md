@@ -1,6 +1,6 @@
 ---
 title: "St. Joseph County, MI"
-date: 2020-11-12
+date: 2020-11-13
 draft: false
 type: county
 tags: [FIPS:26149.0,FEMA:5.0,Micropolitan,Yellow]

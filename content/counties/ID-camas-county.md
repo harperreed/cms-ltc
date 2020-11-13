@@ -1,6 +1,6 @@
 ---
 title: "Camas County, ID"
-date: 2020-11-12
+date: 2020-11-13
 draft: false
 type: county
 tags: [FIPS:16025.0,FEMA:10.0,Micropolitan,Yellow]

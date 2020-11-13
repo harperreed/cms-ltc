@@ -1,6 +1,6 @@
 ---
 title: "Washington County, VT"
-date: 2020-11-12
+date: 2020-11-13
 draft: false
 type: county
 tags: [FIPS:50023.0,FEMA:1.0,Micropolitan,Green]

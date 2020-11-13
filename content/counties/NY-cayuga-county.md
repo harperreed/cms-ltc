@@ -1,6 +1,6 @@
 ---
 title: "Cayuga County, NY"
-date: 2020-11-12
+date: 2020-11-13
 draft: false
 type: county
 tags: [FIPS:36011.0,FEMA:2.0,Micropolitan,Green]
