@@ -1,6 +1,6 @@
 ---
 title: "Honolulu County, HI"
-date: 2020-11-13
+date: 2020-11-14
 draft: false
 type: county
 tags: [FIPS:15003.0,FEMA:9.0,Medium metro,Green]

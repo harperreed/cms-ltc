@@ -1,6 +1,6 @@
 ---
 title: "Webster County, WV"
-date: 2020-11-13
+date: 2020-11-14
 draft: false
 type: county
 tags: [FIPS:54101.0,FEMA:3.0,Non-core,Green]

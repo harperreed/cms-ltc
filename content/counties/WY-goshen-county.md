@@ -1,6 +1,6 @@
 ---
 title: "Goshen County, WY"
-date: 2020-11-13
+date: 2020-11-14
 draft: false
 type: county
 tags: [FIPS:56015.0,FEMA:8.0,Non-core,Yellow]

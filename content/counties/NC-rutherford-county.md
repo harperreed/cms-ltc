@@ -1,6 +1,6 @@
 ---
 title: "Rutherford County, NC"
-date: 2020-11-13
+date: 2020-11-14
 draft: false
 type: county
 tags: [FIPS:37161.0,FEMA:4.0,Micropolitan,Yellow]

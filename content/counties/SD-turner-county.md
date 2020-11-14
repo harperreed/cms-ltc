@@ -1,6 +1,6 @@
 ---
 title: "Turner County, SD"
-date: 2020-11-13
+date: 2020-11-14
 draft: false
 type: county
 tags: [FIPS:46125.0,FEMA:8.0,Small metro,Red]

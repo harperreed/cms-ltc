@@ -1,6 +1,6 @@
 ---
 title: "Poinsett County, AR"
-date: 2020-11-13
+date: 2020-11-14
 draft: false
 type: county
 tags: [FIPS:5111.0,FEMA:6.0,Small metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Kiowa County, CO"
-date: 2020-11-13
+date: 2020-11-14
 draft: false
 type: county
 tags: [FIPS:8061.0,FEMA:8.0,Non-core,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Kane County, IL"
-date: 2020-11-13
+date: 2020-11-14
 draft: false
 type: county
 tags: [FIPS:17089.0,FEMA:5.0,Large fringe metro,Red]

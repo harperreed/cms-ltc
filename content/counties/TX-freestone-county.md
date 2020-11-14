@@ -1,6 +1,6 @@
 ---
 title: "Freestone County, TX"
-date: 2020-11-13
+date: 2020-11-14
 draft: false
 type: county
 tags: [FIPS:48161.0,FEMA:6.0,Non-core,Green]

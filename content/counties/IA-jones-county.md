@@ -1,6 +1,6 @@
 ---
 title: "Jones County, IA"
-date: 2020-11-13
+date: 2020-11-14
 draft: false
 type: county
 tags: [FIPS:19105.0,FEMA:7.0,Medium metro,Red]

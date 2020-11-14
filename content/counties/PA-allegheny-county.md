@@ -1,6 +1,6 @@
 ---
 title: "Allegheny County, PA"
-date: 2020-11-13
+date: 2020-11-14
 draft: false
 type: county
 tags: [FIPS:42003.0,FEMA:3.0,Large central metro,Green]

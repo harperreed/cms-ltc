@@ -1,6 +1,6 @@
 ---
 title: "Stark County, IL"
-date: 2020-11-13
+date: 2020-11-14
 draft: false
 type: county
 tags: [FIPS:17175.0,FEMA:5.0,Medium metro,Yellow]
