@@ -1,6 +1,6 @@
 ---
 title: "McCook County, SD"
-date: 2020-11-14
+date: 2020-11-15
 draft: false
 type: county
 tags: [FIPS:46087.0,FEMA:8.0,Small metro,Red]

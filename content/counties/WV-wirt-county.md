@@ -1,6 +1,6 @@
 ---
 title: "Wirt County, WV"
-date: 2020-11-14
+date: 2020-11-15
 draft: false
 type: county
 tags: [FIPS:54105.0,FEMA:3.0,Small metro,Green]

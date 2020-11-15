@@ -1,6 +1,6 @@
 ---
 title: "Utah County, UT"
-date: 2020-11-14
+date: 2020-11-15
 draft: false
 type: county
 tags: [FIPS:49049.0,FEMA:8.0,Medium metro,Red]

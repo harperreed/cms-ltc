@@ -1,6 +1,6 @@
 ---
 title: "New Castle County, DE"
-date: 2020-11-14
+date: 2020-11-15
 draft: false
 type: county
 tags: [FIPS:10003.0,FEMA:3.0,Large fringe metro,Green]

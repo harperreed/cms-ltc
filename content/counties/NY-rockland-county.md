@@ -1,6 +1,6 @@
 ---
 title: "Rockland County, NY"
-date: 2020-11-14
+date: 2020-11-15
 draft: false
 type: county
 tags: [FIPS:36087.0,FEMA:2.0,Large fringe metro,Green]

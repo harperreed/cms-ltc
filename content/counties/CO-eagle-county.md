@@ -1,6 +1,6 @@
 ---
 title: "Eagle County, CO"
-date: 2020-11-14
+date: 2020-11-15
 draft: false
 type: county
 tags: [FIPS:8037.0,FEMA:8.0,Micropolitan,Yellow]

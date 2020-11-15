@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, OR"
-date: 2020-11-14
+date: 2020-11-15
 draft: false
 type: county
 tags: [FIPS:41031.0,FEMA:10.0,Non-core,Green]

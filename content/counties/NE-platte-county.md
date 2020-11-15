@@ -1,6 +1,6 @@
 ---
 title: "Platte County, NE"
-date: 2020-11-14
+date: 2020-11-15
 draft: false
 type: county
 tags: [FIPS:31141.0,FEMA:7.0,Micropolitan,Red]

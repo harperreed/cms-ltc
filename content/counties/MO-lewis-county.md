@@ -1,6 +1,6 @@
 ---
 title: "Lewis County, MO"
-date: 2020-11-14
+date: 2020-11-15
 draft: false
 type: county
 tags: [FIPS:29111.0,FEMA:7.0,Micropolitan,Yellow]

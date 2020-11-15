@@ -1,6 +1,6 @@
 ---
 title: "Iron County, WI"
-date: 2020-11-14
+date: 2020-11-15
 draft: false
 type: county
 tags: [FIPS:55051.0,FEMA:5.0,Non-core,Red]

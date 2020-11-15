@@ -1,6 +1,6 @@
 ---
 title: "Ward County, TX"
-date: 2020-11-14
+date: 2020-11-15
 draft: false
 type: county
 tags: [FIPS:48475.0,FEMA:6.0,Non-core,Yellow]

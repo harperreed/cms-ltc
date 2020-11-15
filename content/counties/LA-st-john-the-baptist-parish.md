@@ -1,6 +1,6 @@
 ---
 title: "St. John the Baptist Parish, LA"
-date: 2020-11-14
+date: 2020-11-15
 draft: false
 type: county
 tags: [FIPS:22095.0,FEMA:6.0,Large fringe metro,Yellow]
