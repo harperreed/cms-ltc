@@ -1,6 +1,6 @@
 ---
 title: "Asotin County, WA"
-date: 2020-11-15
+date: 2020-11-16
 draft: false
 type: county
 tags: [FIPS:53003.0,FEMA:10.0,Small metro,Yellow]

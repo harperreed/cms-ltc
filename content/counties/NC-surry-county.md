@@ -1,6 +1,6 @@
 ---
 title: "Surry County, NC"
-date: 2020-11-15
+date: 2020-11-16
 draft: false
 type: county
 tags: [FIPS:37171.0,FEMA:4.0,Micropolitan,Red]

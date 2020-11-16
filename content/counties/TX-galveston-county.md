@@ -1,6 +1,6 @@
 ---
 title: "Galveston County, TX"
-date: 2020-11-15
+date: 2020-11-16
 draft: false
 type: county
 tags: [FIPS:48167.0,FEMA:6.0,Large fringe metro,Yellow]

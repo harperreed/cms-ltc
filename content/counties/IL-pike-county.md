@@ -1,6 +1,6 @@
 ---
 title: "Pike County, IL"
-date: 2020-11-15
+date: 2020-11-16
 draft: false
 type: county
 tags: [FIPS:17149.0,FEMA:5.0,Non-core,Red]

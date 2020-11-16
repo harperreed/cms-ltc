@@ -1,6 +1,6 @@
 ---
 title: "Wayne County, IA"
-date: 2020-11-15
+date: 2020-11-16
 draft: false
 type: county
 tags: [FIPS:19185.0,FEMA:7.0,Non-core,Red]

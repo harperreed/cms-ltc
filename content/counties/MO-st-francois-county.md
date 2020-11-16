@@ -1,6 +1,6 @@
 ---
 title: "St. Francois County, MO"
-date: 2020-11-15
+date: 2020-11-16
 draft: false
 type: county
 tags: [FIPS:29187.0,FEMA:7.0,Micropolitan,Red]

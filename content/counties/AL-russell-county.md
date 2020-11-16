@@ -1,6 +1,6 @@
 ---
 title: "Russell County, AL"
-date: 2020-11-15
+date: 2020-11-16
 draft: false
 type: county
 tags: [FIPS:1113.0,FEMA:4.0,Medium metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, KY"
-date: 2020-11-15
+date: 2020-11-16
 draft: false
 type: county
 tags: [FIPS:21111.0,FEMA:4.0,Large central metro,Red]
