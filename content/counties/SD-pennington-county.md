@@ -1,6 +1,6 @@
 ---
 title: "Pennington County, SD"
-date: 2020-11-16
+date: 2020-11-17
 draft: false
 type: county
 tags: [FIPS:46103.0,FEMA:8.0,Small metro,Red]

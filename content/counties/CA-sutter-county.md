@@ -1,6 +1,6 @@
 ---
 title: "Sutter County, CA"
-date: 2020-11-16
+date: 2020-11-17
 draft: false
 type: county
 tags: [FIPS:6101.0,FEMA:9.0,Small metro,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Coosa County, AL"
-date: 2020-11-16
+date: 2020-11-17
 draft: false
 type: county
 tags: [FIPS:1037.0,FEMA:4.0,Micropolitan,Yellow]

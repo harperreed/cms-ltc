@@ -1,6 +1,6 @@
 ---
 title: "Chowan County, NC"
-date: 2020-11-16
+date: 2020-11-17
 draft: false
 type: county
 tags: [FIPS:37041.0,FEMA:4.0,Non-core,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Avoyelles Parish, LA"
-date: 2020-11-16
+date: 2020-11-17
 draft: false
 type: county
 tags: [FIPS:22009.0,FEMA:6.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Uvalde County, TX"
-date: 2020-11-16
+date: 2020-11-17
 draft: false
 type: county
 tags: [FIPS:48463.0,FEMA:6.0,Micropolitan,Yellow]

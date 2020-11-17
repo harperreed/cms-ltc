@@ -1,6 +1,6 @@
 ---
 title: "Bottineau County, ND"
-date: 2020-11-16
+date: 2020-11-17
 draft: false
 type: county
 tags: [FIPS:38009.0,FEMA:8.0,Non-core,Red]

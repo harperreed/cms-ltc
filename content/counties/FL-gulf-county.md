@@ -1,6 +1,6 @@
 ---
 title: "Gulf County, FL"
-date: 2020-11-16
+date: 2020-11-17
 draft: false
 type: county
 tags: [FIPS:12045.0,FEMA:4.0,Small metro,Yellow]

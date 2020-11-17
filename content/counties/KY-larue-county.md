@@ -1,6 +1,6 @@
 ---
 title: "Larue County, KY"
-date: 2020-11-16
+date: 2020-11-17
 draft: false
 type: county
 tags: [FIPS:21123.0,FEMA:4.0,Small metro,Red]

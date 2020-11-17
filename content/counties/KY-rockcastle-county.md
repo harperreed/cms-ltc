@@ -1,6 +1,6 @@
 ---
 title: "Rockcastle County, KY"
-date: 2020-11-16
+date: 2020-11-17
 draft: false
 type: county
 tags: [FIPS:21203.0,FEMA:4.0,Micropolitan,Yellow]
