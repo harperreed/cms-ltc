@@ -1,6 +1,6 @@
 ---
 title: "Sevier County, TN"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:47155.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 47155.0
 FEMA_Region: 4.0
 Population: 98250.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2822.0
-Fourteen_day_test_rate_per_100000: 2872.0
-Percent_Positivity_in_prior_14_days: 0.12
+Tests_in_prior_14_days: 2805.0
+Fourteen_day_test_rate_per_100000: 2855.0
+Percent_Positivity_in_prior_14_days: 0.148
 Level: Red
 url: /states/TN/sevier-county
 ---

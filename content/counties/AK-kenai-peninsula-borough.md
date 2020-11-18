@@ -1,6 +1,6 @@
 ---
 title: "Kenai Peninsula Borough, AK"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:2122.0,FEMA:10.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 2122.0
 FEMA_Region: 10.0
 Population: 58708.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 3372.0
-Fourteen_day_test_rate_per_100000: 5744.0
-Percent_Positivity_in_prior_14_days: 0.14
+Tests_in_prior_14_days: 3369.0
+Fourteen_day_test_rate_per_100000: 5739.0
+Percent_Positivity_in_prior_14_days: 0.144
 Level: Red
 url: /states/AK/kenai-peninsula-borough
 ---

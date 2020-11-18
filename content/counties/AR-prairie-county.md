@@ -1,6 +1,6 @@
 ---
 title: "Prairie County, AR"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:5117.0,FEMA:6.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 5117.0
 FEMA_Region: 6.0
 Population: 8062.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 362.0
-Fourteen_day_test_rate_per_100000: 4490.0
-Percent_Positivity_in_prior_14_days: 0.163
+Tests_in_prior_14_days: 222.0
+Fourteen_day_test_rate_per_100000: 2754.0
+Percent_Positivity_in_prior_14_days: 0.198
 Level: Red
 url: /states/AR/prairie-county
 ---

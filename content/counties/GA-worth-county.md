@@ -1,6 +1,6 @@
 ---
 title: "Worth County, GA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:13321.0,FEMA:4.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 13321.0
 FEMA_Region: 4.0
 Population: 20247.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 360.0
-Fourteen_day_test_rate_per_100000: 1778.0
-Percent_Positivity_in_prior_14_days: 0.042
+Tests_in_prior_14_days: 323.0
+Fourteen_day_test_rate_per_100000: 1595.0
+Percent_Positivity_in_prior_14_days: 0.046
 Level: Green
 url: /states/GA/worth-county
 ---

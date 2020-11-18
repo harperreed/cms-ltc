@@ -1,6 +1,6 @@
 ---
 title: "Lawrence County, MS"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:28077.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28077.0
 FEMA_Region: 4.0
 Population: 12586.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 209.0
-Fourteen_day_test_rate_per_100000: 1661.0
-Percent_Positivity_in_prior_14_days: 0.124
+Tests_in_prior_14_days: 156.0
+Fourteen_day_test_rate_per_100000: 1239.0
+Percent_Positivity_in_prior_14_days: 0.122
 Level: Yellow
 url: /states/MS/lawrence-county
 ---

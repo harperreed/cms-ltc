@@ -1,6 +1,6 @@
 ---
 title: "Lowndes County, MS"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:28087.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28087.0
 FEMA_Region: 4.0
 Population: 58595.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 635.0
-Fourteen_day_test_rate_per_100000: 1084.0
-Percent_Positivity_in_prior_14_days: 0.077
+Tests_in_prior_14_days: 812.0
+Fourteen_day_test_rate_per_100000: 1386.0
+Percent_Positivity_in_prior_14_days: 0.097
 Level: Yellow
 url: /states/MS/lowndes-county
 ---

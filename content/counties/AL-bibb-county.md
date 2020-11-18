@@ -1,6 +1,6 @@
 ---
 title: "Bibb County, AL"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:1007.0,FEMA:4.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 1007.0
 FEMA_Region: 4.0
 Population: 22394.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 839.0
-Fourteen_day_test_rate_per_100000: 3747.0
-Percent_Positivity_in_prior_14_days: 0.147
+Tests_in_prior_14_days: 914.0
+Fourteen_day_test_rate_per_100000: 4081.0
+Percent_Positivity_in_prior_14_days: 0.111
 Level: Red
 url: /states/AL/bibb-county
 ---

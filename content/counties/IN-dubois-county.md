@@ -1,6 +1,6 @@
 ---
 title: "Dubois County, IN"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:18037.0,FEMA:5.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 18037.0
 FEMA_Region: 5.0
 Population: 42736.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2685.0
-Fourteen_day_test_rate_per_100000: 6283.0
-Percent_Positivity_in_prior_14_days: 0.117
+Tests_in_prior_14_days: 2702.0
+Fourteen_day_test_rate_per_100000: 6323.0
+Percent_Positivity_in_prior_14_days: 0.113
 Level: Red
 url: /states/IN/dubois-county
 ---

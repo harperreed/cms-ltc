@@ -1,6 +1,6 @@
 ---
 title: "Hall County, NE"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:31079.0,FEMA:7.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 31079.0
 FEMA_Region: 7.0
 Population: 61353.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1683.0
-Fourteen_day_test_rate_per_100000: 2743.0
-Percent_Positivity_in_prior_14_days: 0.21
+Tests_in_prior_14_days: 2341.0
+Fourteen_day_test_rate_per_100000: 3816.0
+Percent_Positivity_in_prior_14_days: 0.288
 Level: Red
 url: /states/NE/hall-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Mecklenburg County, NC"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:37119.0,FEMA:4.0,Large central metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 37119.0
 FEMA_Region: 4.0
 Population: 1110356.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 57886.0
-Fourteen_day_test_rate_per_100000: 5213.0
-Percent_Positivity_in_prior_14_days: 0.068
+Tests_in_prior_14_days: 58349.0
+Fourteen_day_test_rate_per_100000: 5255.0
+Percent_Positivity_in_prior_14_days: 0.075
 Level: Yellow
 url: /states/NC/mecklenburg-county
 ---

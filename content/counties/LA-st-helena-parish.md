@@ -1,6 +1,6 @@
 ---
 title: "St. Helena Parish, LA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:22091.0,FEMA:6.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 22091.0
 FEMA_Region: 6.0
 Population: 10132.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 102.0
-Fourteen_day_test_rate_per_100000: 1007.0
-Percent_Positivity_in_prior_14_days: 0.098
+Tests_in_prior_14_days: 71.0
+Fourteen_day_test_rate_per_100000: 701.0
+Percent_Positivity_in_prior_14_days: 0.085
 Level: Yellow
 url: /states/LA/st-helena-parish
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Wilbarger County, TX"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:48487.0,FEMA:6.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 48487.0
 FEMA_Region: 6.0
 Population: 12769.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1065.0
-Fourteen_day_test_rate_per_100000: 8341.0
-Percent_Positivity_in_prior_14_days: 0.114
+Tests_in_prior_14_days: 944.0
+Fourteen_day_test_rate_per_100000: 7393.0
+Percent_Positivity_in_prior_14_days: 0.177
 Level: Red
 url: /states/TX/wilbarger-county
 ---

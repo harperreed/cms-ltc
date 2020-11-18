@@ -1,6 +1,6 @@
 ---
 title: "Dare County, NC"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:37055.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 37055.0
 FEMA_Region: 4.0
 Population: 37009.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1278.0
-Fourteen_day_test_rate_per_100000: 3453.0
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 1607.0
+Fourteen_day_test_rate_per_100000: 4342.0
+Percent_Positivity_in_prior_14_days: 0.088
 Level: Yellow
 url: /states/NC/dare-county
 ---

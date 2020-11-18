@@ -1,9 +1,9 @@
 ---
 title: "Umatilla County, OR"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
-tags: [FIPS:41059.0,FEMA:10.0,Micropolitan,Yellow]
+tags: [FIPS:41059.0,FEMA:10.0,Micropolitan,Red]
 categories: [OR]
 County: Umatilla County
 State: OR
@@ -11,10 +11,10 @@ FIPS: 41059.0
 FEMA_Region: 10.0
 Population: 77950.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2152.0
-Fourteen_day_test_rate_per_100000: 2761.0
-Percent_Positivity_in_prior_14_days: 0.091
-Level: Yellow
+Tests_in_prior_14_days: 2142.0
+Fourteen_day_test_rate_per_100000: 2748.0
+Percent_Positivity_in_prior_14_days: 0.114
+Level: Red
 url: /states/OR/umatilla-county
 ---
 

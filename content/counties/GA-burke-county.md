@@ -1,6 +1,6 @@
 ---
 title: "Burke County, GA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:13033.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 13033.0
 FEMA_Region: 4.0
 Population: 22383.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 556.0
-Fourteen_day_test_rate_per_100000: 2484.0
-Percent_Positivity_in_prior_14_days: 0.169
+Tests_in_prior_14_days: 651.0
+Fourteen_day_test_rate_per_100000: 2908.0
+Percent_Positivity_in_prior_14_days: 0.252
 Level: Red
 url: /states/GA/burke-county
 ---

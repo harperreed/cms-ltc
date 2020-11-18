@@ -1,9 +1,9 @@
 ---
 title: "Morgan County, TN"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
-tags: [FIPS:47129.0,FEMA:4.0,Medium metro,Yellow]
+tags: [FIPS:47129.0,FEMA:4.0,Medium metro,Red]
 categories: [TN]
 County: Morgan County
 State: TN
@@ -11,10 +11,10 @@ FIPS: 47129.0
 FEMA_Region: 4.0
 Population: 21403.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 391.0
-Fourteen_day_test_rate_per_100000: 1827.0
-Percent_Positivity_in_prior_14_days: 0.061
-Level: Yellow
+Tests_in_prior_14_days: 450.0
+Fourteen_day_test_rate_per_100000: 2103.0
+Percent_Positivity_in_prior_14_days: 0.124
+Level: Red
 url: /states/TN/morgan-county
 ---
 

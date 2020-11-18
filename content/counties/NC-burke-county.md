@@ -1,6 +1,6 @@
 ---
 title: "Burke County, NC"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:37023.0,FEMA:4.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 37023.0
 FEMA_Region: 4.0
 Population: 90485.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 5388.0
-Fourteen_day_test_rate_per_100000: 5955.0
-Percent_Positivity_in_prior_14_days: 0.045
+Tests_in_prior_14_days: 5845.0
+Fourteen_day_test_rate_per_100000: 6460.0
+Percent_Positivity_in_prior_14_days: 0.047
 Level: Green
 url: /states/NC/burke-county
 ---

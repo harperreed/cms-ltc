@@ -1,6 +1,6 @@
 ---
 title: "Thurston County, WA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:53067.0,FEMA:10.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 53067.0
 FEMA_Region: 10.0
 Population: 290536.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 4385.0
-Fourteen_day_test_rate_per_100000: 1509.0
-Percent_Positivity_in_prior_14_days: 0.05
+Tests_in_prior_14_days: 5201.0
+Fourteen_day_test_rate_per_100000: 1790.0
+Percent_Positivity_in_prior_14_days: 0.056
 Level: Yellow
 url: /states/WA/thurston-county
 ---

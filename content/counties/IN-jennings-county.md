@@ -1,6 +1,6 @@
 ---
 title: "Jennings County, IN"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:18079.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 18079.0
 FEMA_Region: 5.0
 Population: 27735.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1899.0
-Fourteen_day_test_rate_per_100000: 6847.0
-Percent_Positivity_in_prior_14_days: 0.059
+Tests_in_prior_14_days: 3008.0
+Fourteen_day_test_rate_per_100000: 10846.0
+Percent_Positivity_in_prior_14_days: 0.075
 Level: Yellow
 url: /states/IN/jennings-county
 ---

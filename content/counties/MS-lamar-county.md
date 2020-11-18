@@ -1,6 +1,6 @@
 ---
 title: "Lamar County, MS"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:28073.0,FEMA:4.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28073.0
 FEMA_Region: 4.0
 Population: 63343.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 787.0
-Fourteen_day_test_rate_per_100000: 1242.0
-Percent_Positivity_in_prior_14_days: 0.081
+Tests_in_prior_14_days: 704.0
+Fourteen_day_test_rate_per_100000: 1111.0
+Percent_Positivity_in_prior_14_days: 0.095
 Level: Yellow
 url: /states/MS/lamar-county
 ---

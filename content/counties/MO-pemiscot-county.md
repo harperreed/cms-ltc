@@ -1,9 +1,9 @@
 ---
 title: "Pemiscot County, MO"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
-tags: [FIPS:29155.0,FEMA:7.0,Non-core,Yellow]
+tags: [FIPS:29155.0,FEMA:7.0,Non-core,Red]
 categories: [MO]
 County: Pemiscot County
 State: MO
@@ -11,10 +11,10 @@ FIPS: 29155.0
 FEMA_Region: 7.0
 Population: 15805.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 269.0
-Fourteen_day_test_rate_per_100000: 1702.0
-Percent_Positivity_in_prior_14_days: 0.264
-Level: Yellow
+Tests_in_prior_14_days: 384.0
+Fourteen_day_test_rate_per_100000: 2430.0
+Percent_Positivity_in_prior_14_days: 0.297
+Level: Red
 url: /states/MO/pemiscot-county
 ---
 

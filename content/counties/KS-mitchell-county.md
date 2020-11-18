@@ -1,9 +1,9 @@
 ---
 title: "Mitchell County, KS"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
-tags: [FIPS:20123.0,FEMA:7.0,Non-core,Yellow]
+tags: [FIPS:20123.0,FEMA:7.0,Non-core,Red]
 categories: [KS]
 County: Mitchell County
 State: KS
@@ -11,10 +11,10 @@ FIPS: 20123.0
 FEMA_Region: 7.0
 Population: 5979.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 170.0
-Fourteen_day_test_rate_per_100000: 2843.0
-Percent_Positivity_in_prior_14_days: 0.094
-Level: Yellow
+Tests_in_prior_14_days: 175.0
+Fourteen_day_test_rate_per_100000: 2927.0
+Percent_Positivity_in_prior_14_days: 0.166
+Level: Red
 url: /states/KS/mitchell-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Cumberland County, ME"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:23005.0,FEMA:1.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 23005.0
 FEMA_Region: 1.0
 Population: 295003.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 29376.0
-Fourteen_day_test_rate_per_100000: 9958.0
-Percent_Positivity_in_prior_14_days: 0.017
+Tests_in_prior_14_days: 35620.0
+Fourteen_day_test_rate_per_100000: 12074.0
+Percent_Positivity_in_prior_14_days: 0.025
 Level: Green
 url: /states/ME/cumberland-county
 ---

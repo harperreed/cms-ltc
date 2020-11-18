@@ -1,6 +1,6 @@
 ---
 title: "Wilkin County, MN"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:27167.0,FEMA:5.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 27167.0
 FEMA_Region: 5.0
 Population: 6207.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 300.0
-Fourteen_day_test_rate_per_100000: 4833.0
-Percent_Positivity_in_prior_14_days: 0.207
+Tests_in_prior_14_days: 442.0
+Fourteen_day_test_rate_per_100000: 7121.0
+Percent_Positivity_in_prior_14_days: 0.269
 Level: Red
 url: /states/MN/wilkin-county
 ---

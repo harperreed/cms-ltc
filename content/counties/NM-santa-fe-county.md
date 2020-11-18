@@ -1,9 +1,9 @@
 ---
 title: "Santa Fe County, NM"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
-tags: [FIPS:35049.0,FEMA:6.0,Small metro,Yellow]
+tags: [FIPS:35049.0,FEMA:6.0,Small metro,Red]
 categories: [NM]
 County: Santa Fe County
 State: NM
@@ -11,10 +11,10 @@ FIPS: 35049.0
 FEMA_Region: 6.0
 Population: 150358.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 10502.0
-Fourteen_day_test_rate_per_100000: 6985.0
-Percent_Positivity_in_prior_14_days: 0.1
-Level: Yellow
+Tests_in_prior_14_days: 12253.0
+Fourteen_day_test_rate_per_100000: 8149.0
+Percent_Positivity_in_prior_14_days: 0.118
+Level: Red
 url: /states/NM/santa-fe-county
 ---
 

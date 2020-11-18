@@ -1,6 +1,6 @@
 ---
 title: "Dinwiddie County, VA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:51053.0,FEMA:3.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51053.0
 FEMA_Region: 3.0
 Population: 28544.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 468.0
-Fourteen_day_test_rate_per_100000: 1640.0
-Percent_Positivity_in_prior_14_days: 0.16
+Tests_in_prior_14_days: 482.0
+Fourteen_day_test_rate_per_100000: 1689.0
+Percent_Positivity_in_prior_14_days: 0.135
 Level: Yellow
 url: /states/VA/dinwiddie-county
 ---

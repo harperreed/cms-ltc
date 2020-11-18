@@ -1,9 +1,9 @@
 ---
 title: "Logan County, NE"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
-tags: [FIPS:31113.0,FEMA:7.0,Micropolitan,Green]
+tags: [FIPS:31113.0,FEMA:7.0,Micropolitan,Red]
 categories: [NE]
 County: Logan County
 State: NE
@@ -11,10 +11,10 @@ FIPS: 31113.0
 FEMA_Region: 7.0
 Population: 748.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: <20 tests
-Fourteen_day_test_rate_per_100000: <20 tests
-Percent_Positivity_in_prior_14_days: <20 tests
-Level: Green
+Tests_in_prior_14_days: 30.0
+Fourteen_day_test_rate_per_100000: 4011.0
+Percent_Positivity_in_prior_14_days: 0.333
+Level: Red
 url: /states/NE/logan-county
 ---
 

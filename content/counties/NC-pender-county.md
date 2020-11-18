@@ -1,6 +1,6 @@
 ---
 title: "Pender County, NC"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:37141.0,FEMA:4.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 37141.0
 FEMA_Region: 4.0
 Population: 63060.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2209.0
-Fourteen_day_test_rate_per_100000: 3503.0
-Percent_Positivity_in_prior_14_days: 0.091
+Tests_in_prior_14_days: 1903.0
+Fourteen_day_test_rate_per_100000: 3018.0
+Percent_Positivity_in_prior_14_days: 0.069
 Level: Yellow
 url: /states/NC/pender-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Sioux County, IA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:19167.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 19167.0
 FEMA_Region: 7.0
 Population: 34855.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1629.0
-Fourteen_day_test_rate_per_100000: 4674.0
-Percent_Positivity_in_prior_14_days: 0.352
+Tests_in_prior_14_days: 1837.0
+Fourteen_day_test_rate_per_100000: 5270.0
+Percent_Positivity_in_prior_14_days: 0.357
 Level: Red
 url: /states/IA/sioux-county
 ---

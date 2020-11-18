@@ -1,6 +1,6 @@
 ---
 title: "Pocahontas County, WV"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:54075.0,FEMA:3.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 54075.0
 FEMA_Region: 3.0
 Population: 8247.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 336.0
-Fourteen_day_test_rate_per_100000: 4074.0
-Percent_Positivity_in_prior_14_days: 0.024
+Tests_in_prior_14_days: 359.0
+Fourteen_day_test_rate_per_100000: 4353.0
+Percent_Positivity_in_prior_14_days: 0.028
 Level: Green
 url: /states/WV/pocahontas-county
 ---

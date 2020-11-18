@@ -1,6 +1,6 @@
 ---
 title: "Yates County, NY"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:36123.0,FEMA:2.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 36123.0
 FEMA_Region: 2.0
 Population: 24913.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1334.0
-Fourteen_day_test_rate_per_100000: 5355.0
-Percent_Positivity_in_prior_14_days: 0.036
+Tests_in_prior_14_days: 1278.0
+Fourteen_day_test_rate_per_100000: 5130.0
+Percent_Positivity_in_prior_14_days: 0.044
 Level: Green
 url: /states/NY/yates-county
 ---

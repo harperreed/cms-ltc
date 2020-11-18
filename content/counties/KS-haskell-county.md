@@ -1,9 +1,9 @@
 ---
 title: "Haskell County, KS"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
-tags: [FIPS:20081.0,FEMA:7.0,Non-core,Green]
+tags: [FIPS:20081.0,FEMA:7.0,Non-core,Yellow]
 categories: [KS]
 County: Haskell County
 State: KS
@@ -11,10 +11,10 @@ FIPS: 20081.0
 FEMA_Region: 7.0
 Population: 3968.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 117.0
-Fourteen_day_test_rate_per_100000: 2949.0
-Percent_Positivity_in_prior_14_days: 0.034
-Level: Green
+Tests_in_prior_14_days: 78.0
+Fourteen_day_test_rate_per_100000: 1966.0
+Percent_Positivity_in_prior_14_days: 0.077
+Level: Yellow
 url: /states/KS/haskell-county
 ---
 

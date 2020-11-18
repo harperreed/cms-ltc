@@ -1,6 +1,6 @@
 ---
 title: "Monroe County, MO"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:29137.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 29137.0
 FEMA_Region: 7.0
 Population: 8644.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 58.0
-Fourteen_day_test_rate_per_100000: 671.0
-Percent_Positivity_in_prior_14_days: 0.224
+Tests_in_prior_14_days: 80.0
+Fourteen_day_test_rate_per_100000: 925.0
+Percent_Positivity_in_prior_14_days: 0.325
 Level: Yellow
 url: /states/MO/monroe-county
 ---

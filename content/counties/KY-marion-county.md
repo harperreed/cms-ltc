@@ -1,9 +1,9 @@
 ---
 title: "Marion County, KY"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
-tags: [FIPS:21155.0,FEMA:4.0,Non-core,Yellow]
+tags: [FIPS:21155.0,FEMA:4.0,Non-core,Red]
 categories: [KY]
 County: Marion County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21155.0
 FEMA_Region: 4.0
 Population: 19273.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1594.0
-Fourteen_day_test_rate_per_100000: 8271.0
-Percent_Positivity_in_prior_14_days: 0.1
-Level: Yellow
+Tests_in_prior_14_days: 1431.0
+Fourteen_day_test_rate_per_100000: 7425.0
+Percent_Positivity_in_prior_14_days: 0.108
+Level: Red
 url: /states/KY/marion-county
 ---
 

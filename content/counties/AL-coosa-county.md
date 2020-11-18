@@ -1,6 +1,6 @@
 ---
 title: "Coosa County, AL"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:1037.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 1037.0
 FEMA_Region: 4.0
 Population: 10663.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 206.0
-Fourteen_day_test_rate_per_100000: 1932.0
-Percent_Positivity_in_prior_14_days: 0.214
+Tests_in_prior_14_days: 204.0
+Fourteen_day_test_rate_per_100000: 1913.0
+Percent_Positivity_in_prior_14_days: 0.152
 Level: Yellow
 url: /states/AL/coosa-county
 ---

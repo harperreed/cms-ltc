@@ -1,9 +1,9 @@
 ---
 title: "Columbia County, GA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
-tags: [FIPS:13073.0,FEMA:4.0,Medium metro,Yellow]
+tags: [FIPS:13073.0,FEMA:4.0,Medium metro,Red]
 categories: [GA]
 County: Columbia County
 State: GA
@@ -11,10 +11,10 @@ FIPS: 13073.0
 FEMA_Region: 4.0
 Population: 156714.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 3149.0
-Fourteen_day_test_rate_per_100000: 2009.0
-Percent_Positivity_in_prior_14_days: 0.097
-Level: Yellow
+Tests_in_prior_14_days: 3590.0
+Fourteen_day_test_rate_per_100000: 2291.0
+Percent_Positivity_in_prior_14_days: 0.103
+Level: Red
 url: /states/GA/columbia-county
 ---
 

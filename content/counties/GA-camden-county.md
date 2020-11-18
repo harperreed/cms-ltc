@@ -1,6 +1,6 @@
 ---
 title: "Camden County, GA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:13039.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13039.0
 FEMA_Region: 4.0
 Population: 54666.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1016.0
-Fourteen_day_test_rate_per_100000: 1859.0
-Percent_Positivity_in_prior_14_days: 0.083
+Tests_in_prior_14_days: 1234.0
+Fourteen_day_test_rate_per_100000: 2257.0
+Percent_Positivity_in_prior_14_days: 0.07
 Level: Yellow
 url: /states/GA/camden-county
 ---

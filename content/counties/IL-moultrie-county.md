@@ -1,6 +1,6 @@
 ---
 title: "Moultrie County, IL"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:17139.0,FEMA:5.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 17139.0
 FEMA_Region: 5.0
 Population: 14501.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1111.0
-Fourteen_day_test_rate_per_100000: 7662.0
-Percent_Positivity_in_prior_14_days: 0.083
+Tests_in_prior_14_days: 1380.0
+Fourteen_day_test_rate_per_100000: 9517.0
+Percent_Positivity_in_prior_14_days: 0.08
 Level: Yellow
 url: /states/IL/moultrie-county
 ---

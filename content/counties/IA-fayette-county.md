@@ -1,6 +1,6 @@
 ---
 title: "Fayette County, IA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:19065.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 19065.0
 FEMA_Region: 7.0
 Population: 19650.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1172.0
-Fourteen_day_test_rate_per_100000: 5964.0
-Percent_Positivity_in_prior_14_days: 0.181
+Tests_in_prior_14_days: 1574.0
+Fourteen_day_test_rate_per_100000: 8010.0
+Percent_Positivity_in_prior_14_days: 0.24
 Level: Red
 url: /states/IA/fayette-county
 ---

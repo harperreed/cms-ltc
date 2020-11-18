@@ -1,6 +1,6 @@
 ---
 title: "Chelan County, WA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:53007.0,FEMA:10.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 53007.0
 FEMA_Region: 10.0
 Population: 77200.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3952.0
-Fourteen_day_test_rate_per_100000: 5119.0
-Percent_Positivity_in_prior_14_days: 0.067
+Tests_in_prior_14_days: 5362.0
+Fourteen_day_test_rate_per_100000: 6946.0
+Percent_Positivity_in_prior_14_days: 0.096
 Level: Yellow
 url: /states/WA/chelan-county
 ---

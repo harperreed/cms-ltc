@@ -1,6 +1,6 @@
 ---
 title: "Wayne County, GA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:13305.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13305.0
 FEMA_Region: 4.0
 Population: 29927.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 670.0
-Fourteen_day_test_rate_per_100000: 2239.0
-Percent_Positivity_in_prior_14_days: 0.097
+Tests_in_prior_14_days: 598.0
+Fourteen_day_test_rate_per_100000: 1998.0
+Percent_Positivity_in_prior_14_days: 0.095
 Level: Yellow
 url: /states/GA/wayne-county
 ---

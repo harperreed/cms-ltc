@@ -1,6 +1,6 @@
 ---
 title: "Harrisonburg City, VA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:51660.0,FEMA:3.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 51660.0
 FEMA_Region: 3.0
 Population: 53016.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2590.0
-Fourteen_day_test_rate_per_100000: 4885.0
-Percent_Positivity_in_prior_14_days: 0.048
+Tests_in_prior_14_days: 2784.0
+Fourteen_day_test_rate_per_100000: 5251.0
+Percent_Positivity_in_prior_14_days: 0.04
 Level: Green
 url: /states/VA/harrisonburg-city
 ---

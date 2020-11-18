@@ -1,6 +1,6 @@
 ---
 title: "Twiggs County, GA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:13289.0,FEMA:4.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13289.0
 FEMA_Region: 4.0
 Population: 8120.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 123.0
-Fourteen_day_test_rate_per_100000: 1515.0
-Percent_Positivity_in_prior_14_days: 0.171
+Tests_in_prior_14_days: 87.0
+Fourteen_day_test_rate_per_100000: 1071.0
+Percent_Positivity_in_prior_14_days: 0.149
 Level: Yellow
 url: /states/GA/twiggs-county
 ---

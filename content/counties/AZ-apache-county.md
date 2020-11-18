@@ -1,6 +1,6 @@
 ---
 title: "Apache County, AZ"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:4001.0,FEMA:9.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 4001.0
 FEMA_Region: 9.0
 Population: 71887.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1607.0
-Fourteen_day_test_rate_per_100000: 2235.0
-Percent_Positivity_in_prior_14_days: 0.073
+Tests_in_prior_14_days: 2318.0
+Fourteen_day_test_rate_per_100000: 3225.0
+Percent_Positivity_in_prior_14_days: 0.088
 Level: Yellow
 url: /states/AZ/apache-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Snohomish County, WA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
-tags: [FIPS:53061.0,FEMA:10.0,Large fringe metro,Green]
+tags: [FIPS:53061.0,FEMA:10.0,Large fringe metro,Yellow]
 categories: [WA]
 County: Snohomish County
 State: WA
@@ -11,10 +11,10 @@ FIPS: 53061.0
 FEMA_Region: 10.0
 Population: 822083.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 7872.0
-Fourteen_day_test_rate_per_100000: 958.0
-Percent_Positivity_in_prior_14_days: 0.044
-Level: Green
+Tests_in_prior_14_days: 9286.0
+Fourteen_day_test_rate_per_100000: 1130.0
+Percent_Positivity_in_prior_14_days: 0.052
+Level: Yellow
 url: /states/WA/snohomish-county
 ---
 

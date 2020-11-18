@@ -1,6 +1,6 @@
 ---
 title: "Emmet County, MI"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:26047.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 26047.0
 FEMA_Region: 5.0
 Population: 33415.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2107.0
-Fourteen_day_test_rate_per_100000: 6306.0
-Percent_Positivity_in_prior_14_days: 0.125
+Tests_in_prior_14_days: 2501.0
+Fourteen_day_test_rate_per_100000: 7485.0
+Percent_Positivity_in_prior_14_days: 0.103
 Level: Red
 url: /states/MI/emmet-county
 ---

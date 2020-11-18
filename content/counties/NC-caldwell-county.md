@@ -1,6 +1,6 @@
 ---
 title: "Caldwell County, NC"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:37027.0,FEMA:4.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 37027.0
 FEMA_Region: 4.0
 Population: 82178.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 4679.0
-Fourteen_day_test_rate_per_100000: 5694.0
-Percent_Positivity_in_prior_14_days: 0.096
+Tests_in_prior_14_days: 4538.0
+Fourteen_day_test_rate_per_100000: 5522.0
+Percent_Positivity_in_prior_14_days: 0.072
 Level: Yellow
 url: /states/NC/caldwell-county
 ---

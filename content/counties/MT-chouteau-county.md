@@ -1,6 +1,6 @@
 ---
 title: "Chouteau County, MT"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:30015.0,FEMA:8.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 30015.0
 FEMA_Region: 8.0
 Population: 5635.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 107.0
-Fourteen_day_test_rate_per_100000: 1899.0
-Percent_Positivity_in_prior_14_days: 0.57
+Tests_in_prior_14_days: 106.0
+Fourteen_day_test_rate_per_100000: 1881.0
+Percent_Positivity_in_prior_14_days: 0.632
 Level: Yellow
 url: /states/MT/chouteau-county
 ---

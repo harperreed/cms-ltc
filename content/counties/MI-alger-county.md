@@ -1,6 +1,6 @@
 ---
 title: "Alger County, MI"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:26003.0,FEMA:5.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 26003.0
 FEMA_Region: 5.0
 Population: 9108.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 3002.0
-Fourteen_day_test_rate_per_100000: 32960.0
-Percent_Positivity_in_prior_14_days: 0.012
+Tests_in_prior_14_days: 1488.0
+Fourteen_day_test_rate_per_100000: 16337.0
+Percent_Positivity_in_prior_14_days: 0.024
 Level: Green
 url: /states/MI/alger-county
 ---

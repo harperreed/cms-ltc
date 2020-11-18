@@ -1,6 +1,6 @@
 ---
 title: "Augusta County, VA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:51015.0,FEMA:3.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51015.0
 FEMA_Region: 3.0
 Population: 75558.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1232.0
-Fourteen_day_test_rate_per_100000: 1631.0
-Percent_Positivity_in_prior_14_days: 0.066
+Tests_in_prior_14_days: 1195.0
+Fourteen_day_test_rate_per_100000: 1582.0
+Percent_Positivity_in_prior_14_days: 0.093
 Level: Yellow
 url: /states/VA/augusta-county
 ---

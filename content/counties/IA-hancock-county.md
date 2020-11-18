@@ -1,6 +1,6 @@
 ---
 title: "Hancock County, IA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:19081.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 19081.0
 FEMA_Region: 7.0
 Population: 10630.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 987.0
-Fourteen_day_test_rate_per_100000: 9285.0
-Percent_Positivity_in_prior_14_days: 0.132
+Tests_in_prior_14_days: 1017.0
+Fourteen_day_test_rate_per_100000: 9567.0
+Percent_Positivity_in_prior_14_days: 0.183
 Level: Red
 url: /states/IA/hancock-county
 ---

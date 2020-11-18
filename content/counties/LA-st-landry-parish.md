@@ -1,6 +1,6 @@
 ---
 title: "St. Landry Parish, LA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:22097.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 22097.0
 FEMA_Region: 6.0
 Population: 82124.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3561.0
-Fourteen_day_test_rate_per_100000: 4336.0
-Percent_Positivity_in_prior_14_days: 0.059
+Tests_in_prior_14_days: 3948.0
+Fourteen_day_test_rate_per_100000: 4807.0
+Percent_Positivity_in_prior_14_days: 0.087
 Level: Yellow
 url: /states/LA/st-landry-parish
 ---

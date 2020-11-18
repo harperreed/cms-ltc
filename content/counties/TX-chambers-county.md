@@ -1,6 +1,6 @@
 ---
 title: "Chambers County, TX"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:48071.0,FEMA:6.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48071.0
 FEMA_Region: 6.0
 Population: 43837.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 627.0
-Fourteen_day_test_rate_per_100000: 1430.0
-Percent_Positivity_in_prior_14_days: 0.096
+Tests_in_prior_14_days: 569.0
+Fourteen_day_test_rate_per_100000: 1298.0
+Percent_Positivity_in_prior_14_days: 0.069
 Level: Yellow
 url: /states/TX/chambers-county
 ---

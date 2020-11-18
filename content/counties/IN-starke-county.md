@@ -1,6 +1,6 @@
 ---
 title: "Starke County, IN"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:18149.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 18149.0
 FEMA_Region: 5.0
 Population: 22995.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1472.0
-Fourteen_day_test_rate_per_100000: 6401.0
-Percent_Positivity_in_prior_14_days: 0.118
+Tests_in_prior_14_days: 1827.0
+Fourteen_day_test_rate_per_100000: 7945.0
+Percent_Positivity_in_prior_14_days: 0.127
 Level: Red
 url: /states/IN/starke-county
 ---

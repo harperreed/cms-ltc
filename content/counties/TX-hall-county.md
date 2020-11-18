@@ -1,6 +1,6 @@
 ---
 title: "Hall County, TX"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:48191.0,FEMA:6.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 48191.0
 FEMA_Region: 6.0
 Population: 2964.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 70.0
-Fourteen_day_test_rate_per_100000: 2362.0
-Percent_Positivity_in_prior_14_days: 0.329
+Tests_in_prior_14_days: 113.0
+Fourteen_day_test_rate_per_100000: 3812.0
+Percent_Positivity_in_prior_14_days: 0.363
 Level: Red
 url: /states/TX/hall-county
 ---

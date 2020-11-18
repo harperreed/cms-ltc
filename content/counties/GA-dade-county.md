@@ -1,6 +1,6 @@
 ---
 title: "Dade County, GA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:13083.0,FEMA:4.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13083.0
 FEMA_Region: 4.0
 Population: 16116.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 116.0
-Fourteen_day_test_rate_per_100000: 720.0
-Percent_Positivity_in_prior_14_days: 0.138
+Tests_in_prior_14_days: 114.0
+Fourteen_day_test_rate_per_100000: 707.0
+Percent_Positivity_in_prior_14_days: 0.114
 Level: Yellow
 url: /states/GA/dade-county
 ---

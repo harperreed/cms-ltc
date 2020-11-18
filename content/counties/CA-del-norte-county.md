@@ -1,9 +1,9 @@
 ---
 title: "Del Norte County, CA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
-tags: [FIPS:6015.0,FEMA:9.0,Micropolitan,Green]
+tags: [FIPS:6015.0,FEMA:9.0,Micropolitan,Gray]
 categories: [CA]
 County: Del Norte County
 State: CA
@@ -14,7 +14,7 @@ NCHS_Urban_Rural_Classification: Micropolitan
 Tests_in_prior_14_days: 
 Fourteen_day_test_rate_per_100000: 
 Percent_Positivity_in_prior_14_days: 
-Level: Green
+Level: Gray
 url: /states/CA/del-norte-county
 ---
 

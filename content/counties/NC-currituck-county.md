@@ -1,9 +1,9 @@
 ---
 title: "Currituck County, NC"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
-tags: [FIPS:37053.0,FEMA:4.0,Large fringe metro,Green]
+tags: [FIPS:37053.0,FEMA:4.0,Large fringe metro,Yellow]
 categories: [NC]
 County: Currituck County
 State: NC
@@ -11,10 +11,10 @@ FIPS: 37053.0
 FEMA_Region: 4.0
 Population: 27763.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 413.0
-Fourteen_day_test_rate_per_100000: 1488.0
-Percent_Positivity_in_prior_14_days: 0.046
-Level: Green
+Tests_in_prior_14_days: 457.0
+Fourteen_day_test_rate_per_100000: 1646.0
+Percent_Positivity_in_prior_14_days: 0.094
+Level: Yellow
 url: /states/NC/currituck-county
 ---
 

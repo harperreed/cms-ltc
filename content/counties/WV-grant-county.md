@@ -1,6 +1,6 @@
 ---
 title: "Grant County, WV"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:54023.0,FEMA:3.0,Non-core,Green]
@@ -13,7 +13,7 @@ Population: 11568.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 960.0
 Fourteen_day_test_rate_per_100000: 8299.0
-Percent_Positivity_in_prior_14_days: 0.027
+Percent_Positivity_in_prior_14_days: 0.038
 Level: Green
 url: /states/WV/grant-county
 ---

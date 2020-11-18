@@ -1,6 +1,6 @@
 ---
 title: "Waupaca County, WI"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:55135.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 55135.0
 FEMA_Region: 5.0
 Population: 50990.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 5690.0
-Fourteen_day_test_rate_per_100000: 11159.0
-Percent_Positivity_in_prior_14_days: 0.181
+Tests_in_prior_14_days: 5627.0
+Fourteen_day_test_rate_per_100000: 11035.0
+Percent_Positivity_in_prior_14_days: 0.19
 Level: Red
 url: /states/WI/waupaca-county
 ---

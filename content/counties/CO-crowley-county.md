@@ -1,9 +1,9 @@
 ---
 title: "Crowley County, CO"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
-tags: [FIPS:8025.0,FEMA:8.0,Non-core,Yellow]
+tags: [FIPS:8025.0,FEMA:8.0,Non-core,Red]
 categories: [CO]
 County: Crowley County
 State: CO
@@ -11,10 +11,10 @@ FIPS: 8025.0
 FEMA_Region: 8.0
 Population: 6061.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1703.0
-Fourteen_day_test_rate_per_100000: 28098.0
-Percent_Positivity_in_prior_14_days: 0.069
-Level: Yellow
+Tests_in_prior_14_days: 3996.0
+Fourteen_day_test_rate_per_100000: 65930.0
+Percent_Positivity_in_prior_14_days: 0.104
+Level: Red
 url: /states/CO/crowley-county
 ---
 

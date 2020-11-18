@@ -1,9 +1,9 @@
 ---
 title: "Charles City County, VA"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
-tags: [FIPS:51036.0,FEMA:3.0,Large fringe metro,Green]
+tags: [FIPS:51036.0,FEMA:3.0,Large fringe metro,Red]
 categories: [VA]
 County: Charles City County
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51036.0
 FEMA_Region: 3.0
 Population: 6963.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 125.0
-Fourteen_day_test_rate_per_100000: 1795.0
-Percent_Positivity_in_prior_14_days: 0.048
-Level: Green
+Tests_in_prior_14_days: 140.0
+Fourteen_day_test_rate_per_100000: 2011.0
+Percent_Positivity_in_prior_14_days: 0.107
+Level: Red
 url: /states/VA/charles-city-county
 ---
 

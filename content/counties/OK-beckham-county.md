@@ -1,6 +1,6 @@
 ---
 title: "Beckham County, OK"
-date: 2020-11-17
+date: 2020-11-18
 draft: false
 type: county
 tags: [FIPS:40009.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 40009.0
 FEMA_Region: 6.0
 Population: 21859.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 208.0
-Fourteen_day_test_rate_per_100000: 952.0
-Percent_Positivity_in_prior_14_days: 0.197
+Tests_in_prior_14_days: 295.0
+Fourteen_day_test_rate_per_100000: 1350.0
+Percent_Positivity_in_prior_14_days: 0.081
 Level: Yellow
 url: /states/OK/beckham-county
 ---
