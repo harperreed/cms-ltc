@@ -1,6 +1,6 @@
 ---
 title: "Stafford County, KS"
-date: 2020-11-18
+date: 2020-11-19
 draft: false
 type: county
 tags: [FIPS:20185.0,FEMA:7.0,Non-core,Yellow]

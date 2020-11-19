@@ -1,6 +1,6 @@
 ---
 title: "Archuleta County, CO"
-date: 2020-11-18
+date: 2020-11-19
 draft: false
 type: county
 tags: [FIPS:8007.0,FEMA:8.0,Non-core,Yellow]

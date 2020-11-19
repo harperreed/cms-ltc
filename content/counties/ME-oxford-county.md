@@ -1,6 +1,6 @@
 ---
 title: "Oxford County, ME"
-date: 2020-11-18
+date: 2020-11-19
 draft: false
 type: county
 tags: [FIPS:23017.0,FEMA:1.0,Non-core,Green]

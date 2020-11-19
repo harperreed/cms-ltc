@@ -1,6 +1,6 @@
 ---
 title: "Richland County, ND"
-date: 2020-11-18
+date: 2020-11-19
 draft: false
 type: county
 tags: [FIPS:38077.0,FEMA:8.0,Micropolitan,Red]

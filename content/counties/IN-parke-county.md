@@ -1,6 +1,6 @@
 ---
 title: "Parke County, IN"
-date: 2020-11-18
+date: 2020-11-19
 draft: false
 type: county
 tags: [FIPS:18121.0,FEMA:5.0,Non-core,Red]

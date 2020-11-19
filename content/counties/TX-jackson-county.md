@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, TX"
-date: 2020-11-18
+date: 2020-11-19
 draft: false
 type: county
 tags: [FIPS:48239.0,FEMA:6.0,Non-core,Yellow]

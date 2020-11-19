@@ -1,6 +1,6 @@
 ---
 title: "St. Charles Parish, LA"
-date: 2020-11-18
+date: 2020-11-19
 draft: false
 type: county
 tags: [FIPS:22089.0,FEMA:6.0,Large fringe metro,Green]

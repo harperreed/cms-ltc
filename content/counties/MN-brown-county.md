@@ -1,6 +1,6 @@
 ---
 title: "Brown County, MN"
-date: 2020-11-18
+date: 2020-11-19
 draft: false
 type: county
 tags: [FIPS:27015.0,FEMA:5.0,Micropolitan,Red]

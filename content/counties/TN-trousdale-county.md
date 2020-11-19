@@ -1,6 +1,6 @@
 ---
 title: "Trousdale County, TN"
-date: 2020-11-18
+date: 2020-11-19
 draft: false
 type: county
 tags: [FIPS:47169.0,FEMA:4.0,Large fringe metro,Red]

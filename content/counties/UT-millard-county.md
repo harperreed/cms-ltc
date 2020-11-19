@@ -1,6 +1,6 @@
 ---
 title: "Millard County, UT"
-date: 2020-11-18
+date: 2020-11-19
 draft: false
 type: county
 tags: [FIPS:49027.0,FEMA:8.0,Non-core,Red]

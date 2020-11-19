@@ -1,6 +1,6 @@
 ---
 title: "Haywood County, NC"
-date: 2020-11-18
+date: 2020-11-19
 draft: false
 type: county
 tags: [FIPS:37087.0,FEMA:4.0,Medium metro,Yellow]

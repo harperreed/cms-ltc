@@ -1,6 +1,6 @@
 ---
 title: "Sumter County, AL"
-date: 2020-11-18
+date: 2020-11-19
 draft: false
 type: county
 tags: [FIPS:1119.0,FEMA:4.0,Non-core,Green]
