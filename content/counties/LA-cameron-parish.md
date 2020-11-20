@@ -1,6 +1,6 @@
 ---
 title: "Cameron Parish, LA"
-date: 2020-11-19
+date: 2020-11-20
 draft: false
 type: county
 tags: [FIPS:22023.0,FEMA:6.0,Small metro,Yellow]

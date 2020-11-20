@@ -1,6 +1,6 @@
 ---
 title: "McDowell County, WV"
-date: 2020-11-19
+date: 2020-11-20
 draft: false
 type: county
 tags: [FIPS:54047.0,FEMA:3.0,Non-core,Yellow]

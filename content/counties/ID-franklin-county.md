@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, ID"
-date: 2020-11-19
+date: 2020-11-20
 draft: false
 type: county
 tags: [FIPS:16041.0,FEMA:10.0,Small metro,Yellow]

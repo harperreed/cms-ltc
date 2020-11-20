@@ -1,6 +1,6 @@
 ---
 title: "Buchanan County, IA"
-date: 2020-11-19
+date: 2020-11-20
 draft: false
 type: county
 tags: [FIPS:19019.0,FEMA:7.0,Non-core,Red]

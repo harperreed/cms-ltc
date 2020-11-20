@@ -1,6 +1,6 @@
 ---
 title: "Hancock County, MS"
-date: 2020-11-19
+date: 2020-11-20
 draft: false
 type: county
 tags: [FIPS:28045.0,FEMA:4.0,Medium metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Nevada County, CA"
-date: 2020-11-19
+date: 2020-11-20
 draft: false
 type: county
 tags: [FIPS:6057.0,FEMA:9.0,Micropolitan,Green]
