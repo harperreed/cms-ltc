@@ -1,6 +1,6 @@
 ---
 title: "Pottawatomie County, OK"
-date: 2020-11-20
+date: 2020-11-21
 draft: false
 type: county
 tags: [FIPS:40125.0,FEMA:6.0,Micropolitan,Red]

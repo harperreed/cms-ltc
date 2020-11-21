@@ -1,6 +1,6 @@
 ---
 title: "Cobb County, GA"
-date: 2020-11-20
+date: 2020-11-21
 draft: false
 type: county
 tags: [FIPS:13067.0,FEMA:4.0,Large fringe metro,Yellow]

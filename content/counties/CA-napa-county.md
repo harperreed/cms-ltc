@@ -1,6 +1,6 @@
 ---
 title: "Napa County, CA"
-date: 2020-11-20
+date: 2020-11-21
 draft: false
 type: county
 tags: [FIPS:6055.0,FEMA:9.0,Small metro,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Morgan County, CO"
-date: 2020-11-20
+date: 2020-11-21
 draft: false
 type: county
 tags: [FIPS:8087.0,FEMA:8.0,Micropolitan,Red]

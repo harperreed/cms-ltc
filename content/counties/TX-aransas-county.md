@@ -1,6 +1,6 @@
 ---
 title: "Aransas County, TX"
-date: 2020-11-20
+date: 2020-11-21
 draft: false
 type: county
 tags: [FIPS:48007.0,FEMA:6.0,Medium metro,Yellow]

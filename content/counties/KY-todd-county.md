@@ -1,6 +1,6 @@
 ---
 title: "Todd County, KY"
-date: 2020-11-20
+date: 2020-11-21
 draft: false
 type: county
 tags: [FIPS:21219.0,FEMA:4.0,Non-core,Yellow]

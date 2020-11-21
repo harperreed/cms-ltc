@@ -1,6 +1,6 @@
 ---
 title: "Borden County, TX"
-date: 2020-11-20
+date: 2020-11-21
 draft: false
 type: county
 tags: [FIPS:48033.0,FEMA:6.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Pope County, MN"
-date: 2020-11-20
+date: 2020-11-21
 draft: false
 type: county
 tags: [FIPS:27121.0,FEMA:5.0,Non-core,Red]

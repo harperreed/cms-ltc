@@ -1,6 +1,6 @@
 ---
 title: "Polk County, FL"
-date: 2020-11-20
+date: 2020-11-21
 draft: false
 type: county
 tags: [FIPS:12105.0,FEMA:4.0,Medium metro,Yellow]

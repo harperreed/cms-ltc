@@ -1,6 +1,6 @@
 ---
 title: "Obion County, TN"
-date: 2020-11-20
+date: 2020-11-21
 draft: false
 type: county
 tags: [FIPS:47131.0,FEMA:4.0,Micropolitan,Red]

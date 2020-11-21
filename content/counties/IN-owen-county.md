@@ -1,6 +1,6 @@
 ---
 title: "Owen County, IN"
-date: 2020-11-20
+date: 2020-11-21
 draft: false
 type: county
 tags: [FIPS:18119.0,FEMA:5.0,Small metro,Red]
