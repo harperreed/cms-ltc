@@ -1,6 +1,6 @@
 ---
 title: "McPherson County, NE"
-date: 2020-11-21
+date: 2020-11-22
 draft: false
 type: county
 tags: [FIPS:31117.0,FEMA:7.0,Micropolitan,Green]

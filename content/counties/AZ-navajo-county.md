@@ -1,6 +1,6 @@
 ---
 title: "Navajo County, AZ"
-date: 2020-11-21
+date: 2020-11-22
 draft: false
 type: county
 tags: [FIPS:4017.0,FEMA:9.0,Micropolitan,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Carbon County, UT"
-date: 2020-11-21
+date: 2020-11-22
 draft: false
 type: county
 tags: [FIPS:49007.0,FEMA:8.0,Micropolitan,Red]

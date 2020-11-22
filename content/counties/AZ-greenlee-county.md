@@ -1,6 +1,6 @@
 ---
 title: "Greenlee County, AZ"
-date: 2020-11-21
+date: 2020-11-22
 draft: false
 type: county
 tags: [FIPS:4011.0,FEMA:9.0,Non-core,Yellow]

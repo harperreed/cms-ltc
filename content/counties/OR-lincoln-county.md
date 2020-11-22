@@ -1,6 +1,6 @@
 ---
 title: "Lincoln County, OR"
-date: 2020-11-21
+date: 2020-11-22
 draft: false
 type: county
 tags: [FIPS:41041.0,FEMA:10.0,Micropolitan,Green]

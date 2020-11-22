@@ -1,6 +1,6 @@
 ---
 title: "Monroe County, AL"
-date: 2020-11-21
+date: 2020-11-22
 draft: false
 type: county
 tags: [FIPS:1099.0,FEMA:4.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Copiah County, MS"
-date: 2020-11-21
+date: 2020-11-22
 draft: false
 type: county
 tags: [FIPS:28029.0,FEMA:4.0,Medium metro,Yellow]

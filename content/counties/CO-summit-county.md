@@ -1,6 +1,6 @@
 ---
 title: "Summit County, CO"
-date: 2020-11-21
+date: 2020-11-22
 draft: false
 type: county
 tags: [FIPS:8117.0,FEMA:8.0,Micropolitan,Red]

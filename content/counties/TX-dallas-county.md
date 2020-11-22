@@ -1,6 +1,6 @@
 ---
 title: "Dallas County, TX"
-date: 2020-11-21
+date: 2020-11-22
 draft: false
 type: county
 tags: [FIPS:48113.0,FEMA:6.0,Large central metro,Red]

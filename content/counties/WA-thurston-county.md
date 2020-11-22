@@ -1,6 +1,6 @@
 ---
 title: "Thurston County, WA"
-date: 2020-11-21
+date: 2020-11-22
 draft: false
 type: county
 tags: [FIPS:53067.0,FEMA:10.0,Medium metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Telfair County, GA"
-date: 2020-11-21
+date: 2020-11-22
 draft: false
 type: county
 tags: [FIPS:13271.0,FEMA:4.0,Non-core,Yellow]
