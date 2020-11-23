@@ -1,6 +1,6 @@
 ---
 title: "Kings County, NY"
-date: 2020-11-22
+date: 2020-11-23
 draft: false
 type: county
 tags: [FIPS:36047.0,FEMA:2.0,Large central metro,Green]

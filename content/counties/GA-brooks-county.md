@@ -1,6 +1,6 @@
 ---
 title: "Brooks County, GA"
-date: 2020-11-22
+date: 2020-11-23
 draft: false
 type: county
 tags: [FIPS:13027.0,FEMA:4.0,Small metro,Green]

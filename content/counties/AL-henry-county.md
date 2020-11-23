@@ -1,6 +1,6 @@
 ---
 title: "Henry County, AL"
-date: 2020-11-22
+date: 2020-11-23
 draft: false
 type: county
 tags: [FIPS:1067.0,FEMA:4.0,Small metro,Yellow]

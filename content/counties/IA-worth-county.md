@@ -1,6 +1,6 @@
 ---
 title: "Worth County, IA"
-date: 2020-11-22
+date: 2020-11-23
 draft: false
 type: county
 tags: [FIPS:19195.0,FEMA:7.0,Micropolitan,Red]

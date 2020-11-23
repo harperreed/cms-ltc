@@ -1,6 +1,6 @@
 ---
 title: "Bonneville County, ID"
-date: 2020-11-22
+date: 2020-11-23
 draft: false
 type: county
 tags: [FIPS:16019.0,FEMA:10.0,Small metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Marion County, AL"
-date: 2020-11-22
+date: 2020-11-23
 draft: false
 type: county
 tags: [FIPS:1093.0,FEMA:4.0,Non-core,Yellow]
