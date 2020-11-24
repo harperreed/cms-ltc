@@ -1,6 +1,6 @@
 ---
 title: "Wheatland County, MT"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:30107.0,FEMA:8.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 30107.0
 FEMA_Region: 8.0
 Population: 2126.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 180.0
-Fourteen_day_test_rate_per_100000: 8467.0
-Percent_Positivity_in_prior_14_days: 0.111
+Tests_in_prior_14_days: 186.0
+Fourteen_day_test_rate_per_100000: 8749.0
+Percent_Positivity_in_prior_14_days: 0.237
 Level: Red
 url: /states/MT/wheatland-county
 ---

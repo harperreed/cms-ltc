@@ -1,6 +1,6 @@
 ---
 title: "Pierce County, NE"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:31139.0,FEMA:7.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 31139.0
 FEMA_Region: 7.0
 Population: 7148.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 211.0
-Fourteen_day_test_rate_per_100000: 2952.0
-Percent_Positivity_in_prior_14_days: 0.483
+Tests_in_prior_14_days: 248.0
+Fourteen_day_test_rate_per_100000: 3470.0
+Percent_Positivity_in_prior_14_days: 0.423
 Level: Red
 url: /states/NE/pierce-county
 ---

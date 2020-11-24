@@ -1,6 +1,6 @@
 ---
 title: "De Soto Parish, LA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:22031.0,FEMA:6.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 22031.0
 FEMA_Region: 6.0
 Population: 27463.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 940.0
-Fourteen_day_test_rate_per_100000: 3423.0
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 765.0
+Fourteen_day_test_rate_per_100000: 2786.0
+Percent_Positivity_in_prior_14_days: 0.085
 Level: Yellow
 url: /states/LA/de-soto-parish
 ---

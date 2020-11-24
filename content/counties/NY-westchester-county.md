@@ -1,6 +1,6 @@
 ---
 title: "Westchester County, NY"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:36119.0,FEMA:2.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 36119.0
 FEMA_Region: 2.0
 Population: 967506.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 85327.0
-Fourteen_day_test_rate_per_100000: 8819.0
-Percent_Positivity_in_prior_14_days: 0.034
+Tests_in_prior_14_days: 98784.0
+Fourteen_day_test_rate_per_100000: 10210.0
+Percent_Positivity_in_prior_14_days: 0.046
 Level: Green
 url: /states/NY/westchester-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Woodson County, KS"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:20207.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 20207.0
 FEMA_Region: 7.0
 Population: 3138.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 32.0
-Fourteen_day_test_rate_per_100000: 1020.0
-Percent_Positivity_in_prior_14_days: 0.156
+Tests_in_prior_14_days: 25.0
+Fourteen_day_test_rate_per_100000: 797.0
+Percent_Positivity_in_prior_14_days: 0.16
 Level: Yellow
 url: /states/KS/woodson-county
 ---

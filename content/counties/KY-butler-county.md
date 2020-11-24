@@ -1,6 +1,6 @@
 ---
 title: "Butler County, KY"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:21031.0,FEMA:4.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 21031.0
 FEMA_Region: 4.0
 Population: 12879.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 217.0
-Fourteen_day_test_rate_per_100000: 1685.0
-Percent_Positivity_in_prior_14_days: 0.115
+Tests_in_prior_14_days: 170.0
+Fourteen_day_test_rate_per_100000: 1320.0
+Percent_Positivity_in_prior_14_days: 0.147
 Level: Yellow
 url: /states/KY/butler-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Pickens County, GA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:13227.0,FEMA:4.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13227.0
 FEMA_Region: 4.0
 Population: 32591.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 560.0
-Fourteen_day_test_rate_per_100000: 1718.0
-Percent_Positivity_in_prior_14_days: 0.098
+Tests_in_prior_14_days: 715.0
+Fourteen_day_test_rate_per_100000: 2194.0
+Percent_Positivity_in_prior_14_days: 0.088
 Level: Yellow
 url: /states/GA/pickens-county
 ---

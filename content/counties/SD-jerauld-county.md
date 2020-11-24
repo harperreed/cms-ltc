@@ -1,6 +1,6 @@
 ---
 title: "Jerauld County, SD"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:46073.0,FEMA:8.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 46073.0
 FEMA_Region: 8.0
 Population: 2013.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 60.0
-Fourteen_day_test_rate_per_100000: 2981.0
-Percent_Positivity_in_prior_14_days: 0.133
+Tests_in_prior_14_days: 64.0
+Fourteen_day_test_rate_per_100000: 3179.0
+Percent_Positivity_in_prior_14_days: 0.156
 Level: Red
 url: /states/SD/jerauld-county
 ---

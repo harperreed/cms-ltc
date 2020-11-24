@@ -1,6 +1,6 @@
 ---
 title: "Lincoln County, MT"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:30053.0,FEMA:8.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 30053.0
 FEMA_Region: 8.0
 Population: 19980.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1181.0
-Fourteen_day_test_rate_per_100000: 5911.0
-Percent_Positivity_in_prior_14_days: 0.183
+Tests_in_prior_14_days: 1313.0
+Fourteen_day_test_rate_per_100000: 6572.0
+Percent_Positivity_in_prior_14_days: 0.224
 Level: Red
 url: /states/MT/lincoln-county
 ---

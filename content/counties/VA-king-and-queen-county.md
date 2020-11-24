@@ -1,9 +1,9 @@
 ---
 title: "King and Queen County, VA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:51097.0,FEMA:3.0,Non-core,Yellow]
+tags: [FIPS:51097.0,FEMA:3.0,Non-core,Green]
 categories: [VA]
 County: King and Queen County
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51097.0
 FEMA_Region: 3.0
 Population: 7025.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 176.0
-Fourteen_day_test_rate_per_100000: 2505.0
-Percent_Positivity_in_prior_14_days: 0.057
-Level: Yellow
+Tests_in_prior_14_days: 178.0
+Fourteen_day_test_rate_per_100000: 2534.0
+Percent_Positivity_in_prior_14_days: 0.039
+Level: Green
 url: /states/VA/king-and-queen-county
 ---
 

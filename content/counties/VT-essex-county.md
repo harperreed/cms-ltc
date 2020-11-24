@@ -1,9 +1,9 @@
 ---
 title: "Essex County, VT"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:50009.0,FEMA:1.0,Micropolitan,Yellow]
+tags: [FIPS:50009.0,FEMA:1.0,Micropolitan,Green]
 categories: [VT]
 County: Essex County
 State: VT
@@ -11,10 +11,10 @@ FIPS: 50009.0
 FEMA_Region: 1.0
 Population: 6163.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 283.0
-Fourteen_day_test_rate_per_100000: 4592.0
-Percent_Positivity_in_prior_14_days: 0.06
-Level: Yellow
+Tests_in_prior_14_days: 281.0
+Fourteen_day_test_rate_per_100000: 4559.0
+Percent_Positivity_in_prior_14_days: 0.039
+Level: Green
 url: /states/VT/essex-county
 ---
 

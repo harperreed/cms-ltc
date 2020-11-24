@@ -1,6 +1,6 @@
 ---
 title: "Silver Bow County, MT"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:30093.0,FEMA:8.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 30093.0
 FEMA_Region: 8.0
 Population: 34915.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2751.0
-Fourteen_day_test_rate_per_100000: 7879.0
-Percent_Positivity_in_prior_14_days: 0.257
+Tests_in_prior_14_days: 3529.0
+Fourteen_day_test_rate_per_100000: 10107.0
+Percent_Positivity_in_prior_14_days: 0.314
 Level: Red
 url: /states/MT/silver-bow-county
 ---

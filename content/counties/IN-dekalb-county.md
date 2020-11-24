@@ -1,6 +1,6 @@
 ---
 title: "DeKalb County, IN"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:18033.0,FEMA:5.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 18033.0
 FEMA_Region: 5.0
 Population: 43475.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2637.0
-Fourteen_day_test_rate_per_100000: 6066.0
-Percent_Positivity_in_prior_14_days: 0.152
+Tests_in_prior_14_days: 2998.0
+Fourteen_day_test_rate_per_100000: 6896.0
+Percent_Positivity_in_prior_14_days: 0.161
 Level: Red
 url: /states/IN/dekalb-county
 ---

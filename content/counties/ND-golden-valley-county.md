@@ -1,6 +1,6 @@
 ---
 title: "Golden Valley County, ND"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:38033.0,FEMA:8.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 38033.0
 FEMA_Region: 8.0
 Population: 1761.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 113.0
-Fourteen_day_test_rate_per_100000: 6417.0
-Percent_Positivity_in_prior_14_days: 0.062
+Tests_in_prior_14_days: 67.0
+Fourteen_day_test_rate_per_100000: 3805.0
+Percent_Positivity_in_prior_14_days: 0.075
 Level: Yellow
 url: /states/ND/golden-valley-county
 ---

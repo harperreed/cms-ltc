@@ -1,6 +1,6 @@
 ---
 title: "McHenry County, ND"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:38049.0,FEMA:8.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 38049.0
 FEMA_Region: 8.0
 Population: 5745.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 277.0
-Fourteen_day_test_rate_per_100000: 4822.0
-Percent_Positivity_in_prior_14_days: 0.289
+Tests_in_prior_14_days: 309.0
+Fourteen_day_test_rate_per_100000: 5379.0
+Percent_Positivity_in_prior_14_days: 0.298
 Level: Red
 url: /states/ND/mchenry-county
 ---

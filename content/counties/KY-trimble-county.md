@@ -1,9 +1,9 @@
 ---
 title: "Trimble County, KY"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:21223.0,FEMA:4.0,Large fringe metro,Red]
+tags: [FIPS:21223.0,FEMA:4.0,Large fringe metro,Yellow]
 categories: [KY]
 County: Trimble County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21223.0
 FEMA_Region: 4.0
 Population: 8471.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 245.0
-Fourteen_day_test_rate_per_100000: 2892.0
-Percent_Positivity_in_prior_14_days: 0.131
-Level: Red
+Tests_in_prior_14_days: 224.0
+Fourteen_day_test_rate_per_100000: 2644.0
+Percent_Positivity_in_prior_14_days: 0.085
+Level: Yellow
 url: /states/KY/trimble-county
 ---
 

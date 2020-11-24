@@ -1,6 +1,6 @@
 ---
 title: "Houghton County, MI"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:26061.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 26061.0
 FEMA_Region: 5.0
 Population: 35684.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2609.0
-Fourteen_day_test_rate_per_100000: 7311.0
-Percent_Positivity_in_prior_14_days: 0.053
+Tests_in_prior_14_days: 3401.0
+Fourteen_day_test_rate_per_100000: 9531.0
+Percent_Positivity_in_prior_14_days: 0.066
 Level: Yellow
 url: /states/MI/houghton-county
 ---

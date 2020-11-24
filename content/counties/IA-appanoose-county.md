@@ -1,6 +1,6 @@
 ---
 title: "Appanoose County, IA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:19007.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 19007.0
 FEMA_Region: 7.0
 Population: 12426.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 959.0
-Fourteen_day_test_rate_per_100000: 7718.0
-Percent_Positivity_in_prior_14_days: 0.244
+Tests_in_prior_14_days: 1144.0
+Fourteen_day_test_rate_per_100000: 9207.0
+Percent_Positivity_in_prior_14_days: 0.26
 Level: Red
 url: /states/IA/appanoose-county
 ---

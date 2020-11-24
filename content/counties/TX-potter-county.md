@@ -1,6 +1,6 @@
 ---
 title: "Potter County, TX"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:48375.0,FEMA:6.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48375.0
 FEMA_Region: 6.0
 Population: 117415.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2940.0
-Fourteen_day_test_rate_per_100000: 2504.0
-Percent_Positivity_in_prior_14_days: 0.227
+Tests_in_prior_14_days: 2730.0
+Fourteen_day_test_rate_per_100000: 2325.0
+Percent_Positivity_in_prior_14_days: 0.253
 Level: Red
 url: /states/TX/potter-county
 ---

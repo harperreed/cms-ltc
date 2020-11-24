@@ -1,9 +1,9 @@
 ---
 title: "Lafourche Parish, LA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:22057.0,FEMA:6.0,Small metro,Green]
+tags: [FIPS:22057.0,FEMA:6.0,Small metro,Yellow]
 categories: [LA]
 County: Lafourche Parish
 State: LA
@@ -11,10 +11,10 @@ FIPS: 22057.0
 FEMA_Region: 6.0
 Population: 97614.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2644.0
-Fourteen_day_test_rate_per_100000: 2709.0
-Percent_Positivity_in_prior_14_days: 0.043
-Level: Green
+Tests_in_prior_14_days: 2899.0
+Fourteen_day_test_rate_per_100000: 2970.0
+Percent_Positivity_in_prior_14_days: 0.063
+Level: Yellow
 url: /states/LA/lafourche-parish
 ---
 

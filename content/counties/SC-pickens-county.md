@@ -1,6 +1,6 @@
 ---
 title: "Pickens County, SC"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:45077.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 45077.0
 FEMA_Region: 4.0
 Population: 126884.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 4397.0
-Fourteen_day_test_rate_per_100000: 3465.0
-Percent_Positivity_in_prior_14_days: 0.141
+Tests_in_prior_14_days: 4712.0
+Fourteen_day_test_rate_per_100000: 3714.0
+Percent_Positivity_in_prior_14_days: 0.172
 Level: Red
 url: /states/SC/pickens-county
 ---

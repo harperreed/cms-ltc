@@ -1,6 +1,6 @@
 ---
 title: "Giles County, VA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:51071.0,FEMA:3.0,Small metro,Red]
@@ -11,8 +11,8 @@ FIPS: 51071.0
 FEMA_Region: 3.0
 Population: 16720.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 579.0
-Fourteen_day_test_rate_per_100000: 3463.0
+Tests_in_prior_14_days: 529.0
+Fourteen_day_test_rate_per_100000: 3164.0
 Percent_Positivity_in_prior_14_days: 0.142
 Level: Red
 url: /states/VA/giles-county

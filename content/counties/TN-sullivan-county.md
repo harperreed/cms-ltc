@@ -1,6 +1,6 @@
 ---
 title: "Sullivan County, TN"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:47163.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 47163.0
 FEMA_Region: 4.0
 Population: 158348.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 3677.0
-Fourteen_day_test_rate_per_100000: 2322.0
-Percent_Positivity_in_prior_14_days: 0.167
+Tests_in_prior_14_days: 3222.0
+Fourteen_day_test_rate_per_100000: 2035.0
+Percent_Positivity_in_prior_14_days: 0.165
 Level: Red
 url: /states/TN/sullivan-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "San Joaquin County, CA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:6077.0,FEMA:9.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 6077.0
 FEMA_Region: 9.0
 Population: 762148.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 19139.0
-Fourteen_day_test_rate_per_100000: 2511.0
-Percent_Positivity_in_prior_14_days: 0.052
+Tests_in_prior_14_days: 20692.0
+Fourteen_day_test_rate_per_100000: 2715.0
+Percent_Positivity_in_prior_14_days: 0.068
 Level: Yellow
 url: /states/CA/san-joaquin-county
 ---

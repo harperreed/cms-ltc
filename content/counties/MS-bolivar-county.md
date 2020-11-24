@@ -1,6 +1,6 @@
 ---
 title: "Bolivar County, MS"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:28011.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28011.0
 FEMA_Region: 4.0
 Population: 30628.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 374.0
-Fourteen_day_test_rate_per_100000: 1221.0
-Percent_Positivity_in_prior_14_days: 0.078
+Tests_in_prior_14_days: 405.0
+Fourteen_day_test_rate_per_100000: 1322.0
+Percent_Positivity_in_prior_14_days: 0.099
 Level: Yellow
 url: /states/MS/bolivar-county
 ---

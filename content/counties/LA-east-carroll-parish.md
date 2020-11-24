@@ -1,9 +1,9 @@
 ---
 title: "East Carroll Parish, LA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:22035.0,FEMA:6.0,Non-core,Yellow]
+tags: [FIPS:22035.0,FEMA:6.0,Non-core,Red]
 categories: [LA]
 County: East Carroll Parish
 State: LA
@@ -11,10 +11,10 @@ FIPS: 22035.0
 FEMA_Region: 6.0
 Population: 6861.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 135.0
-Fourteen_day_test_rate_per_100000: 1968.0
-Percent_Positivity_in_prior_14_days: 0.193
-Level: Yellow
+Tests_in_prior_14_days: 560.0
+Fourteen_day_test_rate_per_100000: 8162.0
+Percent_Positivity_in_prior_14_days: 0.121
+Level: Red
 url: /states/LA/east-carroll-parish
 ---
 

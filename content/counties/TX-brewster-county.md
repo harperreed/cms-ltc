@@ -1,6 +1,6 @@
 ---
 title: "Brewster County, TX"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:48043.0,FEMA:6.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 48043.0
 FEMA_Region: 6.0
 Population: 9203.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 682.0
-Fourteen_day_test_rate_per_100000: 7411.0
-Percent_Positivity_in_prior_14_days: 0.144
+Tests_in_prior_14_days: 1257.0
+Fourteen_day_test_rate_per_100000: 13659.0
+Percent_Positivity_in_prior_14_days: 0.184
 Level: Red
 url: /states/TX/brewster-county
 ---

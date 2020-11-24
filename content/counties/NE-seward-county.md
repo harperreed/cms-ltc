@@ -1,6 +1,6 @@
 ---
 title: "Seward County, NE"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:31159.0,FEMA:7.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 31159.0
 FEMA_Region: 7.0
 Population: 17284.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1120.0
-Fourteen_day_test_rate_per_100000: 6480.0
-Percent_Positivity_in_prior_14_days: 0.372
+Tests_in_prior_14_days: 1091.0
+Fourteen_day_test_rate_per_100000: 6312.0
+Percent_Positivity_in_prior_14_days: 0.345
 Level: Red
 url: /states/NE/seward-county
 ---

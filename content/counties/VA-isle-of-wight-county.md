@@ -1,6 +1,6 @@
 ---
 title: "Isle of Wight County, VA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:51093.0,FEMA:3.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51093.0
 FEMA_Region: 3.0
 Population: 37109.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 847.0
-Fourteen_day_test_rate_per_100000: 2282.0
-Percent_Positivity_in_prior_14_days: 0.066
+Tests_in_prior_14_days: 909.0
+Fourteen_day_test_rate_per_100000: 2450.0
+Percent_Positivity_in_prior_14_days: 0.068
 Level: Yellow
 url: /states/VA/isle-of-wight-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Iberville Parish, LA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:22047.0,FEMA:6.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 22047.0
 FEMA_Region: 6.0
 Population: 32511.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1013.0
-Fourteen_day_test_rate_per_100000: 3116.0
-Percent_Positivity_in_prior_14_days: 0.107
+Tests_in_prior_14_days: 1127.0
+Fourteen_day_test_rate_per_100000: 3467.0
+Percent_Positivity_in_prior_14_days: 0.165
 Level: Red
 url: /states/LA/iberville-parish
 ---

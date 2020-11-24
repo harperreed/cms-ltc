@@ -1,9 +1,9 @@
 ---
 title: "Teton County, ID"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:16081.0,FEMA:10.0,Micropolitan,Yellow]
+tags: [FIPS:16081.0,FEMA:10.0,Micropolitan,Red]
 categories: [ID]
 County: Teton County
 State: ID
@@ -11,10 +11,10 @@ FIPS: 16081.0
 FEMA_Region: 10.0
 Population: 12142.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 211.0
-Fourteen_day_test_rate_per_100000: 1738.0
-Percent_Positivity_in_prior_14_days: 0.156
-Level: Yellow
+Tests_in_prior_14_days: 252.0
+Fourteen_day_test_rate_per_100000: 2075.0
+Percent_Positivity_in_prior_14_days: 0.139
+Level: Red
 url: /states/ID/teton-county
 ---
 

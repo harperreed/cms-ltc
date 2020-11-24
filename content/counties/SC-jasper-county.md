@@ -1,6 +1,6 @@
 ---
 title: "Jasper County, SC"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:45053.0,FEMA:4.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 45053.0
 FEMA_Region: 4.0
 Population: 30073.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 595.0
-Fourteen_day_test_rate_per_100000: 1979.0
-Percent_Positivity_in_prior_14_days: 0.059
+Tests_in_prior_14_days: 510.0
+Fourteen_day_test_rate_per_100000: 1696.0
+Percent_Positivity_in_prior_14_days: 0.069
 Level: Yellow
 url: /states/SC/jasper-county
 ---

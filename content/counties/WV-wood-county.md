@@ -1,9 +1,9 @@
 ---
 title: "Wood County, WV"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:54107.0,FEMA:3.0,Small metro,Yellow]
+tags: [FIPS:54107.0,FEMA:3.0,Small metro,Red]
 categories: [WV]
 County: Wood County
 State: WV
@@ -11,10 +11,10 @@ FIPS: 54107.0
 FEMA_Region: 3.0
 Population: 83518.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 6692.0
-Fourteen_day_test_rate_per_100000: 8013.0
-Percent_Positivity_in_prior_14_days: 0.091
-Level: Yellow
+Tests_in_prior_14_days: 9157.0
+Fourteen_day_test_rate_per_100000: 10964.0
+Percent_Positivity_in_prior_14_days: 0.108
+Level: Red
 url: /states/WV/wood-county
 ---
 

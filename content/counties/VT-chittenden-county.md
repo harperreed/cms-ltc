@@ -1,6 +1,6 @@
 ---
 title: "Chittenden County, VT"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:50007.0,FEMA:1.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 50007.0
 FEMA_Region: 1.0
 Population: 163774.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 34697.0
-Fourteen_day_test_rate_per_100000: 21186.0
-Percent_Positivity_in_prior_14_days: 0.006
+Tests_in_prior_14_days: 37310.0
+Fourteen_day_test_rate_per_100000: 22781.0
+Percent_Positivity_in_prior_14_days: 0.008
 Level: Green
 url: /states/VT/chittenden-county
 ---

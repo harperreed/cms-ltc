@@ -1,6 +1,6 @@
 ---
 title: "Cache County, UT"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:49005.0,FEMA:8.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 49005.0
 FEMA_Region: 8.0
 Population: 128289.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 7324.0
-Fourteen_day_test_rate_per_100000: 5709.0
-Percent_Positivity_in_prior_14_days: 0.157
+Tests_in_prior_14_days: 8890.0
+Fourteen_day_test_rate_per_100000: 6930.0
+Percent_Positivity_in_prior_14_days: 0.194
 Level: Red
 url: /states/UT/cache-county
 ---

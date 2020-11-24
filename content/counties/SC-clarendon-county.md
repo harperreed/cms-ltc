@@ -1,9 +1,9 @@
 ---
 title: "Clarendon County, SC"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:45027.0,FEMA:4.0,Non-core,Yellow]
+tags: [FIPS:45027.0,FEMA:4.0,Non-core,Green]
 categories: [SC]
 County: Clarendon County
 State: SC
@@ -11,10 +11,10 @@ FIPS: 45027.0
 FEMA_Region: 4.0
 Population: 33745.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1984.0
-Fourteen_day_test_rate_per_100000: 5879.0
-Percent_Positivity_in_prior_14_days: 0.055
-Level: Yellow
+Tests_in_prior_14_days: 1933.0
+Fourteen_day_test_rate_per_100000: 5728.0
+Percent_Positivity_in_prior_14_days: 0.04
+Level: Green
 url: /states/SC/clarendon-county
 ---
 

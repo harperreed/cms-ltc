@@ -1,6 +1,6 @@
 ---
 title: "Cascade County, MT"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:30013.0,FEMA:8.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 30013.0
 FEMA_Region: 8.0
 Population: 81366.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 7549.0
-Fourteen_day_test_rate_per_100000: 9278.0
-Percent_Positivity_in_prior_14_days: 0.272
+Tests_in_prior_14_days: 7712.0
+Fourteen_day_test_rate_per_100000: 9478.0
+Percent_Positivity_in_prior_14_days: 0.241
 Level: Red
 url: /states/MT/cascade-county
 ---

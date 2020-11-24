@@ -1,6 +1,6 @@
 ---
 title: "Randolph County, GA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:13243.0,FEMA:4.0,Non-core,Green]
@@ -13,7 +13,7 @@ Population: 6778.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 71.0
 Fourteen_day_test_rate_per_100000: 1048.0
-Percent_Positivity_in_prior_14_days: 0.028
+Percent_Positivity_in_prior_14_days: 0.042
 Level: Green
 url: /states/GA/randolph-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Liberty County, MT"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:30051.0,FEMA:8.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 30051.0
 FEMA_Region: 8.0
 Population: 2337.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 312.0
-Fourteen_day_test_rate_per_100000: 13350.0
-Percent_Positivity_in_prior_14_days: 0.042
+Tests_in_prior_14_days: 161.0
+Fourteen_day_test_rate_per_100000: 6889.0
+Percent_Positivity_in_prior_14_days: 0.043
 Level: Green
 url: /states/MT/liberty-county
 ---

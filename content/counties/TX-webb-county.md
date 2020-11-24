@@ -1,6 +1,6 @@
 ---
 title: "Webb County, TX"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:48479.0,FEMA:6.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48479.0
 FEMA_Region: 6.0
 Population: 276652.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 13898.0
-Fourteen_day_test_rate_per_100000: 5024.0
-Percent_Positivity_in_prior_14_days: 0.116
+Tests_in_prior_14_days: 21325.0
+Fourteen_day_test_rate_per_100000: 7708.0
+Percent_Positivity_in_prior_14_days: 0.135
 Level: Red
 url: /states/TX/webb-county
 ---

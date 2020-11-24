@@ -1,6 +1,6 @@
 ---
 title: "Clark County, NV"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:32003.0,FEMA:9.0,Large central metro,Red]
@@ -11,9 +11,9 @@ FIPS: 32003.0
 FEMA_Region: 9.0
 Population: 2266715.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 102453.0
-Fourteen_day_test_rate_per_100000: 4520.0
-Percent_Positivity_in_prior_14_days: 0.136
+Tests_in_prior_14_days: 118898.0
+Fourteen_day_test_rate_per_100000: 5245.0
+Percent_Positivity_in_prior_14_days: 0.143
 Level: Red
 url: /states/NV/clark-county
 ---

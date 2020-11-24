@@ -1,6 +1,6 @@
 ---
 title: "Cheboygan County, MI"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:26031.0,FEMA:5.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 26031.0
 FEMA_Region: 5.0
 Population: 25276.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 885.0
-Fourteen_day_test_rate_per_100000: 3501.0
-Percent_Positivity_in_prior_14_days: 0.084
+Tests_in_prior_14_days: 1187.0
+Fourteen_day_test_rate_per_100000: 4696.0
+Percent_Positivity_in_prior_14_days: 0.091
 Level: Yellow
 url: /states/MI/cheboygan-county
 ---

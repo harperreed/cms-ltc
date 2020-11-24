@@ -1,6 +1,6 @@
 ---
 title: "Santa Cruz County, CA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:6087.0,FEMA:9.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 6087.0
 FEMA_Region: 9.0
 Population: 273213.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 9894.0
-Fourteen_day_test_rate_per_100000: 3621.0
-Percent_Positivity_in_prior_14_days: 0.029
+Tests_in_prior_14_days: 11222.0
+Fourteen_day_test_rate_per_100000: 4107.0
+Percent_Positivity_in_prior_14_days: 0.038
 Level: Green
 url: /states/CA/santa-cruz-county
 ---

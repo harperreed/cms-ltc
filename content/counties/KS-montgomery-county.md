@@ -1,9 +1,9 @@
 ---
 title: "Montgomery County, KS"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:20125.0,FEMA:7.0,Micropolitan,Yellow]
+tags: [FIPS:20125.0,FEMA:7.0,Micropolitan,Red]
 categories: [KS]
 County: Montgomery County
 State: KS
@@ -11,10 +11,10 @@ FIPS: 20125.0
 FEMA_Region: 7.0
 Population: 31829.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 781.0
-Fourteen_day_test_rate_per_100000: 2454.0
-Percent_Positivity_in_prior_14_days: 0.1
-Level: Yellow
+Tests_in_prior_14_days: 724.0
+Fourteen_day_test_rate_per_100000: 2275.0
+Percent_Positivity_in_prior_14_days: 0.116
+Level: Red
 url: /states/KS/montgomery-county
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Vernon Parish, LA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:22115.0,FEMA:6.0,Micropolitan,Yellow]
+tags: [FIPS:22115.0,FEMA:6.0,Micropolitan,Red]
 categories: [LA]
 County: Vernon Parish
 State: LA
@@ -11,10 +11,10 @@ FIPS: 22115.0
 FEMA_Region: 6.0
 Population: 47429.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 608.0
-Fourteen_day_test_rate_per_100000: 1282.0
-Percent_Positivity_in_prior_14_days: 0.086
-Level: Yellow
+Tests_in_prior_14_days: 824.0
+Fourteen_day_test_rate_per_100000: 1737.0
+Percent_Positivity_in_prior_14_days: 0.103
+Level: Red
 url: /states/LA/vernon-parish
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Wilcox County, GA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:13315.0,FEMA:4.0,Non-core,Green]
+tags: [FIPS:13315.0,FEMA:4.0,Non-core,Yellow]
 categories: [GA]
 County: Wilcox County
 State: GA
@@ -11,10 +11,10 @@ FIPS: 13315.0
 FEMA_Region: 4.0
 Population: 8635.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 43.0
-Fourteen_day_test_rate_per_100000: 498.0
-Percent_Positivity_in_prior_14_days: 0.047
-Level: Green
+Tests_in_prior_14_days: 50.0
+Fourteen_day_test_rate_per_100000: 579.0
+Percent_Positivity_in_prior_14_days: 0.08
+Level: Yellow
 url: /states/GA/wilcox-county
 ---
 

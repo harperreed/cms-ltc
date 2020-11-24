@@ -1,6 +1,6 @@
 ---
 title: "Gilmer County, GA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:13123.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13123.0
 FEMA_Region: 4.0
 Population: 31369.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 444.0
-Fourteen_day_test_rate_per_100000: 1415.0
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 585.0
+Fourteen_day_test_rate_per_100000: 1865.0
+Percent_Positivity_in_prior_14_days: 0.075
 Level: Yellow
 url: /states/GA/gilmer-county
 ---

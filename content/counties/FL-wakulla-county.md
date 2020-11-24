@@ -1,6 +1,6 @@
 ---
 title: "Wakulla County, FL"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:12129.0,FEMA:4.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 12129.0
 FEMA_Region: 4.0
 Population: 33739.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1056.0
-Fourteen_day_test_rate_per_100000: 3130.0
-Percent_Positivity_in_prior_14_days: 0.066
+Tests_in_prior_14_days: 1117.0
+Fourteen_day_test_rate_per_100000: 3311.0
+Percent_Positivity_in_prior_14_days: 0.086
 Level: Yellow
 url: /states/FL/wakulla-county
 ---

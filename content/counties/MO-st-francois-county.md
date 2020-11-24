@@ -1,6 +1,6 @@
 ---
 title: "St. Francois County, MO"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:29187.0,FEMA:7.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 29187.0
 FEMA_Region: 7.0
 Population: 67215.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2366.0
-Fourteen_day_test_rate_per_100000: 3520.0
-Percent_Positivity_in_prior_14_days: 0.121
+Tests_in_prior_14_days: 2339.0
+Fourteen_day_test_rate_per_100000: 3480.0
+Percent_Positivity_in_prior_14_days: 0.133
 Level: Red
 url: /states/MO/st-francois-county
 ---

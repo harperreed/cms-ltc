@@ -1,9 +1,9 @@
 ---
 title: "Dunn County, ND"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:38025.0,FEMA:8.0,Non-core,Yellow]
+tags: [FIPS:38025.0,FEMA:8.0,Non-core,Red]
 categories: [ND]
 County: Dunn County
 State: ND
@@ -11,10 +11,10 @@ FIPS: 38025.0
 FEMA_Region: 8.0
 Population: 4424.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 231.0
-Fourteen_day_test_rate_per_100000: 5222.0
-Percent_Positivity_in_prior_14_days: 0.078
-Level: Yellow
+Tests_in_prior_14_days: 103.0
+Fourteen_day_test_rate_per_100000: 2328.0
+Percent_Positivity_in_prior_14_days: 0.165
+Level: Red
 url: /states/ND/dunn-county
 ---
 

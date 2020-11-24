@@ -1,6 +1,6 @@
 ---
 title: "Cuyahoga County, OH"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:39035.0,FEMA:5.0,Large central metro,Red]
@@ -11,9 +11,9 @@ FIPS: 39035.0
 FEMA_Region: 5.0
 Population: 1235072.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 25163.0
-Fourteen_day_test_rate_per_100000: 2037.0
-Percent_Positivity_in_prior_14_days: 0.101
+Tests_in_prior_14_days: 27877.0
+Fourteen_day_test_rate_per_100000: 2257.0
+Percent_Positivity_in_prior_14_days: 0.13
 Level: Red
 url: /states/OH/cuyahoga-county
 ---

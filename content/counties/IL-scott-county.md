@@ -1,9 +1,9 @@
 ---
 title: "Scott County, IL"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:17171.0,FEMA:5.0,Micropolitan,Yellow]
+tags: [FIPS:17171.0,FEMA:5.0,Micropolitan,Red]
 categories: [IL]
 County: Scott County
 State: IL
@@ -11,10 +11,10 @@ FIPS: 17171.0
 FEMA_Region: 5.0
 Population: 4951.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 379.0
-Fourteen_day_test_rate_per_100000: 7655.0
-Percent_Positivity_in_prior_14_days: 0.074
-Level: Yellow
+Tests_in_prior_14_days: 287.0
+Fourteen_day_test_rate_per_100000: 5797.0
+Percent_Positivity_in_prior_14_days: 0.101
+Level: Red
 url: /states/IL/scott-county
 ---
 

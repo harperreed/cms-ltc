@@ -1,9 +1,9 @@
 ---
 title: "Tuscaloosa County, AL"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:1125.0,FEMA:4.0,Small metro,Yellow]
+tags: [FIPS:1125.0,FEMA:4.0,Small metro,Red]
 categories: [AL]
 County: Tuscaloosa County
 State: AL
@@ -11,10 +11,10 @@ FIPS: 1125.0
 FEMA_Region: 4.0
 Population: 209355.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 8544.0
-Fourteen_day_test_rate_per_100000: 4081.0
-Percent_Positivity_in_prior_14_days: 0.078
-Level: Yellow
+Tests_in_prior_14_days: 8144.0
+Fourteen_day_test_rate_per_100000: 3890.0
+Percent_Positivity_in_prior_14_days: 0.112
+Level: Red
 url: /states/AL/tuscaloosa-county
 ---
 

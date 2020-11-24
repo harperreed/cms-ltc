@@ -1,6 +1,6 @@
 ---
 title: "Perry County, IN"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:18123.0,FEMA:5.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 18123.0
 FEMA_Region: 5.0
 Population: 19169.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 3483.0
-Fourteen_day_test_rate_per_100000: 18170.0
-Percent_Positivity_in_prior_14_days: 0.06
+Tests_in_prior_14_days: 3228.0
+Fourteen_day_test_rate_per_100000: 16840.0
+Percent_Positivity_in_prior_14_days: 0.069
 Level: Yellow
 url: /states/IN/perry-county
 ---

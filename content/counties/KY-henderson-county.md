@@ -1,6 +1,6 @@
 ---
 title: "Henderson County, KY"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:21101.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 21101.0
 FEMA_Region: 4.0
 Population: 45210.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1164.0
-Fourteen_day_test_rate_per_100000: 2575.0
-Percent_Positivity_in_prior_14_days: 0.203
+Tests_in_prior_14_days: 1278.0
+Fourteen_day_test_rate_per_100000: 2827.0
+Percent_Positivity_in_prior_14_days: 0.177
 Level: Red
 url: /states/KY/henderson-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Sutton County, TX"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:48435.0,FEMA:6.0,Non-core,Yellow]
+tags: [FIPS:48435.0,FEMA:6.0,Non-core,Red]
 categories: [TX]
 County: Sutton County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48435.0
 FEMA_Region: 6.0
 Population: 3776.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 71.0
-Fourteen_day_test_rate_per_100000: 1880.0
-Percent_Positivity_in_prior_14_days: 0.239
-Level: Yellow
+Tests_in_prior_14_days: 117.0
+Fourteen_day_test_rate_per_100000: 3099.0
+Percent_Positivity_in_prior_14_days: 0.282
+Level: Red
 url: /states/TX/sutton-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Steuben County, IN"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:18151.0,FEMA:5.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 18151.0
 FEMA_Region: 5.0
 Population: 34594.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2130.0
-Fourteen_day_test_rate_per_100000: 6157.0
-Percent_Positivity_in_prior_14_days: 0.208
+Tests_in_prior_14_days: 2560.0
+Fourteen_day_test_rate_per_100000: 7400.0
+Percent_Positivity_in_prior_14_days: 0.225
 Level: Red
 url: /states/IN/steuben-county
 ---

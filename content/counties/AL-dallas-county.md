@@ -1,9 +1,9 @@
 ---
 title: "Dallas County, AL"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:1047.0,FEMA:4.0,Micropolitan,Yellow]
+tags: [FIPS:1047.0,FEMA:4.0,Micropolitan,Red]
 categories: [AL]
 County: Dallas County
 State: AL
@@ -11,10 +11,10 @@ FIPS: 1047.0
 FEMA_Region: 4.0
 Population: 37196.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 720.0
-Fourteen_day_test_rate_per_100000: 1936.0
-Percent_Positivity_in_prior_14_days: 0.09
-Level: Yellow
+Tests_in_prior_14_days: 688.0
+Fourteen_day_test_rate_per_100000: 1850.0
+Percent_Positivity_in_prior_14_days: 0.147
+Level: Red
 url: /states/AL/dallas-county
 ---
 

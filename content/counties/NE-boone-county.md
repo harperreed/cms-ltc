@@ -1,6 +1,6 @@
 ---
 title: "Boone County, NE"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:31011.0,FEMA:7.0,Non-core,Red]
@@ -13,7 +13,7 @@ Population: 5192.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 232.0
 Fourteen_day_test_rate_per_100000: 4468.0
-Percent_Positivity_in_prior_14_days: 0.392
+Percent_Positivity_in_prior_14_days: 0.362
 Level: Red
 url: /states/NE/boone-county
 ---

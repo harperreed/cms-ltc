@@ -1,6 +1,6 @@
 ---
 title: "Erie County, OH"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:39043.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 39043.0
 FEMA_Region: 5.0
 Population: 74266.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2686.0
-Fourteen_day_test_rate_per_100000: 3617.0
-Percent_Positivity_in_prior_14_days: 0.092
+Tests_in_prior_14_days: 3190.0
+Fourteen_day_test_rate_per_100000: 4295.0
+Percent_Positivity_in_prior_14_days: 0.1
 Level: Yellow
 url: /states/OH/erie-county
 ---

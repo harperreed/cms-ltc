@@ -1,9 +1,9 @@
 ---
 title: "Natchitoches Parish, LA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:22069.0,FEMA:6.0,Micropolitan,Yellow]
+tags: [FIPS:22069.0,FEMA:6.0,Micropolitan,Red]
 categories: [LA]
 County: Natchitoches Parish
 State: LA
@@ -11,10 +11,10 @@ FIPS: 22069.0
 FEMA_Region: 6.0
 Population: 38158.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1829.0
-Fourteen_day_test_rate_per_100000: 4793.0
-Percent_Positivity_in_prior_14_days: 0.087
-Level: Yellow
+Tests_in_prior_14_days: 2117.0
+Fourteen_day_test_rate_per_100000: 5548.0
+Percent_Positivity_in_prior_14_days: 0.116
+Level: Red
 url: /states/LA/natchitoches-parish
 ---
 

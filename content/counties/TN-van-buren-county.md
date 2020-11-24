@@ -1,6 +1,6 @@
 ---
 title: "Van Buren County, TN"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:47175.0,FEMA:4.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 47175.0
 FEMA_Region: 4.0
 Population: 5872.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 208.0
-Fourteen_day_test_rate_per_100000: 3542.0
-Percent_Positivity_in_prior_14_days: 0.111
+Tests_in_prior_14_days: 263.0
+Fourteen_day_test_rate_per_100000: 4479.0
+Percent_Positivity_in_prior_14_days: 0.11
 Level: Red
 url: /states/TN/van-buren-county
 ---

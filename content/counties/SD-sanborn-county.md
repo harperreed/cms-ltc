@@ -1,6 +1,6 @@
 ---
 title: "Sanborn County, SD"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:46111.0,FEMA:8.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 46111.0
 FEMA_Region: 8.0
 Population: 2344.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 114.0
-Fourteen_day_test_rate_per_100000: 4863.0
-Percent_Positivity_in_prior_14_days: 0.263
+Tests_in_prior_14_days: 116.0
+Fourteen_day_test_rate_per_100000: 4949.0
+Percent_Positivity_in_prior_14_days: 0.31
 Level: Red
 url: /states/SD/sanborn-county
 ---

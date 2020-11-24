@@ -1,6 +1,6 @@
 ---
 title: "Sanilac County, MI"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:26151.0,FEMA:5.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 26151.0
 FEMA_Region: 5.0
 Population: 41170.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2783.0
-Fourteen_day_test_rate_per_100000: 6760.0
-Percent_Positivity_in_prior_14_days: 0.068
+Tests_in_prior_14_days: 3347.0
+Fourteen_day_test_rate_per_100000: 8130.0
+Percent_Positivity_in_prior_14_days: 0.072
 Level: Yellow
 url: /states/MI/sanilac-county
 ---

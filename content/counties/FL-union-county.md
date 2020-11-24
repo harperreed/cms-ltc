@@ -1,9 +1,9 @@
 ---
 title: "Union County, FL"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:12125.0,FEMA:4.0,Non-core,Red]
+tags: [FIPS:12125.0,FEMA:4.0,Non-core,Yellow]
 categories: [FL]
 County: Union County
 State: FL
@@ -11,10 +11,10 @@ FIPS: 12125.0
 FEMA_Region: 4.0
 Population: 15237.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 425.0
-Fourteen_day_test_rate_per_100000: 2789.0
-Percent_Positivity_in_prior_14_days: 0.139
-Level: Red
+Tests_in_prior_14_days: 437.0
+Fourteen_day_test_rate_per_100000: 2868.0
+Percent_Positivity_in_prior_14_days: 0.082
+Level: Yellow
 url: /states/FL/union-county
 ---
 

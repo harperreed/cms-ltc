@@ -1,6 +1,6 @@
 ---
 title: "San Luis Obispo County, CA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:6079.0,FEMA:9.0,Medium metro,Green]
@@ -11,8 +11,8 @@ FIPS: 6079.0
 FEMA_Region: 9.0
 Population: 283111.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 12210.0
-Fourteen_day_test_rate_per_100000: 4313.0
+Tests_in_prior_14_days: 15314.0
+Fourteen_day_test_rate_per_100000: 5409.0
 Percent_Positivity_in_prior_14_days: 0.049
 Level: Green
 url: /states/CA/san-luis-obispo-county

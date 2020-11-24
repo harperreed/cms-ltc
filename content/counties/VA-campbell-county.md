@@ -1,6 +1,6 @@
 ---
 title: "Campbell County, VA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:51031.0,FEMA:3.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 51031.0
 FEMA_Region: 3.0
 Population: 54885.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1110.0
-Fourteen_day_test_rate_per_100000: 2022.0
-Percent_Positivity_in_prior_14_days: 0.142
+Tests_in_prior_14_days: 1065.0
+Fourteen_day_test_rate_per_100000: 1940.0
+Percent_Positivity_in_prior_14_days: 0.15
 Level: Red
 url: /states/VA/campbell-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Cheyenne County, KS"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:20023.0,FEMA:7.0,Non-core,Green]

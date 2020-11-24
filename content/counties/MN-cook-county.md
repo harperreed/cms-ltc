@@ -1,9 +1,9 @@
 ---
 title: "Cook County, MN"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:27031.0,FEMA:5.0,Non-core,Yellow]
+tags: [FIPS:27031.0,FEMA:5.0,Non-core,Green]
 categories: [MN]
 County: Cook County
 State: MN
@@ -11,10 +11,10 @@ FIPS: 27031.0
 FEMA_Region: 5.0
 Population: 5463.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 708.0
-Fourteen_day_test_rate_per_100000: 12960.0
-Percent_Positivity_in_prior_14_days: 0.059
-Level: Yellow
+Tests_in_prior_14_days: 1054.0
+Fourteen_day_test_rate_per_100000: 19293.0
+Percent_Positivity_in_prior_14_days: 0.043
+Level: Green
 url: /states/MN/cook-county
 ---
 

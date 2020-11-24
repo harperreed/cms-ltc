@@ -1,9 +1,9 @@
 ---
 title: "Luzerne County, PA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:42079.0,FEMA:3.0,Medium metro,Yellow]
+tags: [FIPS:42079.0,FEMA:3.0,Medium metro,Red]
 categories: [PA]
 County: Luzerne County
 State: PA
@@ -11,10 +11,10 @@ FIPS: 42079.0
 FEMA_Region: 3.0
 Population: 317417.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 14835.0
-Fourteen_day_test_rate_per_100000: 4674.0
-Percent_Positivity_in_prior_14_days: 0.097
-Level: Yellow
+Tests_in_prior_14_days: 17308.0
+Fourteen_day_test_rate_per_100000: 5453.0
+Percent_Positivity_in_prior_14_days: 0.123
+Level: Red
 url: /states/PA/luzerne-county
 ---
 

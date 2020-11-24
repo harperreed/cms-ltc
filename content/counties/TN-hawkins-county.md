@@ -1,6 +1,6 @@
 ---
 title: "Hawkins County, TN"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:47073.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 47073.0
 FEMA_Region: 4.0
 Population: 56786.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1389.0
-Fourteen_day_test_rate_per_100000: 2446.0
-Percent_Positivity_in_prior_14_days: 0.15
+Tests_in_prior_14_days: 1226.0
+Fourteen_day_test_rate_per_100000: 2159.0
+Percent_Positivity_in_prior_14_days: 0.184
 Level: Red
 url: /states/TN/hawkins-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Palo Alto County, IA"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:19147.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 19147.0
 FEMA_Region: 7.0
 Population: 8886.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 422.0
-Fourteen_day_test_rate_per_100000: 4749.0
-Percent_Positivity_in_prior_14_days: 0.182
+Tests_in_prior_14_days: 508.0
+Fourteen_day_test_rate_per_100000: 5717.0
+Percent_Positivity_in_prior_14_days: 0.213
 Level: Red
 url: /states/IA/palo-alto-county
 ---

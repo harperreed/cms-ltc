@@ -1,6 +1,6 @@
 ---
 title: "McLeod County, MN"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:27085.0,FEMA:5.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 27085.0
 FEMA_Region: 5.0
 Population: 35893.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3678.0
-Fourteen_day_test_rate_per_100000: 10247.0
-Percent_Positivity_in_prior_14_days: 0.259
+Tests_in_prior_14_days: 6227.0
+Fourteen_day_test_rate_per_100000: 17349.0
+Percent_Positivity_in_prior_14_days: 0.264
 Level: Red
 url: /states/MN/mcleod-county
 ---

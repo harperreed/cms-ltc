@@ -1,6 +1,6 @@
 ---
 title: "Matanuska-Susitna Borough, AK"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:2170.0,FEMA:10.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 2170.0
 FEMA_Region: 10.0
 Population: 108317.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 5664.0
-Fourteen_day_test_rate_per_100000: 5229.0
-Percent_Positivity_in_prior_14_days: 0.175
+Tests_in_prior_14_days: 4361.0
+Fourteen_day_test_rate_per_100000: 4026.0
+Percent_Positivity_in_prior_14_days: 0.144
 Level: Red
 url: /states/AK/matanuska-susitna-borough
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Grand Traverse County, MI"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
 tags: [FIPS:26055.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 26055.0
 FEMA_Region: 5.0
 Population: 93088.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4073.0
-Fourteen_day_test_rate_per_100000: 4375.0
-Percent_Positivity_in_prior_14_days: 0.082
+Tests_in_prior_14_days: 5150.0
+Fourteen_day_test_rate_per_100000: 5532.0
+Percent_Positivity_in_prior_14_days: 0.095
 Level: Yellow
 url: /states/MI/grand-traverse-county
 ---

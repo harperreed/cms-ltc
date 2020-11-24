@@ -1,9 +1,9 @@
 ---
 title: "Montgomery County, IN"
-date: 2020-11-23
+date: 2020-11-24
 draft: false
 type: county
-tags: [FIPS:18107.0,FEMA:5.0,Micropolitan,Yellow]
+tags: [FIPS:18107.0,FEMA:5.0,Micropolitan,Red]
 categories: [IN]
 County: Montgomery County
 State: IN
@@ -11,10 +11,10 @@ FIPS: 18107.0
 FEMA_Region: 5.0
 Population: 38338.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1580.0
-Fourteen_day_test_rate_per_100000: 4121.0
-Percent_Positivity_in_prior_14_days: 0.097
-Level: Yellow
+Tests_in_prior_14_days: 1974.0
+Fourteen_day_test_rate_per_100000: 5149.0
+Percent_Positivity_in_prior_14_days: 0.116
+Level: Red
 url: /states/IN/montgomery-county
 ---
 
