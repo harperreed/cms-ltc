@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, WI"
-date: 2020-11-24
+date: 2020-11-25
 draft: false
 type: county
 tags: [FIPS:55055.0,FEMA:5.0,Micropolitan,Red]

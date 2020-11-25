@@ -1,6 +1,6 @@
 ---
 title: "Yakima County, WA"
-date: 2020-11-24
+date: 2020-11-25
 draft: false
 type: county
 tags: [FIPS:53077.0,FEMA:10.0,Small metro,Red]

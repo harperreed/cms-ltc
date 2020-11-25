@@ -1,6 +1,6 @@
 ---
 title: "Bartholomew County, IN"
-date: 2020-11-24
+date: 2020-11-25
 draft: false
 type: county
 tags: [FIPS:18005.0,FEMA:5.0,Small metro,Red]

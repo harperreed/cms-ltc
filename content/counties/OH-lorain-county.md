@@ -1,6 +1,6 @@
 ---
 title: "Lorain County, OH"
-date: 2020-11-24
+date: 2020-11-25
 draft: false
 type: county
 tags: [FIPS:39093.0,FEMA:5.0,Large fringe metro,Red]

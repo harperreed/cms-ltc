@@ -1,6 +1,6 @@
 ---
 title: "Gray County, TX"
-date: 2020-11-24
+date: 2020-11-25
 draft: false
 type: county
 tags: [FIPS:48179.0,FEMA:6.0,Micropolitan,Red]

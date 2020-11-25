@@ -1,6 +1,6 @@
 ---
 title: "Laurens County, GA"
-date: 2020-11-24
+date: 2020-11-25
 draft: false
 type: county
 tags: [FIPS:13175.0,FEMA:4.0,Micropolitan,Green]

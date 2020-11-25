@@ -1,6 +1,6 @@
 ---
 title: "Morgan County, KY"
-date: 2020-11-24
+date: 2020-11-25
 draft: false
 type: county
 tags: [FIPS:21175.0,FEMA:4.0,Non-core,Red]

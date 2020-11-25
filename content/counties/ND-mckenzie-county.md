@@ -1,6 +1,6 @@
 ---
 title: "McKenzie County, ND"
-date: 2020-11-24
+date: 2020-11-25
 draft: false
 type: county
 tags: [FIPS:38053.0,FEMA:8.0,Non-core,Red]

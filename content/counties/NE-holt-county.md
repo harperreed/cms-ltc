@@ -1,6 +1,6 @@
 ---
 title: "Holt County, NE"
-date: 2020-11-24
+date: 2020-11-25
 draft: false
 type: county
 tags: [FIPS:31089.0,FEMA:7.0,Non-core,Red]

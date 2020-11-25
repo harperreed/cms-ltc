@@ -1,6 +1,6 @@
 ---
 title: "Mackinac County, MI"
-date: 2020-11-24
+date: 2020-11-25
 draft: false
 type: county
 tags: [FIPS:26097.0,FEMA:5.0,Non-core,Green]
