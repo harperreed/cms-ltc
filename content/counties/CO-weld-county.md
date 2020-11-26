@@ -1,6 +1,6 @@
 ---
 title: "Weld County, CO"
-date: 2020-11-25
+date: 2020-11-26
 draft: false
 type: county
 tags: [FIPS:8123.0,FEMA:8.0,Medium metro,Red]

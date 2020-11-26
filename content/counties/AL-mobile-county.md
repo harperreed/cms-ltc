@@ -1,6 +1,6 @@
 ---
 title: "Mobile County, AL"
-date: 2020-11-25
+date: 2020-11-26
 draft: false
 type: county
 tags: [FIPS:1097.0,FEMA:4.0,Medium metro,Yellow]

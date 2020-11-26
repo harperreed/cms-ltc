@@ -1,6 +1,6 @@
 ---
 title: "Abbeville County, SC"
-date: 2020-11-25
+date: 2020-11-26
 draft: false
 type: county
 tags: [FIPS:45001.0,FEMA:4.0,Micropolitan,Green]

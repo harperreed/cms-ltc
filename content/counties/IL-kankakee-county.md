@@ -1,6 +1,6 @@
 ---
 title: "Kankakee County, IL"
-date: 2020-11-25
+date: 2020-11-26
 draft: false
 type: county
 tags: [FIPS:17091.0,FEMA:5.0,Small metro,Red]

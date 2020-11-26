@@ -1,6 +1,6 @@
 ---
 title: "Swisher County, TX"
-date: 2020-11-25
+date: 2020-11-26
 draft: false
 type: county
 tags: [FIPS:48437.0,FEMA:6.0,Non-core,Yellow]

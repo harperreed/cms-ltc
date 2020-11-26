@@ -1,6 +1,6 @@
 ---
 title: "Clinton County, OH"
-date: 2020-11-25
+date: 2020-11-26
 draft: false
 type: county
 tags: [FIPS:39027.0,FEMA:5.0,Micropolitan,Red]
