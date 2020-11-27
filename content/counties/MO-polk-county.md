@@ -1,6 +1,6 @@
 ---
 title: "Polk County, MO"
-date: 2020-11-26
+date: 2020-11-27
 draft: false
 type: county
 tags: [FIPS:29167.0,FEMA:7.0,Medium metro,Yellow]

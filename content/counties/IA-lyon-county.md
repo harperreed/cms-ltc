@@ -1,6 +1,6 @@
 ---
 title: "Lyon County, IA"
-date: 2020-11-26
+date: 2020-11-27
 draft: false
 type: county
 tags: [FIPS:19119.0,FEMA:7.0,Non-core,Red]

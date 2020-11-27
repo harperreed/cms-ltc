@@ -1,6 +1,6 @@
 ---
 title: "Evans County, GA"
-date: 2020-11-26
+date: 2020-11-27
 draft: false
 type: county
 tags: [FIPS:13109.0,FEMA:4.0,Non-core,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Sherman County, NE"
-date: 2020-11-26
+date: 2020-11-27
 draft: false
 type: county
 tags: [FIPS:31163.0,FEMA:7.0,Non-core,Red]

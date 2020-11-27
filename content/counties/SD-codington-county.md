@@ -1,6 +1,6 @@
 ---
 title: "Codington County, SD"
-date: 2020-11-26
+date: 2020-11-27
 draft: false
 type: county
 tags: [FIPS:46029.0,FEMA:8.0,Micropolitan,Yellow]

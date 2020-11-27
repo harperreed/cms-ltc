@@ -1,6 +1,6 @@
 ---
 title: "Barren County, KY"
-date: 2020-11-26
+date: 2020-11-27
 draft: false
 type: county
 tags: [FIPS:21009.0,FEMA:4.0,Micropolitan,Red]

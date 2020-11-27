@@ -1,6 +1,6 @@
 ---
 title: "Yadkin County, NC"
-date: 2020-11-26
+date: 2020-11-27
 draft: false
 type: county
 tags: [FIPS:37197.0,FEMA:4.0,Medium metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Hancock County, GA"
-date: 2020-11-26
+date: 2020-11-27
 draft: false
 type: county
 tags: [FIPS:13141.0,FEMA:4.0,Micropolitan,Yellow]
