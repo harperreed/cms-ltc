@@ -1,6 +1,6 @@
 ---
 title: "Kandiyohi County, MN"
-date: 2020-11-27
+date: 2020-11-28
 draft: false
 type: county
 tags: [FIPS:27067.0,FEMA:5.0,Micropolitan,Red]

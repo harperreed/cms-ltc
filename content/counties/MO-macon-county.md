@@ -1,6 +1,6 @@
 ---
 title: "Macon County, MO"
-date: 2020-11-27
+date: 2020-11-28
 draft: false
 type: county
 tags: [FIPS:29121.0,FEMA:7.0,Non-core,Yellow]

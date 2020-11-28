@@ -1,6 +1,6 @@
 ---
 title: "Cassia County, ID"
-date: 2020-11-27
+date: 2020-11-28
 draft: false
 type: county
 tags: [FIPS:16031.0,FEMA:10.0,Micropolitan,Red]

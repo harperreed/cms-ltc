@@ -1,6 +1,6 @@
 ---
 title: "Russell County, KS"
-date: 2020-11-27
+date: 2020-11-28
 draft: false
 type: county
 tags: [FIPS:20167.0,FEMA:7.0,Non-core,Red]

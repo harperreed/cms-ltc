@@ -1,6 +1,6 @@
 ---
 title: "Ziebach County, SD"
-date: 2020-11-27
+date: 2020-11-28
 draft: false
 type: county
 tags: [FIPS:46137.0,FEMA:8.0,Non-core,Green]

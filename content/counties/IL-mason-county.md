@@ -1,6 +1,6 @@
 ---
 title: "Mason County, IL"
-date: 2020-11-27
+date: 2020-11-28
 draft: false
 type: county
 tags: [FIPS:17125.0,FEMA:5.0,Non-core,Red]

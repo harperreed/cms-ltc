@@ -1,6 +1,6 @@
 ---
 title: "Preston County, WV"
-date: 2020-11-27
+date: 2020-11-28
 draft: false
 type: county
 tags: [FIPS:54077.0,FEMA:3.0,Small metro,Yellow]

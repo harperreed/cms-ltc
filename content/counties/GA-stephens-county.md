@@ -1,6 +1,6 @@
 ---
 title: "Stephens County, GA"
-date: 2020-11-27
+date: 2020-11-28
 draft: false
 type: county
 tags: [FIPS:13257.0,FEMA:4.0,Micropolitan,Yellow]
