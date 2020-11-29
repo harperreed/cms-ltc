@@ -1,6 +1,6 @@
 ---
 title: "Geneva County, AL"
-date: 2020-11-28
+date: 2020-11-29
 draft: false
 type: county
 tags: [FIPS:1061.0,FEMA:4.0,Small metro,Red]

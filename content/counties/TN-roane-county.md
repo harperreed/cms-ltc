@@ -1,6 +1,6 @@
 ---
 title: "Roane County, TN"
-date: 2020-11-28
+date: 2020-11-29
 draft: false
 type: county
 tags: [FIPS:47145.0,FEMA:4.0,Medium metro,Red]

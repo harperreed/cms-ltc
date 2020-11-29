@@ -1,6 +1,6 @@
 ---
 title: "Essex County, MA"
-date: 2020-11-28
+date: 2020-11-29
 draft: false
 type: county
 tags: [FIPS:25009.0,FEMA:1.0,Large fringe metro,Yellow]

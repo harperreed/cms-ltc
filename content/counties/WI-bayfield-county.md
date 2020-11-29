@@ -1,6 +1,6 @@
 ---
 title: "Bayfield County, WI"
-date: 2020-11-28
+date: 2020-11-29
 draft: false
 type: county
 tags: [FIPS:55007.0,FEMA:5.0,Non-core,Red]

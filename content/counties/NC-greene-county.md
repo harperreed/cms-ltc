@@ -1,6 +1,6 @@
 ---
 title: "Greene County, NC"
-date: 2020-11-28
+date: 2020-11-29
 draft: false
 type: county
 tags: [FIPS:37079.0,FEMA:4.0,Non-core,Yellow]

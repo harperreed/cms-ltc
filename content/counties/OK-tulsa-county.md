@@ -1,6 +1,6 @@
 ---
 title: "Tulsa County, OK"
-date: 2020-11-28
+date: 2020-11-29
 draft: false
 type: county
 tags: [FIPS:40143.0,FEMA:6.0,Medium metro,Red]
