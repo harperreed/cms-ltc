@@ -1,6 +1,6 @@
 ---
 title: "Concordia Parish, LA"
-date: 2020-11-29
+date: 2020-11-30
 draft: false
 type: county
 tags: [FIPS:22029.0,FEMA:6.0,Micropolitan,Red]

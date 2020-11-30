@@ -1,6 +1,6 @@
 ---
 title: "Idaho County, ID"
-date: 2020-11-29
+date: 2020-11-30
 draft: false
 type: county
 tags: [FIPS:16049.0,FEMA:10.0,Non-core,Red]

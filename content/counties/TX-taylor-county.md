@@ -1,6 +1,6 @@
 ---
 title: "Taylor County, TX"
-date: 2020-11-29
+date: 2020-11-30
 draft: false
 type: county
 tags: [FIPS:48441.0,FEMA:6.0,Small metro,Red]

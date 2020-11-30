@@ -1,6 +1,6 @@
 ---
 title: "Randolph County, GA"
-date: 2020-11-29
+date: 2020-11-30
 draft: false
 type: county
 tags: [FIPS:13243.0,FEMA:4.0,Non-core,Green]

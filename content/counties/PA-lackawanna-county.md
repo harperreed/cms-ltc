@@ -1,6 +1,6 @@
 ---
 title: "Lackawanna County, PA"
-date: 2020-11-29
+date: 2020-11-30
 draft: false
 type: county
 tags: [FIPS:42069.0,FEMA:3.0,Medium metro,Yellow]
