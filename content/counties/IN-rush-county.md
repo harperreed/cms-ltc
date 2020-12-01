@@ -1,6 +1,6 @@
 ---
 title: "Rush County, IN"
-date: 2020-11-30
+date: 2020-12-01
 draft: false
 type: county
 tags: [FIPS:18139.0,FEMA:5.0,Non-core,Yellow]

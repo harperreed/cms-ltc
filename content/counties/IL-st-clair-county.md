@@ -1,6 +1,6 @@
 ---
 title: "St. Clair County, IL"
-date: 2020-11-30
+date: 2020-12-01
 draft: false
 type: county
 tags: [FIPS:17163.0,FEMA:5.0,Large fringe metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Dawson County, GA"
-date: 2020-11-30
+date: 2020-12-01
 draft: false
 type: county
 tags: [FIPS:13085.0,FEMA:4.0,Large fringe metro,Red]

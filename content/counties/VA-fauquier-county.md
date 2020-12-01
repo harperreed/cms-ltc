@@ -1,6 +1,6 @@
 ---
 title: "Fauquier County, VA"
-date: 2020-11-30
+date: 2020-12-01
 draft: false
 type: county
 tags: [FIPS:51061.0,FEMA:3.0,Large fringe metro,Yellow]

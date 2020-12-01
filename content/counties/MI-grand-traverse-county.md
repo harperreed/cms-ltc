@@ -1,6 +1,6 @@
 ---
 title: "Grand Traverse County, MI"
-date: 2020-11-30
+date: 2020-12-01
 draft: false
 type: county
 tags: [FIPS:26055.0,FEMA:5.0,Micropolitan,Yellow]

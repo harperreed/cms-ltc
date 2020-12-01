@@ -1,6 +1,6 @@
 ---
 title: "Edgar County, IL"
-date: 2020-11-30
+date: 2020-12-01
 draft: false
 type: county
 tags: [FIPS:17045.0,FEMA:5.0,Non-core,Red]

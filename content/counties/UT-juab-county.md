@@ -1,6 +1,6 @@
 ---
 title: "Juab County, UT"
-date: 2020-11-30
+date: 2020-12-01
 draft: false
 type: county
 tags: [FIPS:49023.0,FEMA:8.0,Medium metro,Red]

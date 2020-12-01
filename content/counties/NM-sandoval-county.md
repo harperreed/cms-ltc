@@ -1,6 +1,6 @@
 ---
 title: "Sandoval County, NM"
-date: 2020-11-30
+date: 2020-12-01
 draft: false
 type: county
 tags: [FIPS:35043.0,FEMA:6.0,Medium metro,Red]
