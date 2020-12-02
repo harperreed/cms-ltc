@@ -1,6 +1,6 @@
 ---
 title: "Kalawao County, HI"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:15005.0,FEMA:9.0,Small metro,Gray]

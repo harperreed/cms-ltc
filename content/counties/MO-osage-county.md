@@ -1,6 +1,6 @@
 ---
 title: "Osage County, MO"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:29151.0,FEMA:7.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 29151.0
 FEMA_Region: 7.0
 Population: 13615.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 530.0
-Fourteen_day_test_rate_per_100000: 3893.0
-Percent_Positivity_in_prior_14_days: 0.192
+Tests_in_prior_14_days: 495.0
+Fourteen_day_test_rate_per_100000: 3636.0
+Percent_Positivity_in_prior_14_days: 0.164
 Level: Red
 url: /states/MO/osage-county
 ---

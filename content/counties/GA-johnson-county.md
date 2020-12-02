@@ -1,6 +1,6 @@
 ---
 title: "Johnson County, GA"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:13167.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13167.0
 FEMA_Region: 4.0
 Population: 9643.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 47.0
-Fourteen_day_test_rate_per_100000: 487.0
-Percent_Positivity_in_prior_14_days: 0.128
+Tests_in_prior_14_days: 54.0
+Fourteen_day_test_rate_per_100000: 560.0
+Percent_Positivity_in_prior_14_days: 0.13
 Level: Yellow
 url: /states/GA/johnson-county
 ---

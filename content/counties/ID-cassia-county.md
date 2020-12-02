@@ -1,6 +1,6 @@
 ---
 title: "Cassia County, ID"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:16031.0,FEMA:10.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 16031.0
 FEMA_Region: 10.0
 Population: 24030.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1192.0
-Fourteen_day_test_rate_per_100000: 4960.0
-Percent_Positivity_in_prior_14_days: 0.311
+Tests_in_prior_14_days: 1291.0
+Fourteen_day_test_rate_per_100000: 5372.0
+Percent_Positivity_in_prior_14_days: 0.295
 Level: Red
 url: /states/ID/cassia-county
 ---

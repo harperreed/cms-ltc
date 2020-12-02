@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, KY"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:21073.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 21073.0
 FEMA_Region: 4.0
 Population: 50991.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1433.0
-Fourteen_day_test_rate_per_100000: 2810.0
-Percent_Positivity_in_prior_14_days: 0.084
+Tests_in_prior_14_days: 988.0
+Fourteen_day_test_rate_per_100000: 1938.0
+Percent_Positivity_in_prior_14_days: 0.083
 Level: Yellow
 url: /states/KY/franklin-county
 ---

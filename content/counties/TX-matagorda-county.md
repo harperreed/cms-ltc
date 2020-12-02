@@ -1,6 +1,6 @@
 ---
 title: "Matagorda County, TX"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:48321.0,FEMA:6.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 48321.0
 FEMA_Region: 6.0
 Population: 36643.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 904.0
-Fourteen_day_test_rate_per_100000: 2467.0
-Percent_Positivity_in_prior_14_days: 0.126
+Tests_in_prior_14_days: 950.0
+Fourteen_day_test_rate_per_100000: 2593.0
+Percent_Positivity_in_prior_14_days: 0.151
 Level: Red
 url: /states/TX/matagorda-county
 ---

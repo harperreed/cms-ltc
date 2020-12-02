@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, MS"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:28059.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 28059.0
 FEMA_Region: 4.0
 Population: 143617.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1382.0
-Fourteen_day_test_rate_per_100000: 962.0
-Percent_Positivity_in_prior_14_days: 0.237
+Tests_in_prior_14_days: 1677.0
+Fourteen_day_test_rate_per_100000: 1168.0
+Percent_Positivity_in_prior_14_days: 0.227
 Level: Red
 url: /states/MS/jackson-county
 ---

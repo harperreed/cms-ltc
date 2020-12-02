@@ -1,6 +1,6 @@
 ---
 title: "Henry County, IL"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:17073.0,FEMA:5.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 17073.0
 FEMA_Region: 5.0
 Population: 48913.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2804.0
-Fourteen_day_test_rate_per_100000: 5733.0
-Percent_Positivity_in_prior_14_days: 0.15
+Tests_in_prior_14_days: 2876.0
+Fourteen_day_test_rate_per_100000: 5880.0
+Percent_Positivity_in_prior_14_days: 0.162
 Level: Red
 url: /states/IL/henry-county
 ---

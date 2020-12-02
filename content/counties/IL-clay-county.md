@@ -1,6 +1,6 @@
 ---
 title: "Clay County, IL"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:17025.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 17025.0
 FEMA_Region: 5.0
 Population: 13184.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 867.0
-Fourteen_day_test_rate_per_100000: 6576.0
-Percent_Positivity_in_prior_14_days: 0.179
+Tests_in_prior_14_days: 887.0
+Fourteen_day_test_rate_per_100000: 6728.0
+Percent_Positivity_in_prior_14_days: 0.172
 Level: Red
 url: /states/IL/clay-county
 ---

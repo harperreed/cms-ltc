@@ -1,6 +1,6 @@
 ---
 title: "Grenada County, MS"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:28043.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 28043.0
 FEMA_Region: 4.0
 Population: 20758.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 436.0
-Fourteen_day_test_rate_per_100000: 2100.0
-Percent_Positivity_in_prior_14_days: 0.106
+Tests_in_prior_14_days: 572.0
+Fourteen_day_test_rate_per_100000: 2756.0
+Percent_Positivity_in_prior_14_days: 0.121
 Level: Red
 url: /states/MS/grenada-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Wichita County, KS"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:20203.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 20203.0
 FEMA_Region: 7.0
 Population: 2119.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 78.0
-Fourteen_day_test_rate_per_100000: 3681.0
-Percent_Positivity_in_prior_14_days: 0.179
+Tests_in_prior_14_days: 46.0
+Fourteen_day_test_rate_per_100000: 2171.0
+Percent_Positivity_in_prior_14_days: 0.326
 Level: Red
 url: /states/KS/wichita-county
 ---

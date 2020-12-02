@@ -1,6 +1,6 @@
 ---
 title: "Stutsman County, ND"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:38093.0,FEMA:8.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 38093.0
 FEMA_Region: 8.0
 Population: 20704.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4079.0
-Fourteen_day_test_rate_per_100000: 19702.0
-Percent_Positivity_in_prior_14_days: 0.144
+Tests_in_prior_14_days: 3769.0
+Fourteen_day_test_rate_per_100000: 18204.0
+Percent_Positivity_in_prior_14_days: 0.112
 Level: Red
 url: /states/ND/stutsman-county
 ---

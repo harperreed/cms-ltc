@@ -1,6 +1,6 @@
 ---
 title: "Adams County, WI"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:55001.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 55001.0
 FEMA_Region: 5.0
 Population: 20220.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2637.0
-Fourteen_day_test_rate_per_100000: 13042.0
-Percent_Positivity_in_prior_14_days: 0.179
+Tests_in_prior_14_days: 2449.0
+Fourteen_day_test_rate_per_100000: 12112.0
+Percent_Positivity_in_prior_14_days: 0.17
 Level: Red
 url: /states/WI/adams-county
 ---

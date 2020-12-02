@@ -1,6 +1,6 @@
 ---
 title: "Worcester County, MA"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:25027.0,FEMA:1.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 25027.0
 FEMA_Region: 1.0
 Population: 830622.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 120572.0
-Fourteen_day_test_rate_per_100000: 14516.0
-Percent_Positivity_in_prior_14_days: 0.037
+Tests_in_prior_14_days: 120644.0
+Fourteen_day_test_rate_per_100000: 14525.0
+Percent_Positivity_in_prior_14_days: 0.041
 Level: Green
 url: /states/MA/worcester-county
 ---

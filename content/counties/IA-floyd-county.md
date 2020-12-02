@@ -1,6 +1,6 @@
 ---
 title: "Floyd County, IA"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:19067.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 19067.0
 FEMA_Region: 7.0
 Population: 15642.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1156.0
-Fourteen_day_test_rate_per_100000: 7390.0
-Percent_Positivity_in_prior_14_days: 0.199
+Tests_in_prior_14_days: 1145.0
+Fourteen_day_test_rate_per_100000: 7320.0
+Percent_Positivity_in_prior_14_days: 0.218
 Level: Red
 url: /states/IA/floyd-county
 ---

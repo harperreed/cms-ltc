@@ -1,6 +1,6 @@
 ---
 title: "St. Mary's County, MD"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:24037.0,FEMA:3.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 24037.0
 FEMA_Region: 3.0
 Population: 113510.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 5907.0
-Fourteen_day_test_rate_per_100000: 5204.0
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 5306.0
+Fourteen_day_test_rate_per_100000: 4674.0
+Percent_Positivity_in_prior_14_days: 0.065
 Level: Yellow
 url: /states/MD/st-mary-s-county
 ---

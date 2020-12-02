@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, WA"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:53021.0,FEMA:10.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 53021.0
 FEMA_Region: 10.0
 Population: 95222.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 121.0
-Fourteen_day_test_rate_per_100000: 127.0
-Percent_Positivity_in_prior_14_days: 0.124
+Tests_in_prior_14_days: 154.0
+Fourteen_day_test_rate_per_100000: 162.0
+Percent_Positivity_in_prior_14_days: 0.221
 Level: Yellow
 url: /states/WA/franklin-county
 ---

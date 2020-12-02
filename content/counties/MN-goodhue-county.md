@@ -1,6 +1,6 @@
 ---
 title: "Goodhue County, MN"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:27049.0,FEMA:5.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 27049.0
 FEMA_Region: 5.0
 Population: 46340.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 7858.0
-Fourteen_day_test_rate_per_100000: 16957.0
-Percent_Positivity_in_prior_14_days: 0.117
+Tests_in_prior_14_days: 8661.0
+Fourteen_day_test_rate_per_100000: 18690.0
+Percent_Positivity_in_prior_14_days: 0.122
 Level: Red
 url: /states/MN/goodhue-county
 ---

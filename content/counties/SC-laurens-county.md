@@ -1,6 +1,6 @@
 ---
 title: "Laurens County, SC"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:45059.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 45059.0
 FEMA_Region: 4.0
 Population: 67493.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1577.0
-Fourteen_day_test_rate_per_100000: 2337.0
-Percent_Positivity_in_prior_14_days: 0.152
+Tests_in_prior_14_days: 1952.0
+Fourteen_day_test_rate_per_100000: 2892.0
+Percent_Positivity_in_prior_14_days: 0.132
 Level: Red
 url: /states/SC/laurens-county
 ---

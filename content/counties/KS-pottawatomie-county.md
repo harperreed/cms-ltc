@@ -1,6 +1,6 @@
 ---
 title: "Pottawatomie County, KS"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:20149.0,FEMA:7.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 20149.0
 FEMA_Region: 7.0
 Population: 24383.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 590.0
-Fourteen_day_test_rate_per_100000: 2420.0
-Percent_Positivity_in_prior_14_days: 0.246
+Tests_in_prior_14_days: 775.0
+Fourteen_day_test_rate_per_100000: 3178.0
+Percent_Positivity_in_prior_14_days: 0.154
 Level: Red
 url: /states/KS/pottawatomie-county
 ---

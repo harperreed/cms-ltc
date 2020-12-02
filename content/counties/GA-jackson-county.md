@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, GA"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:13157.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 13157.0
 FEMA_Region: 4.0
 Population: 72977.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1761.0
-Fourteen_day_test_rate_per_100000: 2413.0
-Percent_Positivity_in_prior_14_days: 0.137
+Tests_in_prior_14_days: 1875.0
+Fourteen_day_test_rate_per_100000: 2569.0
+Percent_Positivity_in_prior_14_days: 0.115
 Level: Red
 url: /states/GA/jackson-county
 ---

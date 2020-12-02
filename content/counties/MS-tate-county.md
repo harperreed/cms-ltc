@@ -1,6 +1,6 @@
 ---
 title: "Tate County, MS"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:28137.0,FEMA:4.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 28137.0
 FEMA_Region: 4.0
 Population: 28321.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 658.0
-Fourteen_day_test_rate_per_100000: 2323.0
-Percent_Positivity_in_prior_14_days: 0.167
+Tests_in_prior_14_days: 576.0
+Fourteen_day_test_rate_per_100000: 2034.0
+Percent_Positivity_in_prior_14_days: 0.161
 Level: Red
 url: /states/MS/tate-county
 ---

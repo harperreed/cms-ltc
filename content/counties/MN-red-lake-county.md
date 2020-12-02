@@ -1,6 +1,6 @@
 ---
 title: "Red Lake County, MN"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:27125.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 27125.0
 FEMA_Region: 5.0
 Population: 4055.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 411.0
-Fourteen_day_test_rate_per_100000: 10136.0
-Percent_Positivity_in_prior_14_days: 0.163
+Tests_in_prior_14_days: 493.0
+Fourteen_day_test_rate_per_100000: 12158.0
+Percent_Positivity_in_prior_14_days: 0.197
 Level: Red
 url: /states/MN/red-lake-county
 ---

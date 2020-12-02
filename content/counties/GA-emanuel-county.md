@@ -1,9 +1,9 @@
 ---
 title: "Emanuel County, GA"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
-tags: [FIPS:13107.0,FEMA:4.0,Non-core,Yellow]
+tags: [FIPS:13107.0,FEMA:4.0,Non-core,Green]
 categories: [GA]
 County: Emanuel County
 State: GA
@@ -11,10 +11,10 @@ FIPS: 13107.0
 FEMA_Region: 4.0
 Population: 22646.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 162.0
-Fourteen_day_test_rate_per_100000: 715.0
-Percent_Positivity_in_prior_14_days: 0.086
-Level: Yellow
+Tests_in_prior_14_days: 158.0
+Fourteen_day_test_rate_per_100000: 698.0
+Percent_Positivity_in_prior_14_days: 0.038
+Level: Green
 url: /states/GA/emanuel-county
 ---
 

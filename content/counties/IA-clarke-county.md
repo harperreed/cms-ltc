@@ -1,6 +1,6 @@
 ---
 title: "Clarke County, IA"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:19039.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 19039.0
 FEMA_Region: 7.0
 Population: 9395.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 448.0
-Fourteen_day_test_rate_per_100000: 4768.0
-Percent_Positivity_in_prior_14_days: 0.156
+Tests_in_prior_14_days: 498.0
+Fourteen_day_test_rate_per_100000: 5301.0
+Percent_Positivity_in_prior_14_days: 0.141
 Level: Red
 url: /states/IA/clarke-county
 ---

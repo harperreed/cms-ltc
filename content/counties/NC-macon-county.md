@@ -1,6 +1,6 @@
 ---
 title: "Macon County, NC"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:37113.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 37113.0
 FEMA_Region: 4.0
 Population: 35858.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1116.0
-Fourteen_day_test_rate_per_100000: 3112.0
-Percent_Positivity_in_prior_14_days: 0.078
+Tests_in_prior_14_days: 1235.0
+Fourteen_day_test_rate_per_100000: 3444.0
+Percent_Positivity_in_prior_14_days: 0.062
 Level: Yellow
 url: /states/NC/macon-county
 ---

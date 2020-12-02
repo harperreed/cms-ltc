@@ -1,6 +1,6 @@
 ---
 title: "Pearl River County, MS"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:28109.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28109.0
 FEMA_Region: 4.0
 Population: 55535.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 882.0
-Fourteen_day_test_rate_per_100000: 1588.0
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 1092.0
+Fourteen_day_test_rate_per_100000: 1966.0
+Percent_Positivity_in_prior_14_days: 0.072
 Level: Yellow
 url: /states/MS/pearl-river-county
 ---

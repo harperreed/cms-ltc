@@ -1,6 +1,6 @@
 ---
 title: "Tallahatchie County, MS"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:28135.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28135.0
 FEMA_Region: 4.0
 Population: 13809.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 140.0
-Fourteen_day_test_rate_per_100000: 1014.0
-Percent_Positivity_in_prior_14_days: 0.107
+Tests_in_prior_14_days: 147.0
+Fourteen_day_test_rate_per_100000: 1065.0
+Percent_Positivity_in_prior_14_days: 0.095
 Level: Yellow
 url: /states/MS/tallahatchie-county
 ---

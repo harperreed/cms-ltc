@@ -1,6 +1,6 @@
 ---
 title: "Smith County, TN"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:47159.0,FEMA:4.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 47159.0
 FEMA_Region: 4.0
 Population: 20157.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 402.0
-Fourteen_day_test_rate_per_100000: 1994.0
-Percent_Positivity_in_prior_14_days: 0.229
+Tests_in_prior_14_days: 301.0
+Fourteen_day_test_rate_per_100000: 1493.0
+Percent_Positivity_in_prior_14_days: 0.169
 Level: Yellow
 url: /states/TN/smith-county
 ---

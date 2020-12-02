@@ -1,6 +1,6 @@
 ---
 title: "LaSalle County, IL"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:17099.0,FEMA:5.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 17099.0
 FEMA_Region: 5.0
 Population: 108669.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 6213.0
-Fourteen_day_test_rate_per_100000: 5717.0
-Percent_Positivity_in_prior_14_days: 0.172
+Tests_in_prior_14_days: 5834.0
+Fourteen_day_test_rate_per_100000: 5369.0
+Percent_Positivity_in_prior_14_days: 0.153
 Level: Red
 url: /states/IL/lasalle-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Randolph County, IN"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:18135.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 18135.0
 FEMA_Region: 5.0
 Population: 24665.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1654.0
-Fourteen_day_test_rate_per_100000: 6706.0
-Percent_Positivity_in_prior_14_days: 0.245
+Tests_in_prior_14_days: 1803.0
+Fourteen_day_test_rate_per_100000: 7310.0
+Percent_Positivity_in_prior_14_days: 0.25
 Level: Red
 url: /states/IN/randolph-county
 ---

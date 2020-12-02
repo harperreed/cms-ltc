@@ -1,6 +1,6 @@
 ---
 title: "Broward County, FL"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:12011.0,FEMA:4.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 12011.0
 FEMA_Region: 4.0
 Population: 1952778.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 107724.0
-Fourteen_day_test_rate_per_100000: 5516.0
-Percent_Positivity_in_prior_14_days: 0.098
+Tests_in_prior_14_days: 137048.0
+Fourteen_day_test_rate_per_100000: 7018.0
+Percent_Positivity_in_prior_14_days: 0.096
 Level: Yellow
 url: /states/FL/broward-county
 ---

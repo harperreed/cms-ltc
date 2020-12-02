@@ -1,6 +1,6 @@
 ---
 title: "Mills County, IA"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:19129.0,FEMA:7.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 19129.0
 FEMA_Region: 7.0
 Population: 15109.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1380.0
-Fourteen_day_test_rate_per_100000: 9134.0
-Percent_Positivity_in_prior_14_days: 0.233
+Tests_in_prior_14_days: 1395.0
+Fourteen_day_test_rate_per_100000: 9233.0
+Percent_Positivity_in_prior_14_days: 0.193
 Level: Red
 url: /states/IA/mills-county
 ---

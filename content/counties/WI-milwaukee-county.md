@@ -1,6 +1,6 @@
 ---
 title: "Milwaukee County, WI"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:55079.0,FEMA:5.0,Large central metro,Red]
@@ -11,9 +11,9 @@ FIPS: 55079.0
 FEMA_Region: 5.0
 Population: 945726.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 97761.0
-Fourteen_day_test_rate_per_100000: 10337.0
-Percent_Positivity_in_prior_14_days: 0.168
+Tests_in_prior_14_days: 100810.0
+Fourteen_day_test_rate_per_100000: 10660.0
+Percent_Positivity_in_prior_14_days: 0.138
 Level: Red
 url: /states/WI/milwaukee-county
 ---

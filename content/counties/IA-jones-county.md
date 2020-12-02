@@ -1,6 +1,6 @@
 ---
 title: "Jones County, IA"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:19105.0,FEMA:7.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 19105.0
 FEMA_Region: 7.0
 Population: 20681.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2036.0
-Fourteen_day_test_rate_per_100000: 9845.0
-Percent_Positivity_in_prior_14_days: 0.38
+Tests_in_prior_14_days: 1560.0
+Fourteen_day_test_rate_per_100000: 7543.0
+Percent_Positivity_in_prior_14_days: 0.303
 Level: Red
 url: /states/IA/jones-county
 ---

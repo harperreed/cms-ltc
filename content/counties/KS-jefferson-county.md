@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, KS"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:20087.0,FEMA:7.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 20087.0
 FEMA_Region: 7.0
 Population: 19043.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 523.0
-Fourteen_day_test_rate_per_100000: 2746.0
-Percent_Positivity_in_prior_14_days: 0.275
+Tests_in_prior_14_days: 626.0
+Fourteen_day_test_rate_per_100000: 3287.0
+Percent_Positivity_in_prior_14_days: 0.233
 Level: Red
 url: /states/KS/jefferson-county
 ---

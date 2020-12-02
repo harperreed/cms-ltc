@@ -1,6 +1,6 @@
 ---
 title: "Haskell County, TX"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:48207.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48207.0
 FEMA_Region: 6.0
 Population: 5658.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 34.0
-Fourteen_day_test_rate_per_100000: 601.0
-Percent_Positivity_in_prior_14_days: 0.176
+Tests_in_prior_14_days: 44.0
+Fourteen_day_test_rate_per_100000: 778.0
+Percent_Positivity_in_prior_14_days: 0.182
 Level: Yellow
 url: /states/TX/haskell-county
 ---

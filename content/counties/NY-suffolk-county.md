@@ -1,6 +1,6 @@
 ---
 title: "Suffolk County, NY"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:36103.0,FEMA:2.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 36103.0
 FEMA_Region: 2.0
 Population: 1476601.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 112169.0
-Fourteen_day_test_rate_per_100000: 7596.0
-Percent_Positivity_in_prior_14_days: 0.033
+Tests_in_prior_14_days: 135584.0
+Fourteen_day_test_rate_per_100000: 9182.0
+Percent_Positivity_in_prior_14_days: 0.042
 Level: Green
 url: /states/NY/suffolk-county
 ---

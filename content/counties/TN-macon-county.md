@@ -1,9 +1,9 @@
 ---
 title: "Macon County, TN"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
-tags: [FIPS:47111.0,FEMA:4.0,Large fringe metro,Red]
+tags: [FIPS:47111.0,FEMA:4.0,Large fringe metro,Yellow]
 categories: [TN]
 County: Macon County
 State: TN
@@ -11,10 +11,10 @@ FIPS: 47111.0
 FEMA_Region: 4.0
 Population: 24602.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 526.0
-Fourteen_day_test_rate_per_100000: 2138.0
-Percent_Positivity_in_prior_14_days: 0.259
-Level: Red
+Tests_in_prior_14_days: 458.0
+Fourteen_day_test_rate_per_100000: 1862.0
+Percent_Positivity_in_prior_14_days: 0.157
+Level: Yellow
 url: /states/TN/macon-county
 ---
 

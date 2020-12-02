@@ -1,6 +1,6 @@
 ---
 title: "Shelby County, KY"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:21211.0,FEMA:4.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 21211.0
 FEMA_Region: 4.0
 Population: 49024.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1221.0
-Fourteen_day_test_rate_per_100000: 2491.0
-Percent_Positivity_in_prior_14_days: 0.17
+Tests_in_prior_14_days: 846.0
+Fourteen_day_test_rate_per_100000: 1726.0
+Percent_Positivity_in_prior_14_days: 0.187
 Level: Red
 url: /states/KY/shelby-county
 ---

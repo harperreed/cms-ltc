@@ -1,6 +1,6 @@
 ---
 title: "Upshur County, TX"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:48459.0,FEMA:6.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48459.0
 FEMA_Region: 6.0
 Population: 41753.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 582.0
-Fourteen_day_test_rate_per_100000: 1394.0
-Percent_Positivity_in_prior_14_days: 0.162
+Tests_in_prior_14_days: 645.0
+Fourteen_day_test_rate_per_100000: 1545.0
+Percent_Positivity_in_prior_14_days: 0.167
 Level: Red
 url: /states/TX/upshur-county
 ---

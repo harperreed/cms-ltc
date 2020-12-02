@@ -1,6 +1,6 @@
 ---
 title: "Santa Rosa County, FL"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:12113.0,FEMA:4.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 12113.0
 FEMA_Region: 4.0
 Population: 184313.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2470.0
-Fourteen_day_test_rate_per_100000: 1340.0
-Percent_Positivity_in_prior_14_days: 0.095
+Tests_in_prior_14_days: 2902.0
+Fourteen_day_test_rate_per_100000: 1574.0
+Percent_Positivity_in_prior_14_days: 0.1
 Level: Yellow
 url: /states/FL/santa-rosa-county
 ---

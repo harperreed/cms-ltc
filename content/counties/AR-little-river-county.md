@@ -1,6 +1,6 @@
 ---
 title: "Little River County, AR"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:5081.0,FEMA:6.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 5081.0
 FEMA_Region: 6.0
 Population: 12259.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 430.0
-Fourteen_day_test_rate_per_100000: 3508.0
-Percent_Positivity_in_prior_14_days: 0.04
+Tests_in_prior_14_days: 767.0
+Fourteen_day_test_rate_per_100000: 6257.0
+Percent_Positivity_in_prior_14_days: 0.038
 Level: Green
 url: /states/AR/little-river-county
 ---

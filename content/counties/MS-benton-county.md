@@ -1,6 +1,6 @@
 ---
 title: "Benton County, MS"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:28009.0,FEMA:4.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28009.0
 FEMA_Region: 4.0
 Population: 8259.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 159.0
-Fourteen_day_test_rate_per_100000: 1925.0
-Percent_Positivity_in_prior_14_days: 0.239
+Tests_in_prior_14_days: 139.0
+Fourteen_day_test_rate_per_100000: 1683.0
+Percent_Positivity_in_prior_14_days: 0.173
 Level: Yellow
 url: /states/MS/benton-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Marathon County, WI"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:55073.0,FEMA:5.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 55073.0
 FEMA_Region: 5.0
 Population: 135692.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 14293.0
-Fourteen_day_test_rate_per_100000: 10533.0
-Percent_Positivity_in_prior_14_days: 0.228
+Tests_in_prior_14_days: 12825.0
+Fourteen_day_test_rate_per_100000: 9452.0
+Percent_Positivity_in_prior_14_days: 0.179
 Level: Red
 url: /states/WI/marathon-county
 ---

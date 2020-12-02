@@ -1,6 +1,6 @@
 ---
 title: "Jackson Parish, LA"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:22049.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 22049.0
 FEMA_Region: 6.0
 Population: 15744.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 794.0
-Fourteen_day_test_rate_per_100000: 5043.0
-Percent_Positivity_in_prior_14_days: 0.087
+Tests_in_prior_14_days: 808.0
+Fourteen_day_test_rate_per_100000: 5132.0
+Percent_Positivity_in_prior_14_days: 0.083
 Level: Yellow
 url: /states/LA/jackson-parish
 ---

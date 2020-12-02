@@ -1,6 +1,6 @@
 ---
 title: "Granville County, NC"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:37077.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,8 +11,8 @@ FIPS: 37077.0
 FEMA_Region: 4.0
 Population: 60443.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4755.0
-Fourteen_day_test_rate_per_100000: 7867.0
+Tests_in_prior_14_days: 5338.0
+Fourteen_day_test_rate_per_100000: 8831.0
 Percent_Positivity_in_prior_14_days: 0.058
 Level: Yellow
 url: /states/NC/granville-county

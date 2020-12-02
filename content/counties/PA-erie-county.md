@@ -1,6 +1,6 @@
 ---
 title: "Erie County, PA"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:42049.0,FEMA:3.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 42049.0
 FEMA_Region: 3.0
 Population: 269728.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 12265.0
-Fourteen_day_test_rate_per_100000: 4547.0
-Percent_Positivity_in_prior_14_days: 0.134
+Tests_in_prior_14_days: 15282.0
+Fourteen_day_test_rate_per_100000: 5666.0
+Percent_Positivity_in_prior_14_days: 0.138
 Level: Red
 url: /states/PA/erie-county
 ---

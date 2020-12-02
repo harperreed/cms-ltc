@@ -1,6 +1,6 @@
 ---
 title: "Meriwether County, GA"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:13199.0,FEMA:4.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 13199.0
 FEMA_Region: 4.0
 Population: 21167.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 395.0
-Fourteen_day_test_rate_per_100000: 1866.0
-Percent_Positivity_in_prior_14_days: 0.043
+Tests_in_prior_14_days: 415.0
+Fourteen_day_test_rate_per_100000: 1961.0
+Percent_Positivity_in_prior_14_days: 0.036
 Level: Green
 url: /states/GA/meriwether-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Grayson County, TX"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:48181.0,FEMA:6.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48181.0
 FEMA_Region: 6.0
 Population: 136212.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 7094.0
-Fourteen_day_test_rate_per_100000: 5208.0
-Percent_Positivity_in_prior_14_days: 0.137
+Tests_in_prior_14_days: 8157.0
+Fourteen_day_test_rate_per_100000: 5988.0
+Percent_Positivity_in_prior_14_days: 0.116
 Level: Red
 url: /states/TX/grayson-county
 ---

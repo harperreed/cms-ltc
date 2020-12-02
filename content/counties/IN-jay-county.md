@@ -1,6 +1,6 @@
 ---
 title: "Jay County, IN"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:18075.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 18075.0
 FEMA_Region: 5.0
 Population: 20436.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1441.0
-Fourteen_day_test_rate_per_100000: 7051.0
-Percent_Positivity_in_prior_14_days: 0.231
+Tests_in_prior_14_days: 1389.0
+Fourteen_day_test_rate_per_100000: 6797.0
+Percent_Positivity_in_prior_14_days: 0.248
 Level: Red
 url: /states/IN/jay-county
 ---

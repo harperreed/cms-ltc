@@ -1,6 +1,6 @@
 ---
 title: "Pend Oreille County, WA"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:53051.0,FEMA:10.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 53051.0
 FEMA_Region: 10.0
 Population: 13724.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 351.0
-Fourteen_day_test_rate_per_100000: 2558.0
-Percent_Positivity_in_prior_14_days: 0.068
+Tests_in_prior_14_days: 402.0
+Fourteen_day_test_rate_per_100000: 2929.0
+Percent_Positivity_in_prior_14_days: 0.052
 Level: Yellow
 url: /states/WA/pend-oreille-county
 ---

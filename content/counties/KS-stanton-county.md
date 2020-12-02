@@ -1,6 +1,6 @@
 ---
 title: "Stanton County, KS"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:20187.0,FEMA:7.0,Non-core,Green]

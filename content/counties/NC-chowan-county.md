@@ -1,9 +1,9 @@
 ---
 title: "Chowan County, NC"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
-tags: [FIPS:37041.0,FEMA:4.0,Non-core,Green]
+tags: [FIPS:37041.0,FEMA:4.0,Non-core,Yellow]
 categories: [NC]
 County: Chowan County
 State: NC
@@ -11,10 +11,10 @@ FIPS: 37041.0
 FEMA_Region: 4.0
 Population: 13943.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 818.0
-Fourteen_day_test_rate_per_100000: 5867.0
-Percent_Positivity_in_prior_14_days: 0.049
-Level: Green
+Tests_in_prior_14_days: 1077.0
+Fourteen_day_test_rate_per_100000: 7724.0
+Percent_Positivity_in_prior_14_days: 0.055
+Level: Yellow
 url: /states/NC/chowan-county
 ---
 

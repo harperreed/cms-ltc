@@ -1,6 +1,6 @@
 ---
 title: "Washington County, PA"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:42125.0,FEMA:3.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 42125.0
 FEMA_Region: 3.0
 Population: 206865.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 8217.0
-Fourteen_day_test_rate_per_100000: 3972.0
-Percent_Positivity_in_prior_14_days: 0.112
+Tests_in_prior_14_days: 9874.0
+Fourteen_day_test_rate_per_100000: 4773.0
+Percent_Positivity_in_prior_14_days: 0.117
 Level: Red
 url: /states/PA/washington-county
 ---

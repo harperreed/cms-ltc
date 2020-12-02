@@ -1,6 +1,6 @@
 ---
 title: "Fountain County, IN"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:18045.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 18045.0
 FEMA_Region: 5.0
 Population: 16346.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1398.0
-Fourteen_day_test_rate_per_100000: 8553.0
-Percent_Positivity_in_prior_14_days: 0.141
+Tests_in_prior_14_days: 1458.0
+Fourteen_day_test_rate_per_100000: 8920.0
+Percent_Positivity_in_prior_14_days: 0.163
 Level: Red
 url: /states/IN/fountain-county
 ---

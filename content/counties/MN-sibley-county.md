@@ -1,6 +1,6 @@
 ---
 title: "Sibley County, MN"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:27143.0,FEMA:5.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 27143.0
 FEMA_Region: 5.0
 Population: 14865.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 2345.0
-Fourteen_day_test_rate_per_100000: 15775.0
-Percent_Positivity_in_prior_14_days: 0.221
+Tests_in_prior_14_days: 2768.0
+Fourteen_day_test_rate_per_100000: 18621.0
+Percent_Positivity_in_prior_14_days: 0.168
 Level: Red
 url: /states/MN/sibley-county
 ---

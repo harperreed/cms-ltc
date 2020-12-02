@@ -1,6 +1,6 @@
 ---
 title: "Churchill County, NV"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:32001.0,FEMA:9.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 32001.0
 FEMA_Region: 9.0
 Population: 24909.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2374.0
-Fourteen_day_test_rate_per_100000: 9531.0
-Percent_Positivity_in_prior_14_days: 0.174
+Tests_in_prior_14_days: 2108.0
+Fourteen_day_test_rate_per_100000: 8463.0
+Percent_Positivity_in_prior_14_days: 0.206
 Level: Red
 url: /states/NV/churchill-county
 ---

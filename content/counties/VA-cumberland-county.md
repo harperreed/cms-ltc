@@ -1,9 +1,9 @@
 ---
 title: "Cumberland County, VA"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
-tags: [FIPS:51049.0,FEMA:3.0,Non-core,Yellow]
+tags: [FIPS:51049.0,FEMA:3.0,Non-core,Green]
 categories: [VA]
 County: Cumberland County
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51049.0
 FEMA_Region: 3.0
 Population: 9932.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 213.0
-Fourteen_day_test_rate_per_100000: 2145.0
-Percent_Positivity_in_prior_14_days: 0.07
-Level: Yellow
+Tests_in_prior_14_days: 225.0
+Fourteen_day_test_rate_per_100000: 2265.0
+Percent_Positivity_in_prior_14_days: 0.044
+Level: Green
 url: /states/VA/cumberland-county
 ---
 

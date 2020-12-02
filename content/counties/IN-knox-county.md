@@ -1,6 +1,6 @@
 ---
 title: "Knox County, IN"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:18083.0,FEMA:5.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 18083.0
 FEMA_Region: 5.0
 Population: 36594.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2758.0
-Fourteen_day_test_rate_per_100000: 7537.0
-Percent_Positivity_in_prior_14_days: 0.204
+Tests_in_prior_14_days: 2755.0
+Fourteen_day_test_rate_per_100000: 7529.0
+Percent_Positivity_in_prior_14_days: 0.191
 Level: Red
 url: /states/IN/knox-county
 ---

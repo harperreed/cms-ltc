@@ -1,6 +1,6 @@
 ---
 title: "Carroll County, VA"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:51035.0,FEMA:3.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 51035.0
 FEMA_Region: 3.0
 Population: 29791.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 827.0
-Fourteen_day_test_rate_per_100000: 2776.0
-Percent_Positivity_in_prior_14_days: 0.287
+Tests_in_prior_14_days: 923.0
+Fourteen_day_test_rate_per_100000: 3098.0
+Percent_Positivity_in_prior_14_days: 0.283
 Level: Red
 url: /states/VA/carroll-county
 ---

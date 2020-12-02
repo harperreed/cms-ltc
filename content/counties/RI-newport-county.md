@@ -1,6 +1,6 @@
 ---
 title: "Newport County, RI"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:44005.0,FEMA:1.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 44005.0
 FEMA_Region: 1.0
 Population: 82082.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 9255.0
-Fourteen_day_test_rate_per_100000: 11275.0
-Percent_Positivity_in_prior_14_days: 0.031
+Tests_in_prior_14_days: 10347.0
+Fourteen_day_test_rate_per_100000: 12606.0
+Percent_Positivity_in_prior_14_days: 0.03
 Level: Green
 url: /states/RI/newport-county
 ---

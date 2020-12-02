@@ -1,6 +1,6 @@
 ---
 title: "Horry County, SC"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:45051.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 45051.0
 FEMA_Region: 4.0
 Population: 354081.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 9022.0
-Fourteen_day_test_rate_per_100000: 2548.0
-Percent_Positivity_in_prior_14_days: 0.114
+Tests_in_prior_14_days: 10344.0
+Fourteen_day_test_rate_per_100000: 2921.0
+Percent_Positivity_in_prior_14_days: 0.108
 Level: Red
 url: /states/SC/horry-county
 ---

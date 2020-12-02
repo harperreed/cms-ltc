@@ -1,6 +1,6 @@
 ---
 title: "Parmer County, TX"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:48369.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48369.0
 FEMA_Region: 6.0
 Population: 9605.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 85.0
-Fourteen_day_test_rate_per_100000: 885.0
-Percent_Positivity_in_prior_14_days: 0.376
+Tests_in_prior_14_days: 82.0
+Fourteen_day_test_rate_per_100000: 854.0
+Percent_Positivity_in_prior_14_days: 0.317
 Level: Yellow
 url: /states/TX/parmer-county
 ---

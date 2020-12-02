@@ -1,9 +1,9 @@
 ---
 title: "Montgomery County, KY"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
-tags: [FIPS:21173.0,FEMA:4.0,Micropolitan,Yellow]
+tags: [FIPS:21173.0,FEMA:4.0,Micropolitan,Red]
 categories: [KY]
 County: Montgomery County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21173.0
 FEMA_Region: 4.0
 Population: 28157.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 926.0
-Fourteen_day_test_rate_per_100000: 3289.0
-Percent_Positivity_in_prior_14_days: 0.08
-Level: Yellow
+Tests_in_prior_14_days: 603.0
+Fourteen_day_test_rate_per_100000: 2142.0
+Percent_Positivity_in_prior_14_days: 0.119
+Level: Red
 url: /states/KY/montgomery-county
 ---
 

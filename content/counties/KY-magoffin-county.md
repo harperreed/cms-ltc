@@ -1,6 +1,6 @@
 ---
 title: "Magoffin County, KY"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:21153.0,FEMA:4.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 21153.0
 FEMA_Region: 4.0
 Population: 12161.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 843.0
-Fourteen_day_test_rate_per_100000: 6932.0
-Percent_Positivity_in_prior_14_days: 0.149
+Tests_in_prior_14_days: 468.0
+Fourteen_day_test_rate_per_100000: 3848.0
+Percent_Positivity_in_prior_14_days: 0.22
 Level: Red
 url: /states/KY/magoffin-county
 ---

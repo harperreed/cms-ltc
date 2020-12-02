@@ -1,6 +1,6 @@
 ---
 title: "Paulding County, GA"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:13223.0,FEMA:4.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 13223.0
 FEMA_Region: 4.0
 Population: 168667.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 2036.0
-Fourteen_day_test_rate_per_100000: 1207.0
-Percent_Positivity_in_prior_14_days: 0.122
+Tests_in_prior_14_days: 2198.0
+Fourteen_day_test_rate_per_100000: 1303.0
+Percent_Positivity_in_prior_14_days: 0.121
 Level: Red
 url: /states/GA/paulding-county
 ---

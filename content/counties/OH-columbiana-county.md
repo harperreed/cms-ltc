@@ -1,6 +1,6 @@
 ---
 title: "Columbiana County, OH"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:39029.0,FEMA:5.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 39029.0
 FEMA_Region: 5.0
 Population: 101883.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3198.0
-Fourteen_day_test_rate_per_100000: 3139.0
-Percent_Positivity_in_prior_14_days: 0.134
+Tests_in_prior_14_days: 3836.0
+Fourteen_day_test_rate_per_100000: 3765.0
+Percent_Positivity_in_prior_14_days: 0.188
 Level: Red
 url: /states/OH/columbiana-county
 ---

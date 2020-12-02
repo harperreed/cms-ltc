@@ -1,9 +1,9 @@
 ---
 title: "Reynolds County, MO"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
-tags: [FIPS:29179.0,FEMA:7.0,Non-core,Yellow]
+tags: [FIPS:29179.0,FEMA:7.0,Non-core,Red]
 categories: [MO]
 County: Reynolds County
 State: MO
@@ -11,10 +11,10 @@ FIPS: 29179.0
 FEMA_Region: 7.0
 Population: 6270.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 56.0
-Fourteen_day_test_rate_per_100000: 893.0
-Percent_Positivity_in_prior_14_days: 0.304
-Level: Yellow
+Tests_in_prior_14_days: 128.0
+Fourteen_day_test_rate_per_100000: 2041.0
+Percent_Positivity_in_prior_14_days: 0.234
+Level: Red
 url: /states/MO/reynolds-county
 ---
 

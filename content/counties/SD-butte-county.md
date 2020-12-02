@@ -1,6 +1,6 @@
 ---
 title: "Butte County, SD"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:46019.0,FEMA:8.0,Non-core,Red]
@@ -13,7 +13,7 @@ Population: 10429.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 591.0
 Fourteen_day_test_rate_per_100000: 5667.0
-Percent_Positivity_in_prior_14_days: 0.276
+Percent_Positivity_in_prior_14_days: 0.245
 Level: Red
 url: /states/SD/butte-county
 ---

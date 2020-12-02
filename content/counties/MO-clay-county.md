@@ -1,6 +1,6 @@
 ---
 title: "Clay County, MO"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:29047.0,FEMA:7.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 29047.0
 FEMA_Region: 7.0
 Population: 249948.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 3767.0
-Fourteen_day_test_rate_per_100000: 1507.0
-Percent_Positivity_in_prior_14_days: 0.201
+Tests_in_prior_14_days: 3687.0
+Fourteen_day_test_rate_per_100000: 1475.0
+Percent_Positivity_in_prior_14_days: 0.168
 Level: Red
 url: /states/MO/clay-county
 ---

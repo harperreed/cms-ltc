@@ -1,6 +1,6 @@
 ---
 title: "Adams County, OH"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:39001.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 39001.0
 FEMA_Region: 5.0
 Population: 27698.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 612.0
-Fourteen_day_test_rate_per_100000: 2210.0
-Percent_Positivity_in_prior_14_days: 0.113
+Tests_in_prior_14_days: 559.0
+Fourteen_day_test_rate_per_100000: 2018.0
+Percent_Positivity_in_prior_14_days: 0.136
 Level: Red
 url: /states/OH/adams-county
 ---

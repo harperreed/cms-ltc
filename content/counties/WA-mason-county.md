@@ -1,6 +1,6 @@
 ---
 title: "Mason County, WA"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:53045.0,FEMA:10.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 53045.0
 FEMA_Region: 10.0
 Population: 66768.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 938.0
-Fourteen_day_test_rate_per_100000: 1405.0
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 1098.0
+Fourteen_day_test_rate_per_100000: 1645.0
+Percent_Positivity_in_prior_14_days: 0.092
 Level: Yellow
 url: /states/WA/mason-county
 ---

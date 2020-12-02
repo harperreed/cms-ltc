@@ -1,6 +1,6 @@
 ---
 title: "Worth County, IA"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:19195.0,FEMA:7.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 19195.0
 FEMA_Region: 7.0
 Population: 7381.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 415.0
-Fourteen_day_test_rate_per_100000: 5623.0
-Percent_Positivity_in_prior_14_days: 0.193
+Tests_in_prior_14_days: 465.0
+Fourteen_day_test_rate_per_100000: 6300.0
+Percent_Positivity_in_prior_14_days: 0.2
 Level: Red
 url: /states/IA/worth-county
 ---

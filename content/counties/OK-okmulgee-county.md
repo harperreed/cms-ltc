@@ -1,6 +1,6 @@
 ---
 title: "Okmulgee County, OK"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:40111.0,FEMA:6.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 40111.0
 FEMA_Region: 6.0
 Population: 38465.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 230.0
-Fourteen_day_test_rate_per_100000: 598.0
-Percent_Positivity_in_prior_14_days: 0.178
+Tests_in_prior_14_days: 255.0
+Fourteen_day_test_rate_per_100000: 663.0
+Percent_Positivity_in_prior_14_days: 0.141
 Level: Yellow
 url: /states/OK/okmulgee-county
 ---

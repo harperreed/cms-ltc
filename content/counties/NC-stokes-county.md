@@ -1,6 +1,6 @@
 ---
 title: "Stokes County, NC"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:37169.0,FEMA:4.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 37169.0
 FEMA_Region: 4.0
 Population: 45591.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2770.0
-Fourteen_day_test_rate_per_100000: 6076.0
-Percent_Positivity_in_prior_14_days: 0.08
+Tests_in_prior_14_days: 3243.0
+Fourteen_day_test_rate_per_100000: 7113.0
+Percent_Positivity_in_prior_14_days: 0.087
 Level: Yellow
 url: /states/NC/stokes-county
 ---

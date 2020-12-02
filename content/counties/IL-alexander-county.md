@@ -1,6 +1,6 @@
 ---
 title: "Alexander County, IL"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:17003.0,FEMA:5.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 17003.0
 FEMA_Region: 5.0
 Population: 5761.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 303.0
-Fourteen_day_test_rate_per_100000: 5260.0
-Percent_Positivity_in_prior_14_days: 0.215
+Tests_in_prior_14_days: 282.0
+Fourteen_day_test_rate_per_100000: 4895.0
+Percent_Positivity_in_prior_14_days: 0.152
 Level: Red
 url: /states/IL/alexander-county
 ---

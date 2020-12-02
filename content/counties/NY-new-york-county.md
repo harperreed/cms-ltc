@@ -1,6 +1,6 @@
 ---
 title: "New York County, NY"
-date: 2020-12-01
+date: 2020-12-02
 draft: false
 type: county
 tags: [FIPS:36061.0,FEMA:2.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 36061.0
 FEMA_Region: 2.0
 Population: 1628706.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 202407.0
-Fourteen_day_test_rate_per_100000: 12427.0
-Percent_Positivity_in_prior_14_days: 0.019
+Tests_in_prior_14_days: 247681.0
+Fourteen_day_test_rate_per_100000: 15207.0
+Percent_Positivity_in_prior_14_days: 0.02
 Level: Green
 url: /states/NY/new-york-county
 ---
