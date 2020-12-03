@@ -1,6 +1,6 @@
 ---
 title: "Mariposa County, CA"
-date: 2020-12-02
+date: 2020-12-03
 draft: false
 type: county
 tags: [FIPS:6043.0,FEMA:9.0,Non-core,Gray]

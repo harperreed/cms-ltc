@@ -1,6 +1,6 @@
 ---
 title: "Faribault County, MN"
-date: 2020-12-02
+date: 2020-12-03
 draft: false
 type: county
 tags: [FIPS:27043.0,FEMA:5.0,Non-core,Red]

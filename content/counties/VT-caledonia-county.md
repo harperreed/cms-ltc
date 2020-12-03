@@ -1,6 +1,6 @@
 ---
 title: "Caledonia County, VT"
-date: 2020-12-02
+date: 2020-12-03
 draft: false
 type: county
 tags: [FIPS:50005.0,FEMA:1.0,Non-core,Green]

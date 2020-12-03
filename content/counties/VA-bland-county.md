@@ -1,6 +1,6 @@
 ---
 title: "Bland County, VA"
-date: 2020-12-02
+date: 2020-12-03
 draft: false
 type: county
 tags: [FIPS:51021.0,FEMA:3.0,Non-core,Red]

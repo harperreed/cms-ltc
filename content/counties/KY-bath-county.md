@@ -1,6 +1,6 @@
 ---
 title: "Bath County, KY"
-date: 2020-12-02
+date: 2020-12-03
 draft: false
 type: county
 tags: [FIPS:21011.0,FEMA:4.0,Micropolitan,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Washington County, AR"
-date: 2020-12-02
+date: 2020-12-03
 draft: false
 type: county
 tags: [FIPS:5143.0,FEMA:6.0,Medium metro,Yellow]

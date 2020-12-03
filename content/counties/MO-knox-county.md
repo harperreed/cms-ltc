@@ -1,6 +1,6 @@
 ---
 title: "Knox County, MO"
-date: 2020-12-02
+date: 2020-12-03
 draft: false
 type: county
 tags: [FIPS:29103.0,FEMA:7.0,Non-core,Red]

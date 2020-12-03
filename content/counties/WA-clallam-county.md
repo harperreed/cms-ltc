@@ -1,6 +1,6 @@
 ---
 title: "Clallam County, WA"
-date: 2020-12-02
+date: 2020-12-03
 draft: false
 type: county
 tags: [FIPS:53009.0,FEMA:10.0,Micropolitan,Green]
