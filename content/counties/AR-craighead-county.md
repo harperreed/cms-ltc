@@ -1,6 +1,6 @@
 ---
 title: "Craighead County, AR"
-date: 2020-12-03
+date: 2020-12-04
 draft: false
 type: county
 tags: [FIPS:5031.0,FEMA:6.0,Small metro,Red]

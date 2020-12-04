@@ -1,6 +1,6 @@
 ---
 title: "Chase County, KS"
-date: 2020-12-03
+date: 2020-12-04
 draft: false
 type: county
 tags: [FIPS:20017.0,FEMA:7.0,Non-core,Red]

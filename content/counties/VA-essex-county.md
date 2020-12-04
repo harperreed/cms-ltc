@@ -1,6 +1,6 @@
 ---
 title: "Essex County, VA"
-date: 2020-12-03
+date: 2020-12-04
 draft: false
 type: county
 tags: [FIPS:51057.0,FEMA:3.0,Non-core,Yellow]

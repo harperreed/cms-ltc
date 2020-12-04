@@ -1,6 +1,6 @@
 ---
 title: "Baca County, CO"
-date: 2020-12-03
+date: 2020-12-04
 draft: false
 type: county
 tags: [FIPS:8009.0,FEMA:8.0,Non-core,Green]

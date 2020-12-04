@@ -1,6 +1,6 @@
 ---
 title: "Greene County, AL"
-date: 2020-12-03
+date: 2020-12-04
 draft: false
 type: county
 tags: [FIPS:1063.0,FEMA:4.0,Non-core,Red]

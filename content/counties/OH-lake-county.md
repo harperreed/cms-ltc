@@ -1,6 +1,6 @@
 ---
 title: "Lake County, OH"
-date: 2020-12-03
+date: 2020-12-04
 draft: false
 type: county
 tags: [FIPS:39085.0,FEMA:5.0,Large fringe metro,Red]

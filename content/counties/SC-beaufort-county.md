@@ -1,6 +1,6 @@
 ---
 title: "Beaufort County, SC"
-date: 2020-12-03
+date: 2020-12-04
 draft: false
 type: county
 tags: [FIPS:45013.0,FEMA:4.0,Small metro,Yellow]

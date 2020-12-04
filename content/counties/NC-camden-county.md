@@ -1,6 +1,6 @@
 ---
 title: "Camden County, NC"
-date: 2020-12-03
+date: 2020-12-04
 draft: false
 type: county
 tags: [FIPS:37029.0,FEMA:4.0,Micropolitan,Yellow]

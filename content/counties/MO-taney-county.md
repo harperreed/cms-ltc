@@ -1,6 +1,6 @@
 ---
 title: "Taney County, MO"
-date: 2020-12-03
+date: 2020-12-04
 draft: false
 type: county
 tags: [FIPS:29213.0,FEMA:7.0,Micropolitan,Red]

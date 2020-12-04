@@ -1,6 +1,6 @@
 ---
 title: "Iowa County, WI"
-date: 2020-12-03
+date: 2020-12-04
 draft: false
 type: county
 tags: [FIPS:55049.0,FEMA:5.0,Medium metro,Red]

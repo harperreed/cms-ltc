@@ -1,6 +1,6 @@
 ---
 title: "Iosco County, MI"
-date: 2020-12-03
+date: 2020-12-04
 draft: false
 type: county
 tags: [FIPS:26069.0,FEMA:5.0,Non-core,Red]

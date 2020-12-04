@@ -1,6 +1,6 @@
 ---
 title: "Cook County, MN"
-date: 2020-12-03
+date: 2020-12-04
 draft: false
 type: county
 tags: [FIPS:27031.0,FEMA:5.0,Non-core,Green]

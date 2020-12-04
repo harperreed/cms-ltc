@@ -1,6 +1,6 @@
 ---
 title: "Wayne County, KY"
-date: 2020-12-03
+date: 2020-12-04
 draft: false
 type: county
 tags: [FIPS:21231.0,FEMA:4.0,Non-core,Yellow]

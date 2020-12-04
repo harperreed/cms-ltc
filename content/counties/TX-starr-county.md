@@ -1,6 +1,6 @@
 ---
 title: "Starr County, TX"
-date: 2020-12-03
+date: 2020-12-04
 draft: false
 type: county
 tags: [FIPS:48427.0,FEMA:6.0,Micropolitan,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Sullivan County, IN"
-date: 2020-12-03
+date: 2020-12-04
 draft: false
 type: county
 tags: [FIPS:18153.0,FEMA:5.0,Small metro,Red]
