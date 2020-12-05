@@ -1,6 +1,6 @@
 ---
 title: "Charlottesville City, VA"
-date: 2020-12-04
+date: 2020-12-05
 draft: false
 type: county
 tags: [FIPS:51540.0,FEMA:3.0,Small metro,Green]

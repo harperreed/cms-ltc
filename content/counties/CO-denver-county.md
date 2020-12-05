@@ -1,6 +1,6 @@
 ---
 title: "Denver County, CO"
-date: 2020-12-04
+date: 2020-12-05
 draft: false
 type: county
 tags: [FIPS:8031.0,FEMA:8.0,Large central metro,Red]

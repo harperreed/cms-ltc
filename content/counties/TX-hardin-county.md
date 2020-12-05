@@ -1,6 +1,6 @@
 ---
 title: "Hardin County, TX"
-date: 2020-12-04
+date: 2020-12-05
 draft: false
 type: county
 tags: [FIPS:48199.0,FEMA:6.0,Medium metro,Red]

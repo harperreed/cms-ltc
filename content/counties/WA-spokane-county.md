@@ -1,6 +1,6 @@
 ---
 title: "Spokane County, WA"
-date: 2020-12-04
+date: 2020-12-05
 draft: false
 type: county
 tags: [FIPS:53063.0,FEMA:10.0,Medium metro,Red]

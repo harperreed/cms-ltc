@@ -1,6 +1,6 @@
 ---
 title: "Charleston County, SC"
-date: 2020-12-04
+date: 2020-12-05
 draft: false
 type: county
 tags: [FIPS:45019.0,FEMA:4.0,Medium metro,Yellow]

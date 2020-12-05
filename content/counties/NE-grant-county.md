@@ -1,6 +1,6 @@
 ---
 title: "Grant County, NE"
-date: 2020-12-04
+date: 2020-12-05
 draft: false
 type: county
 tags: [FIPS:31075.0,FEMA:7.0,Non-core,Green]

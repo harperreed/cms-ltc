@@ -1,6 +1,6 @@
 ---
 title: "Desha County, AR"
-date: 2020-12-04
+date: 2020-12-05
 draft: false
 type: county
 tags: [FIPS:5041.0,FEMA:6.0,Non-core,Red]

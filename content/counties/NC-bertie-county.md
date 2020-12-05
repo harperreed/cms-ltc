@@ -1,6 +1,6 @@
 ---
 title: "Bertie County, NC"
-date: 2020-12-04
+date: 2020-12-05
 draft: false
 type: county
 tags: [FIPS:37015.0,FEMA:4.0,Non-core,Red]
