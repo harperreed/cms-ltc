@@ -1,6 +1,6 @@
 ---
 title: "Ector County, TX"
-date: 2020-12-05
+date: 2020-12-06
 draft: false
 type: county
 tags: [FIPS:48135.0,FEMA:6.0,Small metro,Red]

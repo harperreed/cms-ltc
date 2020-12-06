@@ -1,6 +1,6 @@
 ---
 title: "McCormick County, SC"
-date: 2020-12-05
+date: 2020-12-06
 draft: false
 type: county
 tags: [FIPS:45065.0,FEMA:4.0,Non-core,Yellow]

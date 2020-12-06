@@ -1,6 +1,6 @@
 ---
 title: "Tolland County, CT"
-date: 2020-12-05
+date: 2020-12-06
 draft: false
 type: county
 tags: [FIPS:9013.0,FEMA:1.0,Large fringe metro,Yellow]

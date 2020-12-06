@@ -1,6 +1,6 @@
 ---
 title: "Clay County, WV"
-date: 2020-12-05
+date: 2020-12-06
 draft: false
 type: county
 tags: [FIPS:54015.0,FEMA:3.0,Small metro,Yellow]

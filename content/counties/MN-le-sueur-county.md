@@ -1,6 +1,6 @@
 ---
 title: "Le Sueur County, MN"
-date: 2020-12-05
+date: 2020-12-06
 draft: false
 type: county
 tags: [FIPS:27079.0,FEMA:5.0,Large fringe metro,Red]

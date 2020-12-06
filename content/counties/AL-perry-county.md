@@ -1,6 +1,6 @@
 ---
 title: "Perry County, AL"
-date: 2020-12-05
+date: 2020-12-06
 draft: false
 type: county
 tags: [FIPS:1105.0,FEMA:4.0,Non-core,Yellow]
