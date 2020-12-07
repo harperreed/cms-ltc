@@ -1,6 +1,6 @@
 ---
 title: "De Soto Parish, LA"
-date: 2020-12-06
+date: 2020-12-07
 draft: false
 type: county
 tags: [FIPS:22031.0,FEMA:6.0,Medium metro,Yellow]

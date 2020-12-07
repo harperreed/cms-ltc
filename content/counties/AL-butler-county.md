@@ -1,6 +1,6 @@
 ---
 title: "Butler County, AL"
-date: 2020-12-06
+date: 2020-12-07
 draft: false
 type: county
 tags: [FIPS:1013.0,FEMA:4.0,Non-core,Yellow]

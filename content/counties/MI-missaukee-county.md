@@ -1,6 +1,6 @@
 ---
 title: "Missaukee County, MI"
-date: 2020-12-06
+date: 2020-12-07
 draft: false
 type: county
 tags: [FIPS:26113.0,FEMA:5.0,Micropolitan,Red]

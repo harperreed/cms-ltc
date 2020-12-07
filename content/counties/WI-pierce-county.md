@@ -1,6 +1,6 @@
 ---
 title: "Pierce County, WI"
-date: 2020-12-06
+date: 2020-12-07
 draft: false
 type: county
 tags: [FIPS:55093.0,FEMA:5.0,Large fringe metro,Red]

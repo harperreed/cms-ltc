@@ -1,6 +1,6 @@
 ---
 title: "Wayne County, IN"
-date: 2020-12-06
+date: 2020-12-07
 draft: false
 type: county
 tags: [FIPS:18177.0,FEMA:5.0,Micropolitan,Red]
