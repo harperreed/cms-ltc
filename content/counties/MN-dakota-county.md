@@ -1,6 +1,6 @@
 ---
 title: "Dakota County, MN"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:27037.0,FEMA:5.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 27037.0
 FEMA_Region: 5.0
 Population: 429021.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 66869.0
-Fourteen_day_test_rate_per_100000: 15586.0
-Percent_Positivity_in_prior_14_days: 0.136
+Tests_in_prior_14_days: 61692.0
+Fourteen_day_test_rate_per_100000: 14380.0
+Percent_Positivity_in_prior_14_days: 0.132
 Level: Red
 url: /states/MN/dakota-county
 ---

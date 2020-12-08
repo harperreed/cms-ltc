@@ -1,6 +1,6 @@
 ---
 title: "Monroe County, FL"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:12087.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 12087.0
 FEMA_Region: 4.0
 Population: 74228.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3979.0
-Fourteen_day_test_rate_per_100000: 5361.0
-Percent_Positivity_in_prior_14_days: 0.114
+Tests_in_prior_14_days: 4040.0
+Fourteen_day_test_rate_per_100000: 5443.0
+Percent_Positivity_in_prior_14_days: 0.102
 Level: Red
 url: /states/FL/monroe-county
 ---

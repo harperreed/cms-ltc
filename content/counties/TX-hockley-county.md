@@ -1,6 +1,6 @@
 ---
 title: "Hockley County, TX"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:48219.0,FEMA:6.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 48219.0
 FEMA_Region: 6.0
 Population: 23021.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 905.0
-Fourteen_day_test_rate_per_100000: 3931.0
-Percent_Positivity_in_prior_14_days: 0.373
+Tests_in_prior_14_days: 751.0
+Fourteen_day_test_rate_per_100000: 3262.0
+Percent_Positivity_in_prior_14_days: 0.364
 Level: Red
 url: /states/TX/hockley-county
 ---

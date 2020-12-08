@@ -1,6 +1,6 @@
 ---
 title: "Pershing County, NV"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:32027.0,FEMA:9.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 32027.0
 FEMA_Region: 9.0
 Population: 6725.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 670.0
-Fourteen_day_test_rate_per_100000: 9963.0
-Percent_Positivity_in_prior_14_days: 0.13
+Tests_in_prior_14_days: 554.0
+Fourteen_day_test_rate_per_100000: 8238.0
+Percent_Positivity_in_prior_14_days: 0.155
 Level: Red
 url: /states/NV/pershing-county
 ---

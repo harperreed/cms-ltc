@@ -1,6 +1,6 @@
 ---
 title: "Buffalo County, WI"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:55011.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 55011.0
 FEMA_Region: 5.0
 Population: 13031.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1511.0
-Fourteen_day_test_rate_per_100000: 11595.0
-Percent_Positivity_in_prior_14_days: 0.156
+Tests_in_prior_14_days: 1317.0
+Fourteen_day_test_rate_per_100000: 10107.0
+Percent_Positivity_in_prior_14_days: 0.114
 Level: Red
 url: /states/WI/buffalo-county
 ---

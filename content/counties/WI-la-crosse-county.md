@@ -1,6 +1,6 @@
 ---
 title: "La Crosse County, WI"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:55063.0,FEMA:5.0,Small metro,Red]
@@ -11,8 +11,8 @@ FIPS: 55063.0
 FEMA_Region: 5.0
 Population: 118016.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 13778.0
-Fourteen_day_test_rate_per_100000: 11675.0
+Tests_in_prior_14_days: 9722.0
+Fourteen_day_test_rate_per_100000: 8238.0
 Percent_Positivity_in_prior_14_days: 0.151
 Level: Red
 url: /states/WI/la-crosse-county

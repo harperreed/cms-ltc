@@ -1,9 +1,9 @@
 ---
 title: "Lee County, SC"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
-tags: [FIPS:45061.0,FEMA:4.0,Non-core,Green]
+tags: [FIPS:45061.0,FEMA:4.0,Non-core,Yellow]
 categories: [SC]
 County: Lee County
 State: SC
@@ -11,10 +11,10 @@ FIPS: 45061.0
 FEMA_Region: 4.0
 Population: 16828.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 783.0
-Fourteen_day_test_rate_per_100000: 4653.0
-Percent_Positivity_in_prior_14_days: 0.049
-Level: Green
+Tests_in_prior_14_days: 553.0
+Fourteen_day_test_rate_per_100000: 3286.0
+Percent_Positivity_in_prior_14_days: 0.069
+Level: Yellow
 url: /states/SC/lee-county
 ---
 

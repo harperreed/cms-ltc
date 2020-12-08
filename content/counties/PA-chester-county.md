@@ -1,6 +1,6 @@
 ---
 title: "Chester County, PA"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:42029.0,FEMA:3.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 42029.0
 FEMA_Region: 3.0
 Population: 524989.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 30904.0
-Fourteen_day_test_rate_per_100000: 5887.0
-Percent_Positivity_in_prior_14_days: 0.085
+Tests_in_prior_14_days: 33168.0
+Fourteen_day_test_rate_per_100000: 6318.0
+Percent_Positivity_in_prior_14_days: 0.091
 Level: Yellow
 url: /states/PA/chester-county
 ---

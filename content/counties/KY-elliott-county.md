@@ -1,6 +1,6 @@
 ---
 title: "Elliott County, KY"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:21063.0,FEMA:4.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 21063.0
 FEMA_Region: 4.0
 Population: 7517.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 303.0
-Fourteen_day_test_rate_per_100000: 4031.0
-Percent_Positivity_in_prior_14_days: 0.274
+Tests_in_prior_14_days: 350.0
+Fourteen_day_test_rate_per_100000: 4656.0
+Percent_Positivity_in_prior_14_days: 0.203
 Level: Red
 url: /states/KY/elliott-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "North Slope Borough, AK"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:2185.0,FEMA:10.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 2185.0
 FEMA_Region: 10.0
 Population: 9832.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1050.0
-Fourteen_day_test_rate_per_100000: 10679.0
-Percent_Positivity_in_prior_14_days: 0.129
+Tests_in_prior_14_days: 1259.0
+Fourteen_day_test_rate_per_100000: 12805.0
+Percent_Positivity_in_prior_14_days: 0.156
 Level: Red
 url: /states/AK/north-slope-borough
 ---

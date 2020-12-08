@@ -1,6 +1,6 @@
 ---
 title: "Guadalupe County, TX"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:48187.0,FEMA:6.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48187.0
 FEMA_Region: 6.0
 Population: 166847.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 3285.0
-Fourteen_day_test_rate_per_100000: 1969.0
-Percent_Positivity_in_prior_14_days: 0.104
+Tests_in_prior_14_days: 3386.0
+Fourteen_day_test_rate_per_100000: 2029.0
+Percent_Positivity_in_prior_14_days: 0.123
 Level: Red
 url: /states/TX/guadalupe-county
 ---

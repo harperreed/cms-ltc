@@ -1,6 +1,6 @@
 ---
 title: "Lee County, AL"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:1081.0,FEMA:4.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 1081.0
 FEMA_Region: 4.0
 Population: 164542.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3099.0
-Fourteen_day_test_rate_per_100000: 1883.0
-Percent_Positivity_in_prior_14_days: 0.083
+Tests_in_prior_14_days: 2881.0
+Fourteen_day_test_rate_per_100000: 1751.0
+Percent_Positivity_in_prior_14_days: 0.09
 Level: Yellow
 url: /states/AL/lee-county
 ---

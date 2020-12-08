@@ -1,6 +1,6 @@
 ---
 title: "Mason County, IL"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:17125.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 17125.0
 FEMA_Region: 5.0
 Population: 13359.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1308.0
-Fourteen_day_test_rate_per_100000: 9791.0
-Percent_Positivity_in_prior_14_days: 0.177
+Tests_in_prior_14_days: 1158.0
+Fourteen_day_test_rate_per_100000: 8668.0
+Percent_Positivity_in_prior_14_days: 0.183
 Level: Red
 url: /states/IL/mason-county
 ---

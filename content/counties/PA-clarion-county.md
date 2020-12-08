@@ -1,6 +1,6 @@
 ---
 title: "Clarion County, PA"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:42031.0,FEMA:3.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 42031.0
 FEMA_Region: 3.0
 Population: 38438.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2227.0
-Fourteen_day_test_rate_per_100000: 5794.0
-Percent_Positivity_in_prior_14_days: 0.157
+Tests_in_prior_14_days: 2661.0
+Fourteen_day_test_rate_per_100000: 6923.0
+Percent_Positivity_in_prior_14_days: 0.146
 Level: Red
 url: /states/PA/clarion-county
 ---

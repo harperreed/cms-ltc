@@ -1,9 +1,9 @@
 ---
 title: "Cleveland County, NC"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
-tags: [FIPS:37045.0,FEMA:4.0,Micropolitan,Yellow]
+tags: [FIPS:37045.0,FEMA:4.0,Micropolitan,Red]
 categories: [NC]
 County: Cleveland County
 State: NC
@@ -11,10 +11,10 @@ FIPS: 37045.0
 FEMA_Region: 4.0
 Population: 97947.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 6152.0
-Fourteen_day_test_rate_per_100000: 6281.0
-Percent_Positivity_in_prior_14_days: 0.095
-Level: Yellow
+Tests_in_prior_14_days: 6359.0
+Fourteen_day_test_rate_per_100000: 6492.0
+Percent_Positivity_in_prior_14_days: 0.108
+Level: Red
 url: /states/NC/cleveland-county
 ---
 

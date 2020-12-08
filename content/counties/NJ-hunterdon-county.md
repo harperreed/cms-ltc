@@ -1,6 +1,6 @@
 ---
 title: "Hunterdon County, NJ"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:34019.0,FEMA:2.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 34019.0
 FEMA_Region: 2.0
 Population: 124371.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 7971.0
-Fourteen_day_test_rate_per_100000: 6409.0
-Percent_Positivity_in_prior_14_days: 0.065
+Tests_in_prior_14_days: 6270.0
+Fourteen_day_test_rate_per_100000: 5041.0
+Percent_Positivity_in_prior_14_days: 0.08
 Level: Yellow
 url: /states/NJ/hunterdon-county
 ---

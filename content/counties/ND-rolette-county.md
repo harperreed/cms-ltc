@@ -1,6 +1,6 @@
 ---
 title: "Rolette County, ND"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:38079.0,FEMA:8.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 38079.0
 FEMA_Region: 8.0
 Population: 14176.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1380.0
-Fourteen_day_test_rate_per_100000: 9735.0
-Percent_Positivity_in_prior_14_days: 0.15
+Tests_in_prior_14_days: 1203.0
+Fourteen_day_test_rate_per_100000: 8486.0
+Percent_Positivity_in_prior_14_days: 0.133
 Level: Red
 url: /states/ND/rolette-county
 ---

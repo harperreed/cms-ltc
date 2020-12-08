@@ -1,6 +1,6 @@
 ---
 title: "Cameron Parish, LA"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:22023.0,FEMA:6.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 22023.0
 FEMA_Region: 6.0
 Population: 6973.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 61.0
-Fourteen_day_test_rate_per_100000: 875.0
-Percent_Positivity_in_prior_14_days: 0.213
+Tests_in_prior_14_days: 56.0
+Fourteen_day_test_rate_per_100000: 803.0
+Percent_Positivity_in_prior_14_days: 0.232
 Level: Yellow
 url: /states/LA/cameron-parish
 ---

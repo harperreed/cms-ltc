@@ -1,6 +1,6 @@
 ---
 title: "Woodford County, KY"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:21239.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 21239.0
 FEMA_Region: 4.0
 Population: 26734.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 673.0
-Fourteen_day_test_rate_per_100000: 2517.0
-Percent_Positivity_in_prior_14_days: 0.122
+Tests_in_prior_14_days: 843.0
+Fourteen_day_test_rate_per_100000: 3153.0
+Percent_Positivity_in_prior_14_days: 0.151
 Level: Red
 url: /states/KY/woodford-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Adair County, MO"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
-tags: [FIPS:29001.0,FEMA:7.0,Micropolitan,Red]
+tags: [FIPS:29001.0,FEMA:7.0,Micropolitan,Yellow]
 categories: [MO]
 County: Adair County
 State: MO
@@ -11,10 +11,10 @@ FIPS: 29001.0
 FEMA_Region: 7.0
 Population: 25343.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 540.0
-Fourteen_day_test_rate_per_100000: 2131.0
-Percent_Positivity_in_prior_14_days: 0.143
-Level: Red
+Tests_in_prior_14_days: 430.0
+Fourteen_day_test_rate_per_100000: 1697.0
+Percent_Positivity_in_prior_14_days: 0.16
+Level: Yellow
 url: /states/MO/adair-county
 ---
 

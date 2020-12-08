@@ -1,6 +1,6 @@
 ---
 title: "Pulaski County, IN"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:18131.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 18131.0
 FEMA_Region: 5.0
 Population: 12353.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 426.0
-Fourteen_day_test_rate_per_100000: 3449.0
-Percent_Positivity_in_prior_14_days: 0.148
+Tests_in_prior_14_days: 468.0
+Fourteen_day_test_rate_per_100000: 3789.0
+Percent_Positivity_in_prior_14_days: 0.22
 Level: Red
 url: /states/IN/pulaski-county
 ---

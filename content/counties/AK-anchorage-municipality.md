@@ -1,9 +1,9 @@
 ---
 title: "Anchorage Municipality, AK"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
-tags: [FIPS:2020.0,FEMA:10.0,Medium metro,Red]
+tags: [FIPS:2020.0,FEMA:10.0,Medium metro,Yellow]
 categories: [AK]
 County: Anchorage Municipality
 State: AK
@@ -11,10 +11,10 @@ FIPS: 2020.0
 FEMA_Region: 10.0
 Population: 288000.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 65749.0
-Fourteen_day_test_rate_per_100000: 22830.0
-Percent_Positivity_in_prior_14_days: 0.106
-Level: Red
+Tests_in_prior_14_days: 60853.0
+Fourteen_day_test_rate_per_100000: 21130.0
+Percent_Positivity_in_prior_14_days: 0.081
+Level: Yellow
 url: /states/AK/anchorage-municipality
 ---
 

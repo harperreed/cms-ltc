@@ -1,6 +1,6 @@
 ---
 title: "Brazoria County, TX"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:48039.0,FEMA:6.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48039.0
 FEMA_Region: 6.0
 Population: 374264.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 13713.0
-Fourteen_day_test_rate_per_100000: 3664.0
-Percent_Positivity_in_prior_14_days: 0.093
+Tests_in_prior_14_days: 13751.0
+Fourteen_day_test_rate_per_100000: 3674.0
+Percent_Positivity_in_prior_14_days: 0.096
 Level: Yellow
 url: /states/TX/brazoria-county
 ---

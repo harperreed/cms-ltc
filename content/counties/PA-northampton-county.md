@@ -1,6 +1,6 @@
 ---
 title: "Northampton County, PA"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:42095.0,FEMA:3.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 42095.0
 FEMA_Region: 3.0
 Population: 305285.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 21455.0
-Fourteen_day_test_rate_per_100000: 7028.0
-Percent_Positivity_in_prior_14_days: 0.101
+Tests_in_prior_14_days: 21668.0
+Fourteen_day_test_rate_per_100000: 7098.0
+Percent_Positivity_in_prior_14_days: 0.115
 Level: Red
 url: /states/PA/northampton-county
 ---

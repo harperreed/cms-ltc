@@ -1,6 +1,6 @@
 ---
 title: "Karnes County, TX"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:48255.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48255.0
 FEMA_Region: 6.0
 Population: 15601.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 408.0
-Fourteen_day_test_rate_per_100000: 2615.0
-Percent_Positivity_in_prior_14_days: 0.1
+Tests_in_prior_14_days: 455.0
+Fourteen_day_test_rate_per_100000: 2916.0
+Percent_Positivity_in_prior_14_days: 0.097
 Level: Yellow
 url: /states/TX/karnes-county
 ---

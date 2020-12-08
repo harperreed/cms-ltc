@@ -1,6 +1,6 @@
 ---
 title: "Fillmore County, NE"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:31059.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 31059.0
 FEMA_Region: 7.0
 Population: 5462.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 311.0
-Fourteen_day_test_rate_per_100000: 5694.0
-Percent_Positivity_in_prior_14_days: 0.373
+Tests_in_prior_14_days: 222.0
+Fourteen_day_test_rate_per_100000: 4064.0
+Percent_Positivity_in_prior_14_days: 0.32
 Level: Red
 url: /states/NE/fillmore-county
 ---

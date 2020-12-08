@@ -1,9 +1,9 @@
 ---
 title: "McDowell County, WV"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
-tags: [FIPS:54047.0,FEMA:3.0,Non-core,Red]
+tags: [FIPS:54047.0,FEMA:3.0,Non-core,Yellow]
 categories: [WV]
 County: McDowell County
 State: WV
@@ -11,10 +11,10 @@ FIPS: 54047.0
 FEMA_Region: 3.0
 Population: 17624.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 3847.0
-Fourteen_day_test_rate_per_100000: 21828.0
-Percent_Positivity_in_prior_14_days: 0.119
-Level: Red
+Tests_in_prior_14_days: 3114.0
+Fourteen_day_test_rate_per_100000: 17669.0
+Percent_Positivity_in_prior_14_days: 0.053
+Level: Yellow
 url: /states/WV/mcdowell-county
 ---
 

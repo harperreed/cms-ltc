@@ -1,6 +1,6 @@
 ---
 title: "Dakota County, NE"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:31043.0,FEMA:7.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 31043.0
 FEMA_Region: 7.0
 Population: 20026.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1846.0
-Fourteen_day_test_rate_per_100000: 9218.0
-Percent_Positivity_in_prior_14_days: 0.166
+Tests_in_prior_14_days: 1246.0
+Fourteen_day_test_rate_per_100000: 6222.0
+Percent_Positivity_in_prior_14_days: 0.184
 Level: Red
 url: /states/NE/dakota-county
 ---

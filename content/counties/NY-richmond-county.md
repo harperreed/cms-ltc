@@ -1,6 +1,6 @@
 ---
 title: "Richmond County, NY"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:36085.0,FEMA:2.0,Large central metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 36085.0
 FEMA_Region: 2.0
 Population: 476143.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 66150.0
-Fourteen_day_test_rate_per_100000: 13893.0
-Percent_Positivity_in_prior_14_days: 0.052
+Tests_in_prior_14_days: 74560.0
+Fourteen_day_test_rate_per_100000: 15659.0
+Percent_Positivity_in_prior_14_days: 0.065
 Level: Yellow
 url: /states/NY/richmond-county
 ---

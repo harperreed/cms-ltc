@@ -1,6 +1,6 @@
 ---
 title: "Kendall County, TX"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:48259.0,FEMA:6.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48259.0
 FEMA_Region: 6.0
 Population: 47431.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1119.0
-Fourteen_day_test_rate_per_100000: 2359.0
-Percent_Positivity_in_prior_14_days: 0.097
+Tests_in_prior_14_days: 1268.0
+Fourteen_day_test_rate_per_100000: 2673.0
+Percent_Positivity_in_prior_14_days: 0.093
 Level: Yellow
 url: /states/TX/kendall-county
 ---

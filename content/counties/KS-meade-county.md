@@ -1,6 +1,6 @@
 ---
 title: "Meade County, KS"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:20119.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 20119.0
 FEMA_Region: 7.0
 Population: 4033.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 130.0
-Fourteen_day_test_rate_per_100000: 3223.0
-Percent_Positivity_in_prior_14_days: 0.238
+Tests_in_prior_14_days: 239.0
+Fourteen_day_test_rate_per_100000: 5926.0
+Percent_Positivity_in_prior_14_days: 0.192
 Level: Red
 url: /states/KS/meade-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "McCormick County, SC"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:45065.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 45065.0
 FEMA_Region: 4.0
 Population: 9463.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 228.0
-Fourteen_day_test_rate_per_100000: 2409.0
-Percent_Positivity_in_prior_14_days: 0.057
+Tests_in_prior_14_days: 258.0
+Fourteen_day_test_rate_per_100000: 2726.0
+Percent_Positivity_in_prior_14_days: 0.074
 Level: Yellow
 url: /states/SC/mccormick-county
 ---

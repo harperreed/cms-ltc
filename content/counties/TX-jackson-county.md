@@ -1,9 +1,9 @@
 ---
 title: "Jackson County, TX"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
-tags: [FIPS:48239.0,FEMA:6.0,Non-core,Yellow]
+tags: [FIPS:48239.0,FEMA:6.0,Non-core,Red]
 categories: [TX]
 County: Jackson County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48239.0
 FEMA_Region: 6.0
 Population: 14760.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 289.0
-Fourteen_day_test_rate_per_100000: 1958.0
-Percent_Positivity_in_prior_14_days: 0.246
-Level: Yellow
+Tests_in_prior_14_days: 302.0
+Fourteen_day_test_rate_per_100000: 2046.0
+Percent_Positivity_in_prior_14_days: 0.225
+Level: Red
 url: /states/TX/jackson-county
 ---
 

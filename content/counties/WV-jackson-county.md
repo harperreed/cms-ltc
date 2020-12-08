@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, WV"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:54035.0,FEMA:3.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 54035.0
 FEMA_Region: 3.0
 Population: 28576.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2587.0
-Fourteen_day_test_rate_per_100000: 9053.0
-Percent_Positivity_in_prior_14_days: 0.083
+Tests_in_prior_14_days: 2144.0
+Fourteen_day_test_rate_per_100000: 7503.0
+Percent_Positivity_in_prior_14_days: 0.059
 Level: Yellow
 url: /states/WV/jackson-county
 ---

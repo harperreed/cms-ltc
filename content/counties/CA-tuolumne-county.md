@@ -1,9 +1,9 @@
 ---
 title: "Tuolumne County, CA"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
-tags: [FIPS:6109.0,FEMA:9.0,Micropolitan,Yellow]
+tags: [FIPS:6109.0,FEMA:9.0,Micropolitan,Red]
 categories: [CA]
 County: Tuolumne County
 State: CA
@@ -11,10 +11,10 @@ FIPS: 6109.0
 FEMA_Region: 9.0
 Population: 54478.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4051.0
-Fourteen_day_test_rate_per_100000: 7436.0
-Percent_Positivity_in_prior_14_days: 0.099
-Level: Yellow
+Tests_in_prior_14_days: 4121.0
+Fourteen_day_test_rate_per_100000: 7565.0
+Percent_Positivity_in_prior_14_days: 0.102
+Level: Red
 url: /states/CA/tuolumne-county
 ---
 

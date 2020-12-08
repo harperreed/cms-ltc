@@ -1,6 +1,6 @@
 ---
 title: "Utah County, UT"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:49049.0,FEMA:8.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 49049.0
 FEMA_Region: 8.0
 Population: 636235.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 53064.0
-Fourteen_day_test_rate_per_100000: 8340.0
-Percent_Positivity_in_prior_14_days: 0.195
+Tests_in_prior_14_days: 44710.0
+Fourteen_day_test_rate_per_100000: 7027.0
+Percent_Positivity_in_prior_14_days: 0.199
 Level: Red
 url: /states/UT/utah-county
 ---

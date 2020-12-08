@@ -1,9 +1,9 @@
 ---
 title: "New Kent County, VA"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
-tags: [FIPS:51127.0,FEMA:3.0,Large fringe metro,Yellow]
+tags: [FIPS:51127.0,FEMA:3.0,Large fringe metro,Gray]
 categories: [VA]
 County: New Kent County
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51127.0
 FEMA_Region: 3.0
 Population: 23091.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 724.0
-Fourteen_day_test_rate_per_100000: 3135.0
-Percent_Positivity_in_prior_14_days: 0.075
-Level: Yellow
+Tests_in_prior_14_days: 420.0
+Fourteen_day_test_rate_per_100000: 1819.0
+Percent_Positivity_in_prior_14_days: 0.05
+Level: Gray
 url: /states/VA/new-kent-county
 ---
 

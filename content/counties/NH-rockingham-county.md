@@ -1,9 +1,9 @@
 ---
 title: "Rockingham County, NH"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
-tags: [FIPS:33015.0,FEMA:1.0,Large fringe metro,Yellow]
+tags: [FIPS:33015.0,FEMA:1.0,Large fringe metro,Red]
 categories: [NH]
 County: Rockingham County
 State: NH
@@ -11,10 +11,10 @@ FIPS: 33015.0
 FEMA_Region: 1.0
 Population: 309769.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 10249.0
-Fourteen_day_test_rate_per_100000: 3309.0
-Percent_Positivity_in_prior_14_days: 0.079
-Level: Yellow
+Tests_in_prior_14_days: 10482.0
+Fourteen_day_test_rate_per_100000: 3384.0
+Percent_Positivity_in_prior_14_days: 0.103
+Level: Red
 url: /states/NH/rockingham-county
 ---
 

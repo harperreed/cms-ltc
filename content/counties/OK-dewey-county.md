@@ -1,6 +1,6 @@
 ---
 title: "Dewey County, OK"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:40043.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 40043.0
 FEMA_Region: 6.0
 Population: 4891.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 78.0
-Fourteen_day_test_rate_per_100000: 1595.0
-Percent_Positivity_in_prior_14_days: 0.205
+Tests_in_prior_14_days: 65.0
+Fourteen_day_test_rate_per_100000: 1329.0
+Percent_Positivity_in_prior_14_days: 0.354
 Level: Yellow
 url: /states/OK/dewey-county
 ---

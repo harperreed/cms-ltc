@@ -1,6 +1,6 @@
 ---
 title: "Shawano County, WI"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:55115.0,FEMA:5.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 55115.0
 FEMA_Region: 5.0
 Population: 40899.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2384.0
-Fourteen_day_test_rate_per_100000: 5829.0
-Percent_Positivity_in_prior_14_days: 0.156
+Tests_in_prior_14_days: 2185.0
+Fourteen_day_test_rate_per_100000: 5342.0
+Percent_Positivity_in_prior_14_days: 0.129
 Level: Red
 url: /states/WI/shawano-county
 ---

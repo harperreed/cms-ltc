@@ -1,6 +1,6 @@
 ---
 title: "Barton County, MO"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:29011.0,FEMA:7.0,Non-core,Yellow]
@@ -13,7 +13,7 @@ Population: 11754.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 67.0
 Fourteen_day_test_rate_per_100000: 570.0
-Percent_Positivity_in_prior_14_days: 0.328
+Percent_Positivity_in_prior_14_days: 0.149
 Level: Yellow
 url: /states/MO/barton-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Jasper County, GA"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:13159.0,FEMA:4.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13159.0
 FEMA_Region: 4.0
 Population: 14219.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 164.0
-Fourteen_day_test_rate_per_100000: 1153.0
-Percent_Positivity_in_prior_14_days: 0.104
+Tests_in_prior_14_days: 166.0
+Fourteen_day_test_rate_per_100000: 1167.0
+Percent_Positivity_in_prior_14_days: 0.133
 Level: Yellow
 url: /states/GA/jasper-county
 ---

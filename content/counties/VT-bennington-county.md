@@ -1,6 +1,6 @@
 ---
 title: "Bennington County, VT"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:50003.0,FEMA:1.0,Micropolitan,Green]
@@ -11,8 +11,8 @@ FIPS: 50003.0
 FEMA_Region: 1.0
 Population: 35470.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4302.0
-Fourteen_day_test_rate_per_100000: 12129.0
+Tests_in_prior_14_days: 4071.0
+Fourteen_day_test_rate_per_100000: 11477.0
 Percent_Positivity_in_prior_14_days: 0.017
 Level: Green
 url: /states/VT/bennington-county

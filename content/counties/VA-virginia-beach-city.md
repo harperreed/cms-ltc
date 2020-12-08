@@ -1,9 +1,9 @@
 ---
 title: "Virginia Beach City, VA"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
-tags: [FIPS:51810.0,FEMA:3.0,Large central metro,Yellow]
+tags: [FIPS:51810.0,FEMA:3.0,Large central metro,Gray]
 categories: [VA]
 County: Virginia Beach City
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51810.0
 FEMA_Region: 3.0
 Population: 449974.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 14743.0
-Fourteen_day_test_rate_per_100000: 3276.0
-Percent_Positivity_in_prior_14_days: 0.072
-Level: Yellow
+Tests_in_prior_14_days: 8980.0
+Fourteen_day_test_rate_per_100000: 1996.0
+Percent_Positivity_in_prior_14_days: 0.042
+Level: Gray
 url: /states/VA/virginia-beach-city
 ---
 

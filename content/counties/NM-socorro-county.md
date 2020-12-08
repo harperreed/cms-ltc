@@ -1,9 +1,9 @@
 ---
 title: "Socorro County, NM"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
-tags: [FIPS:35053.0,FEMA:6.0,Non-core,Red]
+tags: [FIPS:35053.0,FEMA:6.0,Non-core,Yellow]
 categories: [NM]
 County: Socorro County
 State: NM
@@ -11,10 +11,10 @@ FIPS: 35053.0
 FEMA_Region: 6.0
 Population: 16637.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1181.0
-Fourteen_day_test_rate_per_100000: 7099.0
-Percent_Positivity_in_prior_14_days: 0.103
-Level: Red
+Tests_in_prior_14_days: 1653.0
+Fourteen_day_test_rate_per_100000: 9936.0
+Percent_Positivity_in_prior_14_days: 0.1
+Level: Yellow
 url: /states/NM/socorro-county
 ---
 

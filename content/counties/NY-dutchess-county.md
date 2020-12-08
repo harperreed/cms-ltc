@@ -1,9 +1,9 @@
 ---
 title: "Dutchess County, NY"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
-tags: [FIPS:36027.0,FEMA:2.0,Large fringe metro,Green]
+tags: [FIPS:36027.0,FEMA:2.0,Large fringe metro,Yellow]
 categories: [NY]
 County: Dutchess County
 State: NY
@@ -11,10 +11,10 @@ FIPS: 36027.0
 FEMA_Region: 2.0
 Population: 294218.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 29556.0
-Fourteen_day_test_rate_per_100000: 10046.0
-Percent_Positivity_in_prior_14_days: 0.041
-Level: Green
+Tests_in_prior_14_days: 31270.0
+Fourteen_day_test_rate_per_100000: 10628.0
+Percent_Positivity_in_prior_14_days: 0.051
+Level: Yellow
 url: /states/NY/dutchess-county
 ---
 

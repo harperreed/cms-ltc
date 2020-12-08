@@ -1,6 +1,6 @@
 ---
 title: "Victoria County, TX"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:48469.0,FEMA:6.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48469.0
 FEMA_Region: 6.0
 Population: 92084.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1841.0
-Fourteen_day_test_rate_per_100000: 1999.0
-Percent_Positivity_in_prior_14_days: 0.186
+Tests_in_prior_14_days: 1906.0
+Fourteen_day_test_rate_per_100000: 2070.0
+Percent_Positivity_in_prior_14_days: 0.199
 Level: Red
 url: /states/TX/victoria-county
 ---

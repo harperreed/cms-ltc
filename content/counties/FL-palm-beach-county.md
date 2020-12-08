@@ -1,6 +1,6 @@
 ---
 title: "Palm Beach County, FL"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:12099.0,FEMA:4.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 12099.0
 FEMA_Region: 4.0
 Population: 1496770.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 82753.0
-Fourteen_day_test_rate_per_100000: 5529.0
-Percent_Positivity_in_prior_14_days: 0.084
+Tests_in_prior_14_days: 80750.0
+Fourteen_day_test_rate_per_100000: 5395.0
+Percent_Positivity_in_prior_14_days: 0.09
 Level: Yellow
 url: /states/FL/palm-beach-county
 ---

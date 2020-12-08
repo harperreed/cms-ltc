@@ -1,9 +1,9 @@
 ---
 title: "Howard County, AR"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
-tags: [FIPS:5061.0,FEMA:6.0,Non-core,Yellow]
+tags: [FIPS:5061.0,FEMA:6.0,Non-core,Green]
 categories: [AR]
 County: Howard County
 State: AR
@@ -11,10 +11,10 @@ FIPS: 5061.0
 FEMA_Region: 6.0
 Population: 13202.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 309.0
-Fourteen_day_test_rate_per_100000: 2341.0
-Percent_Positivity_in_prior_14_days: 0.078
-Level: Yellow
+Tests_in_prior_14_days: 245.0
+Fourteen_day_test_rate_per_100000: 1856.0
+Percent_Positivity_in_prior_14_days: 0.045
+Level: Green
 url: /states/AR/howard-county
 ---
 

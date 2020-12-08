@@ -1,6 +1,6 @@
 ---
 title: "Moore County, NC"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:37125.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 37125.0
 FEMA_Region: 4.0
 Population: 100880.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3756.0
-Fourteen_day_test_rate_per_100000: 3723.0
-Percent_Positivity_in_prior_14_days: 0.081
+Tests_in_prior_14_days: 3972.0
+Fourteen_day_test_rate_per_100000: 3937.0
+Percent_Positivity_in_prior_14_days: 0.098
 Level: Yellow
 url: /states/NC/moore-county
 ---

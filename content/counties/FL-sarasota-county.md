@@ -1,6 +1,6 @@
 ---
 title: "Sarasota County, FL"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:12115.0,FEMA:4.0,Medium metro,Yellow]
@@ -11,8 +11,8 @@ FIPS: 12115.0
 FEMA_Region: 4.0
 Population: 433742.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 21893.0
-Fourteen_day_test_rate_per_100000: 5047.0
+Tests_in_prior_14_days: 20351.0
+Fourteen_day_test_rate_per_100000: 4692.0
 Percent_Positivity_in_prior_14_days: 0.065
 Level: Yellow
 url: /states/FL/sarasota-county

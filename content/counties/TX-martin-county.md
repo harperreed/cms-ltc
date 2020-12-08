@@ -1,6 +1,6 @@
 ---
 title: "Martin County, TX"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:48317.0,FEMA:6.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48317.0
 FEMA_Region: 6.0
 Population: 5771.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 138.0
-Fourteen_day_test_rate_per_100000: 2391.0
-Percent_Positivity_in_prior_14_days: 0.254
+Tests_in_prior_14_days: 122.0
+Fourteen_day_test_rate_per_100000: 2114.0
+Percent_Positivity_in_prior_14_days: 0.279
 Level: Red
 url: /states/TX/martin-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Calumet County, WI"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:55015.0,FEMA:5.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 55015.0
 FEMA_Region: 5.0
 Population: 50089.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2858.0
-Fourteen_day_test_rate_per_100000: 5706.0
-Percent_Positivity_in_prior_14_days: 0.167
+Tests_in_prior_14_days: 2157.0
+Fourteen_day_test_rate_per_100000: 4306.0
+Percent_Positivity_in_prior_14_days: 0.131
 Level: Red
 url: /states/WI/calumet-county
 ---

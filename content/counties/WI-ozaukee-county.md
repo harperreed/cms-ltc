@@ -1,6 +1,6 @@
 ---
 title: "Ozaukee County, WI"
-date: 2020-12-07
+date: 2020-12-08
 draft: false
 type: county
 tags: [FIPS:55089.0,FEMA:5.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 55089.0
 FEMA_Region: 5.0
 Population: 89221.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 8024.0
-Fourteen_day_test_rate_per_100000: 8993.0
-Percent_Positivity_in_prior_14_days: 0.141
+Tests_in_prior_14_days: 6485.0
+Fourteen_day_test_rate_per_100000: 7268.0
+Percent_Positivity_in_prior_14_days: 0.126
 Level: Red
 url: /states/WI/ozaukee-county
 ---
