@@ -1,6 +1,6 @@
 ---
 title: "Lewis County, NY"
-date: 2020-12-08
+date: 2020-12-09
 draft: false
 type: county
 tags: [FIPS:36049.0,FEMA:2.0,Non-core,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Carter County, OK"
-date: 2020-12-08
+date: 2020-12-09
 draft: false
 type: county
 tags: [FIPS:40019.0,FEMA:6.0,Micropolitan,Red]

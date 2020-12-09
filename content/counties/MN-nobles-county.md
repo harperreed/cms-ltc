@@ -1,6 +1,6 @@
 ---
 title: "Nobles County, MN"
-date: 2020-12-08
+date: 2020-12-09
 draft: false
 type: county
 tags: [FIPS:27105.0,FEMA:5.0,Micropolitan,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Burleigh County, ND"
-date: 2020-12-08
+date: 2020-12-09
 draft: false
 type: county
 tags: [FIPS:38015.0,FEMA:8.0,Small metro,Yellow]

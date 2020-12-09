@@ -1,6 +1,6 @@
 ---
 title: "Loup County, NE"
-date: 2020-12-08
+date: 2020-12-09
 draft: false
 type: county
 tags: [FIPS:31115.0,FEMA:7.0,Non-core,Green]

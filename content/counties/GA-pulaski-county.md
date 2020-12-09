@@ -1,6 +1,6 @@
 ---
 title: "Pulaski County, GA"
-date: 2020-12-08
+date: 2020-12-09
 draft: false
 type: county
 tags: [FIPS:13235.0,FEMA:4.0,Small metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Bates County, MO"
-date: 2020-12-08
+date: 2020-12-09
 draft: false
 type: county
 tags: [FIPS:29013.0,FEMA:7.0,Large fringe metro,Red]

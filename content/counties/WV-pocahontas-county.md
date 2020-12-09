@@ -1,6 +1,6 @@
 ---
 title: "Pocahontas County, WV"
-date: 2020-12-08
+date: 2020-12-09
 draft: false
 type: county
 tags: [FIPS:54075.0,FEMA:3.0,Non-core,Red]
