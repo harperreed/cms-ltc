@@ -1,6 +1,6 @@
 ---
 title: "Cass County, TX"
-date: 2020-12-09
+date: 2020-12-10
 draft: false
 type: county
 tags: [FIPS:48067.0,FEMA:6.0,Non-core,Red]

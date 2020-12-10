@@ -1,6 +1,6 @@
 ---
 title: "Osage County, KS"
-date: 2020-12-09
+date: 2020-12-10
 draft: false
 type: county
 tags: [FIPS:20139.0,FEMA:7.0,Small metro,Red]

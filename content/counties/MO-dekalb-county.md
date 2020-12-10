@@ -1,6 +1,6 @@
 ---
 title: "DeKalb County, MO"
-date: 2020-12-09
+date: 2020-12-10
 draft: false
 type: county
 tags: [FIPS:29063.0,FEMA:7.0,Small metro,Yellow]

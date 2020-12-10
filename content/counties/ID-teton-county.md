@@ -1,6 +1,6 @@
 ---
 title: "Teton County, ID"
-date: 2020-12-09
+date: 2020-12-10
 draft: false
 type: county
 tags: [FIPS:16081.0,FEMA:10.0,Micropolitan,Red]

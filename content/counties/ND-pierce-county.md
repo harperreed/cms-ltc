@@ -1,6 +1,6 @@
 ---
 title: "Pierce County, ND"
-date: 2020-12-09
+date: 2020-12-10
 draft: false
 type: county
 tags: [FIPS:38069.0,FEMA:8.0,Non-core,Red]

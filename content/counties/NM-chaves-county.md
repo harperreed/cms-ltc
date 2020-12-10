@@ -1,6 +1,6 @@
 ---
 title: "Chaves County, NM"
-date: 2020-12-09
+date: 2020-12-10
 draft: false
 type: county
 tags: [FIPS:35005.0,FEMA:6.0,Micropolitan,Red]

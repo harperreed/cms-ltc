@@ -1,6 +1,6 @@
 ---
 title: "Graves County, KY"
-date: 2020-12-09
+date: 2020-12-10
 draft: false
 type: county
 tags: [FIPS:21083.0,FEMA:4.0,Micropolitan,Red]

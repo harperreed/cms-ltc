@@ -1,6 +1,6 @@
 ---
 title: "Atoka County, OK"
-date: 2020-12-09
+date: 2020-12-10
 draft: false
 type: county
 tags: [FIPS:40005.0,FEMA:6.0,Non-core,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Crawford County, IL"
-date: 2020-12-09
+date: 2020-12-10
 draft: false
 type: county
 tags: [FIPS:17033.0,FEMA:5.0,Non-core,Yellow]

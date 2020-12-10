@@ -1,6 +1,6 @@
 ---
 title: "Wilson County, TN"
-date: 2020-12-09
+date: 2020-12-10
 draft: false
 type: county
 tags: [FIPS:47189.0,FEMA:4.0,Large fringe metro,Gray]

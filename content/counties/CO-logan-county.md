@@ -1,6 +1,6 @@
 ---
 title: "Logan County, CO"
-date: 2020-12-09
+date: 2020-12-10
 draft: false
 type: county
 tags: [FIPS:8075.0,FEMA:8.0,Micropolitan,Red]

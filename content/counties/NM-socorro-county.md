@@ -1,6 +1,6 @@
 ---
 title: "Socorro County, NM"
-date: 2020-12-09
+date: 2020-12-10
 draft: false
 type: county
 tags: [FIPS:35053.0,FEMA:6.0,Non-core,Yellow]
