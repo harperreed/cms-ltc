@@ -1,6 +1,6 @@
 ---
 title: "San Juan County, CO"
-date: 2020-12-10
+date: 2020-12-11
 draft: false
 type: county
 tags: [FIPS:8111.0,FEMA:8.0,Non-core,Green]

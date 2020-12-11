@@ -1,6 +1,6 @@
 ---
 title: "Starke County, IN"
-date: 2020-12-10
+date: 2020-12-11
 draft: false
 type: county
 tags: [FIPS:18149.0,FEMA:5.0,Non-core,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Long County, GA"
-date: 2020-12-10
+date: 2020-12-11
 draft: false
 type: county
 tags: [FIPS:13183.0,FEMA:4.0,Small metro,Yellow]

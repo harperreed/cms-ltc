@@ -1,6 +1,6 @@
 ---
 title: "Lubbock County, TX"
-date: 2020-12-10
+date: 2020-12-11
 draft: false
 type: county
 tags: [FIPS:48303.0,FEMA:6.0,Medium metro,Red]
