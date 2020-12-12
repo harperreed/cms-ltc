@@ -1,6 +1,6 @@
 ---
 title: "Adams County, PA"
-date: 2020-12-11
+date: 2020-12-12
 draft: false
 type: county
 tags: [FIPS:42001.0,FEMA:3.0,Small metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Iberia Parish, LA"
-date: 2020-12-11
+date: 2020-12-12
 draft: false
 type: county
 tags: [FIPS:22045.0,FEMA:6.0,Medium metro,Red]

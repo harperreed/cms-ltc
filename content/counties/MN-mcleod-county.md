@@ -1,6 +1,6 @@
 ---
 title: "McLeod County, MN"
-date: 2020-12-11
+date: 2020-12-12
 draft: false
 type: county
 tags: [FIPS:27085.0,FEMA:5.0,Micropolitan,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Henry County, IN"
-date: 2020-12-11
+date: 2020-12-12
 draft: false
 type: county
 tags: [FIPS:18065.0,FEMA:5.0,Micropolitan,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Otero County, NM"
-date: 2020-12-11
+date: 2020-12-12
 draft: false
 type: county
 tags: [FIPS:35035.0,FEMA:6.0,Micropolitan,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Addison County, VT"
-date: 2020-12-11
+date: 2020-12-12
 draft: false
 type: county
 tags: [FIPS:50001.0,FEMA:1.0,Non-core,Green]

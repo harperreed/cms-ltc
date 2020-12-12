@@ -1,6 +1,6 @@
 ---
 title: "Teller County, CO"
-date: 2020-12-11
+date: 2020-12-12
 draft: false
 type: county
 tags: [FIPS:8119.0,FEMA:8.0,Medium metro,Red]

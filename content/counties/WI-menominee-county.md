@@ -1,6 +1,6 @@
 ---
 title: "Menominee County, WI"
-date: 2020-12-11
+date: 2020-12-12
 draft: false
 type: county
 tags: [FIPS:55078.0,FEMA:5.0,Micropolitan,Yellow]

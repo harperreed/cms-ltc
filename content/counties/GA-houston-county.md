@@ -1,6 +1,6 @@
 ---
 title: "Houston County, GA"
-date: 2020-12-11
+date: 2020-12-12
 draft: false
 type: county
 tags: [FIPS:13153.0,FEMA:4.0,Small metro,Red]

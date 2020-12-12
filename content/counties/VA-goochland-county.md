@@ -1,6 +1,6 @@
 ---
 title: "Goochland County, VA"
-date: 2020-12-11
+date: 2020-12-12
 draft: false
 type: county
 tags: [FIPS:51075.0,FEMA:3.0,Large fringe metro,Gray]

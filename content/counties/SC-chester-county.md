@@ -1,6 +1,6 @@
 ---
 title: "Chester County, SC"
-date: 2020-12-11
+date: 2020-12-12
 draft: false
 type: county
 tags: [FIPS:45023.0,FEMA:4.0,Large fringe metro,Red]

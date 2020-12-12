@@ -1,6 +1,6 @@
 ---
 title: "Benton County, TN"
-date: 2020-12-11
+date: 2020-12-12
 draft: false
 type: county
 tags: [FIPS:47005.0,FEMA:4.0,Non-core,Gray]
