@@ -1,6 +1,6 @@
 ---
 title: "Marshall County, KS"
-date: 2020-12-12
+date: 2020-12-13
 draft: false
 type: county
 tags: [FIPS:20117.0,FEMA:7.0,Non-core,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Yellowstone County, MT"
-date: 2020-12-12
+date: 2020-12-13
 draft: false
 type: county
 tags: [FIPS:30111.0,FEMA:8.0,Small metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Lauderdale County, MS"
-date: 2020-12-12
+date: 2020-12-13
 draft: false
 type: county
 tags: [FIPS:28075.0,FEMA:4.0,Micropolitan,Red]

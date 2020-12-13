@@ -1,6 +1,6 @@
 ---
 title: "Dolores County, CO"
-date: 2020-12-12
+date: 2020-12-13
 draft: false
 type: county
 tags: [FIPS:8033.0,FEMA:8.0,Non-core,Red]

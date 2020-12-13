@@ -1,6 +1,6 @@
 ---
 title: "Anchorage Municipality, AK"
-date: 2020-12-12
+date: 2020-12-13
 draft: false
 type: county
 tags: [FIPS:2020.0,FEMA:10.0,Medium metro,Yellow]

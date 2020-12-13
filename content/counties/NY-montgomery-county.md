@@ -1,6 +1,6 @@
 ---
 title: "Montgomery County, NY"
-date: 2020-12-12
+date: 2020-12-13
 draft: false
 type: county
 tags: [FIPS:36057.0,FEMA:2.0,Micropolitan,Green]

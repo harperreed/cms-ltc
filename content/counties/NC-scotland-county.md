@@ -1,6 +1,6 @@
 ---
 title: "Scotland County, NC"
-date: 2020-12-12
+date: 2020-12-13
 draft: false
 type: county
 tags: [FIPS:37165.0,FEMA:4.0,Micropolitan,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Benton County, WA"
-date: 2020-12-12
+date: 2020-12-13
 draft: false
 type: county
 tags: [FIPS:53005.0,FEMA:10.0,Medium metro,Red]

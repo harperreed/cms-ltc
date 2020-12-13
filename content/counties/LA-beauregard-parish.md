@@ -1,6 +1,6 @@
 ---
 title: "Beauregard Parish, LA"
-date: 2020-12-12
+date: 2020-12-13
 draft: false
 type: county
 tags: [FIPS:22011.0,FEMA:6.0,Micropolitan,Red]

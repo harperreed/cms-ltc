@@ -1,6 +1,6 @@
 ---
 title: "Claiborne County, TN"
-date: 2020-12-12
+date: 2020-12-13
 draft: false
 type: county
 tags: [FIPS:47025.0,FEMA:4.0,Non-core,Gray]

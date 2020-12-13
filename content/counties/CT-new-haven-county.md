@@ -1,6 +1,6 @@
 ---
 title: "New Haven County, CT"
-date: 2020-12-12
+date: 2020-12-13
 draft: false
 type: county
 tags: [FIPS:9009.0,FEMA:1.0,Medium metro,Red]

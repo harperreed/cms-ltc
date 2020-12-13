@@ -1,6 +1,6 @@
 ---
 title: "Wetzel County, WV"
-date: 2020-12-12
+date: 2020-12-13
 draft: false
 type: county
 tags: [FIPS:54103.0,FEMA:3.0,Non-core,Yellow]

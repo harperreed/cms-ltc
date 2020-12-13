@@ -1,6 +1,6 @@
 ---
 title: "Dundy County, NE"
-date: 2020-12-12
+date: 2020-12-13
 draft: false
 type: county
 tags: [FIPS:31057.0,FEMA:7.0,Non-core,Red]

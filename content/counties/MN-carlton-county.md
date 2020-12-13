@@ -1,6 +1,6 @@
 ---
 title: "Carlton County, MN"
-date: 2020-12-12
+date: 2020-12-13
 draft: false
 type: county
 tags: [FIPS:27017.0,FEMA:5.0,Medium metro,Yellow]

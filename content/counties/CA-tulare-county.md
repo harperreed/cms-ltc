@@ -1,6 +1,6 @@
 ---
 title: "Tulare County, CA"
-date: 2020-12-12
+date: 2020-12-13
 draft: false
 type: county
 tags: [FIPS:6107.0,FEMA:9.0,Medium metro,Red]
