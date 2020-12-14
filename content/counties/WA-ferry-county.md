@@ -1,6 +1,6 @@
 ---
 title: "Ferry County, WA"
-date: 2020-12-13
+date: 2020-12-14
 draft: false
 type: county
 tags: [FIPS:53019.0,FEMA:10.0,Non-core,Red]

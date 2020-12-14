@@ -1,6 +1,6 @@
 ---
 title: "Rowan County, KY"
-date: 2020-12-13
+date: 2020-12-14
 draft: false
 type: county
 tags: [FIPS:21205.0,FEMA:4.0,Non-core,Red]

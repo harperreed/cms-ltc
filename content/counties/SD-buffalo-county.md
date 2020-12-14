@@ -1,6 +1,6 @@
 ---
 title: "Buffalo County, SD"
-date: 2020-12-13
+date: 2020-12-14
 draft: false
 type: county
 tags: [FIPS:46017.0,FEMA:8.0,Non-core,Green]

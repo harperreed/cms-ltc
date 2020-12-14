@@ -1,6 +1,6 @@
 ---
 title: "Neshoba County, MS"
-date: 2020-12-13
+date: 2020-12-14
 draft: false
 type: county
 tags: [FIPS:28099.0,FEMA:4.0,Non-core,Yellow]

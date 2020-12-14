@@ -1,6 +1,6 @@
 ---
 title: "Kingfisher County, OK"
-date: 2020-12-13
+date: 2020-12-14
 draft: false
 type: county
 tags: [FIPS:40073.0,FEMA:6.0,Non-core,Red]

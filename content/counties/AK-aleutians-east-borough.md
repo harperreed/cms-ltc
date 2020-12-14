@@ -1,6 +1,6 @@
 ---
 title: "Aleutians East Borough, AK"
-date: 2020-12-13
+date: 2020-12-14
 draft: false
 type: county
 tags: [FIPS:2013.0,FEMA:10.0,Non-core,Red]

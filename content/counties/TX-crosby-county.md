@@ -1,6 +1,6 @@
 ---
 title: "Crosby County, TX"
-date: 2020-12-13
+date: 2020-12-14
 draft: false
 type: county
 tags: [FIPS:48107.0,FEMA:6.0,Medium metro,Red]

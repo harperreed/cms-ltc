@@ -1,6 +1,6 @@
 ---
 title: "Wadena County, MN"
-date: 2020-12-13
+date: 2020-12-14
 draft: false
 type: county
 tags: [FIPS:27159.0,FEMA:5.0,Non-core,Red]
