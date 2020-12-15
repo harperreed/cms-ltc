@@ -1,6 +1,6 @@
 ---
 title: "Garvin County, OK"
-date: 2020-12-14
+date: 2020-12-15
 draft: false
 type: county
 tags: [FIPS:40049.0,FEMA:6.0,Non-core,Yellow]

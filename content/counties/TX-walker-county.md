@@ -1,6 +1,6 @@
 ---
 title: "Walker County, TX"
-date: 2020-12-14
+date: 2020-12-15
 draft: false
 type: county
 tags: [FIPS:48471.0,FEMA:6.0,Micropolitan,Yellow]

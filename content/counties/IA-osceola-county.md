@@ -1,6 +1,6 @@
 ---
 title: "Osceola County, IA"
-date: 2020-12-14
+date: 2020-12-15
 draft: false
 type: county
 tags: [FIPS:19143.0,FEMA:7.0,Non-core,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Yell County, AR"
-date: 2020-12-14
+date: 2020-12-15
 draft: false
 type: county
 tags: [FIPS:5149.0,FEMA:6.0,Micropolitan,Red]

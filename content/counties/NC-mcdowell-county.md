@@ -1,6 +1,6 @@
 ---
 title: "McDowell County, NC"
-date: 2020-12-14
+date: 2020-12-15
 draft: false
 type: county
 tags: [FIPS:37111.0,FEMA:4.0,Micropolitan,Yellow]

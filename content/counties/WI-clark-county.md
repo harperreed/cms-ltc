@@ -1,6 +1,6 @@
 ---
 title: "Clark County, WI"
-date: 2020-12-14
+date: 2020-12-15
 draft: false
 type: county
 tags: [FIPS:55019.0,FEMA:5.0,Non-core,Red]

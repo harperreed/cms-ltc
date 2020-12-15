@@ -1,6 +1,6 @@
 ---
 title: "Smith County, MS"
-date: 2020-12-14
+date: 2020-12-15
 draft: false
 type: county
 tags: [FIPS:28129.0,FEMA:4.0,Non-core,Yellow]

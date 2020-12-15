@@ -1,6 +1,6 @@
 ---
 title: "Potter County, SD"
-date: 2020-12-14
+date: 2020-12-15
 draft: false
 type: county
 tags: [FIPS:46107.0,FEMA:8.0,Non-core,Yellow]

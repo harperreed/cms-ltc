@@ -1,6 +1,6 @@
 ---
 title: "Bartow County, GA"
-date: 2020-12-14
+date: 2020-12-15
 draft: false
 type: county
 tags: [FIPS:13015.0,FEMA:4.0,Large fringe metro,Red]

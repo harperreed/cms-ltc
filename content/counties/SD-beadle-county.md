@@ -1,6 +1,6 @@
 ---
 title: "Beadle County, SD"
-date: 2020-12-14
+date: 2020-12-15
 draft: false
 type: county
 tags: [FIPS:46005.0,FEMA:8.0,Micropolitan,Yellow]

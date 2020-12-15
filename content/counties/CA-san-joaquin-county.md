@@ -1,6 +1,6 @@
 ---
 title: "San Joaquin County, CA"
-date: 2020-12-14
+date: 2020-12-15
 draft: false
 type: county
 tags: [FIPS:6077.0,FEMA:9.0,Medium metro,Yellow]
