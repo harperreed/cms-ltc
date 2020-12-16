@@ -1,6 +1,6 @@
 ---
 title: "Prairie County, MT"
-date: 2020-12-15
+date: 2020-12-16
 draft: false
 type: county
 tags: [FIPS:30079.0,FEMA:8.0,Non-core,Red]

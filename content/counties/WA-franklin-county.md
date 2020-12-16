@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, WA"
-date: 2020-12-15
+date: 2020-12-16
 draft: false
 type: county
 tags: [FIPS:53021.0,FEMA:10.0,Medium metro,Yellow]

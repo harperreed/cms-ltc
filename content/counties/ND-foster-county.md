@@ -1,6 +1,6 @@
 ---
 title: "Foster County, ND"
-date: 2020-12-15
+date: 2020-12-16
 draft: false
 type: county
 tags: [FIPS:38031.0,FEMA:8.0,Non-core,Red]

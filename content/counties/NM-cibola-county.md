@@ -1,6 +1,6 @@
 ---
 title: "Cibola County, NM"
-date: 2020-12-15
+date: 2020-12-16
 draft: false
 type: county
 tags: [FIPS:35006.0,FEMA:6.0,Micropolitan,Red]

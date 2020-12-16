@@ -1,6 +1,6 @@
 ---
 title: "Lincoln County, MS"
-date: 2020-12-15
+date: 2020-12-16
 draft: false
 type: county
 tags: [FIPS:28085.0,FEMA:4.0,Micropolitan,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Crook County, OR"
-date: 2020-12-15
+date: 2020-12-16
 draft: false
 type: county
 tags: [FIPS:41013.0,FEMA:10.0,Micropolitan,Red]

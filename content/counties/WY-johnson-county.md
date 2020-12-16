@@ -1,6 +1,6 @@
 ---
 title: "Johnson County, WY"
-date: 2020-12-15
+date: 2020-12-16
 draft: false
 type: county
 tags: [FIPS:56019.0,FEMA:8.0,Non-core,Red]

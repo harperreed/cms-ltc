@@ -1,6 +1,6 @@
 ---
 title: "Benzie County, MI"
-date: 2020-12-15
+date: 2020-12-16
 draft: false
 type: county
 tags: [FIPS:26019.0,FEMA:5.0,Micropolitan,Red]

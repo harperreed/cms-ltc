@@ -1,6 +1,6 @@
 ---
 title: "Doddridge County, WV"
-date: 2020-12-15
+date: 2020-12-16
 draft: false
 type: county
 tags: [FIPS:54017.0,FEMA:3.0,Micropolitan,Red]

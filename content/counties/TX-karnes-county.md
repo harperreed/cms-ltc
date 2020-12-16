@@ -1,6 +1,6 @@
 ---
 title: "Karnes County, TX"
-date: 2020-12-15
+date: 2020-12-16
 draft: false
 type: county
 tags: [FIPS:48255.0,FEMA:6.0,Non-core,Yellow]

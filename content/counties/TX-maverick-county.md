@@ -1,6 +1,6 @@
 ---
 title: "Maverick County, TX"
-date: 2020-12-15
+date: 2020-12-16
 draft: false
 type: county
 tags: [FIPS:48323.0,FEMA:6.0,Micropolitan,Red]

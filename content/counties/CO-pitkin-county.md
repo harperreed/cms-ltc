@@ -1,6 +1,6 @@
 ---
 title: "Pitkin County, CO"
-date: 2020-12-15
+date: 2020-12-16
 draft: false
 type: county
 tags: [FIPS:8097.0,FEMA:8.0,Micropolitan,Yellow]

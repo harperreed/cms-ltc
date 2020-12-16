@@ -1,6 +1,6 @@
 ---
 title: "Boone County, WV"
-date: 2020-12-15
+date: 2020-12-16
 draft: false
 type: county
 tags: [FIPS:54005.0,FEMA:3.0,Small metro,Red]

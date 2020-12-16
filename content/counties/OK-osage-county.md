@@ -1,6 +1,6 @@
 ---
 title: "Osage County, OK"
-date: 2020-12-15
+date: 2020-12-16
 draft: false
 type: county
 tags: [FIPS:40113.0,FEMA:6.0,Medium metro,Red]
