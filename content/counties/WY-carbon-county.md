@@ -1,6 +1,6 @@
 ---
 title: "Carbon County, WY"
-date: 2020-12-16
+date: 2020-12-17
 draft: false
 type: county
 tags: [FIPS:56007.0,FEMA:8.0,Non-core,Red]

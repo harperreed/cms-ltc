@@ -1,6 +1,6 @@
 ---
 title: "Knott County, KY"
-date: 2020-12-16
+date: 2020-12-17
 draft: false
 type: county
 tags: [FIPS:21119.0,FEMA:4.0,Non-core,Yellow]

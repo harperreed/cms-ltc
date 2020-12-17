@@ -1,6 +1,6 @@
 ---
 title: "Davie County, NC"
-date: 2020-12-16
+date: 2020-12-17
 draft: false
 type: county
 tags: [FIPS:37059.0,FEMA:4.0,Medium metro,Yellow]

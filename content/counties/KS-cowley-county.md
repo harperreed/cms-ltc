@@ -1,6 +1,6 @@
 ---
 title: "Cowley County, KS"
-date: 2020-12-16
+date: 2020-12-17
 draft: false
 type: county
 tags: [FIPS:20035.0,FEMA:7.0,Micropolitan,Red]

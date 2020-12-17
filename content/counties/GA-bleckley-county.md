@@ -1,6 +1,6 @@
 ---
 title: "Bleckley County, GA"
-date: 2020-12-16
+date: 2020-12-17
 draft: false
 type: county
 tags: [FIPS:13023.0,FEMA:4.0,Non-core,Yellow]

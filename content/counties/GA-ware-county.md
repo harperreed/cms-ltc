@@ -1,6 +1,6 @@
 ---
 title: "Ware County, GA"
-date: 2020-12-16
+date: 2020-12-17
 draft: false
 type: county
 tags: [FIPS:13299.0,FEMA:4.0,Micropolitan,Green]

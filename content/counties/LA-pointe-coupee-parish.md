@@ -1,6 +1,6 @@
 ---
 title: "Pointe Coupee Parish, LA"
-date: 2020-12-16
+date: 2020-12-17
 draft: false
 type: county
 tags: [FIPS:22077.0,FEMA:6.0,Medium metro,Red]

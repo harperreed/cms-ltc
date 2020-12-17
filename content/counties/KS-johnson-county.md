@@ -1,6 +1,6 @@
 ---
 title: "Johnson County, KS"
-date: 2020-12-16
+date: 2020-12-17
 draft: false
 type: county
 tags: [FIPS:20091.0,FEMA:7.0,Large fringe metro,Red]

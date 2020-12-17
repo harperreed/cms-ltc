@@ -1,6 +1,6 @@
 ---
 title: "Washoe County, NV"
-date: 2020-12-16
+date: 2020-12-17
 draft: false
 type: county
 tags: [FIPS:32031.0,FEMA:9.0,Medium metro,Red]

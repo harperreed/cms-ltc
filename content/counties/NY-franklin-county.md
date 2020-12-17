@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, NY"
-date: 2020-12-16
+date: 2020-12-17
 draft: false
 type: county
 tags: [FIPS:36033.0,FEMA:2.0,Micropolitan,Green]

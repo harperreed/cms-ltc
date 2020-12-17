@@ -1,6 +1,6 @@
 ---
 title: "Rapides Parish, LA"
-date: 2020-12-16
+date: 2020-12-17
 draft: false
 type: county
 tags: [FIPS:22079.0,FEMA:6.0,Small metro,Yellow]
