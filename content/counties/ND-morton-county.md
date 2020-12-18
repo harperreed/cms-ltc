@@ -1,6 +1,6 @@
 ---
 title: "Morton County, ND"
-date: 2020-12-17
+date: 2020-12-18
 draft: false
 type: county
 tags: [FIPS:38059.0,FEMA:8.0,Small metro,Yellow]

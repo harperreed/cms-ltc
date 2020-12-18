@@ -1,6 +1,6 @@
 ---
 title: "Howard County, IN"
-date: 2020-12-17
+date: 2020-12-18
 draft: false
 type: county
 tags: [FIPS:18067.0,FEMA:5.0,Small metro,Red]

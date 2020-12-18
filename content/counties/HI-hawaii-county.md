@@ -1,6 +1,6 @@
 ---
 title: "Hawaii County, HI"
-date: 2020-12-17
+date: 2020-12-18
 draft: false
 type: county
 tags: [FIPS:15001.0,FEMA:9.0,Micropolitan,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Mills County, IA"
-date: 2020-12-17
+date: 2020-12-18
 draft: false
 type: county
 tags: [FIPS:19129.0,FEMA:7.0,Medium metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Wood County, WI"
-date: 2020-12-17
+date: 2020-12-18
 draft: false
 type: county
 tags: [FIPS:55141.0,FEMA:5.0,Micropolitan,Red]

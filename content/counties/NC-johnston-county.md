@@ -1,6 +1,6 @@
 ---
 title: "Johnston County, NC"
-date: 2020-12-17
+date: 2020-12-18
 draft: false
 type: county
 tags: [FIPS:37101.0,FEMA:4.0,Large fringe metro,Yellow]

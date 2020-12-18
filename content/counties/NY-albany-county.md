@@ -1,6 +1,6 @@
 ---
 title: "Albany County, NY"
-date: 2020-12-17
+date: 2020-12-18
 draft: false
 type: county
 tags: [FIPS:36001.0,FEMA:2.0,Medium metro,Yellow]

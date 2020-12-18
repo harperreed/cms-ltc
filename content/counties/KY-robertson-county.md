@@ -1,6 +1,6 @@
 ---
 title: "Robertson County, KY"
-date: 2020-12-17
+date: 2020-12-18
 draft: false
 type: county
 tags: [FIPS:21201.0,FEMA:4.0,Non-core,Red]

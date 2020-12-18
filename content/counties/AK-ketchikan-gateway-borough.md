@@ -1,6 +1,6 @@
 ---
 title: "Ketchikan Gateway Borough, AK"
-date: 2020-12-17
+date: 2020-12-18
 draft: false
 type: county
 tags: [FIPS:2130.0,FEMA:10.0,Micropolitan,Green]

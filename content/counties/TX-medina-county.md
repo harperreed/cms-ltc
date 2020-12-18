@@ -1,6 +1,6 @@
 ---
 title: "Medina County, TX"
-date: 2020-12-17
+date: 2020-12-18
 draft: false
 type: county
 tags: [FIPS:48325.0,FEMA:6.0,Large fringe metro,Red]
