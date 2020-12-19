@@ -1,6 +1,6 @@
 ---
 title: "Anoka County, MN"
-date: 2020-12-18
+date: 2020-12-19
 draft: false
 type: county
 tags: [FIPS:27003.0,FEMA:5.0,Large fringe metro,Red]

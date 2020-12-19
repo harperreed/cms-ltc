@@ -1,6 +1,6 @@
 ---
 title: "Habersham County, GA"
-date: 2020-12-18
+date: 2020-12-19
 draft: false
 type: county
 tags: [FIPS:13137.0,FEMA:4.0,Micropolitan,Red]

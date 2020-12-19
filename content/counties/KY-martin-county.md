@@ -1,6 +1,6 @@
 ---
 title: "Martin County, KY"
-date: 2020-12-18
+date: 2020-12-19
 draft: false
 type: county
 tags: [FIPS:21159.0,FEMA:4.0,Non-core,Red]

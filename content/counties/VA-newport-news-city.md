@@ -1,6 +1,6 @@
 ---
 title: "Newport News City, VA"
-date: 2020-12-18
+date: 2020-12-19
 draft: false
 type: county
 tags: [FIPS:51700.0,FEMA:3.0,Large fringe metro,Gray]

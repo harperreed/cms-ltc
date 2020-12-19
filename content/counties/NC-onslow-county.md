@@ -1,6 +1,6 @@
 ---
 title: "Onslow County, NC"
-date: 2020-12-18
+date: 2020-12-19
 draft: false
 type: county
 tags: [FIPS:37133.0,FEMA:4.0,Small metro,Red]

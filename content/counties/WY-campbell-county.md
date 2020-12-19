@@ -1,6 +1,6 @@
 ---
 title: "Campbell County, WY"
-date: 2020-12-18
+date: 2020-12-19
 draft: false
 type: county
 tags: [FIPS:56005.0,FEMA:8.0,Micropolitan,Red]

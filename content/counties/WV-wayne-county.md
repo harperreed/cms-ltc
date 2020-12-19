@@ -1,6 +1,6 @@
 ---
 title: "Wayne County, WV"
-date: 2020-12-18
+date: 2020-12-19
 draft: false
 type: county
 tags: [FIPS:54099.0,FEMA:3.0,Medium metro,Yellow]

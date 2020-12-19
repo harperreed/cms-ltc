@@ -1,6 +1,6 @@
 ---
 title: "Hooker County, NE"
-date: 2020-12-18
+date: 2020-12-19
 draft: false
 type: county
 tags: [FIPS:31091.0,FEMA:7.0,Non-core,Green]

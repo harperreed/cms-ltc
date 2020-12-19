@@ -1,6 +1,6 @@
 ---
 title: "Washington County, MO"
-date: 2020-12-18
+date: 2020-12-19
 draft: false
 type: county
 tags: [FIPS:29221.0,FEMA:7.0,Non-core,Red]

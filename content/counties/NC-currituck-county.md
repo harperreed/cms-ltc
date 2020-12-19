@@ -1,6 +1,6 @@
 ---
 title: "Currituck County, NC"
-date: 2020-12-18
+date: 2020-12-19
 draft: false
 type: county
 tags: [FIPS:37053.0,FEMA:4.0,Large fringe metro,Red]

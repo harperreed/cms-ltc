@@ -1,6 +1,6 @@
 ---
 title: "Kaufman County, TX"
-date: 2020-12-18
+date: 2020-12-19
 draft: false
 type: county
 tags: [FIPS:48257.0,FEMA:6.0,Large fringe metro,Red]
