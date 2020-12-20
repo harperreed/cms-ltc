@@ -1,6 +1,6 @@
 ---
 title: "Alleghany County, NC"
-date: 2020-12-19
+date: 2020-12-20
 draft: false
 type: county
 tags: [FIPS:37005.0,FEMA:4.0,Non-core,Yellow]

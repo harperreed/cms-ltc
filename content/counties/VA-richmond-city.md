@@ -1,6 +1,6 @@
 ---
 title: "Richmond City, VA"
-date: 2020-12-19
+date: 2020-12-20
 draft: false
 type: county
 tags: [FIPS:51760.0,FEMA:3.0,Large central metro,Gray]

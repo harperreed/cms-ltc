@@ -1,6 +1,6 @@
 ---
 title: "Andrew County, MO"
-date: 2020-12-19
+date: 2020-12-20
 draft: false
 type: county
 tags: [FIPS:29003.0,FEMA:7.0,Small metro,Yellow]

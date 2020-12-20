@@ -1,6 +1,6 @@
 ---
 title: "Columbia County, OR"
-date: 2020-12-19
+date: 2020-12-20
 draft: false
 type: county
 tags: [FIPS:41009.0,FEMA:10.0,Large fringe metro,Red]

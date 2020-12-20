@@ -1,6 +1,6 @@
 ---
 title: "Putnam County, WV"
-date: 2020-12-19
+date: 2020-12-20
 draft: false
 type: county
 tags: [FIPS:54079.0,FEMA:3.0,Medium metro,Yellow]

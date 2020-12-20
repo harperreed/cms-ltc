@@ -1,6 +1,6 @@
 ---
 title: "Powell County, MT"
-date: 2020-12-19
+date: 2020-12-20
 draft: false
 type: county
 tags: [FIPS:30077.0,FEMA:8.0,Non-core,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Dallas County, IA"
-date: 2020-12-19
+date: 2020-12-20
 draft: false
 type: county
 tags: [FIPS:19049.0,FEMA:7.0,Medium metro,Red]
