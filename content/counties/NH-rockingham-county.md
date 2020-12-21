@@ -1,6 +1,6 @@
 ---
 title: "Rockingham County, NH"
-date: 2020-12-20
+date: 2020-12-21
 draft: false
 type: county
 tags: [FIPS:33015.0,FEMA:1.0,Large fringe metro,Red]

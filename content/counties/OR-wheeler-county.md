@@ -1,6 +1,6 @@
 ---
 title: "Wheeler County, OR"
-date: 2020-12-20
+date: 2020-12-21
 draft: false
 type: county
 tags: [FIPS:41069.0,FEMA:10.0,Non-core,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "San Juan County, WA"
-date: 2020-12-20
+date: 2020-12-21
 draft: false
 type: county
 tags: [FIPS:53055.0,FEMA:10.0,Non-core,Green]

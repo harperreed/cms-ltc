@@ -1,6 +1,6 @@
 ---
 title: "Henry County, GA"
-date: 2020-12-20
+date: 2020-12-21
 draft: false
 type: county
 tags: [FIPS:13151.0,FEMA:4.0,Large fringe metro,Red]

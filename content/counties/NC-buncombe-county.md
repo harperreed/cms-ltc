@@ -1,6 +1,6 @@
 ---
 title: "Buncombe County, NC"
-date: 2020-12-20
+date: 2020-12-21
 draft: false
 type: county
 tags: [FIPS:37021.0,FEMA:4.0,Medium metro,Yellow]

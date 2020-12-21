@@ -1,6 +1,6 @@
 ---
 title: "Union County, NM"
-date: 2020-12-20
+date: 2020-12-21
 draft: false
 type: county
 tags: [FIPS:35059.0,FEMA:6.0,Non-core,Red]

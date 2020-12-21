@@ -1,6 +1,6 @@
 ---
 title: "Clay County, AL"
-date: 2020-12-20
+date: 2020-12-21
 draft: false
 type: county
 tags: [FIPS:1027.0,FEMA:4.0,Non-core,Yellow]

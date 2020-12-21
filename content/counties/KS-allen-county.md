@@ -1,6 +1,6 @@
 ---
 title: "Allen County, KS"
-date: 2020-12-20
+date: 2020-12-21
 draft: false
 type: county
 tags: [FIPS:20001.0,FEMA:7.0,Non-core,Red]

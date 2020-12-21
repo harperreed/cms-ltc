@@ -1,6 +1,6 @@
 ---
 title: "Hettinger County, ND"
-date: 2020-12-20
+date: 2020-12-21
 draft: false
 type: county
 tags: [FIPS:38041.0,FEMA:8.0,Non-core,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Humboldt County, IA"
-date: 2020-12-20
+date: 2020-12-21
 draft: false
 type: county
 tags: [FIPS:19091.0,FEMA:7.0,Non-core,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Pickens County, GA"
-date: 2020-12-20
+date: 2020-12-21
 draft: false
 type: county
 tags: [FIPS:13227.0,FEMA:4.0,Large fringe metro,Red]

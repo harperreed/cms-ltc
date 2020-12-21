@@ -1,6 +1,6 @@
 ---
 title: "Powell County, KY"
-date: 2020-12-20
+date: 2020-12-21
 draft: false
 type: county
 tags: [FIPS:21197.0,FEMA:4.0,Non-core,Red]

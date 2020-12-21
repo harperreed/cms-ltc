@@ -1,6 +1,6 @@
 ---
 title: "Traverse County, MN"
-date: 2020-12-20
+date: 2020-12-21
 draft: false
 type: county
 tags: [FIPS:27155.0,FEMA:5.0,Non-core,Yellow]

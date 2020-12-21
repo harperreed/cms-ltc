@@ -1,6 +1,6 @@
 ---
 title: "Kershaw County, SC"
-date: 2020-12-20
+date: 2020-12-21
 draft: false
 type: county
 tags: [FIPS:45055.0,FEMA:4.0,Medium metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Butte County, SD"
-date: 2020-12-20
+date: 2020-12-21
 draft: false
 type: county
 tags: [FIPS:46019.0,FEMA:8.0,Non-core,Red]
