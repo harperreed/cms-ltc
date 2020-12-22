@@ -1,6 +1,6 @@
 ---
 title: "Pennington County, MN"
-date: 2020-12-21
+date: 2020-12-22
 draft: false
 type: county
 tags: [FIPS:27113.0,FEMA:5.0,Non-core,Red]

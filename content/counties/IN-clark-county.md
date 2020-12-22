@@ -1,6 +1,6 @@
 ---
 title: "Clark County, IN"
-date: 2020-12-21
+date: 2020-12-22
 draft: false
 type: county
 tags: [FIPS:18019.0,FEMA:5.0,Large fringe metro,Red]

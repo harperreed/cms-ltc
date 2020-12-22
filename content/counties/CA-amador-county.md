@@ -1,6 +1,6 @@
 ---
 title: "Amador County, CA"
-date: 2020-12-21
+date: 2020-12-22
 draft: false
 type: county
 tags: [FIPS:6005.0,FEMA:9.0,Non-core,Gray]

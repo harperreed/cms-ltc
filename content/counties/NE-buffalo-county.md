@@ -1,6 +1,6 @@
 ---
 title: "Buffalo County, NE"
-date: 2020-12-21
+date: 2020-12-22
 draft: false
 type: county
 tags: [FIPS:31019.0,FEMA:7.0,Micropolitan,Red]

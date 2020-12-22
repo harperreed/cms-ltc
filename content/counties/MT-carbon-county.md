@@ -1,6 +1,6 @@
 ---
 title: "Carbon County, MT"
-date: 2020-12-21
+date: 2020-12-22
 draft: false
 type: county
 tags: [FIPS:30009.0,FEMA:8.0,Small metro,Red]
