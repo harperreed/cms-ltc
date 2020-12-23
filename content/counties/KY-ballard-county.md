@@ -1,6 +1,6 @@
 ---
 title: "Ballard County, KY"
-date: 2020-12-22
+date: 2020-12-23
 draft: false
 type: county
 tags: [FIPS:21007.0,FEMA:4.0,Micropolitan,Yellow]

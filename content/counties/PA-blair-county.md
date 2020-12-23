@@ -1,6 +1,6 @@
 ---
 title: "Blair County, PA"
-date: 2020-12-22
+date: 2020-12-23
 draft: false
 type: county
 tags: [FIPS:42013.0,FEMA:3.0,Small metro,Red]

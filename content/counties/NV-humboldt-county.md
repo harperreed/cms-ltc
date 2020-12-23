@@ -1,6 +1,6 @@
 ---
 title: "Humboldt County, NV"
-date: 2020-12-22
+date: 2020-12-23
 draft: false
 type: county
 tags: [FIPS:32013.0,FEMA:9.0,Micropolitan,Red]

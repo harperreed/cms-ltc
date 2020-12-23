@@ -1,6 +1,6 @@
 ---
 title: "Kingsbury County, SD"
-date: 2020-12-22
+date: 2020-12-23
 draft: false
 type: county
 tags: [FIPS:46077.0,FEMA:8.0,Non-core,Red]

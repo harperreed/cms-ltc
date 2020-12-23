@@ -1,6 +1,6 @@
 ---
 title: "Boulder County, CO"
-date: 2020-12-22
+date: 2020-12-23
 draft: false
 type: county
 tags: [FIPS:8013.0,FEMA:8.0,Medium metro,Yellow]
