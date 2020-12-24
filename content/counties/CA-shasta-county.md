@@ -1,6 +1,6 @@
 ---
 title: "Shasta County, CA"
-date: 2020-12-23
+date: 2020-12-24
 draft: false
 type: county
 tags: [FIPS:6089.0,FEMA:9.0,Small metro,Yellow]

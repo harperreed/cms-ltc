@@ -1,6 +1,6 @@
 ---
 title: "Kidder County, ND"
-date: 2020-12-23
+date: 2020-12-24
 draft: false
 type: county
 tags: [FIPS:38043.0,FEMA:8.0,Non-core,Red]

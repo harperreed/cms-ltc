@@ -1,6 +1,6 @@
 ---
 title: "Marion County, GA"
-date: 2020-12-23
+date: 2020-12-24
 draft: false
 type: county
 tags: [FIPS:13197.0,FEMA:4.0,Medium metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "McLean County, KY"
-date: 2020-12-23
+date: 2020-12-24
 draft: false
 type: county
 tags: [FIPS:21149.0,FEMA:4.0,Small metro,Yellow]

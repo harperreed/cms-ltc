@@ -1,6 +1,6 @@
 ---
 title: "Lafayette County, MS"
-date: 2020-12-23
+date: 2020-12-24
 draft: false
 type: county
 tags: [FIPS:28071.0,FEMA:4.0,Micropolitan,Red]

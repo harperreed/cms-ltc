@@ -1,6 +1,6 @@
 ---
 title: "Cass County, MO"
-date: 2020-12-23
+date: 2020-12-24
 draft: false
 type: county
 tags: [FIPS:29037.0,FEMA:7.0,Large fringe metro,Red]

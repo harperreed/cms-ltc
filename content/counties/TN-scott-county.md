@@ -1,6 +1,6 @@
 ---
 title: "Scott County, TN"
-date: 2020-12-23
+date: 2020-12-24
 draft: false
 type: county
 tags: [FIPS:47151.0,FEMA:4.0,Non-core,Gray]

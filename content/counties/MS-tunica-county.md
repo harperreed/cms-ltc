@@ -1,6 +1,6 @@
 ---
 title: "Tunica County, MS"
-date: 2020-12-23
+date: 2020-12-24
 draft: false
 type: county
 tags: [FIPS:28143.0,FEMA:4.0,Large fringe metro,Red]

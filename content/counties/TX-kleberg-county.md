@@ -1,6 +1,6 @@
 ---
 title: "Kleberg County, TX"
-date: 2020-12-23
+date: 2020-12-24
 draft: false
 type: county
 tags: [FIPS:48273.0,FEMA:6.0,Micropolitan,Yellow]
