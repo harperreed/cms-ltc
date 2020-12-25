@@ -1,6 +1,6 @@
 ---
 title: "Mason County, WA"
-date: 2020-12-24
+date: 2020-12-25
 draft: false
 type: county
 tags: [FIPS:53045.0,FEMA:10.0,Micropolitan,Red]

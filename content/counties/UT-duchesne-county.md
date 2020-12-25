@@ -1,6 +1,6 @@
 ---
 title: "Duchesne County, UT"
-date: 2020-12-24
+date: 2020-12-25
 draft: false
 type: county
 tags: [FIPS:49013.0,FEMA:8.0,Non-core,Red]

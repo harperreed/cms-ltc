@@ -1,6 +1,6 @@
 ---
 title: "Scotts Bluff County, NE"
-date: 2020-12-24
+date: 2020-12-25
 draft: false
 type: county
 tags: [FIPS:31157.0,FEMA:7.0,Micropolitan,Red]

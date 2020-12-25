@@ -1,6 +1,6 @@
 ---
 title: "Hoke County, NC"
-date: 2020-12-24
+date: 2020-12-25
 draft: false
 type: county
 tags: [FIPS:37093.0,FEMA:4.0,Medium metro,Red]

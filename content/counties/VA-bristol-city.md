@@ -1,6 +1,6 @@
 ---
 title: "Bristol City, VA"
-date: 2020-12-24
+date: 2020-12-25
 draft: false
 type: county
 tags: [FIPS:51520.0,FEMA:3.0,Medium metro,Gray]

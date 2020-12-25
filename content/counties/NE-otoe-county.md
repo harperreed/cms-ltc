@@ -1,6 +1,6 @@
 ---
 title: "Otoe County, NE"
-date: 2020-12-24
+date: 2020-12-25
 draft: false
 type: county
 tags: [FIPS:31131.0,FEMA:7.0,Non-core,Red]

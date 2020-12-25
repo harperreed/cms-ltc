@@ -1,6 +1,6 @@
 ---
 title: "Kent County, RI"
-date: 2020-12-24
+date: 2020-12-25
 draft: false
 type: county
 tags: [FIPS:44003.0,FEMA:1.0,Large fringe metro,Yellow]

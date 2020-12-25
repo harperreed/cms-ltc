@@ -1,6 +1,6 @@
 ---
 title: "Gregory County, SD"
-date: 2020-12-24
+date: 2020-12-25
 draft: false
 type: county
 tags: [FIPS:46053.0,FEMA:8.0,Non-core,Red]

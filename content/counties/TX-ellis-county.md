@@ -1,6 +1,6 @@
 ---
 title: "Ellis County, TX"
-date: 2020-12-24
+date: 2020-12-25
 draft: false
 type: county
 tags: [FIPS:48139.0,FEMA:6.0,Large fringe metro,Red]

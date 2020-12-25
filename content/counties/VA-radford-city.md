@@ -1,6 +1,6 @@
 ---
 title: "Radford City, VA"
-date: 2020-12-24
+date: 2020-12-25
 draft: false
 type: county
 tags: [FIPS:51750.0,FEMA:3.0,Small metro,Gray]

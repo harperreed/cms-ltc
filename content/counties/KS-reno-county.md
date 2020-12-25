@@ -1,6 +1,6 @@
 ---
 title: "Reno County, KS"
-date: 2020-12-24
+date: 2020-12-25
 draft: false
 type: county
 tags: [FIPS:20155.0,FEMA:7.0,Micropolitan,Red]

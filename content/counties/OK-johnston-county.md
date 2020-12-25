@@ -1,6 +1,6 @@
 ---
 title: "Johnston County, OK"
-date: 2020-12-24
+date: 2020-12-25
 draft: false
 type: county
 tags: [FIPS:40069.0,FEMA:6.0,Non-core,Red]

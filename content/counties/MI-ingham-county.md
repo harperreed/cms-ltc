@@ -1,6 +1,6 @@
 ---
 title: "Ingham County, MI"
-date: 2020-12-24
+date: 2020-12-25
 draft: false
 type: county
 tags: [FIPS:26065.0,FEMA:5.0,Medium metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Ray County, MO"
-date: 2020-12-24
+date: 2020-12-25
 draft: false
 type: county
 tags: [FIPS:29177.0,FEMA:7.0,Large fringe metro,Red]

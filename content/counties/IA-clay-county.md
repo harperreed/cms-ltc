@@ -1,6 +1,6 @@
 ---
 title: "Clay County, IA"
-date: 2020-12-24
+date: 2020-12-25
 draft: false
 type: county
 tags: [FIPS:19041.0,FEMA:7.0,Micropolitan,Red]

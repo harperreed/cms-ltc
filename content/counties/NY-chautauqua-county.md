@@ -1,6 +1,6 @@
 ---
 title: "Chautauqua County, NY"
-date: 2020-12-24
+date: 2020-12-25
 draft: false
 type: county
 tags: [FIPS:36013.0,FEMA:2.0,Micropolitan,Yellow]

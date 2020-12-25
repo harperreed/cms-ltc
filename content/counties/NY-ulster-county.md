@@ -1,6 +1,6 @@
 ---
 title: "Ulster County, NY"
-date: 2020-12-24
+date: 2020-12-25
 draft: false
 type: county
 tags: [FIPS:36111.0,FEMA:2.0,Small metro,Green]
