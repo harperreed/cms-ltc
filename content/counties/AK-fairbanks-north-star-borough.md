@@ -1,6 +1,6 @@
 ---
 title: "Fairbanks North Star Borough, AK"
-date: 2020-12-25
+date: 2020-12-26
 draft: false
 type: county
 tags: [FIPS:2090.0,FEMA:10.0,Small metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Pulaski County, IN"
-date: 2020-12-25
+date: 2020-12-26
 draft: false
 type: county
 tags: [FIPS:18131.0,FEMA:5.0,Non-core,Red]

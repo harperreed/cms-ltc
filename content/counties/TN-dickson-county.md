@@ -1,6 +1,6 @@
 ---
 title: "Dickson County, TN"
-date: 2020-12-25
+date: 2020-12-26
 draft: false
 type: county
 tags: [FIPS:47043.0,FEMA:4.0,Large fringe metro,Gray]

@@ -1,6 +1,6 @@
 ---
 title: "Wallace County, KS"
-date: 2020-12-25
+date: 2020-12-26
 draft: false
 type: county
 tags: [FIPS:20199.0,FEMA:7.0,Non-core,Yellow]
