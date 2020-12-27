@@ -1,6 +1,6 @@
 ---
 title: "Orange County, NY"
-date: 2020-12-26
+date: 2020-12-27
 draft: false
 type: county
 tags: [FIPS:36071.0,FEMA:2.0,Large fringe metro,Yellow]

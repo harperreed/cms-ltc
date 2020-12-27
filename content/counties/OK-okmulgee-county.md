@@ -1,6 +1,6 @@
 ---
 title: "Okmulgee County, OK"
-date: 2020-12-26
+date: 2020-12-27
 draft: false
 type: county
 tags: [FIPS:40111.0,FEMA:6.0,Medium metro,Yellow]

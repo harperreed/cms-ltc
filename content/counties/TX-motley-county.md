@@ -1,6 +1,6 @@
 ---
 title: "Motley County, TX"
-date: 2020-12-26
+date: 2020-12-27
 draft: false
 type: county
 tags: [FIPS:48345.0,FEMA:6.0,Non-core,Red]

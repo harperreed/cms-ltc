@@ -1,6 +1,6 @@
 ---
 title: "Sheridan County, NE"
-date: 2020-12-26
+date: 2020-12-27
 draft: false
 type: county
 tags: [FIPS:31161.0,FEMA:7.0,Non-core,Red]

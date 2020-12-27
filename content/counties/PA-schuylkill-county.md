@@ -1,6 +1,6 @@
 ---
 title: "Schuylkill County, PA"
-date: 2020-12-26
+date: 2020-12-27
 draft: false
 type: county
 tags: [FIPS:42107.0,FEMA:3.0,Micropolitan,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Isanti County, MN"
-date: 2020-12-26
+date: 2020-12-27
 draft: false
 type: county
 tags: [FIPS:27059.0,FEMA:5.0,Large fringe metro,Red]

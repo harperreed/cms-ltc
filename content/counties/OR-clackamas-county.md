@@ -1,6 +1,6 @@
 ---
 title: "Clackamas County, OR"
-date: 2020-12-26
+date: 2020-12-27
 draft: false
 type: county
 tags: [FIPS:41005.0,FEMA:10.0,Large fringe metro,Red]

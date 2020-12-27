@@ -1,6 +1,6 @@
 ---
 title: "Garfield County, WA"
-date: 2020-12-26
+date: 2020-12-27
 draft: false
 type: county
 tags: [FIPS:53023.0,FEMA:10.0,Non-core,Green]

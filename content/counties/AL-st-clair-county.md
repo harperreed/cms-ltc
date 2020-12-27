@@ -1,6 +1,6 @@
 ---
 title: "St. Clair County, AL"
-date: 2020-12-26
+date: 2020-12-27
 draft: false
 type: county
 tags: [FIPS:1115.0,FEMA:4.0,Large fringe metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Boone County, MO"
-date: 2020-12-26
+date: 2020-12-27
 draft: false
 type: county
 tags: [FIPS:29019.0,FEMA:7.0,Small metro,Red]

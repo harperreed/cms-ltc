@@ -1,6 +1,6 @@
 ---
 title: "Columbia County, FL"
-date: 2020-12-26
+date: 2020-12-27
 draft: false
 type: county
 tags: [FIPS:12023.0,FEMA:4.0,Micropolitan,Yellow]

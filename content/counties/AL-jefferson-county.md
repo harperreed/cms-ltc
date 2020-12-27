@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, AL"
-date: 2020-12-26
+date: 2020-12-27
 draft: false
 type: county
 tags: [FIPS:1073.0,FEMA:4.0,Large central metro,Red]

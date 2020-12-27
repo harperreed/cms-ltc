@@ -1,6 +1,6 @@
 ---
 title: "McLennan County, TX"
-date: 2020-12-26
+date: 2020-12-27
 draft: false
 type: county
 tags: [FIPS:48309.0,FEMA:6.0,Medium metro,Red]

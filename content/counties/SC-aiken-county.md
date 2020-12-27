@@ -1,6 +1,6 @@
 ---
 title: "Aiken County, SC"
-date: 2020-12-26
+date: 2020-12-27
 draft: false
 type: county
 tags: [FIPS:45003.0,FEMA:4.0,Medium metro,Red]
