@@ -1,6 +1,6 @@
 ---
 title: "Delaware County, OK"
-date: 2020-12-27
+date: 2020-12-28
 draft: false
 type: county
 tags: [FIPS:40041.0,FEMA:6.0,Non-core,Red]

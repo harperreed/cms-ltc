@@ -1,6 +1,6 @@
 ---
 title: "Benton County, MO"
-date: 2020-12-27
+date: 2020-12-28
 draft: false
 type: county
 tags: [FIPS:29015.0,FEMA:7.0,Non-core,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Carbon County, PA"
-date: 2020-12-27
+date: 2020-12-28
 draft: false
 type: county
 tags: [FIPS:42025.0,FEMA:3.0,Medium metro,Red]

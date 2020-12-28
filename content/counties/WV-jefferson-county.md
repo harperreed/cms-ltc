@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, WV"
-date: 2020-12-27
+date: 2020-12-28
 draft: false
 type: county
 tags: [FIPS:54037.0,FEMA:3.0,Large fringe metro,Yellow]

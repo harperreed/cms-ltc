@@ -1,6 +1,6 @@
 ---
 title: "Leslie County, KY"
-date: 2020-12-27
+date: 2020-12-28
 draft: false
 type: county
 tags: [FIPS:21131.0,FEMA:4.0,Non-core,Red]

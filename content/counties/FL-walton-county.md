@@ -1,6 +1,6 @@
 ---
 title: "Walton County, FL"
-date: 2020-12-27
+date: 2020-12-28
 draft: false
 type: county
 tags: [FIPS:12131.0,FEMA:4.0,Small metro,Red]
