@@ -2,3 +2,4 @@ openpyxl
 excel2json-3
 requests
 python-slugify
+xlrd==1.2.0
