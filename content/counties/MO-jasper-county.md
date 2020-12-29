@@ -11,9 +11,9 @@ FIPS: 29097.0
 FEMA_Region: 7.0
 Population: 121328.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3999.0
-Fourteen_day_test_rate_per_100000: 3296.0
-Percent_Positivity_in_prior_14_days: 0.188
+Tests_in_prior_14_days: 3639.0
+Fourteen_day_test_rate_per_100000: 2999.0
+Percent_Positivity_in_prior_14_days: 0.138
 Level: Red
 url: /states/MO/jasper-county
 ---

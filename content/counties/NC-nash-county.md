@@ -11,9 +11,9 @@ FIPS: 37127.0
 FEMA_Region: 4.0
 Population: 94298.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 4881.0
-Fourteen_day_test_rate_per_100000: 5176.0
-Percent_Positivity_in_prior_14_days: 0.108
+Tests_in_prior_14_days: 6222.0
+Fourteen_day_test_rate_per_100000: 6598.0
+Percent_Positivity_in_prior_14_days: 0.141
 Level: Red
 url: /states/NC/nash-county
 ---

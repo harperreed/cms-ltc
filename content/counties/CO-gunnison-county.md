@@ -11,9 +11,9 @@ FIPS: 8051.0
 FEMA_Region: 8.0
 Population: 17462.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 863.0
-Fourteen_day_test_rate_per_100000: 4942.0
-Percent_Positivity_in_prior_14_days: 0.08
+Tests_in_prior_14_days: 2367.0
+Fourteen_day_test_rate_per_100000: 13555.0
+Percent_Positivity_in_prior_14_days: 0.053
 Level: Yellow
 url: /states/CO/gunnison-county
 ---

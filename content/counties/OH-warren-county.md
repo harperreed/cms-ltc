@@ -11,9 +11,9 @@ FIPS: 39165.0
 FEMA_Region: 5.0
 Population: 234602.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 2331.0
-Fourteen_day_test_rate_per_100000: 994.0
-Percent_Positivity_in_prior_14_days: 0.193
+Tests_in_prior_14_days: 1963.0
+Fourteen_day_test_rate_per_100000: 837.0
+Percent_Positivity_in_prior_14_days: 0.21
 Level: Red
 url: /states/OH/warren-county
 ---

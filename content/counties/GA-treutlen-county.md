@@ -11,9 +11,9 @@ FIPS: 13283.0
 FEMA_Region: 4.0
 Population: 6901.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 55.0
-Fourteen_day_test_rate_per_100000: 797.0
-Percent_Positivity_in_prior_14_days: 0.109
+Tests_in_prior_14_days: 70.0
+Fourteen_day_test_rate_per_100000: 1014.0
+Percent_Positivity_in_prior_14_days: 0.229
 Level: Yellow
 url: /states/GA/treutlen-county
 ---

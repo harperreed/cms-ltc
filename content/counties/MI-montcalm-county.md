@@ -11,9 +11,9 @@ FIPS: 26117.0
 FEMA_Region: 5.0
 Population: 63888.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 9433.0
-Fourteen_day_test_rate_per_100000: 14765.0
-Percent_Positivity_in_prior_14_days: 0.106
+Tests_in_prior_14_days: 5634.0
+Fourteen_day_test_rate_per_100000: 8819.0
+Percent_Positivity_in_prior_14_days: 0.226
 Level: Red
 url: /states/MI/montcalm-county
 ---

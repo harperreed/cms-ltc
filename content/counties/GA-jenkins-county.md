@@ -11,9 +11,9 @@ FIPS: 13165.0
 FEMA_Region: 4.0
 Population: 8676.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 65.0
-Fourteen_day_test_rate_per_100000: 749.0
-Percent_Positivity_in_prior_14_days: 0.062
+Tests_in_prior_14_days: 87.0
+Fourteen_day_test_rate_per_100000: 1003.0
+Percent_Positivity_in_prior_14_days: 0.138
 Level: Yellow
 url: /states/GA/jenkins-county
 ---

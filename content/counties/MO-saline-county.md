@@ -11,9 +11,9 @@ FIPS: 29195.0
 FEMA_Region: 7.0
 Population: 22761.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 951.0
-Fourteen_day_test_rate_per_100000: 4178.0
-Percent_Positivity_in_prior_14_days: 0.164
+Tests_in_prior_14_days: 724.0
+Fourteen_day_test_rate_per_100000: 3181.0
+Percent_Positivity_in_prior_14_days: 0.17
 Level: Red
 url: /states/MO/saline-county
 ---

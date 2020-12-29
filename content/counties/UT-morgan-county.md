@@ -11,9 +11,9 @@ FIPS: 49029.0
 FEMA_Region: 8.0
 Population: 12124.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 738.0
-Fourteen_day_test_rate_per_100000: 6087.0
-Percent_Positivity_in_prior_14_days: 0.175
+Tests_in_prior_14_days: 831.0
+Fourteen_day_test_rate_per_100000: 6854.0
+Percent_Positivity_in_prior_14_days: 0.148
 Level: Red
 url: /states/UT/morgan-county
 ---

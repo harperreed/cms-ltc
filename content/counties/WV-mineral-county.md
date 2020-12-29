@@ -11,9 +11,9 @@ FIPS: 54057.0
 FEMA_Region: 3.0
 Population: 26868.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 4333.0
-Fourteen_day_test_rate_per_100000: 16127.0
-Percent_Positivity_in_prior_14_days: 0.177
+Tests_in_prior_14_days: 2771.0
+Fourteen_day_test_rate_per_100000: 10313.0
+Percent_Positivity_in_prior_14_days: 0.119
 Level: Red
 url: /states/WV/mineral-county
 ---

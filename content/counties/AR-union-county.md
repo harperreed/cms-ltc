@@ -11,9 +11,9 @@ FIPS: 5139.0
 FEMA_Region: 6.0
 Population: 38682.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 573.0
-Fourteen_day_test_rate_per_100000: 1481.0
-Percent_Positivity_in_prior_14_days: 0.089
+Tests_in_prior_14_days: 1362.0
+Fourteen_day_test_rate_per_100000: 3521.0
+Percent_Positivity_in_prior_14_days: 0.095
 Level: Yellow
 url: /states/AR/union-county
 ---

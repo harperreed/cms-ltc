@@ -11,9 +11,9 @@ FIPS: 6103.0
 FEMA_Region: 9.0
 Population: 65084.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2512.0
-Fourteen_day_test_rate_per_100000: 3860.0
-Percent_Positivity_in_prior_14_days: 0.133
+Tests_in_prior_14_days: 2760.0
+Fourteen_day_test_rate_per_100000: 4241.0
+Percent_Positivity_in_prior_14_days: 0.144
 Level: Red
 url: /states/CA/tehama-county
 ---

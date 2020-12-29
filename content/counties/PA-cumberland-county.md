@@ -11,9 +11,9 @@ FIPS: 42041.0
 FEMA_Region: 3.0
 Population: 253370.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 14554.0
-Fourteen_day_test_rate_per_100000: 5744.0
-Percent_Positivity_in_prior_14_days: 0.132
+Tests_in_prior_14_days: 16674.0
+Fourteen_day_test_rate_per_100000: 6581.0
+Percent_Positivity_in_prior_14_days: 0.165
 Level: Red
 url: /states/PA/cumberland-county
 ---

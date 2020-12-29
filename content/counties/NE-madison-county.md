@@ -11,9 +11,9 @@ FIPS: 31119.0
 FEMA_Region: 7.0
 Population: 35099.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2126.0
-Fourteen_day_test_rate_per_100000: 6057.0
-Percent_Positivity_in_prior_14_days: 0.324
+Tests_in_prior_14_days: 1559.0
+Fourteen_day_test_rate_per_100000: 4442.0
+Percent_Positivity_in_prior_14_days: 0.213
 Level: Red
 url: /states/NE/madison-county
 ---

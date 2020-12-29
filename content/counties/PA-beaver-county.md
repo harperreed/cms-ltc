@@ -11,9 +11,9 @@ FIPS: 42007.0
 FEMA_Region: 3.0
 Population: 163929.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 11122.0
-Fourteen_day_test_rate_per_100000: 6785.0
-Percent_Positivity_in_prior_14_days: 0.137
+Tests_in_prior_14_days: 12893.0
+Fourteen_day_test_rate_per_100000: 7865.0
+Percent_Positivity_in_prior_14_days: 0.15
 Level: Red
 url: /states/PA/beaver-county
 ---

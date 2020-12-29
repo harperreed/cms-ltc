@@ -3,7 +3,7 @@ title: "Cibola County, NM"
 date: 2020-12-29
 draft: false
 type: county
-tags: [FIPS:35006.0,FEMA:6.0,Micropolitan,Red]
+tags: [FIPS:35006.0,FEMA:6.0,Micropolitan,Yellow]
 categories: [NM]
 County: Cibola County
 State: NM
@@ -11,10 +11,10 @@ FIPS: 35006.0
 FEMA_Region: 6.0
 Population: 26675.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3251.0
-Fourteen_day_test_rate_per_100000: 12187.0
-Percent_Positivity_in_prior_14_days: 0.137
-Level: Red
+Tests_in_prior_14_days: 2061.0
+Fourteen_day_test_rate_per_100000: 7726.0
+Percent_Positivity_in_prior_14_days: 0.091
+Level: Yellow
 url: /states/NM/cibola-county
 ---
 

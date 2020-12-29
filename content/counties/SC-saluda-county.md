@@ -11,9 +11,9 @@ FIPS: 45081.0
 FEMA_Region: 4.0
 Population: 20473.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 215.0
-Fourteen_day_test_rate_per_100000: 1050.0
-Percent_Positivity_in_prior_14_days: 0.144
+Tests_in_prior_14_days: 408.0
+Fourteen_day_test_rate_per_100000: 1993.0
+Percent_Positivity_in_prior_14_days: 0.157
 Level: Yellow
 url: /states/SC/saluda-county
 ---

@@ -11,9 +11,9 @@ FIPS: 48461.0
 FEMA_Region: 6.0
 Population: 3657.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 31.0
-Fourteen_day_test_rate_per_100000: 848.0
-Percent_Positivity_in_prior_14_days: 0.161
+Tests_in_prior_14_days: 35.0
+Fourteen_day_test_rate_per_100000: 957.0
+Percent_Positivity_in_prior_14_days: 0.171
 Level: Yellow
 url: /states/TX/upton-county
 ---

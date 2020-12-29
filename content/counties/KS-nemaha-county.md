@@ -11,9 +11,9 @@ FIPS: 20131.0
 FEMA_Region: 7.0
 Population: 10231.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 584.0
-Fourteen_day_test_rate_per_100000: 5708.0
-Percent_Positivity_in_prior_14_days: 0.342
+Tests_in_prior_14_days: 463.0
+Fourteen_day_test_rate_per_100000: 4525.0
+Percent_Positivity_in_prior_14_days: 0.188
 Level: Red
 url: /states/KS/nemaha-county
 ---

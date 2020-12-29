@@ -11,9 +11,9 @@ FIPS: 29165.0
 FEMA_Region: 7.0
 Population: 104418.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1611.0
-Fourteen_day_test_rate_per_100000: 1543.0
-Percent_Positivity_in_prior_14_days: 0.201
+Tests_in_prior_14_days: 1338.0
+Fourteen_day_test_rate_per_100000: 1281.0
+Percent_Positivity_in_prior_14_days: 0.2
 Level: Red
 url: /states/MO/platte-county
 ---

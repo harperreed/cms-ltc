@@ -11,9 +11,9 @@ FIPS: 20067.0
 FEMA_Region: 7.0
 Population: 7150.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 207.0
-Fourteen_day_test_rate_per_100000: 2895.0
-Percent_Positivity_in_prior_14_days: 0.401
+Tests_in_prior_14_days: 153.0
+Fourteen_day_test_rate_per_100000: 2140.0
+Percent_Positivity_in_prior_14_days: 0.255
 Level: Red
 url: /states/KS/grant-county
 ---

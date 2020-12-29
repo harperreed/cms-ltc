@@ -11,9 +11,9 @@ FIPS: 18137.0
 FEMA_Region: 5.0
 Population: 28324.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 3104.0
-Fourteen_day_test_rate_per_100000: 10959.0
-Percent_Positivity_in_prior_14_days: 0.188
+Tests_in_prior_14_days: 1932.0
+Fourteen_day_test_rate_per_100000: 6821.0
+Percent_Positivity_in_prior_14_days: 0.202
 Level: Red
 url: /states/IN/ripley-county
 ---

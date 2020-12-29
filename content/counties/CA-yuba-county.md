@@ -11,9 +11,9 @@ FIPS: 6115.0
 FEMA_Region: 9.0
 Population: 78668.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3156.0
-Fourteen_day_test_rate_per_100000: 4012.0
-Percent_Positivity_in_prior_14_days: 0.174
+Tests_in_prior_14_days: 3811.0
+Fourteen_day_test_rate_per_100000: 4844.0
+Percent_Positivity_in_prior_14_days: 0.207
 Level: Red
 url: /states/CA/yuba-county
 ---

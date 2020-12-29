@@ -11,9 +11,9 @@ FIPS: 19051.0
 FEMA_Region: 7.0
 Population: 9000.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 425.0
-Fourteen_day_test_rate_per_100000: 4722.0
-Percent_Positivity_in_prior_14_days: 0.191
+Tests_in_prior_14_days: 349.0
+Fourteen_day_test_rate_per_100000: 3878.0
+Percent_Positivity_in_prior_14_days: 0.143
 Level: Red
 url: /states/IA/davis-county
 ---

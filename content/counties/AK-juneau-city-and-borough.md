@@ -11,9 +11,9 @@ FIPS: 2110.0
 FEMA_Region: 10.0
 Population: 31974.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3798.0
-Fourteen_day_test_rate_per_100000: 11878.0
-Percent_Positivity_in_prior_14_days: 0.044
+Tests_in_prior_14_days: 3940.0
+Fourteen_day_test_rate_per_100000: 12323.0
+Percent_Positivity_in_prior_14_days: 0.021
 Level: Green
 url: /states/AK/juneau-city-and-borough
 ---

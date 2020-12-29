@@ -11,9 +11,9 @@ FIPS: 55103.0
 FEMA_Region: 5.0
 Population: 17252.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1827.0
-Fourteen_day_test_rate_per_100000: 10590.0
-Percent_Positivity_in_prior_14_days: 0.068
+Tests_in_prior_14_days: 1562.0
+Fourteen_day_test_rate_per_100000: 9054.0
+Percent_Positivity_in_prior_14_days: 0.053
 Level: Yellow
 url: /states/WI/richland-county
 ---

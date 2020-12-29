@@ -3,7 +3,7 @@ title: "Crow Wing County, MN"
 date: 2020-12-29
 draft: false
 type: county
-tags: [FIPS:27035.0,FEMA:5.0,Micropolitan,Red]
+tags: [FIPS:27035.0,FEMA:5.0,Micropolitan,Yellow]
 categories: [MN]
 County: Crow Wing County
 State: MN
@@ -11,10 +11,10 @@ FIPS: 27035.0
 FEMA_Region: 5.0
 Population: 65055.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 8140.0
-Fourteen_day_test_rate_per_100000: 12512.0
-Percent_Positivity_in_prior_14_days: 0.183
-Level: Red
+Tests_in_prior_14_days: 5270.0
+Fourteen_day_test_rate_per_100000: 8101.0
+Percent_Positivity_in_prior_14_days: 0.072
+Level: Yellow
 url: /states/MN/crow-wing-county
 ---
 

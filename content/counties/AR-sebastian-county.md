@@ -11,9 +11,9 @@ FIPS: 5131.0
 FEMA_Region: 6.0
 Population: 127827.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 6303.0
-Fourteen_day_test_rate_per_100000: 4931.0
-Percent_Positivity_in_prior_14_days: 0.135
+Tests_in_prior_14_days: 7252.0
+Fourteen_day_test_rate_per_100000: 5673.0
+Percent_Positivity_in_prior_14_days: 0.114
 Level: Red
 url: /states/AR/sebastian-county
 ---

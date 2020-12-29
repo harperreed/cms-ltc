@@ -11,9 +11,9 @@ FIPS: 1071.0
 FEMA_Region: 4.0
 Population: 51626.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3171.0
-Fourteen_day_test_rate_per_100000: 6142.0
-Percent_Positivity_in_prior_14_days: 0.276
+Tests_in_prior_14_days: 3715.0
+Fourteen_day_test_rate_per_100000: 7196.0
+Percent_Positivity_in_prior_14_days: 0.236
 Level: Red
 url: /states/AL/jackson-county
 ---

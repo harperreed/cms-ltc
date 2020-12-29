@@ -11,9 +11,9 @@ FIPS: 48071.0
 FEMA_Region: 6.0
 Population: 43837.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 980.0
-Fourteen_day_test_rate_per_100000: 2236.0
-Percent_Positivity_in_prior_14_days: 0.106
+Tests_in_prior_14_days: 1177.0
+Fourteen_day_test_rate_per_100000: 2685.0
+Percent_Positivity_in_prior_14_days: 0.12
 Level: Red
 url: /states/TX/chambers-county
 ---

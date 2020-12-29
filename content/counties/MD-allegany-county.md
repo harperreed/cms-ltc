@@ -11,9 +11,9 @@ FIPS: 24001.0
 FEMA_Region: 3.0
 Population: 70416.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 10121.0
-Fourteen_day_test_rate_per_100000: 14373.0
-Percent_Positivity_in_prior_14_days: 0.181
+Tests_in_prior_14_days: 10792.0
+Fourteen_day_test_rate_per_100000: 15326.0
+Percent_Positivity_in_prior_14_days: 0.152
 Level: Red
 url: /states/MD/allegany-county
 ---

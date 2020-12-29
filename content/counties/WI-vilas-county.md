@@ -11,9 +11,9 @@ FIPS: 55125.0
 FEMA_Region: 5.0
 Population: 22195.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 847.0
-Fourteen_day_test_rate_per_100000: 3816.0
-Percent_Positivity_in_prior_14_days: 0.227
+Tests_in_prior_14_days: 844.0
+Fourteen_day_test_rate_per_100000: 3803.0
+Percent_Positivity_in_prior_14_days: 0.134
 Level: Red
 url: /states/WI/vilas-county
 ---

@@ -11,9 +11,9 @@ FIPS: 55003.0
 FEMA_Region: 5.0
 Population: 15562.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1673.0
-Fourteen_day_test_rate_per_100000: 10751.0
-Percent_Positivity_in_prior_14_days: 0.094
+Tests_in_prior_14_days: 1403.0
+Fourteen_day_test_rate_per_100000: 9016.0
+Percent_Positivity_in_prior_14_days: 0.078
 Level: Yellow
 url: /states/WI/ashland-county
 ---

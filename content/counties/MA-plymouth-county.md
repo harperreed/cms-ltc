@@ -11,9 +11,9 @@ FIPS: 25023.0
 FEMA_Region: 1.0
 Population: 521202.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 49273.0
-Fourteen_day_test_rate_per_100000: 9454.0
-Percent_Positivity_in_prior_14_days: 0.051
+Tests_in_prior_14_days: 57279.0
+Fourteen_day_test_rate_per_100000: 10990.0
+Percent_Positivity_in_prior_14_days: 0.077
 Level: Yellow
 url: /states/MA/plymouth-county
 ---

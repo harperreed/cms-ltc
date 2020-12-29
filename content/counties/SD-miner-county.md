@@ -11,9 +11,9 @@ FIPS: 46097.0
 FEMA_Region: 8.0
 Population: 2216.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 33.0
-Fourteen_day_test_rate_per_100000: 1489.0
-Percent_Positivity_in_prior_14_days: 0.182
+Tests_in_prior_14_days: 24.0
+Fourteen_day_test_rate_per_100000: 1083.0
+Percent_Positivity_in_prior_14_days: 0.125
 Level: Yellow
 url: /states/SD/miner-county
 ---

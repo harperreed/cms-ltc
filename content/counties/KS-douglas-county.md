@@ -11,9 +11,9 @@ FIPS: 20045.0
 FEMA_Region: 7.0
 Population: 122259.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 8556.0
-Fourteen_day_test_rate_per_100000: 6998.0
-Percent_Positivity_in_prior_14_days: 0.098
+Tests_in_prior_14_days: 10560.0
+Fourteen_day_test_rate_per_100000: 8637.0
+Percent_Positivity_in_prior_14_days: 0.06
 Level: Yellow
 url: /states/KS/douglas-county
 ---

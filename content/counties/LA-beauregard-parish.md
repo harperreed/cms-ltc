@@ -11,9 +11,9 @@ FIPS: 22011.0
 FEMA_Region: 6.0
 Population: 37497.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1223.0
-Fourteen_day_test_rate_per_100000: 3262.0
-Percent_Positivity_in_prior_14_days: 0.129
+Tests_in_prior_14_days: 1189.0
+Fourteen_day_test_rate_per_100000: 3171.0
+Percent_Positivity_in_prior_14_days: 0.168
 Level: Red
 url: /states/LA/beauregard-parish
 ---

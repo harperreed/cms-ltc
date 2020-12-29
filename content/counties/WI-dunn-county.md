@@ -11,9 +11,9 @@ FIPS: 55033.0
 FEMA_Region: 5.0
 Population: 45368.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3716.0
-Fourteen_day_test_rate_per_100000: 8191.0
-Percent_Positivity_in_prior_14_days: 0.118
+Tests_in_prior_14_days: 2879.0
+Fourteen_day_test_rate_per_100000: 6346.0
+Percent_Positivity_in_prior_14_days: 0.11
 Level: Red
 url: /states/WI/dunn-county
 ---

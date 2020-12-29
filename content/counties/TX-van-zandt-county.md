@@ -11,9 +11,9 @@ FIPS: 48467.0
 FEMA_Region: 6.0
 Population: 56590.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1186.0
-Fourteen_day_test_rate_per_100000: 2096.0
-Percent_Positivity_in_prior_14_days: 0.212
+Tests_in_prior_14_days: 1164.0
+Fourteen_day_test_rate_per_100000: 2057.0
+Percent_Positivity_in_prior_14_days: 0.223
 Level: Red
 url: /states/TX/van-zandt-county
 ---

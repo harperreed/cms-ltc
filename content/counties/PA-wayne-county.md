@@ -11,9 +11,9 @@ FIPS: 42127.0
 FEMA_Region: 3.0
 Population: 51361.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2179.0
-Fourteen_day_test_rate_per_100000: 4243.0
-Percent_Positivity_in_prior_14_days: 0.106
+Tests_in_prior_14_days: 3929.0
+Fourteen_day_test_rate_per_100000: 7650.0
+Percent_Positivity_in_prior_14_days: 0.184
 Level: Red
 url: /states/PA/wayne-county
 ---

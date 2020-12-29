@@ -11,9 +11,9 @@ FIPS: 12097.0
 FEMA_Region: 4.0
 Population: 375751.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 16522.0
-Fourteen_day_test_rate_per_100000: 4397.0
-Percent_Positivity_in_prior_14_days: 0.109
+Tests_in_prior_14_days: 18120.0
+Fourteen_day_test_rate_per_100000: 4822.0
+Percent_Positivity_in_prior_14_days: 0.11
 Level: Red
 url: /states/FL/osceola-county
 ---

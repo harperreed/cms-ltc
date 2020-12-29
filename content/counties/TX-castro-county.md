@@ -11,9 +11,9 @@ FIPS: 48069.0
 FEMA_Region: 6.0
 Population: 7530.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 139.0
-Fourteen_day_test_rate_per_100000: 1846.0
-Percent_Positivity_in_prior_14_days: 0.403
+Tests_in_prior_14_days: 109.0
+Fourteen_day_test_rate_per_100000: 1448.0
+Percent_Positivity_in_prior_14_days: 0.294
 Level: Yellow
 url: /states/TX/castro-county
 ---

@@ -11,9 +11,9 @@ FIPS: 55057.0
 FEMA_Region: 5.0
 Population: 26687.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1944.0
-Fourteen_day_test_rate_per_100000: 7284.0
-Percent_Positivity_in_prior_14_days: 0.233
+Tests_in_prior_14_days: 2348.0
+Fourteen_day_test_rate_per_100000: 8798.0
+Percent_Positivity_in_prior_14_days: 0.133
 Level: Red
 url: /states/WI/juneau-county
 ---

@@ -11,9 +11,9 @@ FIPS: 18027.0
 FEMA_Region: 5.0
 Population: 33351.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2235.0
-Fourteen_day_test_rate_per_100000: 6701.0
-Percent_Positivity_in_prior_14_days: 0.219
+Tests_in_prior_14_days: 1646.0
+Fourteen_day_test_rate_per_100000: 4935.0
+Percent_Positivity_in_prior_14_days: 0.184
 Level: Red
 url: /states/IN/daviess-county
 ---

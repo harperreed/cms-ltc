@@ -11,9 +11,9 @@ FIPS: 22005.0
 FEMA_Region: 6.0
 Population: 126604.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 3670.0
-Fourteen_day_test_rate_per_100000: 2899.0
-Percent_Positivity_in_prior_14_days: 0.133
+Tests_in_prior_14_days: 3561.0
+Fourteen_day_test_rate_per_100000: 2813.0
+Percent_Positivity_in_prior_14_days: 0.136
 Level: Red
 url: /states/LA/ascension-parish
 ---

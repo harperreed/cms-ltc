@@ -11,9 +11,9 @@ FIPS: 28113.0
 FEMA_Region: 4.0
 Population: 39288.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 739.0
-Fourteen_day_test_rate_per_100000: 1881.0
-Percent_Positivity_in_prior_14_days: 0.173
+Tests_in_prior_14_days: 907.0
+Fourteen_day_test_rate_per_100000: 2309.0
+Percent_Positivity_in_prior_14_days: 0.204
 Level: Red
 url: /states/MS/pike-county
 ---

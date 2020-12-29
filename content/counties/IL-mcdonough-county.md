@@ -11,9 +11,9 @@ FIPS: 17109.0
 FEMA_Region: 5.0
 Population: 29682.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1471.0
-Fourteen_day_test_rate_per_100000: 4956.0
-Percent_Positivity_in_prior_14_days: 0.165
+Tests_in_prior_14_days: 1272.0
+Fourteen_day_test_rate_per_100000: 4285.0
+Percent_Positivity_in_prior_14_days: 0.113
 Level: Red
 url: /states/IL/mcdonough-county
 ---

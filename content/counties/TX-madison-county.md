@@ -11,9 +11,9 @@ FIPS: 48313.0
 FEMA_Region: 6.0
 Population: 14284.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 339.0
-Fourteen_day_test_rate_per_100000: 2373.0
-Percent_Positivity_in_prior_14_days: 0.127
+Tests_in_prior_14_days: 500.0
+Fourteen_day_test_rate_per_100000: 3500.0
+Percent_Positivity_in_prior_14_days: 0.15
 Level: Red
 url: /states/TX/madison-county
 ---

@@ -11,9 +11,9 @@ FIPS: 31021.0
 FEMA_Region: 7.0
 Population: 6459.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 247.0
-Fourteen_day_test_rate_per_100000: 3824.0
-Percent_Positivity_in_prior_14_days: 0.336
+Tests_in_prior_14_days: 175.0
+Fourteen_day_test_rate_per_100000: 2709.0
+Percent_Positivity_in_prior_14_days: 0.143
 Level: Red
 url: /states/NE/burt-county
 ---

@@ -11,9 +11,9 @@ FIPS: 42133.0
 FEMA_Region: 3.0
 Population: 449058.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 27244.0
-Fourteen_day_test_rate_per_100000: 6067.0
-Percent_Positivity_in_prior_14_days: 0.137
+Tests_in_prior_14_days: 28112.0
+Fourteen_day_test_rate_per_100000: 6260.0
+Percent_Positivity_in_prior_14_days: 0.184
 Level: Red
 url: /states/PA/york-county
 ---

@@ -11,9 +11,9 @@ FIPS: 17171.0
 FEMA_Region: 5.0
 Population: 4951.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 138.0
-Fourteen_day_test_rate_per_100000: 2787.0
-Percent_Positivity_in_prior_14_days: 0.043
+Tests_in_prior_14_days: 109.0
+Fourteen_day_test_rate_per_100000: 2202.0
+Percent_Positivity_in_prior_14_days: 0.028
 Level: Green
 url: /states/IL/scott-county
 ---

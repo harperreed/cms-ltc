@@ -11,9 +11,9 @@ FIPS: 37171.0
 FEMA_Region: 4.0
 Population: 71783.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3513.0
-Fourteen_day_test_rate_per_100000: 4894.0
-Percent_Positivity_in_prior_14_days: 0.104
+Tests_in_prior_14_days: 3826.0
+Fourteen_day_test_rate_per_100000: 5330.0
+Percent_Positivity_in_prior_14_days: 0.174
 Level: Red
 url: /states/NC/surry-county
 ---

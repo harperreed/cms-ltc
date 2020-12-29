@@ -11,9 +11,9 @@ FIPS: 23031.0
 FEMA_Region: 1.0
 Population: 207641.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 3991.0
-Fourteen_day_test_rate_per_100000: 1922.0
-Percent_Positivity_in_prior_14_days: 0.041
+Tests_in_prior_14_days: 4596.0
+Fourteen_day_test_rate_per_100000: 2213.0
+Percent_Positivity_in_prior_14_days: 0.044
 Level: Green
 url: /states/ME/york-county
 ---

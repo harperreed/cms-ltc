@@ -11,9 +11,9 @@ FIPS: 17085.0
 FEMA_Region: 5.0
 Population: 21235.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 893.0
-Fourteen_day_test_rate_per_100000: 4205.0
-Percent_Positivity_in_prior_14_days: 0.115
+Tests_in_prior_14_days: 579.0
+Fourteen_day_test_rate_per_100000: 2727.0
+Percent_Positivity_in_prior_14_days: 0.114
 Level: Red
 url: /states/IL/jo-daviess-county
 ---

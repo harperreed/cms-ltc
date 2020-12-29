@@ -11,9 +11,9 @@ FIPS: 35039.0
 FEMA_Region: 6.0
 Population: 38921.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1827.0
-Fourteen_day_test_rate_per_100000: 4694.0
-Percent_Positivity_in_prior_14_days: 0.149
+Tests_in_prior_14_days: 2362.0
+Fourteen_day_test_rate_per_100000: 6069.0
+Percent_Positivity_in_prior_14_days: 0.161
 Level: Red
 url: /states/NM/rio-arriba-county
 ---

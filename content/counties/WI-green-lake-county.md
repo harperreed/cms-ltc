@@ -11,9 +11,9 @@ FIPS: 55047.0
 FEMA_Region: 5.0
 Population: 18913.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1457.0
-Fourteen_day_test_rate_per_100000: 7704.0
-Percent_Positivity_in_prior_14_days: 0.075
+Tests_in_prior_14_days: 1731.0
+Fourteen_day_test_rate_per_100000: 9152.0
+Percent_Positivity_in_prior_14_days: 0.087
 Level: Yellow
 url: /states/WI/green-lake-county
 ---

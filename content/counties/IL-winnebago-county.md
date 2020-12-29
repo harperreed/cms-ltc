@@ -11,9 +11,9 @@ FIPS: 17201.0
 FEMA_Region: 5.0
 Population: 282572.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 20346.0
-Fourteen_day_test_rate_per_100000: 7200.0
-Percent_Positivity_in_prior_14_days: 0.168
+Tests_in_prior_14_days: 16401.0
+Fourteen_day_test_rate_per_100000: 5804.0
+Percent_Positivity_in_prior_14_days: 0.12
 Level: Red
 url: /states/IL/winnebago-county
 ---

@@ -11,9 +11,9 @@ FIPS: 27063.0
 FEMA_Region: 5.0
 Population: 9846.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1249.0
-Fourteen_day_test_rate_per_100000: 12685.0
-Percent_Positivity_in_prior_14_days: 0.202
+Tests_in_prior_14_days: 826.0
+Fourteen_day_test_rate_per_100000: 8389.0
+Percent_Positivity_in_prior_14_days: 0.138
 Level: Red
 url: /states/MN/jackson-county
 ---

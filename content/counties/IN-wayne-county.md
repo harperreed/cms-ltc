@@ -11,9 +11,9 @@ FIPS: 18177.0
 FEMA_Region: 5.0
 Population: 65884.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 6555.0
-Fourteen_day_test_rate_per_100000: 9949.0
-Percent_Positivity_in_prior_14_days: 0.151
+Tests_in_prior_14_days: 4752.0
+Fourteen_day_test_rate_per_100000: 7213.0
+Percent_Positivity_in_prior_14_days: 0.142
 Level: Red
 url: /states/IN/wayne-county
 ---

@@ -11,9 +11,9 @@ FIPS: 49053.0
 FEMA_Region: 8.0
 Population: 177556.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 8747.0
-Fourteen_day_test_rate_per_100000: 4926.0
-Percent_Positivity_in_prior_14_days: 0.264
+Tests_in_prior_14_days: 8867.0
+Fourteen_day_test_rate_per_100000: 4994.0
+Percent_Positivity_in_prior_14_days: 0.227
 Level: Red
 url: /states/UT/washington-county
 ---

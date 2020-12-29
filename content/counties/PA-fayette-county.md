@@ -11,9 +11,9 @@ FIPS: 42051.0
 FEMA_Region: 3.0
 Population: 129274.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 7372.0
-Fourteen_day_test_rate_per_100000: 5703.0
-Percent_Positivity_in_prior_14_days: 0.145
+Tests_in_prior_14_days: 10070.0
+Fourteen_day_test_rate_per_100000: 7790.0
+Percent_Positivity_in_prior_14_days: 0.243
 Level: Red
 url: /states/PA/fayette-county
 ---

@@ -11,9 +11,9 @@ FIPS: 40143.0
 FEMA_Region: 6.0
 Population: 651552.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 22777.0
-Fourteen_day_test_rate_per_100000: 3496.0
-Percent_Positivity_in_prior_14_days: 0.208
+Tests_in_prior_14_days: 22059.0
+Fourteen_day_test_rate_per_100000: 3386.0
+Percent_Positivity_in_prior_14_days: 0.238
 Level: Red
 url: /states/OK/tulsa-county
 ---

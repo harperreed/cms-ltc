@@ -11,9 +11,9 @@ FIPS: 40091.0
 FEMA_Region: 6.0
 Population: 19596.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 134.0
-Fourteen_day_test_rate_per_100000: 684.0
-Percent_Positivity_in_prior_14_days: 0.142
+Tests_in_prior_14_days: 90.0
+Fourteen_day_test_rate_per_100000: 459.0
+Percent_Positivity_in_prior_14_days: 0.233
 Level: Yellow
 url: /states/OK/mcintosh-county
 ---

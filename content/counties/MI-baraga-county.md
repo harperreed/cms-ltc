@@ -11,9 +11,9 @@ FIPS: 26013.0
 FEMA_Region: 5.0
 Population: 8209.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1717.0
-Fourteen_day_test_rate_per_100000: 20916.0
-Percent_Positivity_in_prior_14_days: 0.038
+Tests_in_prior_14_days: 1994.0
+Fourteen_day_test_rate_per_100000: 24290.0
+Percent_Positivity_in_prior_14_days: 0.018
 Level: Green
 url: /states/MI/baraga-county
 ---

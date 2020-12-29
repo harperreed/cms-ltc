@@ -11,9 +11,9 @@ FIPS: 15007.0
 FEMA_Region: 9.0
 Population: 72293.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3009.0
-Fourteen_day_test_rate_per_100000: 4162.0
-Percent_Positivity_in_prior_14_days: 0.011
+Tests_in_prior_14_days: 2046.0
+Fourteen_day_test_rate_per_100000: 2830.0
+Percent_Positivity_in_prior_14_days: 0.009
 Level: Green
 url: /states/HI/kauai-county
 ---

@@ -11,9 +11,9 @@ FIPS: 49047.0
 FEMA_Region: 8.0
 Population: 35734.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1407.0
-Fourteen_day_test_rate_per_100000: 3937.0
-Percent_Positivity_in_prior_14_days: 0.181
+Tests_in_prior_14_days: 1050.0
+Fourteen_day_test_rate_per_100000: 2938.0
+Percent_Positivity_in_prior_14_days: 0.17
 Level: Red
 url: /states/UT/uintah-county
 ---

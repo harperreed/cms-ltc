@@ -11,9 +11,9 @@ FIPS: 13025.0
 FEMA_Region: 4.0
 Population: 19109.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 258.0
-Fourteen_day_test_rate_per_100000: 1350.0
-Percent_Positivity_in_prior_14_days: 0.124
+Tests_in_prior_14_days: 483.0
+Fourteen_day_test_rate_per_100000: 2528.0
+Percent_Positivity_in_prior_14_days: 0.093
 Level: Yellow
 url: /states/GA/brantley-county
 ---

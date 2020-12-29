@@ -11,9 +11,9 @@ FIPS: 29003.0
 FEMA_Region: 7.0
 Population: 17712.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 349.0
-Fourteen_day_test_rate_per_100000: 1970.0
-Percent_Positivity_in_prior_14_days: 0.275
+Tests_in_prior_14_days: 238.0
+Fourteen_day_test_rate_per_100000: 1344.0
+Percent_Positivity_in_prior_14_days: 0.214
 Level: Yellow
 url: /states/MO/andrew-county
 ---

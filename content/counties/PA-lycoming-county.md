@@ -11,9 +11,9 @@ FIPS: 42081.0
 FEMA_Region: 3.0
 Population: 113299.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 7090.0
-Fourteen_day_test_rate_per_100000: 6258.0
-Percent_Positivity_in_prior_14_days: 0.151
+Tests_in_prior_14_days: 10157.0
+Fourteen_day_test_rate_per_100000: 8965.0
+Percent_Positivity_in_prior_14_days: 0.193
 Level: Red
 url: /states/PA/lycoming-county
 ---

@@ -11,9 +11,9 @@ FIPS: 37061.0
 FEMA_Region: 4.0
 Population: 58741.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2202.0
-Fourteen_day_test_rate_per_100000: 3749.0
-Percent_Positivity_in_prior_14_days: 0.071
+Tests_in_prior_14_days: 2659.0
+Fourteen_day_test_rate_per_100000: 4527.0
+Percent_Positivity_in_prior_14_days: 0.1
 Level: Yellow
 url: /states/NC/duplin-county
 ---

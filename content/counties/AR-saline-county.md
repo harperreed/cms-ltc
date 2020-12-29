@@ -11,9 +11,9 @@ FIPS: 5125.0
 FEMA_Region: 6.0
 Population: 122437.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 3501.0
-Fourteen_day_test_rate_per_100000: 2859.0
-Percent_Positivity_in_prior_14_days: 0.119
+Tests_in_prior_14_days: 4194.0
+Fourteen_day_test_rate_per_100000: 3425.0
+Percent_Positivity_in_prior_14_days: 0.122
 Level: Red
 url: /states/AR/saline-county
 ---

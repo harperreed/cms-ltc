@@ -11,9 +11,9 @@ FIPS: 26079.0
 FEMA_Region: 5.0
 Population: 18038.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 599.0
-Fourteen_day_test_rate_per_100000: 3321.0
-Percent_Positivity_in_prior_14_days: 0.169
+Tests_in_prior_14_days: 519.0
+Fourteen_day_test_rate_per_100000: 2877.0
+Percent_Positivity_in_prior_14_days: 0.114
 Level: Red
 url: /states/MI/kalkaska-county
 ---

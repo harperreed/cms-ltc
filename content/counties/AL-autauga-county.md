@@ -11,9 +11,9 @@ FIPS: 1001.0
 FEMA_Region: 4.0
 Population: 55869.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1676.0
-Fourteen_day_test_rate_per_100000: 3000.0
-Percent_Positivity_in_prior_14_days: 0.189
+Tests_in_prior_14_days: 2994.0
+Fourteen_day_test_rate_per_100000: 5359.0
+Percent_Positivity_in_prior_14_days: 0.236
 Level: Red
 url: /states/AL/autauga-county
 ---

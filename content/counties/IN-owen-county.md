@@ -11,9 +11,9 @@ FIPS: 18119.0
 FEMA_Region: 5.0
 Population: 20799.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2409.0
-Fourteen_day_test_rate_per_100000: 11582.0
-Percent_Positivity_in_prior_14_days: 0.074
+Tests_in_prior_14_days: 2327.0
+Fourteen_day_test_rate_per_100000: 11188.0
+Percent_Positivity_in_prior_14_days: 0.091
 Level: Yellow
 url: /states/IN/owen-county
 ---

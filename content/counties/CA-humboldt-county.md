@@ -11,9 +11,9 @@ FIPS: 6023.0
 FEMA_Region: 9.0
 Population: 135558.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 5429.0
-Fourteen_day_test_rate_per_100000: 4005.0
-Percent_Positivity_in_prior_14_days: 0.032
+Tests_in_prior_14_days: 7049.0
+Fourteen_day_test_rate_per_100000: 5200.0
+Percent_Positivity_in_prior_14_days: 0.042
 Level: Green
 url: /states/CA/humboldt-county
 ---

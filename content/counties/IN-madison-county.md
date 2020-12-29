@@ -11,9 +11,9 @@ FIPS: 18095.0
 FEMA_Region: 5.0
 Population: 129569.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 9413.0
-Fourteen_day_test_rate_per_100000: 7265.0
-Percent_Positivity_in_prior_14_days: 0.158
+Tests_in_prior_14_days: 7486.0
+Fourteen_day_test_rate_per_100000: 5778.0
+Percent_Positivity_in_prior_14_days: 0.178
 Level: Red
 url: /states/IN/madison-county
 ---

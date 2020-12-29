@@ -11,9 +11,9 @@ FIPS: 2198.0
 FEMA_Region: 10.0
 Population: 6203.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 245.0
-Fourteen_day_test_rate_per_100000: 3950.0
-Percent_Positivity_in_prior_14_days: 0.033
+Tests_in_prior_14_days: 234.0
+Fourteen_day_test_rate_per_100000: 3772.0
+Percent_Positivity_in_prior_14_days: 0.026
 Level: Green
 url: /states/AK/prince-of-wales-hyder-census-area
 ---

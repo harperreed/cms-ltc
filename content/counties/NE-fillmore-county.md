@@ -11,9 +11,9 @@ FIPS: 31059.0
 FEMA_Region: 7.0
 Population: 5462.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 222.0
-Fourteen_day_test_rate_per_100000: 4064.0
-Percent_Positivity_in_prior_14_days: 0.32
+Tests_in_prior_14_days: 139.0
+Fourteen_day_test_rate_per_100000: 2545.0
+Percent_Positivity_in_prior_14_days: 0.252
 Level: Red
 url: /states/NE/fillmore-county
 ---

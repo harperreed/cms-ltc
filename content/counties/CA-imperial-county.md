@@ -11,9 +11,9 @@ FIPS: 6025.0
 FEMA_Region: 9.0
 Population: 181215.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 11294.0
-Fourteen_day_test_rate_per_100000: 6232.0
-Percent_Positivity_in_prior_14_days: 0.147
+Tests_in_prior_14_days: 16114.0
+Fourteen_day_test_rate_per_100000: 8892.0
+Percent_Positivity_in_prior_14_days: 0.149
 Level: Red
 url: /states/CA/imperial-county
 ---

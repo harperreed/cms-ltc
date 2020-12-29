@@ -11,9 +11,9 @@ FIPS: 17037.0
 FEMA_Region: 5.0
 Population: 104897.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 7303.0
-Fourteen_day_test_rate_per_100000: 6962.0
-Percent_Positivity_in_prior_14_days: 0.132
+Tests_in_prior_14_days: 4668.0
+Fourteen_day_test_rate_per_100000: 4450.0
+Percent_Positivity_in_prior_14_days: 0.117
 Level: Red
 url: /states/IL/dekalb-county
 ---

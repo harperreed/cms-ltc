@@ -11,9 +11,9 @@ FIPS: 6041.0
 FEMA_Region: 9.0
 Population: 258826.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 18814.0
-Fourteen_day_test_rate_per_100000: 7269.0
-Percent_Positivity_in_prior_14_days: 0.018
+Tests_in_prior_14_days: 24615.0
+Fourteen_day_test_rate_per_100000: 9510.0
+Percent_Positivity_in_prior_14_days: 0.036
 Level: Green
 url: /states/CA/marin-county
 ---

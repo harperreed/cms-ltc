@@ -11,9 +11,9 @@ FIPS: 12086.0
 FEMA_Region: 4.0
 Population: 2716940.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 293423.0
-Fourteen_day_test_rate_per_100000: 10800.0
-Percent_Positivity_in_prior_14_days: 0.117
+Tests_in_prior_14_days: 362472.0
+Fourteen_day_test_rate_per_100000: 13341.0
+Percent_Positivity_in_prior_14_days: 0.12
 Level: Red
 url: /states/FL/miami-dade-county
 ---

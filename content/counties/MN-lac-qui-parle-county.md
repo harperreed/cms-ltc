@@ -11,9 +11,9 @@ FIPS: 27073.0
 FEMA_Region: 5.0
 Population: 6623.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2116.0
-Fourteen_day_test_rate_per_100000: 31949.0
-Percent_Positivity_in_prior_14_days: 0.073
+Tests_in_prior_14_days: 670.0
+Fourteen_day_test_rate_per_100000: 10116.0
+Percent_Positivity_in_prior_14_days: 0.096
 Level: Yellow
 url: /states/MN/lac-qui-parle-county
 ---

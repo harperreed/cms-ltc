@@ -11,9 +11,9 @@ FIPS: 16023.0
 FEMA_Region: 10.0
 Population: 2597.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: <20 tests
-Fourteen_day_test_rate_per_100000: <20 tests
-Percent_Positivity_in_prior_14_days: <20 tests
+Tests_in_prior_14_days: 169.0
+Fourteen_day_test_rate_per_100000: 6508.0
+Percent_Positivity_in_prior_14_days: 0.012
 Level: Green
 url: /states/ID/butte-county
 ---

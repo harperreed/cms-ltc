@@ -11,9 +11,9 @@ FIPS: 12059.0
 FEMA_Region: 4.0
 Population: 19617.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1032.0
-Fourteen_day_test_rate_per_100000: 5261.0
-Percent_Positivity_in_prior_14_days: 0.11
+Tests_in_prior_14_days: 994.0
+Fourteen_day_test_rate_per_100000: 5067.0
+Percent_Positivity_in_prior_14_days: 0.171
 Level: Red
 url: /states/FL/holmes-county
 ---

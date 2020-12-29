@@ -11,9 +11,9 @@ FIPS: 18037.0
 FEMA_Region: 5.0
 Population: 42736.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2905.0
-Fourteen_day_test_rate_per_100000: 6798.0
-Percent_Positivity_in_prior_14_days: 0.158
+Tests_in_prior_14_days: 3028.0
+Fourteen_day_test_rate_per_100000: 7085.0
+Percent_Positivity_in_prior_14_days: 0.316
 Level: Red
 url: /states/IN/dubois-county
 ---

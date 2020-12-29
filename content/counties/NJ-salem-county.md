@@ -11,9 +11,9 @@ FIPS: 34033.0
 FEMA_Region: 2.0
 Population: 62385.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 2533.0
-Fourteen_day_test_rate_per_100000: 4060.0
-Percent_Positivity_in_prior_14_days: 0.106
+Tests_in_prior_14_days: 3867.0
+Fourteen_day_test_rate_per_100000: 6199.0
+Percent_Positivity_in_prior_14_days: 0.146
 Level: Red
 url: /states/NJ/salem-county
 ---

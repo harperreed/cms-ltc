@@ -11,9 +11,9 @@ FIPS: 13021.0
 FEMA_Region: 4.0
 Population: 153159.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2807.0
-Fourteen_day_test_rate_per_100000: 1833.0
-Percent_Positivity_in_prior_14_days: 0.131
+Tests_in_prior_14_days: 4701.0
+Fourteen_day_test_rate_per_100000: 3069.0
+Percent_Positivity_in_prior_14_days: 0.2
 Level: Red
 url: /states/GA/bibb-county
 ---

@@ -11,9 +11,9 @@ FIPS: 21029.0
 FEMA_Region: 4.0
 Population: 81676.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1768.0
-Fourteen_day_test_rate_per_100000: 2165.0
-Percent_Positivity_in_prior_14_days: 0.21
+Tests_in_prior_14_days: 3337.0
+Fourteen_day_test_rate_per_100000: 4086.0
+Percent_Positivity_in_prior_14_days: 0.199
 Level: Red
 url: /states/KY/bullitt-county
 ---

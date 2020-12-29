@@ -11,9 +11,9 @@ FIPS: 20115.0
 FEMA_Region: 7.0
 Population: 11884.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 242.0
-Fourteen_day_test_rate_per_100000: 2036.0
-Percent_Positivity_in_prior_14_days: 0.269
+Tests_in_prior_14_days: 373.0
+Fourteen_day_test_rate_per_100000: 3139.0
+Percent_Positivity_in_prior_14_days: 0.198
 Level: Red
 url: /states/KS/marion-county
 ---

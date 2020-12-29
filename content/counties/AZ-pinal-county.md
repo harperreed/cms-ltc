@@ -11,9 +11,9 @@ FIPS: 4021.0
 FEMA_Region: 9.0
 Population: 462789.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 27135.0
-Fourteen_day_test_rate_per_100000: 5863.0
-Percent_Positivity_in_prior_14_days: 0.137
+Tests_in_prior_14_days: 26346.0
+Fourteen_day_test_rate_per_100000: 5693.0
+Percent_Positivity_in_prior_14_days: 0.189
 Level: Red
 url: /states/AZ/pinal-county
 ---

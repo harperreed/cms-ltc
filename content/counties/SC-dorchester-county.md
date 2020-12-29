@@ -11,9 +11,9 @@ FIPS: 45035.0
 FEMA_Region: 4.0
 Population: 162809.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 3745.0
-Fourteen_day_test_rate_per_100000: 2300.0
-Percent_Positivity_in_prior_14_days: 0.107
+Tests_in_prior_14_days: 4348.0
+Fourteen_day_test_rate_per_100000: 2671.0
+Percent_Positivity_in_prior_14_days: 0.153
 Level: Red
 url: /states/SC/dorchester-county
 ---

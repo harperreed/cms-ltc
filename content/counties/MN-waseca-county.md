@@ -11,9 +11,9 @@ FIPS: 27161.0
 FEMA_Region: 5.0
 Population: 18612.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2603.0
-Fourteen_day_test_rate_per_100000: 13986.0
-Percent_Positivity_in_prior_14_days: 0.145
+Tests_in_prior_14_days: 1796.0
+Fourteen_day_test_rate_per_100000: 9650.0
+Percent_Positivity_in_prior_14_days: 0.124
 Level: Red
 url: /states/MN/waseca-county
 ---

@@ -11,9 +11,9 @@ FIPS: 49043.0
 FEMA_Region: 8.0
 Population: 42145.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4369.0
-Fourteen_day_test_rate_per_100000: 10367.0
-Percent_Positivity_in_prior_14_days: 0.102
+Tests_in_prior_14_days: 5466.0
+Fourteen_day_test_rate_per_100000: 12970.0
+Percent_Positivity_in_prior_14_days: 0.114
 Level: Red
 url: /states/UT/summit-county
 ---

@@ -11,9 +11,9 @@ FIPS: 48213.0
 FEMA_Region: 6.0
 Population: 82737.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2220.0
-Fourteen_day_test_rate_per_100000: 2683.0
-Percent_Positivity_in_prior_14_days: 0.187
+Tests_in_prior_14_days: 2110.0
+Fourteen_day_test_rate_per_100000: 2550.0
+Percent_Positivity_in_prior_14_days: 0.203
 Level: Red
 url: /states/TX/henderson-county
 ---

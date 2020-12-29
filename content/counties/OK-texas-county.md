@@ -11,9 +11,9 @@ FIPS: 40139.0
 FEMA_Region: 6.0
 Population: 19983.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 68.0
-Fourteen_day_test_rate_per_100000: 340.0
-Percent_Positivity_in_prior_14_days: 0.588
+Tests_in_prior_14_days: 33.0
+Fourteen_day_test_rate_per_100000: 165.0
+Percent_Positivity_in_prior_14_days: 0.273
 Level: Yellow
 url: /states/OK/texas-county
 ---

@@ -11,9 +11,9 @@ FIPS: 1015.0
 FEMA_Region: 4.0
 Population: 113605.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3738.0
-Fourteen_day_test_rate_per_100000: 3290.0
-Percent_Positivity_in_prior_14_days: 0.204
+Tests_in_prior_14_days: 5043.0
+Fourteen_day_test_rate_per_100000: 4439.0
+Percent_Positivity_in_prior_14_days: 0.234
 Level: Red
 url: /states/AL/calhoun-county
 ---

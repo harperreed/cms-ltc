@@ -11,9 +11,9 @@ FIPS: 37069.0
 FEMA_Region: 4.0
 Population: 69685.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 4151.0
-Fourteen_day_test_rate_per_100000: 5957.0
-Percent_Positivity_in_prior_14_days: 0.083
+Tests_in_prior_14_days: 5261.0
+Fourteen_day_test_rate_per_100000: 7550.0
+Percent_Positivity_in_prior_14_days: 0.1
 Level: Yellow
 url: /states/NC/franklin-county
 ---

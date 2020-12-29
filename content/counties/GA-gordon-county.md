@@ -11,9 +11,9 @@ FIPS: 13129.0
 FEMA_Region: 4.0
 Population: 57963.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1178.0
-Fourteen_day_test_rate_per_100000: 2032.0
-Percent_Positivity_in_prior_14_days: 0.148
+Tests_in_prior_14_days: 1520.0
+Fourteen_day_test_rate_per_100000: 2622.0
+Percent_Positivity_in_prior_14_days: 0.168
 Level: Red
 url: /states/GA/gordon-county
 ---

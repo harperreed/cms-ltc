@@ -11,9 +11,9 @@ FIPS: 53049.0
 FEMA_Region: 10.0
 Population: 22471.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 447.0
-Fourteen_day_test_rate_per_100000: 1989.0
-Percent_Positivity_in_prior_14_days: 0.17
+Tests_in_prior_14_days: 260.0
+Fourteen_day_test_rate_per_100000: 1157.0
+Percent_Positivity_in_prior_14_days: 0.108
 Level: Yellow
 url: /states/WA/pacific-county
 ---

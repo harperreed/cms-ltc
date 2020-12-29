@@ -11,9 +11,9 @@ FIPS: 29123.0
 FEMA_Region: 7.0
 Population: 12088.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 568.0
-Fourteen_day_test_rate_per_100000: 4699.0
-Percent_Positivity_in_prior_14_days: 0.28
+Tests_in_prior_14_days: 298.0
+Fourteen_day_test_rate_per_100000: 2465.0
+Percent_Positivity_in_prior_14_days: 0.208
 Level: Red
 url: /states/MO/madison-county
 ---

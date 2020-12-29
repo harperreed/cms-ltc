@@ -11,9 +11,9 @@ FIPS: 45087.0
 FEMA_Region: 4.0
 Population: 27316.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 300.0
-Fourteen_day_test_rate_per_100000: 1098.0
-Percent_Positivity_in_prior_14_days: 0.163
+Tests_in_prior_14_days: 253.0
+Fourteen_day_test_rate_per_100000: 926.0
+Percent_Positivity_in_prior_14_days: 0.213
 Level: Yellow
 url: /states/SC/union-county
 ---

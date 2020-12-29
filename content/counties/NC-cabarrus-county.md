@@ -11,9 +11,9 @@ FIPS: 37025.0
 FEMA_Region: 4.0
 Population: 216453.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 11679.0
-Fourteen_day_test_rate_per_100000: 5396.0
-Percent_Positivity_in_prior_14_days: 0.118
+Tests_in_prior_14_days: 14846.0
+Fourteen_day_test_rate_per_100000: 6859.0
+Percent_Positivity_in_prior_14_days: 0.143
 Level: Red
 url: /states/NC/cabarrus-county
 ---

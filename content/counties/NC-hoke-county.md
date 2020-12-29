@@ -11,9 +11,9 @@ FIPS: 37093.0
 FEMA_Region: 4.0
 Population: 55234.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1164.0
-Fourteen_day_test_rate_per_100000: 2107.0
-Percent_Positivity_in_prior_14_days: 0.147
+Tests_in_prior_14_days: 1881.0
+Fourteen_day_test_rate_per_100000: 3406.0
+Percent_Positivity_in_prior_14_days: 0.191
 Level: Red
 url: /states/NC/hoke-county
 ---

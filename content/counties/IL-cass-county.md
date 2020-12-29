@@ -11,9 +11,9 @@ FIPS: 17017.0
 FEMA_Region: 5.0
 Population: 12147.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 665.0
-Fourteen_day_test_rate_per_100000: 5475.0
-Percent_Positivity_in_prior_14_days: 0.099
+Tests_in_prior_14_days: 590.0
+Fourteen_day_test_rate_per_100000: 4857.0
+Percent_Positivity_in_prior_14_days: 0.083
 Level: Yellow
 url: /states/IL/cass-county
 ---

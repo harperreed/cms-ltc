@@ -11,9 +11,9 @@ FIPS: 9009.0
 FEMA_Region: 1.0
 Population: 854757.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 20862.0
-Fourteen_day_test_rate_per_100000: 2441.0
-Percent_Positivity_in_prior_14_days: 0.12
+Tests_in_prior_14_days: 43278.0
+Fourteen_day_test_rate_per_100000: 5063.0
+Percent_Positivity_in_prior_14_days: 0.121
 Level: Red
 url: /states/CT/new-haven-county
 ---

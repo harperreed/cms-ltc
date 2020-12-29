@@ -11,9 +11,9 @@ FIPS: 40047.0
 FEMA_Region: 6.0
 Population: 61056.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1762.0
-Fourteen_day_test_rate_per_100000: 2886.0
-Percent_Positivity_in_prior_14_days: 0.27
+Tests_in_prior_14_days: 1209.0
+Fourteen_day_test_rate_per_100000: 1980.0
+Percent_Positivity_in_prior_14_days: 0.256
 Level: Red
 url: /states/OK/garfield-county
 ---

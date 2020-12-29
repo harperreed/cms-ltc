@@ -11,9 +11,9 @@ FIPS: 55133.0
 FEMA_Region: 5.0
 Population: 404198.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 30679.0
-Fourteen_day_test_rate_per_100000: 7590.0
-Percent_Positivity_in_prior_14_days: 0.178
+Tests_in_prior_14_days: 28863.0
+Fourteen_day_test_rate_per_100000: 7141.0
+Percent_Positivity_in_prior_14_days: 0.122
 Level: Red
 url: /states/WI/waukesha-county
 ---

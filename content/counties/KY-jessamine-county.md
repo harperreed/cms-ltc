@@ -11,9 +11,9 @@ FIPS: 21113.0
 FEMA_Region: 4.0
 Population: 54115.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1983.0
-Fourteen_day_test_rate_per_100000: 3664.0
-Percent_Positivity_in_prior_14_days: 0.166
+Tests_in_prior_14_days: 3076.0
+Fourteen_day_test_rate_per_100000: 5684.0
+Percent_Positivity_in_prior_14_days: 0.117
 Level: Red
 url: /states/KY/jessamine-county
 ---

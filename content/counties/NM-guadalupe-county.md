@@ -11,9 +11,9 @@ FIPS: 35019.0
 FEMA_Region: 6.0
 Population: 4300.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 403.0
-Fourteen_day_test_rate_per_100000: 9372.0
-Percent_Positivity_in_prior_14_days: 0.139
+Tests_in_prior_14_days: 399.0
+Fourteen_day_test_rate_per_100000: 9279.0
+Percent_Positivity_in_prior_14_days: 0.118
 Level: Red
 url: /states/NM/guadalupe-county
 ---

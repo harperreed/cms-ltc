@@ -11,9 +11,9 @@ FIPS: 26157.0
 FEMA_Region: 5.0
 Population: 52245.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 3540.0
-Fourteen_day_test_rate_per_100000: 6776.0
-Percent_Positivity_in_prior_14_days: 0.212
+Tests_in_prior_14_days: 2763.0
+Fourteen_day_test_rate_per_100000: 5289.0
+Percent_Positivity_in_prior_14_days: 0.154
 Level: Red
 url: /states/MI/tuscola-county
 ---

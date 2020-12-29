@@ -11,9 +11,9 @@ FIPS: 6029.0
 FEMA_Region: 9.0
 Population: 900202.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 35227.0
-Fourteen_day_test_rate_per_100000: 3913.0
-Percent_Positivity_in_prior_14_days: 0.124
+Tests_in_prior_14_days: 56318.0
+Fourteen_day_test_rate_per_100000: 6256.0
+Percent_Positivity_in_prior_14_days: 0.19
 Level: Red
 url: /states/CA/kern-county
 ---

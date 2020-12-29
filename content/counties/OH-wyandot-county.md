@@ -11,9 +11,9 @@ FIPS: 39175.0
 FEMA_Region: 5.0
 Population: 21772.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 329.0
-Fourteen_day_test_rate_per_100000: 1511.0
-Percent_Positivity_in_prior_14_days: 0.109
+Tests_in_prior_14_days: 292.0
+Fourteen_day_test_rate_per_100000: 1341.0
+Percent_Positivity_in_prior_14_days: 0.175
 Level: Yellow
 url: /states/OH/wyandot-county
 ---

@@ -11,9 +11,9 @@ FIPS: 16035.0
 FEMA_Region: 10.0
 Population: 8756.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 973.0
-Fourteen_day_test_rate_per_100000: 11112.0
-Percent_Positivity_in_prior_14_days: 0.322
+Tests_in_prior_14_days: 330.0
+Fourteen_day_test_rate_per_100000: 3769.0
+Percent_Positivity_in_prior_14_days: 0.109
 Level: Red
 url: /states/ID/clearwater-county
 ---

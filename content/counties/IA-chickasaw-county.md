@@ -11,9 +11,9 @@ FIPS: 19037.0
 FEMA_Region: 7.0
 Population: 11933.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 532.0
-Fourteen_day_test_rate_per_100000: 4458.0
-Percent_Positivity_in_prior_14_days: 0.205
+Tests_in_prior_14_days: 266.0
+Fourteen_day_test_rate_per_100000: 2229.0
+Percent_Positivity_in_prior_14_days: 0.147
 Level: Red
 url: /states/IA/chickasaw-county
 ---

@@ -11,9 +11,9 @@ FIPS: 18081.0
 FEMA_Region: 5.0
 Population: 158167.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 12835.0
-Fourteen_day_test_rate_per_100000: 8115.0
-Percent_Positivity_in_prior_14_days: 0.193
+Tests_in_prior_14_days: 11227.0
+Fourteen_day_test_rate_per_100000: 7098.0
+Percent_Positivity_in_prior_14_days: 0.186
 Level: Red
 url: /states/IN/johnson-county
 ---

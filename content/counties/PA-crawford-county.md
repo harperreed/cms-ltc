@@ -11,9 +11,9 @@ FIPS: 42039.0
 FEMA_Region: 3.0
 Population: 84629.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 7138.0
-Fourteen_day_test_rate_per_100000: 8434.0
-Percent_Positivity_in_prior_14_days: 0.197
+Tests_in_prior_14_days: 6486.0
+Fourteen_day_test_rate_per_100000: 7664.0
+Percent_Positivity_in_prior_14_days: 0.28
 Level: Red
 url: /states/PA/crawford-county
 ---

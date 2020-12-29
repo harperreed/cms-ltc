@@ -11,9 +11,9 @@ FIPS: 1089.0
 FEMA_Region: 4.0
 Population: 372909.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 17071.0
-Fourteen_day_test_rate_per_100000: 4578.0
-Percent_Positivity_in_prior_14_days: 0.156
+Tests_in_prior_14_days: 23323.0
+Fourteen_day_test_rate_per_100000: 6254.0
+Percent_Positivity_in_prior_14_days: 0.187
 Level: Red
 url: /states/AL/madison-county
 ---

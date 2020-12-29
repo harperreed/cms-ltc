@@ -11,9 +11,9 @@ FIPS: 22099.0
 FEMA_Region: 6.0
 Population: 53431.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1680.0
-Fourteen_day_test_rate_per_100000: 3144.0
-Percent_Positivity_in_prior_14_days: 0.15
+Tests_in_prior_14_days: 2208.0
+Fourteen_day_test_rate_per_100000: 4132.0
+Percent_Positivity_in_prior_14_days: 0.165
 Level: Red
 url: /states/LA/st-martin-parish
 ---

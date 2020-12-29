@@ -11,9 +11,9 @@ FIPS: 31099.0
 FEMA_Region: 7.0
 Population: 6495.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 260.0
-Fourteen_day_test_rate_per_100000: 4003.0
-Percent_Positivity_in_prior_14_days: 0.204
+Tests_in_prior_14_days: 177.0
+Fourteen_day_test_rate_per_100000: 2725.0
+Percent_Positivity_in_prior_14_days: 0.203
 Level: Red
 url: /states/NE/kearney-county
 ---

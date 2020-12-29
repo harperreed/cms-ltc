@@ -11,9 +11,9 @@ FIPS: 17057.0
 FEMA_Region: 5.0
 Population: 34340.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 5330.0
-Fourteen_day_test_rate_per_100000: 15521.0
-Percent_Positivity_in_prior_14_days: 0.093
+Tests_in_prior_14_days: 4427.0
+Fourteen_day_test_rate_per_100000: 12892.0
+Percent_Positivity_in_prior_14_days: 0.085
 Level: Yellow
 url: /states/IL/fulton-county
 ---

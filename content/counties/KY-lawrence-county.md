@@ -11,9 +11,9 @@ FIPS: 21127.0
 FEMA_Region: 4.0
 Population: 15317.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 490.0
-Fourteen_day_test_rate_per_100000: 3199.0
-Percent_Positivity_in_prior_14_days: 0.178
+Tests_in_prior_14_days: 1291.0
+Fourteen_day_test_rate_per_100000: 8429.0
+Percent_Positivity_in_prior_14_days: 0.125
 Level: Red
 url: /states/KY/lawrence-county
 ---

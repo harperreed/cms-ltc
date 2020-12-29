@@ -11,9 +11,9 @@ FIPS: 6047.0
 FEMA_Region: 9.0
 Population: 277680.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 12730.0
-Fourteen_day_test_rate_per_100000: 4584.0
-Percent_Positivity_in_prior_14_days: 0.105
+Tests_in_prior_14_days: 21160.0
+Fourteen_day_test_rate_per_100000: 7620.0
+Percent_Positivity_in_prior_14_days: 0.134
 Level: Red
 url: /states/CA/merced-county
 ---

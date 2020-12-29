@@ -11,9 +11,9 @@ FIPS: 21203.0
 FEMA_Region: 4.0
 Population: 16695.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 855.0
-Fourteen_day_test_rate_per_100000: 5121.0
-Percent_Positivity_in_prior_14_days: 0.196
+Tests_in_prior_14_days: 1993.0
+Fourteen_day_test_rate_per_100000: 11938.0
+Percent_Positivity_in_prior_14_days: 0.132
 Level: Red
 url: /states/KY/rockcastle-county
 ---

@@ -11,9 +11,9 @@ FIPS: 20175.0
 FEMA_Region: 7.0
 Population: 21428.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 516.0
-Fourteen_day_test_rate_per_100000: 2408.0
-Percent_Positivity_in_prior_14_days: 0.496
+Tests_in_prior_14_days: 535.0
+Fourteen_day_test_rate_per_100000: 2497.0
+Percent_Positivity_in_prior_14_days: 0.479
 Level: Red
 url: /states/KS/seward-county
 ---

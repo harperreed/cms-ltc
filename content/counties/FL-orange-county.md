@@ -11,9 +11,9 @@ FIPS: 12095.0
 FEMA_Region: 4.0
 Population: 1393452.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 62011.0
-Fourteen_day_test_rate_per_100000: 4450.0
-Percent_Positivity_in_prior_14_days: 0.078
+Tests_in_prior_14_days: 73952.0
+Fourteen_day_test_rate_per_100000: 5307.0
+Percent_Positivity_in_prior_14_days: 0.087
 Level: Yellow
 url: /states/FL/orange-county
 ---

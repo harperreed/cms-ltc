@@ -11,9 +11,9 @@ FIPS: 18171.0
 FEMA_Region: 5.0
 Population: 8265.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 351.0
-Fourteen_day_test_rate_per_100000: 4247.0
-Percent_Positivity_in_prior_14_days: 0.259
+Tests_in_prior_14_days: 392.0
+Fourteen_day_test_rate_per_100000: 4743.0
+Percent_Positivity_in_prior_14_days: 0.209
 Level: Red
 url: /states/IN/warren-county
 ---

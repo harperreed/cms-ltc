@@ -11,9 +11,9 @@ FIPS: 13135.0
 FEMA_Region: 4.0
 Population: 936250.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 32323.0
-Fourteen_day_test_rate_per_100000: 3452.0
-Percent_Positivity_in_prior_14_days: 0.117
+Tests_in_prior_14_days: 45772.0
+Fourteen_day_test_rate_per_100000: 4889.0
+Percent_Positivity_in_prior_14_days: 0.17
 Level: Red
 url: /states/GA/gwinnett-county
 ---

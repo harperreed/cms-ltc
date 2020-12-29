@@ -11,9 +11,9 @@ FIPS: 12041.0
 FEMA_Region: 4.0
 Population: 18582.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 737.0
-Fourteen_day_test_rate_per_100000: 3966.0
-Percent_Positivity_in_prior_14_days: 0.144
+Tests_in_prior_14_days: 1021.0
+Fourteen_day_test_rate_per_100000: 5495.0
+Percent_Positivity_in_prior_14_days: 0.103
 Level: Red
 url: /states/FL/gilchrist-county
 ---

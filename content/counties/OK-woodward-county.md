@@ -11,9 +11,9 @@ FIPS: 40153.0
 FEMA_Region: 6.0
 Population: 20211.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 276.0
-Fourteen_day_test_rate_per_100000: 1366.0
-Percent_Positivity_in_prior_14_days: 0.264
+Tests_in_prior_14_days: 122.0
+Fourteen_day_test_rate_per_100000: 604.0
+Percent_Positivity_in_prior_14_days: 0.238
 Level: Yellow
 url: /states/OK/woodward-county
 ---

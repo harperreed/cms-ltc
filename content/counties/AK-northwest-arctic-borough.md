@@ -11,9 +11,9 @@ FIPS: 2188.0
 FEMA_Region: 10.0
 Population: 7621.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1374.0
-Fourteen_day_test_rate_per_100000: 18029.0
-Percent_Positivity_in_prior_14_days: 0.042
+Tests_in_prior_14_days: 1598.0
+Fourteen_day_test_rate_per_100000: 20968.0
+Percent_Positivity_in_prior_14_days: 0.01
 Level: Green
 url: /states/AK/northwest-arctic-borough
 ---

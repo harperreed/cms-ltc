@@ -11,9 +11,9 @@ FIPS: 48401.0
 FEMA_Region: 6.0
 Population: 54406.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 964.0
-Fourteen_day_test_rate_per_100000: 1772.0
-Percent_Positivity_in_prior_14_days: 0.197
+Tests_in_prior_14_days: 920.0
+Fourteen_day_test_rate_per_100000: 1691.0
+Percent_Positivity_in_prior_14_days: 0.245
 Level: Red
 url: /states/TX/rusk-county
 ---

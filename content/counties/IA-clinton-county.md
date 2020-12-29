@@ -11,9 +11,9 @@ FIPS: 19045.0
 FEMA_Region: 7.0
 Population: 46429.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3450.0
-Fourteen_day_test_rate_per_100000: 7431.0
-Percent_Positivity_in_prior_14_days: 0.205
+Tests_in_prior_14_days: 2412.0
+Fourteen_day_test_rate_per_100000: 5195.0
+Percent_Positivity_in_prior_14_days: 0.138
 Level: Red
 url: /states/IA/clinton-county
 ---

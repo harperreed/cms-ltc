@@ -11,9 +11,9 @@ FIPS: 21079.0
 FEMA_Region: 4.0
 Population: 17666.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 575.0
-Fourteen_day_test_rate_per_100000: 3255.0
-Percent_Positivity_in_prior_14_days: 0.193
+Tests_in_prior_14_days: 939.0
+Fourteen_day_test_rate_per_100000: 5315.0
+Percent_Positivity_in_prior_14_days: 0.132
 Level: Red
 url: /states/KY/garrard-county
 ---

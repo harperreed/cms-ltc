@@ -11,9 +11,9 @@ FIPS: 21015.0
 FEMA_Region: 4.0
 Population: 133581.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 4854.0
-Fourteen_day_test_rate_per_100000: 3634.0
-Percent_Positivity_in_prior_14_days: 0.22
+Tests_in_prior_14_days: 7386.0
+Fourteen_day_test_rate_per_100000: 5529.0
+Percent_Positivity_in_prior_14_days: 0.176
 Level: Red
 url: /states/KY/boone-county
 ---

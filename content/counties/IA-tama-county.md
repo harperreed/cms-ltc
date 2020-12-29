@@ -11,9 +11,9 @@ FIPS: 19171.0
 FEMA_Region: 7.0
 Population: 16854.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 863.0
-Fourteen_day_test_rate_per_100000: 5120.0
-Percent_Positivity_in_prior_14_days: 0.18
+Tests_in_prior_14_days: 576.0
+Fourteen_day_test_rate_per_100000: 3418.0
+Percent_Positivity_in_prior_14_days: 0.148
 Level: Red
 url: /states/IA/tama-county
 ---

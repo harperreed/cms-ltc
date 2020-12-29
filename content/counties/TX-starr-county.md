@@ -11,9 +11,9 @@ FIPS: 48427.0
 FEMA_Region: 6.0
 Population: 64633.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1635.0
-Fourteen_day_test_rate_per_100000: 2530.0
-Percent_Positivity_in_prior_14_days: 0.158
+Tests_in_prior_14_days: 2790.0
+Fourteen_day_test_rate_per_100000: 4317.0
+Percent_Positivity_in_prior_14_days: 0.188
 Level: Red
 url: /states/TX/starr-county
 ---

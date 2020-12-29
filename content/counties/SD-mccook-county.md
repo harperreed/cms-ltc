@@ -11,9 +11,9 @@ FIPS: 46087.0
 FEMA_Region: 8.0
 Population: 5586.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 102.0
-Fourteen_day_test_rate_per_100000: 1826.0
-Percent_Positivity_in_prior_14_days: 0.304
+Tests_in_prior_14_days: 79.0
+Fourteen_day_test_rate_per_100000: 1414.0
+Percent_Positivity_in_prior_14_days: 0.19
 Level: Yellow
 url: /states/SD/mccook-county
 ---

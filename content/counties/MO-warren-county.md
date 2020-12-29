@@ -11,9 +11,9 @@ FIPS: 29219.0
 FEMA_Region: 7.0
 Population: 35649.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 305.0
-Fourteen_day_test_rate_per_100000: 856.0
-Percent_Positivity_in_prior_14_days: 0.266
+Tests_in_prior_14_days: 400.0
+Fourteen_day_test_rate_per_100000: 1122.0
+Percent_Positivity_in_prior_14_days: 0.172
 Level: Yellow
 url: /states/MO/warren-county
 ---

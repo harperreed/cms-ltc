@@ -11,9 +11,9 @@ FIPS: 42129.0
 FEMA_Region: 3.0
 Population: 348899.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 20981.0
-Fourteen_day_test_rate_per_100000: 6013.0
-Percent_Positivity_in_prior_14_days: 0.155
+Tests_in_prior_14_days: 24631.0
+Fourteen_day_test_rate_per_100000: 7060.0
+Percent_Positivity_in_prior_14_days: 0.173
 Level: Red
 url: /states/PA/westmoreland-county
 ---

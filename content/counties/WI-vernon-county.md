@@ -11,9 +11,9 @@ FIPS: 55123.0
 FEMA_Region: 5.0
 Population: 30822.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1984.0
-Fourteen_day_test_rate_per_100000: 6437.0
-Percent_Positivity_in_prior_14_days: 0.089
+Tests_in_prior_14_days: 1702.0
+Fourteen_day_test_rate_per_100000: 5522.0
+Percent_Positivity_in_prior_14_days: 0.053
 Level: Yellow
 url: /states/WI/vernon-county
 ---

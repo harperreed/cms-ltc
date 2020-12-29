@@ -11,9 +11,9 @@ FIPS: 19001.0
 FEMA_Region: 7.0
 Population: 7152.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 628.0
-Fourteen_day_test_rate_per_100000: 8781.0
-Percent_Positivity_in_prior_14_days: 0.123
+Tests_in_prior_14_days: 450.0
+Fourteen_day_test_rate_per_100000: 6292.0
+Percent_Positivity_in_prior_14_days: 0.122
 Level: Red
 url: /states/IA/adair-county
 ---

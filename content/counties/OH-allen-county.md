@@ -11,9 +11,9 @@ FIPS: 39003.0
 FEMA_Region: 5.0
 Population: 102351.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2613.0
-Fourteen_day_test_rate_per_100000: 2553.0
-Percent_Positivity_in_prior_14_days: 0.233
+Tests_in_prior_14_days: 2047.0
+Fourteen_day_test_rate_per_100000: 2000.0
+Percent_Positivity_in_prior_14_days: 0.228
 Level: Red
 url: /states/OH/allen-county
 ---

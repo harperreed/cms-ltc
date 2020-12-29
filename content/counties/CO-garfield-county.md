@@ -11,9 +11,9 @@ FIPS: 8045.0
 FEMA_Region: 8.0
 Population: 60061.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 5920.0
-Fourteen_day_test_rate_per_100000: 9857.0
-Percent_Positivity_in_prior_14_days: 0.137
+Tests_in_prior_14_days: 7069.0
+Fourteen_day_test_rate_per_100000: 11770.0
+Percent_Positivity_in_prior_14_days: 0.113
 Level: Red
 url: /states/CO/garfield-county
 ---

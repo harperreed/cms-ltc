@@ -3,7 +3,7 @@ title: "Winnebago County, IA"
 date: 2020-12-29
 draft: false
 type: county
-tags: [FIPS:19189.0,FEMA:7.0,Non-core,Red]
+tags: [FIPS:19189.0,FEMA:7.0,Non-core,Yellow]
 categories: [IA]
 County: Winnebago County
 State: IA
@@ -11,10 +11,10 @@ FIPS: 19189.0
 FEMA_Region: 7.0
 Population: 10354.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 532.0
-Fourteen_day_test_rate_per_100000: 5138.0
-Percent_Positivity_in_prior_14_days: 0.154
-Level: Red
+Tests_in_prior_14_days: 383.0
+Fourteen_day_test_rate_per_100000: 3699.0
+Percent_Positivity_in_prior_14_days: 0.094
+Level: Yellow
 url: /states/IA/winnebago-county
 ---
 

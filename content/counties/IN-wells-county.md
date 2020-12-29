@@ -11,9 +11,9 @@ FIPS: 18179.0
 FEMA_Region: 5.0
 Population: 28296.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1397.0
-Fourteen_day_test_rate_per_100000: 4937.0
-Percent_Positivity_in_prior_14_days: 0.178
+Tests_in_prior_14_days: 845.0
+Fourteen_day_test_rate_per_100000: 2986.0
+Percent_Positivity_in_prior_14_days: 0.193
 Level: Red
 url: /states/IN/wells-county
 ---

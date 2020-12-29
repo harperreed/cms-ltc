@@ -11,9 +11,9 @@ FIPS: 17139.0
 FEMA_Region: 5.0
 Population: 14501.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1412.0
-Fourteen_day_test_rate_per_100000: 9737.0
-Percent_Positivity_in_prior_14_days: 0.103
+Tests_in_prior_14_days: 966.0
+Fourteen_day_test_rate_per_100000: 6662.0
+Percent_Positivity_in_prior_14_days: 0.131
 Level: Red
 url: /states/IL/moultrie-county
 ---

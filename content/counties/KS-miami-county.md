@@ -11,9 +11,9 @@ FIPS: 20121.0
 FEMA_Region: 7.0
 Population: 34237.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1674.0
-Fourteen_day_test_rate_per_100000: 4889.0
-Percent_Positivity_in_prior_14_days: 0.188
+Tests_in_prior_14_days: 2175.0
+Fourteen_day_test_rate_per_100000: 6353.0
+Percent_Positivity_in_prior_14_days: 0.164
 Level: Red
 url: /states/KS/miami-county
 ---

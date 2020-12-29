@@ -11,9 +11,9 @@ FIPS: 32001.0
 FEMA_Region: 9.0
 Population: 24909.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1664.0
-Fourteen_day_test_rate_per_100000: 6680.0
-Percent_Positivity_in_prior_14_days: 0.201
+Tests_in_prior_14_days: 1650.0
+Fourteen_day_test_rate_per_100000: 6624.0
+Percent_Positivity_in_prior_14_days: 0.156
 Level: Red
 url: /states/NV/churchill-county
 ---

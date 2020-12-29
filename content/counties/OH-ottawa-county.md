@@ -11,9 +11,9 @@ FIPS: 39123.0
 FEMA_Region: 5.0
 Population: 40525.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1032.0
-Fourteen_day_test_rate_per_100000: 2547.0
-Percent_Positivity_in_prior_14_days: 0.159
+Tests_in_prior_14_days: 651.0
+Fourteen_day_test_rate_per_100000: 1606.0
+Percent_Positivity_in_prior_14_days: 0.26
 Level: Red
 url: /states/OH/ottawa-county
 ---

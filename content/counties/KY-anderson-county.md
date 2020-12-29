@@ -11,9 +11,9 @@ FIPS: 21005.0
 FEMA_Region: 4.0
 Population: 22747.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 525.0
-Fourteen_day_test_rate_per_100000: 2308.0
-Percent_Positivity_in_prior_14_days: 0.122
+Tests_in_prior_14_days: 1068.0
+Fourteen_day_test_rate_per_100000: 4695.0
+Percent_Positivity_in_prior_14_days: 0.193
 Level: Red
 url: /states/KY/anderson-county
 ---

@@ -11,9 +11,9 @@ FIPS: 26021.0
 FEMA_Region: 5.0
 Population: 153401.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 20275.0
-Fourteen_day_test_rate_per_100000: 13217.0
-Percent_Positivity_in_prior_14_days: 0.187
+Tests_in_prior_14_days: 14398.0
+Fourteen_day_test_rate_per_100000: 9386.0
+Percent_Positivity_in_prior_14_days: 0.106
 Level: Red
 url: /states/MI/berrien-county
 ---

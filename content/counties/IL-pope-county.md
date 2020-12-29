@@ -11,9 +11,9 @@ FIPS: 17151.0
 FEMA_Region: 5.0
 Population: 4177.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 169.0
-Fourteen_day_test_rate_per_100000: 4046.0
-Percent_Positivity_in_prior_14_days: 0.172
+Tests_in_prior_14_days: 128.0
+Fourteen_day_test_rate_per_100000: 3064.0
+Percent_Positivity_in_prior_14_days: 0.109
 Level: Red
 url: /states/IL/pope-county
 ---

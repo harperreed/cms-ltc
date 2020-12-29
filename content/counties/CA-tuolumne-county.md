@@ -11,9 +11,9 @@ FIPS: 6109.0
 FEMA_Region: 9.0
 Population: 54478.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4121.0
-Fourteen_day_test_rate_per_100000: 7565.0
-Percent_Positivity_in_prior_14_days: 0.102
+Tests_in_prior_14_days: 6482.0
+Fourteen_day_test_rate_per_100000: 11898.0
+Percent_Positivity_in_prior_14_days: 0.163
 Level: Red
 url: /states/CA/tuolumne-county
 ---

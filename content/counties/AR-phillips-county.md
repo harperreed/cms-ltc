@@ -11,9 +11,9 @@ FIPS: 5107.0
 FEMA_Region: 6.0
 Population: 17782.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1188.0
-Fourteen_day_test_rate_per_100000: 6681.0
-Percent_Positivity_in_prior_14_days: 0.058
+Tests_in_prior_14_days: 1650.0
+Fourteen_day_test_rate_per_100000: 9279.0
+Percent_Positivity_in_prior_14_days: 0.091
 Level: Yellow
 url: /states/AR/phillips-county
 ---

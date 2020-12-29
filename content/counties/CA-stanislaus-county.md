@@ -11,9 +11,9 @@ FIPS: 6099.0
 FEMA_Region: 9.0
 Population: 550660.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 21625.0
-Fourteen_day_test_rate_per_100000: 3927.0
-Percent_Positivity_in_prior_14_days: 0.12
+Tests_in_prior_14_days: 31730.0
+Fourteen_day_test_rate_per_100000: 5762.0
+Percent_Positivity_in_prior_14_days: 0.162
 Level: Red
 url: /states/CA/stanislaus-county
 ---

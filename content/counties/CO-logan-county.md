@@ -11,9 +11,9 @@ FIPS: 8075.0
 FEMA_Region: 8.0
 Population: 22409.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 5322.0
-Fourteen_day_test_rate_per_100000: 23749.0
-Percent_Positivity_in_prior_14_days: 0.189
+Tests_in_prior_14_days: 5327.0
+Fourteen_day_test_rate_per_100000: 23772.0
+Percent_Positivity_in_prior_14_days: 0.114
 Level: Red
 url: /states/CO/logan-county
 ---

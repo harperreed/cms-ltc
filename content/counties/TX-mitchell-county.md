@@ -11,9 +11,9 @@ FIPS: 48335.0
 FEMA_Region: 6.0
 Population: 8545.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 294.0
-Fourteen_day_test_rate_per_100000: 3441.0
-Percent_Positivity_in_prior_14_days: 0.279
+Tests_in_prior_14_days: 173.0
+Fourteen_day_test_rate_per_100000: 2025.0
+Percent_Positivity_in_prior_14_days: 0.237
 Level: Red
 url: /states/TX/mitchell-county
 ---

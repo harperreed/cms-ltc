@@ -11,9 +11,9 @@ FIPS: 27125.0
 FEMA_Region: 5.0
 Population: 4055.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 498.0
-Fourteen_day_test_rate_per_100000: 12281.0
-Percent_Positivity_in_prior_14_days: 0.159
+Tests_in_prior_14_days: 283.0
+Fourteen_day_test_rate_per_100000: 6979.0
+Percent_Positivity_in_prior_14_days: 0.106
 Level: Red
 url: /states/MN/red-lake-county
 ---

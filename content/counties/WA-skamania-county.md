@@ -11,9 +11,9 @@ FIPS: 53059.0
 FEMA_Region: 10.0
 Population: 12083.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 119.0
-Fourteen_day_test_rate_per_100000: 985.0
-Percent_Positivity_in_prior_14_days: 0.05
+Tests_in_prior_14_days: 161.0
+Fourteen_day_test_rate_per_100000: 1332.0
+Percent_Positivity_in_prior_14_days: 0.075
 Level: Yellow
 url: /states/WA/skamania-county
 ---

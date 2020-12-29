@@ -11,9 +11,9 @@ FIPS: 25015.0
 FEMA_Region: 1.0
 Population: 160830.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 29063.0
-Fourteen_day_test_rate_per_100000: 18071.0
-Percent_Positivity_in_prior_14_days: 0.018
+Tests_in_prior_14_days: 22014.0
+Fourteen_day_test_rate_per_100000: 13688.0
+Percent_Positivity_in_prior_14_days: 0.031
 Level: Green
 url: /states/MA/hampshire-county
 ---

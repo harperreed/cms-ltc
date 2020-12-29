@@ -11,9 +11,9 @@ FIPS: 18129.0
 FEMA_Region: 5.0
 Population: 25427.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1878.0
-Fourteen_day_test_rate_per_100000: 7386.0
-Percent_Positivity_in_prior_14_days: 0.19
+Tests_in_prior_14_days: 1251.0
+Fourteen_day_test_rate_per_100000: 4920.0
+Percent_Positivity_in_prior_14_days: 0.195
 Level: Red
 url: /states/IN/posey-county
 ---

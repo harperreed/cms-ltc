@@ -11,9 +11,9 @@ FIPS: 39055.0
 FEMA_Region: 5.0
 Population: 93649.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1578.0
-Fourteen_day_test_rate_per_100000: 1685.0
-Percent_Positivity_in_prior_14_days: 0.142
+Tests_in_prior_14_days: 1169.0
+Fourteen_day_test_rate_per_100000: 1248.0
+Percent_Positivity_in_prior_14_days: 0.144
 Level: Red
 url: /states/OH/geauga-county
 ---

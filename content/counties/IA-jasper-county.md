@@ -11,9 +11,9 @@ FIPS: 19099.0
 FEMA_Region: 7.0
 Population: 37185.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2032.0
-Fourteen_day_test_rate_per_100000: 5465.0
-Percent_Positivity_in_prior_14_days: 0.19
+Tests_in_prior_14_days: 2608.0
+Fourteen_day_test_rate_per_100000: 7014.0
+Percent_Positivity_in_prior_14_days: 0.114
 Level: Red
 url: /states/IA/jasper-county
 ---

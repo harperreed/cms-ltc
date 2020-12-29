@@ -11,9 +11,9 @@ FIPS: 17147.0
 FEMA_Region: 5.0
 Population: 16344.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1597.0
-Fourteen_day_test_rate_per_100000: 9771.0
-Percent_Positivity_in_prior_14_days: 0.075
+Tests_in_prior_14_days: 1334.0
+Fourteen_day_test_rate_per_100000: 8162.0
+Percent_Positivity_in_prior_14_days: 0.057
 Level: Yellow
 url: /states/IL/piatt-county
 ---

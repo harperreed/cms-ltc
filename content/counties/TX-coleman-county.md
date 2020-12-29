@@ -11,9 +11,9 @@ FIPS: 48083.0
 FEMA_Region: 6.0
 Population: 8175.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 213.0
-Fourteen_day_test_rate_per_100000: 2606.0
-Percent_Positivity_in_prior_14_days: 0.333
+Tests_in_prior_14_days: 253.0
+Fourteen_day_test_rate_per_100000: 3095.0
+Percent_Positivity_in_prior_14_days: 0.304
 Level: Red
 url: /states/TX/coleman-county
 ---

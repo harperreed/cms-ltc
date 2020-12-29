@@ -11,9 +11,9 @@ FIPS: 27171.0
 FEMA_Region: 5.0
 Population: 138377.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 16111.0
-Fourteen_day_test_rate_per_100000: 11643.0
-Percent_Positivity_in_prior_14_days: 0.184
+Tests_in_prior_14_days: 9841.0
+Fourteen_day_test_rate_per_100000: 7112.0
+Percent_Positivity_in_prior_14_days: 0.106
 Level: Red
 url: /states/MN/wright-county
 ---

@@ -11,9 +11,9 @@ FIPS: 20047.0
 FEMA_Region: 7.0
 Population: 2798.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 59.0
-Fourteen_day_test_rate_per_100000: 2109.0
-Percent_Positivity_in_prior_14_days: 0.373
+Tests_in_prior_14_days: 63.0
+Fourteen_day_test_rate_per_100000: 2252.0
+Percent_Positivity_in_prior_14_days: 0.222
 Level: Red
 url: /states/KS/edwards-county
 ---

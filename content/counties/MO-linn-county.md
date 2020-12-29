@@ -11,9 +11,9 @@ FIPS: 29115.0
 FEMA_Region: 7.0
 Population: 11920.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 45.0
-Fourteen_day_test_rate_per_100000: 378.0
-Percent_Positivity_in_prior_14_days: 0.156
+Tests_in_prior_14_days: 49.0
+Fourteen_day_test_rate_per_100000: 411.0
+Percent_Positivity_in_prior_14_days: 0.082
 Level: Yellow
 url: /states/MO/linn-county
 ---

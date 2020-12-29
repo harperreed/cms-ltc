@@ -11,9 +11,9 @@ FIPS: 18085.0
 FEMA_Region: 5.0
 Population: 79456.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 5586.0
-Fourteen_day_test_rate_per_100000: 7030.0
-Percent_Positivity_in_prior_14_days: 0.173
+Tests_in_prior_14_days: 3282.0
+Fourteen_day_test_rate_per_100000: 4131.0
+Percent_Positivity_in_prior_14_days: 0.209
 Level: Red
 url: /states/IN/kosciusko-county
 ---

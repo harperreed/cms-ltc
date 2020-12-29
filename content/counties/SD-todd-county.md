@@ -11,9 +11,9 @@ FIPS: 46121.0
 FEMA_Region: 8.0
 Population: 10177.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 172.0
-Fourteen_day_test_rate_per_100000: 1690.0
-Percent_Positivity_in_prior_14_days: 0.308
+Tests_in_prior_14_days: 30.0
+Fourteen_day_test_rate_per_100000: 295.0
+Percent_Positivity_in_prior_14_days: 0.1
 Level: Yellow
 url: /states/SD/todd-county
 ---

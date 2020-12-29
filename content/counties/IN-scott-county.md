@@ -11,9 +11,9 @@ FIPS: 18143.0
 FEMA_Region: 5.0
 Population: 23873.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 2610.0
-Fourteen_day_test_rate_per_100000: 10933.0
-Percent_Positivity_in_prior_14_days: 0.155
+Tests_in_prior_14_days: 2093.0
+Fourteen_day_test_rate_per_100000: 8767.0
+Percent_Positivity_in_prior_14_days: 0.15
 Level: Red
 url: /states/IN/scott-county
 ---

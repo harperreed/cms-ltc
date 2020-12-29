@@ -11,9 +11,9 @@ FIPS: 46103.0
 FEMA_Region: 8.0
 Population: 113775.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 6327.0
-Fourteen_day_test_rate_per_100000: 5561.0
-Percent_Positivity_in_prior_14_days: 0.141
+Tests_in_prior_14_days: 2797.0
+Fourteen_day_test_rate_per_100000: 2458.0
+Percent_Positivity_in_prior_14_days: 0.192
 Level: Red
 url: /states/SD/pennington-county
 ---

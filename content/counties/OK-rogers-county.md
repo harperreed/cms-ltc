@@ -11,9 +11,9 @@ FIPS: 40131.0
 FEMA_Region: 6.0
 Population: 92459.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1632.0
-Fourteen_day_test_rate_per_100000: 1765.0
-Percent_Positivity_in_prior_14_days: 0.183
+Tests_in_prior_14_days: 1267.0
+Fourteen_day_test_rate_per_100000: 1370.0
+Percent_Positivity_in_prior_14_days: 0.253
 Level: Red
 url: /states/OK/rogers-county
 ---

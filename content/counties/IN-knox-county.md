@@ -11,9 +11,9 @@ FIPS: 18083.0
 FEMA_Region: 5.0
 Population: 36594.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1926.0
-Fourteen_day_test_rate_per_100000: 5263.0
-Percent_Positivity_in_prior_14_days: 0.185
+Tests_in_prior_14_days: 1143.0
+Fourteen_day_test_rate_per_100000: 3123.0
+Percent_Positivity_in_prior_14_days: 0.159
 Level: Red
 url: /states/IN/knox-county
 ---

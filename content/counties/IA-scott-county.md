@@ -11,9 +11,9 @@ FIPS: 19163.0
 FEMA_Region: 7.0
 Population: 172943.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 15531.0
-Fourteen_day_test_rate_per_100000: 8980.0
-Percent_Positivity_in_prior_14_days: 0.191
+Tests_in_prior_14_days: 10373.0
+Fourteen_day_test_rate_per_100000: 5998.0
+Percent_Positivity_in_prior_14_days: 0.118
 Level: Red
 url: /states/IA/scott-county
 ---

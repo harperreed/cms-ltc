@@ -11,9 +11,9 @@ FIPS: 29161.0
 FEMA_Region: 7.0
 Population: 44573.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 440.0
-Fourteen_day_test_rate_per_100000: 987.0
-Percent_Positivity_in_prior_14_days: 0.184
+Tests_in_prior_14_days: 302.0
+Fourteen_day_test_rate_per_100000: 678.0
+Percent_Positivity_in_prior_14_days: 0.172
 Level: Yellow
 url: /states/MO/phelps-county
 ---

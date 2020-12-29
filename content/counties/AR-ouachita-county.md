@@ -11,9 +11,9 @@ FIPS: 5103.0
 FEMA_Region: 6.0
 Population: 23382.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1225.0
-Fourteen_day_test_rate_per_100000: 5239.0
-Percent_Positivity_in_prior_14_days: 0.144
+Tests_in_prior_14_days: 924.0
+Fourteen_day_test_rate_per_100000: 3952.0
+Percent_Positivity_in_prior_14_days: 0.149
 Level: Red
 url: /states/AR/ouachita-county
 ---

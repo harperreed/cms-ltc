@@ -11,9 +11,9 @@ FIPS: 35017.0
 FEMA_Region: 6.0
 Population: 26998.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1762.0
-Fourteen_day_test_rate_per_100000: 6526.0
-Percent_Positivity_in_prior_14_days: 0.06
+Tests_in_prior_14_days: 1588.0
+Fourteen_day_test_rate_per_100000: 5882.0
+Percent_Positivity_in_prior_14_days: 0.084
 Level: Yellow
 url: /states/NM/grant-county
 ---

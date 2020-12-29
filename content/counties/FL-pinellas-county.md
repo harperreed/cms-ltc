@@ -11,9 +11,9 @@ FIPS: 12103.0
 FEMA_Region: 4.0
 Population: 974996.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 51426.0
-Fourteen_day_test_rate_per_100000: 5274.0
-Percent_Positivity_in_prior_14_days: 0.064
+Tests_in_prior_14_days: 58083.0
+Fourteen_day_test_rate_per_100000: 5957.0
+Percent_Positivity_in_prior_14_days: 0.082
 Level: Yellow
 url: /states/FL/pinellas-county
 ---

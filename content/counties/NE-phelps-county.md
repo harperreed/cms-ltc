@@ -11,9 +11,9 @@ FIPS: 31137.0
 FEMA_Region: 7.0
 Population: 9034.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 289.0
-Fourteen_day_test_rate_per_100000: 3199.0
-Percent_Positivity_in_prior_14_days: 0.329
+Tests_in_prior_14_days: 210.0
+Fourteen_day_test_rate_per_100000: 2325.0
+Percent_Positivity_in_prior_14_days: 0.186
 Level: Red
 url: /states/NE/phelps-county
 ---

@@ -11,9 +11,9 @@ FIPS: 35045.0
 FEMA_Region: 6.0
 Population: 123958.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 8966.0
-Fourteen_day_test_rate_per_100000: 7233.0
-Percent_Positivity_in_prior_14_days: 0.158
+Tests_in_prior_14_days: 6733.0
+Fourteen_day_test_rate_per_100000: 5432.0
+Percent_Positivity_in_prior_14_days: 0.167
 Level: Red
 url: /states/NM/san-juan-county
 ---

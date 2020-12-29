@@ -11,9 +11,9 @@ FIPS: 31027.0
 FEMA_Region: 7.0
 Population: 8402.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 307.0
-Fourteen_day_test_rate_per_100000: 3654.0
-Percent_Positivity_in_prior_14_days: 0.362
+Tests_in_prior_14_days: 235.0
+Fourteen_day_test_rate_per_100000: 2797.0
+Percent_Positivity_in_prior_14_days: 0.115
 Level: Red
 url: /states/NE/cedar-county
 ---

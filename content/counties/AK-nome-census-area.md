@@ -11,9 +11,9 @@ FIPS: 2180.0
 FEMA_Region: 10.0
 Population: 10004.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 6109.0
-Fourteen_day_test_rate_per_100000: 61066.0
-Percent_Positivity_in_prior_14_days: 0.028
+Tests_in_prior_14_days: 4216.0
+Fourteen_day_test_rate_per_100000: 42143.0
+Percent_Positivity_in_prior_14_days: 0.004
 Level: Green
 url: /states/AK/nome-census-area
 ---

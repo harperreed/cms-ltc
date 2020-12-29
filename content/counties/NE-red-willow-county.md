@@ -11,9 +11,9 @@ FIPS: 31145.0
 FEMA_Region: 7.0
 Population: 10724.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 525.0
-Fourteen_day_test_rate_per_100000: 4896.0
-Percent_Positivity_in_prior_14_days: 0.211
+Tests_in_prior_14_days: 396.0
+Fourteen_day_test_rate_per_100000: 3693.0
+Percent_Positivity_in_prior_14_days: 0.237
 Level: Red
 url: /states/NE/red-willow-county
 ---

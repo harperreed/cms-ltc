@@ -11,9 +11,9 @@ FIPS: 10001.0
 FEMA_Region: 3.0
 Population: 180786.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 17214.0
-Fourteen_day_test_rate_per_100000: 9522.0
-Percent_Positivity_in_prior_14_days: 0.078
+Tests_in_prior_14_days: 20852.0
+Fourteen_day_test_rate_per_100000: 11534.0
+Percent_Positivity_in_prior_14_days: 0.099
 Level: Yellow
 url: /states/DE/kent-county
 ---

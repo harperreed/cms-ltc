@@ -11,9 +11,9 @@ FIPS: 26149.0
 FEMA_Region: 5.0
 Population: 60964.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3268.0
-Fourteen_day_test_rate_per_100000: 5361.0
-Percent_Positivity_in_prior_14_days: 0.125
+Tests_in_prior_14_days: 2596.0
+Fourteen_day_test_rate_per_100000: 4258.0
+Percent_Positivity_in_prior_14_days: 0.103
 Level: Red
 url: /states/MI/st-joseph-county
 ---

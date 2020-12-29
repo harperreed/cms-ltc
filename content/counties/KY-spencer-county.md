@@ -11,9 +11,9 @@ FIPS: 21215.0
 FEMA_Region: 4.0
 Population: 19351.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 436.0
-Fourteen_day_test_rate_per_100000: 2253.0
-Percent_Positivity_in_prior_14_days: 0.195
+Tests_in_prior_14_days: 854.0
+Fourteen_day_test_rate_per_100000: 4413.0
+Percent_Positivity_in_prior_14_days: 0.191
 Level: Red
 url: /states/KY/spencer-county
 ---

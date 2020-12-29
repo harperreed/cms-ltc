@@ -11,9 +11,9 @@ FIPS: 5009.0
 FEMA_Region: 6.0
 Population: 37432.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1458.0
-Fourteen_day_test_rate_per_100000: 3895.0
-Percent_Positivity_in_prior_14_days: 0.13
+Tests_in_prior_14_days: 1334.0
+Fourteen_day_test_rate_per_100000: 3564.0
+Percent_Positivity_in_prior_14_days: 0.147
 Level: Red
 url: /states/AR/boone-county
 ---

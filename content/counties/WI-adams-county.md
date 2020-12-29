@@ -11,9 +11,9 @@ FIPS: 55001.0
 FEMA_Region: 5.0
 Population: 20220.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1888.0
-Fourteen_day_test_rate_per_100000: 9337.0
-Percent_Positivity_in_prior_14_days: 0.16
+Tests_in_prior_14_days: 1445.0
+Fourteen_day_test_rate_per_100000: 7146.0
+Percent_Positivity_in_prior_14_days: 0.109
 Level: Red
 url: /states/WI/adams-county
 ---

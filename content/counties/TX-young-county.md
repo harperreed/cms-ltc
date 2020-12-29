@@ -11,9 +11,9 @@ FIPS: 48503.0
 FEMA_Region: 6.0
 Population: 18010.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 339.0
-Fourteen_day_test_rate_per_100000: 1882.0
-Percent_Positivity_in_prior_14_days: 0.192
+Tests_in_prior_14_days: 274.0
+Fourteen_day_test_rate_per_100000: 1521.0
+Percent_Positivity_in_prior_14_days: 0.113
 Level: Yellow
 url: /states/TX/young-county
 ---

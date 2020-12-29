@@ -11,9 +11,9 @@ FIPS: 48223.0
 FEMA_Region: 6.0
 Population: 37084.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1235.0
-Fourteen_day_test_rate_per_100000: 3330.0
-Percent_Positivity_in_prior_14_days: 0.133
+Tests_in_prior_14_days: 1035.0
+Fourteen_day_test_rate_per_100000: 2791.0
+Percent_Positivity_in_prior_14_days: 0.131
 Level: Red
 url: /states/TX/hopkins-county
 ---

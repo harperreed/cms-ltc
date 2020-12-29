@@ -11,9 +11,9 @@ FIPS: 40133.0
 FEMA_Region: 6.0
 Population: 24258.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 185.0
-Fourteen_day_test_rate_per_100000: 763.0
-Percent_Positivity_in_prior_14_days: 0.259
+Tests_in_prior_14_days: 146.0
+Fourteen_day_test_rate_per_100000: 602.0
+Percent_Positivity_in_prior_14_days: 0.281
 Level: Yellow
 url: /states/OK/seminole-county
 ---

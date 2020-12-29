@@ -11,9 +11,9 @@ FIPS: 29169.0
 FEMA_Region: 7.0
 Population: 52607.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 457.0
-Fourteen_day_test_rate_per_100000: 869.0
-Percent_Positivity_in_prior_14_days: 0.234
+Tests_in_prior_14_days: 337.0
+Fourteen_day_test_rate_per_100000: 641.0
+Percent_Positivity_in_prior_14_days: 0.196
 Level: Yellow
 url: /states/MO/pulaski-county
 ---

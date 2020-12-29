@@ -11,9 +11,9 @@ FIPS: 26139.0
 FEMA_Region: 5.0
 Population: 291830.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 22290.0
-Fourteen_day_test_rate_per_100000: 7638.0
-Percent_Positivity_in_prior_14_days: 0.16
+Tests_in_prior_14_days: 18046.0
+Fourteen_day_test_rate_per_100000: 6184.0
+Percent_Positivity_in_prior_14_days: 0.105
 Level: Red
 url: /states/MI/ottawa-county
 ---

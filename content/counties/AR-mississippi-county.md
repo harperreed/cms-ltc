@@ -11,9 +11,9 @@ FIPS: 5093.0
 FEMA_Region: 6.0
 Population: 40651.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1091.0
-Fourteen_day_test_rate_per_100000: 2684.0
-Percent_Positivity_in_prior_14_days: 0.223
+Tests_in_prior_14_days: 1560.0
+Fourteen_day_test_rate_per_100000: 3838.0
+Percent_Positivity_in_prior_14_days: 0.178
 Level: Red
 url: /states/AR/mississippi-county
 ---

@@ -11,9 +11,9 @@ FIPS: 24039.0
 FEMA_Region: 3.0
 Population: 25616.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2320.0
-Fourteen_day_test_rate_per_100000: 9057.0
-Percent_Positivity_in_prior_14_days: 0.262
+Tests_in_prior_14_days: 2501.0
+Fourteen_day_test_rate_per_100000: 9763.0
+Percent_Positivity_in_prior_14_days: 0.207
 Level: Red
 url: /states/MD/somerset-county
 ---

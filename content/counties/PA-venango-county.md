@@ -11,9 +11,9 @@ FIPS: 42121.0
 FEMA_Region: 3.0
 Population: 50668.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4336.0
-Fourteen_day_test_rate_per_100000: 8558.0
-Percent_Positivity_in_prior_14_days: 0.113
+Tests_in_prior_14_days: 4028.0
+Fourteen_day_test_rate_per_100000: 7950.0
+Percent_Positivity_in_prior_14_days: 0.17
 Level: Red
 url: /states/PA/venango-county
 ---

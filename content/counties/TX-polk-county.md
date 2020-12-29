@@ -11,9 +11,9 @@ FIPS: 48373.0
 FEMA_Region: 6.0
 Population: 51353.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 948.0
-Fourteen_day_test_rate_per_100000: 1846.0
-Percent_Positivity_in_prior_14_days: 0.12
+Tests_in_prior_14_days: 1210.0
+Fourteen_day_test_rate_per_100000: 2356.0
+Percent_Positivity_in_prior_14_days: 0.128
 Level: Red
 url: /states/TX/polk-county
 ---

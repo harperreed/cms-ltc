@@ -3,7 +3,7 @@ title: "Frederick County, VA"
 date: 2020-12-29
 draft: false
 type: county
-tags: [FIPS:51069.0,FEMA:3.0,Small metro,Gray]
+tags: [FIPS:51069.0,FEMA:3.0,Small metro,Red]
 categories: [VA]
 County: Frederick County
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51069.0
 FEMA_Region: 3.0
 Population: 89313.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2333.0
-Fourteen_day_test_rate_per_100000: 2612.0
-Percent_Positivity_in_prior_14_days: 0.073
-Level: Gray
+Tests_in_prior_14_days: 4658.0
+Fourteen_day_test_rate_per_100000: 5215.0
+Percent_Positivity_in_prior_14_days: 0.169
+Level: Red
 url: /states/VA/frederick-county
 ---
 

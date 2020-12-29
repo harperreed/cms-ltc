@@ -3,7 +3,7 @@ title: "Orleans County, NY"
 date: 2020-12-29
 draft: false
 type: county
-tags: [FIPS:36073.0,FEMA:2.0,Large fringe metro,Green]
+tags: [FIPS:36073.0,FEMA:2.0,Large fringe metro,Yellow]
 categories: [NY]
 County: Orleans County
 State: NY
@@ -11,10 +11,10 @@ FIPS: 36073.0
 FEMA_Region: 2.0
 Population: 40352.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 3170.0
-Fourteen_day_test_rate_per_100000: 7856.0
-Percent_Positivity_in_prior_14_days: 0.042
-Level: Green
+Tests_in_prior_14_days: 3812.0
+Fourteen_day_test_rate_per_100000: 9447.0
+Percent_Positivity_in_prior_14_days: 0.085
+Level: Yellow
 url: /states/NY/orleans-county
 ---
 

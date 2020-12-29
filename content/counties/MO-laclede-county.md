@@ -11,9 +11,9 @@ FIPS: 29105.0
 FEMA_Region: 7.0
 Population: 35723.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 348.0
-Fourteen_day_test_rate_per_100000: 974.0
-Percent_Positivity_in_prior_14_days: 0.221
+Tests_in_prior_14_days: 307.0
+Fourteen_day_test_rate_per_100000: 859.0
+Percent_Positivity_in_prior_14_days: 0.283
 Level: Yellow
 url: /states/MO/laclede-county
 ---

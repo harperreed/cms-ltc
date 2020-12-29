@@ -11,9 +11,9 @@ FIPS: 22105.0
 FEMA_Region: 6.0
 Population: 134758.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 4667.0
-Fourteen_day_test_rate_per_100000: 3463.0
-Percent_Positivity_in_prior_14_days: 0.139
+Tests_in_prior_14_days: 5418.0
+Fourteen_day_test_rate_per_100000: 4021.0
+Percent_Positivity_in_prior_14_days: 0.102
 Level: Red
 url: /states/LA/tangipahoa-parish
 ---

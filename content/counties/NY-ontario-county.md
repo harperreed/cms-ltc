@@ -11,9 +11,9 @@ FIPS: 36069.0
 FEMA_Region: 2.0
 Population: 109777.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 11655.0
-Fourteen_day_test_rate_per_100000: 10617.0
-Percent_Positivity_in_prior_14_days: 0.054
+Tests_in_prior_14_days: 11687.0
+Fourteen_day_test_rate_per_100000: 10646.0
+Percent_Positivity_in_prior_14_days: 0.083
 Level: Yellow
 url: /states/NY/ontario-county
 ---

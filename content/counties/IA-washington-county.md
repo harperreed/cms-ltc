@@ -11,9 +11,9 @@ FIPS: 19183.0
 FEMA_Region: 7.0
 Population: 21965.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1395.0
-Fourteen_day_test_rate_per_100000: 6351.0
-Percent_Positivity_in_prior_14_days: 0.15
+Tests_in_prior_14_days: 1278.0
+Fourteen_day_test_rate_per_100000: 5818.0
+Percent_Positivity_in_prior_14_days: 0.124
 Level: Red
 url: /states/IA/washington-county
 ---

@@ -11,9 +11,9 @@ FIPS: 22047.0
 FEMA_Region: 6.0
 Population: 32511.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1880.0
-Fourteen_day_test_rate_per_100000: 5783.0
-Percent_Positivity_in_prior_14_days: 0.132
+Tests_in_prior_14_days: 1881.0
+Fourteen_day_test_rate_per_100000: 5786.0
+Percent_Positivity_in_prior_14_days: 0.107
 Level: Red
 url: /states/LA/iberville-parish
 ---

@@ -11,9 +11,9 @@ FIPS: 40071.0
 FEMA_Region: 6.0
 Population: 43538.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 378.0
-Fourteen_day_test_rate_per_100000: 868.0
-Percent_Positivity_in_prior_14_days: 0.233
+Tests_in_prior_14_days: 256.0
+Fourteen_day_test_rate_per_100000: 588.0
+Percent_Positivity_in_prior_14_days: 0.238
 Level: Yellow
 url: /states/OK/kay-county
 ---

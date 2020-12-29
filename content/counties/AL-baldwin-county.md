@@ -11,9 +11,9 @@ FIPS: 1003.0
 FEMA_Region: 4.0
 Population: 223234.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 6235.0
-Fourteen_day_test_rate_per_100000: 2793.0
-Percent_Positivity_in_prior_14_days: 0.145
+Tests_in_prior_14_days: 10323.0
+Fourteen_day_test_rate_per_100000: 4624.0
+Percent_Positivity_in_prior_14_days: 0.133
 Level: Red
 url: /states/AL/baldwin-county
 ---

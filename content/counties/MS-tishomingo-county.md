@@ -11,9 +11,9 @@ FIPS: 28141.0
 FEMA_Region: 4.0
 Population: 19383.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 142.0
-Fourteen_day_test_rate_per_100000: 733.0
-Percent_Positivity_in_prior_14_days: 0.127
+Tests_in_prior_14_days: 215.0
+Fourteen_day_test_rate_per_100000: 1109.0
+Percent_Positivity_in_prior_14_days: 0.158
 Level: Yellow
 url: /states/MS/tishomingo-county
 ---

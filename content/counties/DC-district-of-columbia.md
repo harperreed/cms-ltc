@@ -11,9 +11,9 @@ FIPS: 11001.0
 FEMA_Region: 3.0
 Population: 705749.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 103031.0
-Fourteen_day_test_rate_per_100000: 14599.0
-Percent_Positivity_in_prior_14_days: 0.032
+Tests_in_prior_14_days: 114665.0
+Fourteen_day_test_rate_per_100000: 16247.0
+Percent_Positivity_in_prior_14_days: 0.041
 Level: Green
 url: /states/DC/district-of-columbia
 ---

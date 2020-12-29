@@ -11,9 +11,9 @@ FIPS: 26129.0
 FEMA_Region: 5.0
 Population: 20997.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1140.0
-Fourteen_day_test_rate_per_100000: 5429.0
-Percent_Positivity_in_prior_14_days: 0.12
+Tests_in_prior_14_days: 948.0
+Fourteen_day_test_rate_per_100000: 4515.0
+Percent_Positivity_in_prior_14_days: 0.114
 Level: Red
 url: /states/MI/ogemaw-county
 ---

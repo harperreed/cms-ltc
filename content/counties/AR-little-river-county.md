@@ -11,9 +11,9 @@ FIPS: 5081.0
 FEMA_Region: 6.0
 Population: 12259.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 770.0
-Fourteen_day_test_rate_per_100000: 6281.0
-Percent_Positivity_in_prior_14_days: 0.032
+Tests_in_prior_14_days: 605.0
+Fourteen_day_test_rate_per_100000: 4935.0
+Percent_Positivity_in_prior_14_days: 0.041
 Level: Green
 url: /states/AR/little-river-county
 ---

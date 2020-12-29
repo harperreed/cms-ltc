@@ -11,9 +11,9 @@ FIPS: 28095.0
 FEMA_Region: 4.0
 Population: 35252.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 327.0
-Fourteen_day_test_rate_per_100000: 928.0
-Percent_Positivity_in_prior_14_days: 0.168
+Tests_in_prior_14_days: 405.0
+Fourteen_day_test_rate_per_100000: 1149.0
+Percent_Positivity_in_prior_14_days: 0.178
 Level: Yellow
 url: /states/MS/monroe-county
 ---

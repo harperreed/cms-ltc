@@ -11,9 +11,9 @@ FIPS: 13019.0
 FEMA_Region: 4.0
 Population: 19397.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 305.0
-Fourteen_day_test_rate_per_100000: 1572.0
-Percent_Positivity_in_prior_14_days: 0.174
+Tests_in_prior_14_days: 363.0
+Fourteen_day_test_rate_per_100000: 1871.0
+Percent_Positivity_in_prior_14_days: 0.193
 Level: Yellow
 url: /states/GA/berrien-county
 ---

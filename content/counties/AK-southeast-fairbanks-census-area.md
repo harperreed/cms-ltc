@@ -11,9 +11,9 @@ FIPS: 2240.0
 FEMA_Region: 10.0
 Population: 6893.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 89.0
-Fourteen_day_test_rate_per_100000: 1291.0
-Percent_Positivity_in_prior_14_days: 0.18
+Tests_in_prior_14_days: 99.0
+Fourteen_day_test_rate_per_100000: 1436.0
+Percent_Positivity_in_prior_14_days: 0.081
 Level: Yellow
 url: /states/AK/southeast-fairbanks-census-area
 ---

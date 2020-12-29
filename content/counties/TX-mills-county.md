@@ -11,9 +11,9 @@ FIPS: 48333.0
 FEMA_Region: 6.0
 Population: 4873.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 189.0
-Fourteen_day_test_rate_per_100000: 3879.0
-Percent_Positivity_in_prior_14_days: 0.122
+Tests_in_prior_14_days: 169.0
+Fourteen_day_test_rate_per_100000: 3468.0
+Percent_Positivity_in_prior_14_days: 0.142
 Level: Red
 url: /states/TX/mills-county
 ---

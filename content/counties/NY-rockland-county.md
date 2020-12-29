@@ -11,9 +11,9 @@ FIPS: 36087.0
 FEMA_Region: 2.0
 Population: 325789.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 34594.0
-Fourteen_day_test_rate_per_100000: 10619.0
-Percent_Positivity_in_prior_14_days: 0.061
+Tests_in_prior_14_days: 31097.0
+Fourteen_day_test_rate_per_100000: 9545.0
+Percent_Positivity_in_prior_14_days: 0.081
 Level: Yellow
 url: /states/NY/rockland-county
 ---

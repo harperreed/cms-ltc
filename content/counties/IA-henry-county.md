@@ -11,9 +11,9 @@ FIPS: 19087.0
 FEMA_Region: 7.0
 Population: 19954.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1402.0
-Fourteen_day_test_rate_per_100000: 7026.0
-Percent_Positivity_in_prior_14_days: 0.188
+Tests_in_prior_14_days: 1112.0
+Fourteen_day_test_rate_per_100000: 5573.0
+Percent_Positivity_in_prior_14_days: 0.112
 Level: Red
 url: /states/IA/henry-county
 ---

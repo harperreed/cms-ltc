@@ -11,9 +11,9 @@ FIPS: 18017.0
 FEMA_Region: 5.0
 Population: 37689.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2767.0
-Fourteen_day_test_rate_per_100000: 7342.0
-Percent_Positivity_in_prior_14_days: 0.148
+Tests_in_prior_14_days: 2369.0
+Fourteen_day_test_rate_per_100000: 6286.0
+Percent_Positivity_in_prior_14_days: 0.18
 Level: Red
 url: /states/IN/cass-county
 ---

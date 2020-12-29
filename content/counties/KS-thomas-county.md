@@ -11,9 +11,9 @@ FIPS: 20193.0
 FEMA_Region: 7.0
 Population: 7777.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 232.0
-Fourteen_day_test_rate_per_100000: 2983.0
-Percent_Positivity_in_prior_14_days: 0.315
+Tests_in_prior_14_days: 220.0
+Fourteen_day_test_rate_per_100000: 2829.0
+Percent_Positivity_in_prior_14_days: 0.105
 Level: Red
 url: /states/KS/thomas-county
 ---

@@ -11,9 +11,9 @@ FIPS: 48479.0
 FEMA_Region: 6.0
 Population: 276652.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 27058.0
-Fourteen_day_test_rate_per_100000: 9781.0
-Percent_Positivity_in_prior_14_days: 0.135
+Tests_in_prior_14_days: 23208.0
+Fourteen_day_test_rate_per_100000: 8389.0
+Percent_Positivity_in_prior_14_days: 0.184
 Level: Red
 url: /states/TX/webb-county
 ---

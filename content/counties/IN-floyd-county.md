@@ -11,9 +11,9 @@ FIPS: 18043.0
 FEMA_Region: 5.0
 Population: 78522.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 6542.0
-Fourteen_day_test_rate_per_100000: 8331.0
-Percent_Positivity_in_prior_14_days: 0.126
+Tests_in_prior_14_days: 5320.0
+Fourteen_day_test_rate_per_100000: 6775.0
+Percent_Positivity_in_prior_14_days: 0.133
 Level: Red
 url: /states/IN/floyd-county
 ---

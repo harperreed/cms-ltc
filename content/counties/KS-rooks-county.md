@@ -11,9 +11,9 @@ FIPS: 20163.0
 FEMA_Region: 7.0
 Population: 4920.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 198.0
-Fourteen_day_test_rate_per_100000: 4024.0
-Percent_Positivity_in_prior_14_days: 0.379
+Tests_in_prior_14_days: 127.0
+Fourteen_day_test_rate_per_100000: 2581.0
+Percent_Positivity_in_prior_14_days: 0.22
 Level: Red
 url: /states/KS/rooks-county
 ---

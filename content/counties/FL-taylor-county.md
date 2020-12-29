@@ -11,9 +11,9 @@ FIPS: 12123.0
 FEMA_Region: 4.0
 Population: 21569.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 479.0
-Fourteen_day_test_rate_per_100000: 2221.0
-Percent_Positivity_in_prior_14_days: 0.109
+Tests_in_prior_14_days: 793.0
+Fourteen_day_test_rate_per_100000: 3677.0
+Percent_Positivity_in_prior_14_days: 0.165
 Level: Red
 url: /states/FL/taylor-county
 ---

@@ -11,9 +11,9 @@ FIPS: 20151.0
 FEMA_Region: 7.0
 Population: 9164.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 400.0
-Fourteen_day_test_rate_per_100000: 4365.0
-Percent_Positivity_in_prior_14_days: 0.24
+Tests_in_prior_14_days: 409.0
+Fourteen_day_test_rate_per_100000: 4463.0
+Percent_Positivity_in_prior_14_days: 0.159
 Level: Red
 url: /states/KS/pratt-county
 ---

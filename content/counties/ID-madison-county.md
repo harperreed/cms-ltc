@@ -11,9 +11,9 @@ FIPS: 16065.0
 FEMA_Region: 10.0
 Population: 39907.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2809.0
-Fourteen_day_test_rate_per_100000: 7039.0
-Percent_Positivity_in_prior_14_days: 0.326
+Tests_in_prior_14_days: 1902.0
+Fourteen_day_test_rate_per_100000: 4766.0
+Percent_Positivity_in_prior_14_days: 0.154
 Level: Red
 url: /states/ID/madison-county
 ---

@@ -11,9 +11,9 @@ FIPS: 37149.0
 FEMA_Region: 4.0
 Population: 20724.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 741.0
-Fourteen_day_test_rate_per_100000: 3576.0
-Percent_Positivity_in_prior_14_days: 0.057
+Tests_in_prior_14_days: 1019.0
+Fourteen_day_test_rate_per_100000: 4917.0
+Percent_Positivity_in_prior_14_days: 0.09
 Level: Yellow
 url: /states/NC/polk-county
 ---

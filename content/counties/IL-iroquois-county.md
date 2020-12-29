@@ -11,9 +11,9 @@ FIPS: 17075.0
 FEMA_Region: 5.0
 Population: 27114.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2682.0
-Fourteen_day_test_rate_per_100000: 9892.0
-Percent_Positivity_in_prior_14_days: 0.154
+Tests_in_prior_14_days: 2213.0
+Fourteen_day_test_rate_per_100000: 8162.0
+Percent_Positivity_in_prior_14_days: 0.102
 Level: Red
 url: /states/IL/iroquois-county
 ---

@@ -11,9 +11,9 @@ FIPS: 12019.0
 FEMA_Region: 4.0
 Population: 219252.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 9736.0
-Fourteen_day_test_rate_per_100000: 4441.0
-Percent_Positivity_in_prior_14_days: 0.107
+Tests_in_prior_14_days: 11269.0
+Fourteen_day_test_rate_per_100000: 5140.0
+Percent_Positivity_in_prior_14_days: 0.127
 Level: Red
 url: /states/FL/clay-county
 ---

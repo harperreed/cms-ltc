@@ -11,9 +11,9 @@ FIPS: 19061.0
 FEMA_Region: 7.0
 Population: 97311.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 8418.0
-Fourteen_day_test_rate_per_100000: 8651.0
-Percent_Positivity_in_prior_14_days: 0.19
+Tests_in_prior_14_days: 5394.0
+Fourteen_day_test_rate_per_100000: 5543.0
+Percent_Positivity_in_prior_14_days: 0.108
 Level: Red
 url: /states/IA/dubuque-county
 ---

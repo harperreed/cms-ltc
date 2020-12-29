@@ -11,9 +11,9 @@ FIPS: 46129.0
 FEMA_Region: 8.0
 Population: 5435.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 273.0
-Fourteen_day_test_rate_per_100000: 5023.0
-Percent_Positivity_in_prior_14_days: 0.319
+Tests_in_prior_14_days: 141.0
+Fourteen_day_test_rate_per_100000: 2594.0
+Percent_Positivity_in_prior_14_days: 0.234
 Level: Red
 url: /states/SD/walworth-county
 ---

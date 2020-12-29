@@ -11,9 +11,9 @@ FIPS: 31151.0
 FEMA_Region: 7.0
 Population: 14224.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 636.0
-Fourteen_day_test_rate_per_100000: 4471.0
-Percent_Positivity_in_prior_14_days: 0.307
+Tests_in_prior_14_days: 464.0
+Fourteen_day_test_rate_per_100000: 3262.0
+Percent_Positivity_in_prior_14_days: 0.207
 Level: Red
 url: /states/NE/saline-county
 ---

@@ -11,9 +11,9 @@ FIPS: 36081.0
 FEMA_Region: 2.0
 Population: 2253858.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 252219.0
-Fourteen_day_test_rate_per_100000: 11191.0
-Percent_Positivity_in_prior_14_days: 0.053
+Tests_in_prior_14_days: 299631.0
+Fourteen_day_test_rate_per_100000: 13294.0
+Percent_Positivity_in_prior_14_days: 0.077
 Level: Yellow
 url: /states/NY/queens-county
 ---

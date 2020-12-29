@@ -11,9 +11,9 @@ FIPS: 49049.0
 FEMA_Region: 8.0
 Population: 636235.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 44710.0
-Fourteen_day_test_rate_per_100000: 7027.0
-Percent_Positivity_in_prior_14_days: 0.199
+Tests_in_prior_14_days: 39201.0
+Fourteen_day_test_rate_per_100000: 6161.0
+Percent_Positivity_in_prior_14_days: 0.19
 Level: Red
 url: /states/UT/utah-county
 ---

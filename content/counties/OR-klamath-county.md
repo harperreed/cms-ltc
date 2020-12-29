@@ -11,9 +11,9 @@ FIPS: 41035.0
 FEMA_Region: 10.0
 Population: 68238.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3833.0
-Fourteen_day_test_rate_per_100000: 5617.0
-Percent_Positivity_in_prior_14_days: 0.091
+Tests_in_prior_14_days: 4457.0
+Fourteen_day_test_rate_per_100000: 6532.0
+Percent_Positivity_in_prior_14_days: 0.083
 Level: Yellow
 url: /states/OR/klamath-county
 ---

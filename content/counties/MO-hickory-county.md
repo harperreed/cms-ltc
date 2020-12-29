@@ -11,9 +11,9 @@ FIPS: 29085.0
 FEMA_Region: 7.0
 Population: 9544.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 173.0
-Fourteen_day_test_rate_per_100000: 1813.0
-Percent_Positivity_in_prior_14_days: 0.092
+Tests_in_prior_14_days: 119.0
+Fourteen_day_test_rate_per_100000: 1247.0
+Percent_Positivity_in_prior_14_days: 0.076
 Level: Yellow
 url: /states/MO/hickory-county
 ---

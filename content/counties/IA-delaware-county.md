@@ -3,7 +3,7 @@ title: "Delaware County, IA"
 date: 2020-12-29
 draft: false
 type: county
-tags: [FIPS:19055.0,FEMA:7.0,Non-core,Red]
+tags: [FIPS:19055.0,FEMA:7.0,Non-core,Yellow]
 categories: [IA]
 County: Delaware County
 State: IA
@@ -11,10 +11,10 @@ FIPS: 19055.0
 FEMA_Region: 7.0
 Population: 17011.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 826.0
-Fourteen_day_test_rate_per_100000: 4856.0
-Percent_Positivity_in_prior_14_days: 0.24
-Level: Red
+Tests_in_prior_14_days: 461.0
+Fourteen_day_test_rate_per_100000: 2710.0
+Percent_Positivity_in_prior_14_days: 0.093
+Level: Yellow
 url: /states/IA/delaware-county
 ---
 

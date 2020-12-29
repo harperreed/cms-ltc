@@ -11,9 +11,9 @@ FIPS: 18165.0
 FEMA_Region: 5.0
 Population: 15498.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1100.0
-Fourteen_day_test_rate_per_100000: 7098.0
-Percent_Positivity_in_prior_14_days: 0.176
+Tests_in_prior_14_days: 811.0
+Fourteen_day_test_rate_per_100000: 5233.0
+Percent_Positivity_in_prior_14_days: 0.189
 Level: Red
 url: /states/IN/vermillion-county
 ---

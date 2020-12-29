@@ -11,9 +11,9 @@ FIPS: 40085.0
 FEMA_Region: 6.0
 Population: 10253.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 326.0
-Fourteen_day_test_rate_per_100000: 3180.0
-Percent_Positivity_in_prior_14_days: 0.212
+Tests_in_prior_14_days: 261.0
+Fourteen_day_test_rate_per_100000: 2546.0
+Percent_Positivity_in_prior_14_days: 0.207
 Level: Red
 url: /states/OK/love-county
 ---

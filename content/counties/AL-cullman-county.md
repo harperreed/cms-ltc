@@ -11,9 +11,9 @@ FIPS: 1043.0
 FEMA_Region: 4.0
 Population: 83768.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4323.0
-Fourteen_day_test_rate_per_100000: 5161.0
-Percent_Positivity_in_prior_14_days: 0.127
+Tests_in_prior_14_days: 5812.0
+Fourteen_day_test_rate_per_100000: 6938.0
+Percent_Positivity_in_prior_14_days: 0.14
 Level: Red
 url: /states/AL/cullman-county
 ---

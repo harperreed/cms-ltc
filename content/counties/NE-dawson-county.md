@@ -11,9 +11,9 @@ FIPS: 31047.0
 FEMA_Region: 7.0
 Population: 23595.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 736.0
-Fourteen_day_test_rate_per_100000: 3119.0
-Percent_Positivity_in_prior_14_days: 0.245
+Tests_in_prior_14_days: 742.0
+Fourteen_day_test_rate_per_100000: 3145.0
+Percent_Positivity_in_prior_14_days: 0.175
 Level: Red
 url: /states/NE/dawson-county
 ---

@@ -11,9 +11,9 @@ FIPS: 29041.0
 FEMA_Region: 7.0
 Population: 7426.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 46.0
-Fourteen_day_test_rate_per_100000: 619.0
-Percent_Positivity_in_prior_14_days: 0.196
+Tests_in_prior_14_days: 28.0
+Fourteen_day_test_rate_per_100000: 377.0
+Percent_Positivity_in_prior_14_days: 0.107
 Level: Yellow
 url: /states/MO/chariton-county
 ---

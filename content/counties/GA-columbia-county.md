@@ -11,9 +11,9 @@ FIPS: 13073.0
 FEMA_Region: 4.0
 Population: 156714.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 3938.0
-Fourteen_day_test_rate_per_100000: 2513.0
-Percent_Positivity_in_prior_14_days: 0.101
+Tests_in_prior_14_days: 5304.0
+Fourteen_day_test_rate_per_100000: 3385.0
+Percent_Positivity_in_prior_14_days: 0.159
 Level: Red
 url: /states/GA/columbia-county
 ---

@@ -11,9 +11,9 @@ FIPS: 42059.0
 FEMA_Region: 3.0
 Population: 36233.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2129.0
-Fourteen_day_test_rate_per_100000: 5876.0
-Percent_Positivity_in_prior_14_days: 0.123
+Tests_in_prior_14_days: 2421.0
+Fourteen_day_test_rate_per_100000: 6682.0
+Percent_Positivity_in_prior_14_days: 0.165
 Level: Red
 url: /states/PA/greene-county
 ---

@@ -11,9 +11,9 @@ FIPS: 31053.0
 FEMA_Region: 7.0
 Population: 36565.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2141.0
-Fourteen_day_test_rate_per_100000: 5855.0
-Percent_Positivity_in_prior_14_days: 0.278
+Tests_in_prior_14_days: 2061.0
+Fourteen_day_test_rate_per_100000: 5637.0
+Percent_Positivity_in_prior_14_days: 0.23
 Level: Red
 url: /states/NE/dodge-county
 ---

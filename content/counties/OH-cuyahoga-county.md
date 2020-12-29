@@ -11,9 +11,9 @@ FIPS: 39035.0
 FEMA_Region: 5.0
 Population: 1235072.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 31889.0
-Fourteen_day_test_rate_per_100000: 2582.0
-Percent_Positivity_in_prior_14_days: 0.15
+Tests_in_prior_14_days: 25888.0
+Fourteen_day_test_rate_per_100000: 2096.0
+Percent_Positivity_in_prior_14_days: 0.182
 Level: Red
 url: /states/OH/cuyahoga-county
 ---

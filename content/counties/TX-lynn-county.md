@@ -11,9 +11,9 @@ FIPS: 48305.0
 FEMA_Region: 6.0
 Population: 5951.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 170.0
-Fourteen_day_test_rate_per_100000: 2857.0
-Percent_Positivity_in_prior_14_days: 0.271
+Tests_in_prior_14_days: 167.0
+Fourteen_day_test_rate_per_100000: 2806.0
+Percent_Positivity_in_prior_14_days: 0.251
 Level: Red
 url: /states/TX/lynn-county
 ---

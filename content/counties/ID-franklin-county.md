@@ -11,9 +11,9 @@ FIPS: 16041.0
 FEMA_Region: 10.0
 Population: 13876.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 420.0
-Fourteen_day_test_rate_per_100000: 3027.0
-Percent_Positivity_in_prior_14_days: 0.288
+Tests_in_prior_14_days: 372.0
+Fourteen_day_test_rate_per_100000: 2681.0
+Percent_Positivity_in_prior_14_days: 0.253
 Level: Red
 url: /states/ID/franklin-county
 ---

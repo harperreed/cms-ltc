@@ -11,9 +11,9 @@ FIPS: 48327.0
 FEMA_Region: 6.0
 Population: 2138.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 172.0
-Fourteen_day_test_rate_per_100000: 8045.0
-Percent_Positivity_in_prior_14_days: 0.052
+Tests_in_prior_14_days: 72.0
+Fourteen_day_test_rate_per_100000: 3368.0
+Percent_Positivity_in_prior_14_days: 0.069
 Level: Yellow
 url: /states/TX/menard-county
 ---

@@ -11,9 +11,9 @@ FIPS: 5063.0
 FEMA_Region: 6.0
 Population: 37825.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 917.0
-Fourteen_day_test_rate_per_100000: 2424.0
-Percent_Positivity_in_prior_14_days: 0.052
+Tests_in_prior_14_days: 1947.0
+Fourteen_day_test_rate_per_100000: 5147.0
+Percent_Positivity_in_prior_14_days: 0.069
 Level: Yellow
 url: /states/AR/independence-county
 ---

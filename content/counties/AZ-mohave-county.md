@@ -11,9 +11,9 @@ FIPS: 4015.0
 FEMA_Region: 9.0
 Population: 212181.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 7357.0
-Fourteen_day_test_rate_per_100000: 3467.0
-Percent_Positivity_in_prior_14_days: 0.158
+Tests_in_prior_14_days: 10627.0
+Fourteen_day_test_rate_per_100000: 5008.0
+Percent_Positivity_in_prior_14_days: 0.236
 Level: Red
 url: /states/AZ/mohave-county
 ---

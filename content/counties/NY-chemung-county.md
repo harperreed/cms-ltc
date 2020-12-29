@@ -11,9 +11,9 @@ FIPS: 36015.0
 FEMA_Region: 2.0
 Population: 83456.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 11437.0
-Fourteen_day_test_rate_per_100000: 13704.0
-Percent_Positivity_in_prior_14_days: 0.088
+Tests_in_prior_14_days: 10199.0
+Fourteen_day_test_rate_per_100000: 12221.0
+Percent_Positivity_in_prior_14_days: 0.06
 Level: Yellow
 url: /states/NY/chemung-county
 ---

@@ -11,9 +11,9 @@ FIPS: 13153.0
 FEMA_Region: 4.0
 Population: 157863.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1998.0
-Fourteen_day_test_rate_per_100000: 1266.0
-Percent_Positivity_in_prior_14_days: 0.108
+Tests_in_prior_14_days: 3754.0
+Fourteen_day_test_rate_per_100000: 2378.0
+Percent_Positivity_in_prior_14_days: 0.199
 Level: Red
 url: /states/GA/houston-county
 ---

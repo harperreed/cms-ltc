@@ -11,9 +11,9 @@ FIPS: 16021.0
 FEMA_Region: 10.0
 Population: 12245.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 212.0
-Fourteen_day_test_rate_per_100000: 1731.0
-Percent_Positivity_in_prior_14_days: 0.217
+Tests_in_prior_14_days: 231.0
+Fourteen_day_test_rate_per_100000: 1886.0
+Percent_Positivity_in_prior_14_days: 0.255
 Level: Yellow
 url: /states/ID/boundary-county
 ---

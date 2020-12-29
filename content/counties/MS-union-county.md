@@ -11,9 +11,9 @@ FIPS: 28145.0
 FEMA_Region: 4.0
 Population: 28815.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 301.0
-Fourteen_day_test_rate_per_100000: 1045.0
-Percent_Positivity_in_prior_14_days: 0.11
+Tests_in_prior_14_days: 335.0
+Fourteen_day_test_rate_per_100000: 1163.0
+Percent_Positivity_in_prior_14_days: 0.188
 Level: Yellow
 url: /states/MS/union-county
 ---

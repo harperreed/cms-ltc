@@ -11,9 +11,9 @@ FIPS: 45059.0
 FEMA_Region: 4.0
 Population: 67493.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1844.0
-Fourteen_day_test_rate_per_100000: 2732.0
-Percent_Positivity_in_prior_14_days: 0.141
+Tests_in_prior_14_days: 2557.0
+Fourteen_day_test_rate_per_100000: 3789.0
+Percent_Positivity_in_prior_14_days: 0.177
 Level: Red
 url: /states/SC/laurens-county
 ---

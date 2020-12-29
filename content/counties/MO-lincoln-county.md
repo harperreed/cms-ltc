@@ -11,9 +11,9 @@ FIPS: 29113.0
 FEMA_Region: 7.0
 Population: 59013.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1219.0
-Fourteen_day_test_rate_per_100000: 2066.0
-Percent_Positivity_in_prior_14_days: 0.245
+Tests_in_prior_14_days: 1047.0
+Fourteen_day_test_rate_per_100000: 1774.0
+Percent_Positivity_in_prior_14_days: 0.248
 Level: Red
 url: /states/MO/lincoln-county
 ---

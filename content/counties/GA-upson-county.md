@@ -3,7 +3,7 @@ title: "Upson County, GA"
 date: 2020-12-29
 draft: false
 type: county
-tags: [FIPS:13293.0,FEMA:4.0,Micropolitan,Yellow]
+tags: [FIPS:13293.0,FEMA:4.0,Micropolitan,Red]
 categories: [GA]
 County: Upson County
 State: GA
@@ -11,10 +11,10 @@ FIPS: 13293.0
 FEMA_Region: 4.0
 Population: 26320.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 347.0
-Fourteen_day_test_rate_per_100000: 1318.0
-Percent_Positivity_in_prior_14_days: 0.13
-Level: Yellow
+Tests_in_prior_14_days: 576.0
+Fourteen_day_test_rate_per_100000: 2188.0
+Percent_Positivity_in_prior_14_days: 0.144
+Level: Red
 url: /states/GA/upson-county
 ---
 

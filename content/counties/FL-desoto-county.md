@@ -11,9 +11,9 @@ FIPS: 12027.0
 FEMA_Region: 4.0
 Population: 38001.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2235.0
-Fourteen_day_test_rate_per_100000: 5881.0
-Percent_Positivity_in_prior_14_days: 0.168
+Tests_in_prior_14_days: 2366.0
+Fourteen_day_test_rate_per_100000: 6226.0
+Percent_Positivity_in_prior_14_days: 0.125
 Level: Red
 url: /states/FL/desoto-county
 ---

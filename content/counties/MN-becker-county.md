@@ -3,7 +3,7 @@ title: "Becker County, MN"
 date: 2020-12-29
 draft: false
 type: county
-tags: [FIPS:27005.0,FEMA:5.0,Non-core,Red]
+tags: [FIPS:27005.0,FEMA:5.0,Non-core,Yellow]
 categories: [MN]
 County: Becker County
 State: MN
@@ -11,10 +11,10 @@ FIPS: 27005.0
 FEMA_Region: 5.0
 Population: 34423.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 5927.0
-Fourteen_day_test_rate_per_100000: 17218.0
-Percent_Positivity_in_prior_14_days: 0.133
-Level: Red
+Tests_in_prior_14_days: 4422.0
+Fourteen_day_test_rate_per_100000: 12846.0
+Percent_Positivity_in_prior_14_days: 0.051
+Level: Yellow
 url: /states/MN/becker-county
 ---
 

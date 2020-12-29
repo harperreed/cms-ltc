@@ -11,8 +11,8 @@ FIPS: 42013.0
 FEMA_Region: 3.0
 Population: 121829.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 11266.0
-Fourteen_day_test_rate_per_100000: 9247.0
+Tests_in_prior_14_days: 9703.0
+Fourteen_day_test_rate_per_100000: 7964.0
 Percent_Positivity_in_prior_14_days: 0.14
 Level: Red
 url: /states/PA/blair-county

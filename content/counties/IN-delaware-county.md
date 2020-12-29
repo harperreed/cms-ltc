@@ -11,9 +11,9 @@ FIPS: 18035.0
 FEMA_Region: 5.0
 Population: 114135.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 7562.0
-Fourteen_day_test_rate_per_100000: 6625.0
-Percent_Positivity_in_prior_14_days: 0.143
+Tests_in_prior_14_days: 5672.0
+Fourteen_day_test_rate_per_100000: 4970.0
+Percent_Positivity_in_prior_14_days: 0.169
 Level: Red
 url: /states/IN/delaware-county
 ---

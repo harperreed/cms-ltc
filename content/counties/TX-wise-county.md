@@ -11,9 +11,9 @@ FIPS: 48497.0
 FEMA_Region: 6.0
 Population: 69984.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 3311.0
-Fourteen_day_test_rate_per_100000: 4731.0
-Percent_Positivity_in_prior_14_days: 0.216
+Tests_in_prior_14_days: 2982.0
+Fourteen_day_test_rate_per_100000: 4261.0
+Percent_Positivity_in_prior_14_days: 0.184
 Level: Red
 url: /states/TX/wise-county
 ---

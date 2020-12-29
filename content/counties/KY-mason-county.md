@@ -11,9 +11,9 @@ FIPS: 21161.0
 FEMA_Region: 4.0
 Population: 17070.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 607.0
-Fourteen_day_test_rate_per_100000: 3556.0
-Percent_Positivity_in_prior_14_days: 0.204
+Tests_in_prior_14_days: 729.0
+Fourteen_day_test_rate_per_100000: 4271.0
+Percent_Positivity_in_prior_14_days: 0.15
 Level: Red
 url: /states/KY/mason-county
 ---

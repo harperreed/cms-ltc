@@ -11,9 +11,9 @@ FIPS: 55031.0
 FEMA_Region: 5.0
 Population: 43150.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 4930.0
-Fourteen_day_test_rate_per_100000: 11425.0
-Percent_Positivity_in_prior_14_days: 0.137
+Tests_in_prior_14_days: 3508.0
+Fourteen_day_test_rate_per_100000: 8130.0
+Percent_Positivity_in_prior_14_days: 0.129
 Level: Red
 url: /states/WI/douglas-county
 ---

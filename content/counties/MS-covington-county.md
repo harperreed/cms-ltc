@@ -11,9 +11,9 @@ FIPS: 28031.0
 FEMA_Region: 4.0
 Population: 18636.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 574.0
-Fourteen_day_test_rate_per_100000: 3080.0
-Percent_Positivity_in_prior_14_days: 0.134
+Tests_in_prior_14_days: 605.0
+Fourteen_day_test_rate_per_100000: 3246.0
+Percent_Positivity_in_prior_14_days: 0.17
 Level: Red
 url: /states/MS/covington-county
 ---

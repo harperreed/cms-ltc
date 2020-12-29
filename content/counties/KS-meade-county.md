@@ -11,9 +11,9 @@ FIPS: 20119.0
 FEMA_Region: 7.0
 Population: 4033.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 239.0
-Fourteen_day_test_rate_per_100000: 5926.0
-Percent_Positivity_in_prior_14_days: 0.192
+Tests_in_prior_14_days: 108.0
+Fourteen_day_test_rate_per_100000: 2678.0
+Percent_Positivity_in_prior_14_days: 0.194
 Level: Red
 url: /states/KS/meade-county
 ---

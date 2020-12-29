@@ -11,9 +11,9 @@ FIPS: 31109.0
 FEMA_Region: 7.0
 Population: 319090.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 21047.0
-Fourteen_day_test_rate_per_100000: 6596.0
-Percent_Positivity_in_prior_14_days: 0.155
+Tests_in_prior_14_days: 15811.0
+Fourteen_day_test_rate_per_100000: 4955.0
+Percent_Positivity_in_prior_14_days: 0.131
 Level: Red
 url: /states/NE/lancaster-county
 ---

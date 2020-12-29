@@ -11,9 +11,9 @@ FIPS: 31041.0
 FEMA_Region: 7.0
 Population: 10777.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 268.0
-Fourteen_day_test_rate_per_100000: 2487.0
-Percent_Positivity_in_prior_14_days: 0.362
+Tests_in_prior_14_days: 273.0
+Fourteen_day_test_rate_per_100000: 2533.0
+Percent_Positivity_in_prior_14_days: 0.286
 Level: Red
 url: /states/NE/custer-county
 ---

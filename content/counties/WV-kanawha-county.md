@@ -11,9 +11,9 @@ FIPS: 54039.0
 FEMA_Region: 3.0
 Population: 178124.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 17824.0
-Fourteen_day_test_rate_per_100000: 10007.0
-Percent_Positivity_in_prior_14_days: 0.062
+Tests_in_prior_14_days: 19270.0
+Fourteen_day_test_rate_per_100000: 10818.0
+Percent_Positivity_in_prior_14_days: 0.077
 Level: Yellow
 url: /states/WV/kanawha-county
 ---

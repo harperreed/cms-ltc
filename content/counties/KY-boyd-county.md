@@ -11,9 +11,9 @@ FIPS: 21019.0
 FEMA_Region: 4.0
 Population: 46718.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2295.0
-Fourteen_day_test_rate_per_100000: 4912.0
-Percent_Positivity_in_prior_14_days: 0.199
+Tests_in_prior_14_days: 4351.0
+Fourteen_day_test_rate_per_100000: 9313.0
+Percent_Positivity_in_prior_14_days: 0.113
 Level: Red
 url: /states/KY/boyd-county
 ---

@@ -11,9 +11,9 @@ FIPS: 39159.0
 FEMA_Region: 5.0
 Population: 58988.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1727.0
-Fourteen_day_test_rate_per_100000: 2928.0
-Percent_Positivity_in_prior_14_days: 0.184
+Tests_in_prior_14_days: 1340.0
+Fourteen_day_test_rate_per_100000: 2272.0
+Percent_Positivity_in_prior_14_days: 0.171
 Level: Red
 url: /states/OH/union-county
 ---

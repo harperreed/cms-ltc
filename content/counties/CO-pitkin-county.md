@@ -11,9 +11,9 @@ FIPS: 8097.0
 FEMA_Region: 8.0
 Population: 17767.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1720.0
-Fourteen_day_test_rate_per_100000: 9681.0
-Percent_Positivity_in_prior_14_days: 0.081
+Tests_in_prior_14_days: 4144.0
+Fourteen_day_test_rate_per_100000: 23324.0
+Percent_Positivity_in_prior_14_days: 0.07
 Level: Yellow
 url: /states/CO/pitkin-county
 ---

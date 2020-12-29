@@ -11,9 +11,9 @@ FIPS: 48383.0
 FEMA_Region: 6.0
 Population: 3849.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 20.0
-Fourteen_day_test_rate_per_100000: 520.0
-Percent_Positivity_in_prior_14_days: 0.3
+Tests_in_prior_14_days: 32.0
+Fourteen_day_test_rate_per_100000: 831.0
+Percent_Positivity_in_prior_14_days: 0.125
 Level: Yellow
 url: /states/TX/reagan-county
 ---

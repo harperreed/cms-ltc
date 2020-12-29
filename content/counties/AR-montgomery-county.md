@@ -11,9 +11,9 @@ FIPS: 5097.0
 FEMA_Region: 6.0
 Population: 8986.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 163.0
-Fourteen_day_test_rate_per_100000: 1814.0
-Percent_Positivity_in_prior_14_days: 0.331
+Tests_in_prior_14_days: 179.0
+Fourteen_day_test_rate_per_100000: 1992.0
+Percent_Positivity_in_prior_14_days: 0.151
 Level: Yellow
 url: /states/AR/montgomery-county
 ---

@@ -11,9 +11,9 @@ FIPS: 20093.0
 FEMA_Region: 7.0
 Population: 3838.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 409.0
-Fourteen_day_test_rate_per_100000: 10657.0
-Percent_Positivity_in_prior_14_days: 0.081
+Tests_in_prior_14_days: 400.0
+Fourteen_day_test_rate_per_100000: 10422.0
+Percent_Positivity_in_prior_14_days: 0.082
 Level: Yellow
 url: /states/KS/kearny-county
 ---

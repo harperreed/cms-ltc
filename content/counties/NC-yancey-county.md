@@ -11,9 +11,9 @@ FIPS: 37199.0
 FEMA_Region: 4.0
 Population: 18069.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 644.0
-Fourteen_day_test_rate_per_100000: 3564.0
-Percent_Positivity_in_prior_14_days: 0.123
+Tests_in_prior_14_days: 824.0
+Fourteen_day_test_rate_per_100000: 4560.0
+Percent_Positivity_in_prior_14_days: 0.153
 Level: Red
 url: /states/NC/yancey-county
 ---

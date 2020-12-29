@@ -11,9 +11,9 @@ FIPS: 48237.0
 FEMA_Region: 6.0
 Population: 8935.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 159.0
-Fourteen_day_test_rate_per_100000: 1780.0
-Percent_Positivity_in_prior_14_days: 0.277
+Tests_in_prior_14_days: 149.0
+Fourteen_day_test_rate_per_100000: 1668.0
+Percent_Positivity_in_prior_14_days: 0.174
 Level: Yellow
 url: /states/TX/jack-county
 ---

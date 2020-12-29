@@ -11,9 +11,9 @@ FIPS: 5129.0
 FEMA_Region: 6.0
 Population: 7881.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 159.0
-Fourteen_day_test_rate_per_100000: 2018.0
-Percent_Positivity_in_prior_14_days: 0.063
+Tests_in_prior_14_days: 186.0
+Fourteen_day_test_rate_per_100000: 2360.0
+Percent_Positivity_in_prior_14_days: 0.097
 Level: Yellow
 url: /states/AR/searcy-county
 ---

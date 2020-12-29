@@ -11,9 +11,9 @@ FIPS: 4017.0
 FEMA_Region: 9.0
 Population: 110924.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 5550.0
-Fourteen_day_test_rate_per_100000: 5003.0
-Percent_Positivity_in_prior_14_days: 0.153
+Tests_in_prior_14_days: 5090.0
+Fourteen_day_test_rate_per_100000: 4589.0
+Percent_Positivity_in_prior_14_days: 0.206
 Level: Red
 url: /states/AZ/navajo-county
 ---

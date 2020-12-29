@@ -11,9 +11,9 @@ FIPS: 1007.0
 FEMA_Region: 4.0
 Population: 22394.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 956.0
-Fourteen_day_test_rate_per_100000: 4269.0
-Percent_Positivity_in_prior_14_days: 0.161
+Tests_in_prior_14_days: 1131.0
+Fourteen_day_test_rate_per_100000: 5050.0
+Percent_Positivity_in_prior_14_days: 0.199
 Level: Red
 url: /states/AL/bibb-county
 ---

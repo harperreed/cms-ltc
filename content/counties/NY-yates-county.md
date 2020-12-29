@@ -11,9 +11,9 @@ FIPS: 36123.0
 FEMA_Region: 2.0
 Population: 24913.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1771.0
-Fourteen_day_test_rate_per_100000: 7109.0
-Percent_Positivity_in_prior_14_days: 0.045
+Tests_in_prior_14_days: 1836.0
+Fourteen_day_test_rate_per_100000: 7370.0
+Percent_Positivity_in_prior_14_days: 0.044
 Level: Green
 url: /states/NY/yates-county
 ---

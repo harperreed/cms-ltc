@@ -11,9 +11,9 @@ FIPS: 29187.0
 FEMA_Region: 7.0
 Population: 67215.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1849.0
-Fourteen_day_test_rate_per_100000: 2751.0
-Percent_Positivity_in_prior_14_days: 0.1
+Tests_in_prior_14_days: 1974.0
+Fourteen_day_test_rate_per_100000: 2937.0
+Percent_Positivity_in_prior_14_days: 0.095
 Level: Yellow
 url: /states/MO/st-francois-county
 ---

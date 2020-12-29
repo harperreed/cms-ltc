@@ -11,9 +11,9 @@ FIPS: 8071.0
 FEMA_Region: 8.0
 Population: 14506.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2302.0
-Fourteen_day_test_rate_per_100000: 15869.0
-Percent_Positivity_in_prior_14_days: 0.032
+Tests_in_prior_14_days: 1691.0
+Fourteen_day_test_rate_per_100000: 11657.0
+Percent_Positivity_in_prior_14_days: 0.024
 Level: Green
 url: /states/CO/las-animas-county
 ---

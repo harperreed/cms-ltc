@@ -11,9 +11,9 @@ FIPS: 40035.0
 FEMA_Region: 6.0
 Population: 14142.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 388.0
-Fourteen_day_test_rate_per_100000: 2744.0
-Percent_Positivity_in_prior_14_days: 0.245
+Tests_in_prior_14_days: 564.0
+Fourteen_day_test_rate_per_100000: 3988.0
+Percent_Positivity_in_prior_14_days: 0.225
 Level: Red
 url: /states/OK/craig-county
 ---

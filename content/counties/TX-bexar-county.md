@@ -11,9 +11,9 @@ FIPS: 48029.0
 FEMA_Region: 6.0
 Population: 2003554.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 85216.0
-Fourteen_day_test_rate_per_100000: 4253.0
-Percent_Positivity_in_prior_14_days: 0.115
+Tests_in_prior_14_days: 92285.0
+Fourteen_day_test_rate_per_100000: 4606.0
+Percent_Positivity_in_prior_14_days: 0.16
 Level: Red
 url: /states/TX/bexar-county
 ---

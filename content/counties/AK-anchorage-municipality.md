@@ -11,9 +11,9 @@ FIPS: 2020.0
 FEMA_Region: 10.0
 Population: 288000.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 60853.0
-Fourteen_day_test_rate_per_100000: 21130.0
-Percent_Positivity_in_prior_14_days: 0.081
+Tests_in_prior_14_days: 51126.0
+Fourteen_day_test_rate_per_100000: 17752.0
+Percent_Positivity_in_prior_14_days: 0.052
 Level: Yellow
 url: /states/AK/anchorage-municipality
 ---

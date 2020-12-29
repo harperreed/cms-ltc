@@ -11,9 +11,9 @@ FIPS: 40101.0
 FEMA_Region: 6.0
 Population: 67997.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1974.0
-Fourteen_day_test_rate_per_100000: 2903.0
-Percent_Positivity_in_prior_14_days: 0.241
+Tests_in_prior_14_days: 1856.0
+Fourteen_day_test_rate_per_100000: 2730.0
+Percent_Positivity_in_prior_14_days: 0.234
 Level: Red
 url: /states/OK/muskogee-county
 ---

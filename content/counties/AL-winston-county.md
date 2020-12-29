@@ -11,9 +11,9 @@ FIPS: 1133.0
 FEMA_Region: 4.0
 Population: 23629.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 967.0
-Fourteen_day_test_rate_per_100000: 4092.0
-Percent_Positivity_in_prior_14_days: 0.149
+Tests_in_prior_14_days: 1473.0
+Fourteen_day_test_rate_per_100000: 6234.0
+Percent_Positivity_in_prior_14_days: 0.143
 Level: Red
 url: /states/AL/winston-county
 ---

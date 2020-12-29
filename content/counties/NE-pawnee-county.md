@@ -11,9 +11,9 @@ FIPS: 31133.0
 FEMA_Region: 7.0
 Population: 2613.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 116.0
-Fourteen_day_test_rate_per_100000: 4439.0
-Percent_Positivity_in_prior_14_days: 0.371
+Tests_in_prior_14_days: 69.0
+Fourteen_day_test_rate_per_100000: 2641.0
+Percent_Positivity_in_prior_14_days: 0.261
 Level: Red
 url: /states/NE/pawnee-county
 ---

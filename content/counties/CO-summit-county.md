@@ -11,9 +11,9 @@ FIPS: 8117.0
 FEMA_Region: 8.0
 Population: 31011.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 6490.0
-Fourteen_day_test_rate_per_100000: 20928.0
-Percent_Positivity_in_prior_14_days: 0.085
+Tests_in_prior_14_days: 5280.0
+Fourteen_day_test_rate_per_100000: 17026.0
+Percent_Positivity_in_prior_14_days: 0.063
 Level: Yellow
 url: /states/CO/summit-county
 ---

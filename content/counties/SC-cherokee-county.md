@@ -11,9 +11,9 @@ FIPS: 45021.0
 FEMA_Region: 4.0
 Population: 57300.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 529.0
-Fourteen_day_test_rate_per_100000: 923.0
-Percent_Positivity_in_prior_14_days: 0.163
+Tests_in_prior_14_days: 828.0
+Fourteen_day_test_rate_per_100000: 1445.0
+Percent_Positivity_in_prior_14_days: 0.198
 Level: Red
 url: /states/SC/cherokee-county
 ---

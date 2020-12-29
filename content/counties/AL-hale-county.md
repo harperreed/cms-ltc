@@ -11,9 +11,9 @@ FIPS: 1065.0
 FEMA_Region: 4.0
 Population: 14651.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 818.0
-Fourteen_day_test_rate_per_100000: 5583.0
-Percent_Positivity_in_prior_14_days: 0.121
+Tests_in_prior_14_days: 1164.0
+Fourteen_day_test_rate_per_100000: 7945.0
+Percent_Positivity_in_prior_14_days: 0.177
 Level: Red
 url: /states/AL/hale-county
 ---

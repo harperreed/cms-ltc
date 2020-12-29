@@ -11,9 +11,9 @@ FIPS: 48107.0
 FEMA_Region: 6.0
 Population: 5737.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 172.0
-Fourteen_day_test_rate_per_100000: 2998.0
-Percent_Positivity_in_prior_14_days: 0.215
+Tests_in_prior_14_days: 131.0
+Fourteen_day_test_rate_per_100000: 2283.0
+Percent_Positivity_in_prior_14_days: 0.176
 Level: Red
 url: /states/TX/crosby-county
 ---

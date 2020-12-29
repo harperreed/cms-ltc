@@ -11,9 +11,9 @@ FIPS: 21167.0
 FEMA_Region: 4.0
 Population: 21933.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 845.0
-Fourteen_day_test_rate_per_100000: 3853.0
-Percent_Positivity_in_prior_14_days: 0.141
+Tests_in_prior_14_days: 2359.0
+Fourteen_day_test_rate_per_100000: 10755.0
+Percent_Positivity_in_prior_14_days: 0.245
 Level: Red
 url: /states/KY/mercer-county
 ---

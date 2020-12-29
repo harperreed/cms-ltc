@@ -11,9 +11,9 @@ FIPS: 29109.0
 FEMA_Region: 7.0
 Population: 38355.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 253.0
-Fourteen_day_test_rate_per_100000: 660.0
-Percent_Positivity_in_prior_14_days: 0.213
+Tests_in_prior_14_days: 215.0
+Fourteen_day_test_rate_per_100000: 561.0
+Percent_Positivity_in_prior_14_days: 0.149
 Level: Yellow
 url: /states/MO/lawrence-county
 ---

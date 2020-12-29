@@ -11,9 +11,9 @@ FIPS: 5109.0
 FEMA_Region: 6.0
 Population: 10718.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 444.0
-Fourteen_day_test_rate_per_100000: 4143.0
-Percent_Positivity_in_prior_14_days: 0.056
+Tests_in_prior_14_days: 455.0
+Fourteen_day_test_rate_per_100000: 4245.0
+Percent_Positivity_in_prior_14_days: 0.062
 Level: Yellow
 url: /states/AR/pike-county
 ---

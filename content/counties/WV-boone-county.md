@@ -11,9 +11,9 @@ FIPS: 54005.0
 FEMA_Region: 3.0
 Population: 21457.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1959.0
-Fourteen_day_test_rate_per_100000: 9130.0
-Percent_Positivity_in_prior_14_days: 0.112
+Tests_in_prior_14_days: 1712.0
+Fourteen_day_test_rate_per_100000: 7979.0
+Percent_Positivity_in_prior_14_days: 0.137
 Level: Red
 url: /states/WV/boone-county
 ---

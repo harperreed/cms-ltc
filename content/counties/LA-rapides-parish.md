@@ -11,9 +11,9 @@ FIPS: 22079.0
 FEMA_Region: 6.0
 Population: 129648.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 6282.0
-Fourteen_day_test_rate_per_100000: 4845.0
-Percent_Positivity_in_prior_14_days: 0.061
+Tests_in_prior_14_days: 7444.0
+Fourteen_day_test_rate_per_100000: 5742.0
+Percent_Positivity_in_prior_14_days: 0.059
 Level: Yellow
 url: /states/LA/rapides-parish
 ---

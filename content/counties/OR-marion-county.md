@@ -11,9 +11,9 @@ FIPS: 41047.0
 FEMA_Region: 10.0
 Population: 347818.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 22714.0
-Fourteen_day_test_rate_per_100000: 6530.0
-Percent_Positivity_in_prior_14_days: 0.119
+Tests_in_prior_14_days: 20257.0
+Fourteen_day_test_rate_per_100000: 5824.0
+Percent_Positivity_in_prior_14_days: 0.113
 Level: Red
 url: /states/OR/marion-county
 ---

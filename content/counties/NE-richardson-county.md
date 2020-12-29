@@ -11,9 +11,9 @@ FIPS: 31147.0
 FEMA_Region: 7.0
 Population: 7865.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 264.0
-Fourteen_day_test_rate_per_100000: 3357.0
-Percent_Positivity_in_prior_14_days: 0.223
+Tests_in_prior_14_days: 184.0
+Fourteen_day_test_rate_per_100000: 2339.0
+Percent_Positivity_in_prior_14_days: 0.201
 Level: Red
 url: /states/NE/richardson-county
 ---

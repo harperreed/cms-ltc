@@ -11,9 +11,9 @@ FIPS: 48091.0
 FEMA_Region: 6.0
 Population: 156209.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 5315.0
-Fourteen_day_test_rate_per_100000: 3402.0
-Percent_Positivity_in_prior_14_days: 0.118
+Tests_in_prior_14_days: 6701.0
+Fourteen_day_test_rate_per_100000: 4290.0
+Percent_Positivity_in_prior_14_days: 0.15
 Level: Red
 url: /states/TX/comal-county
 ---

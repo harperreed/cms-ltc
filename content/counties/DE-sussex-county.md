@@ -11,9 +11,9 @@ FIPS: 10005.0
 FEMA_Region: 3.0
 Population: 234225.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 22897.0
-Fourteen_day_test_rate_per_100000: 9776.0
-Percent_Positivity_in_prior_14_days: 0.072
+Tests_in_prior_14_days: 26593.0
+Fourteen_day_test_rate_per_100000: 11354.0
+Percent_Positivity_in_prior_14_days: 0.095
 Level: Yellow
 url: /states/DE/sussex-county
 ---

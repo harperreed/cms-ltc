@@ -11,9 +11,9 @@ FIPS: 20155.0
 FEMA_Region: 7.0
 Population: 61998.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4133.0
-Fourteen_day_test_rate_per_100000: 6666.0
-Percent_Positivity_in_prior_14_days: 0.296
+Tests_in_prior_14_days: 4217.0
+Fourteen_day_test_rate_per_100000: 6802.0
+Percent_Positivity_in_prior_14_days: 0.183
 Level: Red
 url: /states/KS/reno-county
 ---

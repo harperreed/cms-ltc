@@ -11,9 +11,9 @@ FIPS: 26027.0
 FEMA_Region: 5.0
 Population: 51787.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2444.0
-Fourteen_day_test_rate_per_100000: 4719.0
-Percent_Positivity_in_prior_14_days: 0.186
+Tests_in_prior_14_days: 1811.0
+Fourteen_day_test_rate_per_100000: 3497.0
+Percent_Positivity_in_prior_14_days: 0.144
 Level: Red
 url: /states/MI/cass-county
 ---

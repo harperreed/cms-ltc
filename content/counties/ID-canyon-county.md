@@ -11,9 +11,9 @@ FIPS: 16027.0
 FEMA_Region: 10.0
 Population: 229849.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 11049.0
-Fourteen_day_test_rate_per_100000: 4807.0
-Percent_Positivity_in_prior_14_days: 0.277
+Tests_in_prior_14_days: 10240.0
+Fourteen_day_test_rate_per_100000: 4455.0
+Percent_Positivity_in_prior_14_days: 0.211
 Level: Red
 url: /states/ID/canyon-county
 ---

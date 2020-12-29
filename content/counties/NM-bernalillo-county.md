@@ -11,9 +11,9 @@ FIPS: 35001.0
 FEMA_Region: 6.0
 Population: 679121.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 47569.0
-Fourteen_day_test_rate_per_100000: 7004.0
-Percent_Positivity_in_prior_14_days: 0.159
+Tests_in_prior_14_days: 37816.0
+Fourteen_day_test_rate_per_100000: 5568.0
+Percent_Positivity_in_prior_14_days: 0.118
 Level: Red
 url: /states/NM/bernalillo-county
 ---

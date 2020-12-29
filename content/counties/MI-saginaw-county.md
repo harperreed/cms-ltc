@@ -11,9 +11,9 @@ FIPS: 26145.0
 FEMA_Region: 5.0
 Population: 190539.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 17285.0
-Fourteen_day_test_rate_per_100000: 9072.0
-Percent_Positivity_in_prior_14_days: 0.14
+Tests_in_prior_14_days: 16894.0
+Fourteen_day_test_rate_per_100000: 8866.0
+Percent_Positivity_in_prior_14_days: 0.145
 Level: Red
 url: /states/MI/saginaw-county
 ---

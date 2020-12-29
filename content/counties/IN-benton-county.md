@@ -11,9 +11,9 @@ FIPS: 18007.0
 FEMA_Region: 5.0
 Population: 8748.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 821.0
-Fourteen_day_test_rate_per_100000: 9385.0
-Percent_Positivity_in_prior_14_days: 0.196
+Tests_in_prior_14_days: 810.0
+Fourteen_day_test_rate_per_100000: 9259.0
+Percent_Positivity_in_prior_14_days: 0.249
 Level: Red
 url: /states/IN/benton-county
 ---

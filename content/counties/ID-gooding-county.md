@@ -11,9 +11,9 @@ FIPS: 16047.0
 FEMA_Region: 10.0
 Population: 15179.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 563.0
-Fourteen_day_test_rate_per_100000: 3709.0
-Percent_Positivity_in_prior_14_days: 0.252
+Tests_in_prior_14_days: 442.0
+Fourteen_day_test_rate_per_100000: 2912.0
+Percent_Positivity_in_prior_14_days: 0.131
 Level: Red
 url: /states/ID/gooding-county
 ---

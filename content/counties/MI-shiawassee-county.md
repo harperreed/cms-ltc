@@ -11,9 +11,9 @@ FIPS: 26155.0
 FEMA_Region: 5.0
 Population: 68122.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4447.0
-Fourteen_day_test_rate_per_100000: 6528.0
-Percent_Positivity_in_prior_14_days: 0.14
+Tests_in_prior_14_days: 3278.0
+Fourteen_day_test_rate_per_100000: 4812.0
+Percent_Positivity_in_prior_14_days: 0.114
 Level: Red
 url: /states/MI/shiawassee-county
 ---

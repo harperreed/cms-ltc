@@ -11,9 +11,9 @@ FIPS: 19077.0
 FEMA_Region: 7.0
 Population: 10689.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 382.0
-Fourteen_day_test_rate_per_100000: 3574.0
-Percent_Positivity_in_prior_14_days: 0.16
+Tests_in_prior_14_days: 253.0
+Fourteen_day_test_rate_per_100000: 2367.0
+Percent_Positivity_in_prior_14_days: 0.162
 Level: Red
 url: /states/IA/guthrie-county
 ---

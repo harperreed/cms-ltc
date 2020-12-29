@@ -11,9 +11,9 @@ FIPS: 13245.0
 FEMA_Region: 4.0
 Population: 202518.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 7226.0
-Fourteen_day_test_rate_per_100000: 3568.0
-Percent_Positivity_in_prior_14_days: 0.112
+Tests_in_prior_14_days: 9931.0
+Fourteen_day_test_rate_per_100000: 4904.0
+Percent_Positivity_in_prior_14_days: 0.156
 Level: Red
 url: /states/GA/richmond-county
 ---

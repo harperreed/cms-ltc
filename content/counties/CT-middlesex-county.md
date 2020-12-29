@@ -11,9 +11,9 @@ FIPS: 9007.0
 FEMA_Region: 1.0
 Population: 162436.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 5279.0
-Fourteen_day_test_rate_per_100000: 3250.0
-Percent_Positivity_in_prior_14_days: 0.056
+Tests_in_prior_14_days: 8553.0
+Fourteen_day_test_rate_per_100000: 5265.0
+Percent_Positivity_in_prior_14_days: 0.089
 Level: Yellow
 url: /states/CT/middlesex-county
 ---

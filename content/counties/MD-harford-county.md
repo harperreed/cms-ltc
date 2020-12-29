@@ -11,9 +11,9 @@ FIPS: 24025.0
 FEMA_Region: 3.0
 Population: 255441.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 11465.0
-Fourteen_day_test_rate_per_100000: 4488.0
-Percent_Positivity_in_prior_14_days: 0.093
+Tests_in_prior_14_days: 16495.0
+Fourteen_day_test_rate_per_100000: 6457.0
+Percent_Positivity_in_prior_14_days: 0.074
 Level: Yellow
 url: /states/MD/harford-county
 ---

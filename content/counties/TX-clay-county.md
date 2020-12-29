@@ -11,9 +11,9 @@ FIPS: 48077.0
 FEMA_Region: 6.0
 Population: 10471.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 366.0
-Fourteen_day_test_rate_per_100000: 3495.0
-Percent_Positivity_in_prior_14_days: 0.292
+Tests_in_prior_14_days: 288.0
+Fourteen_day_test_rate_per_100000: 2750.0
+Percent_Positivity_in_prior_14_days: 0.253
 Level: Red
 url: /states/TX/clay-county
 ---

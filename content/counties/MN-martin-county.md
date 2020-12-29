@@ -11,9 +11,9 @@ FIPS: 27091.0
 FEMA_Region: 5.0
 Population: 19683.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 3286.0
-Fourteen_day_test_rate_per_100000: 16695.0
-Percent_Positivity_in_prior_14_days: 0.173
+Tests_in_prior_14_days: 1937.0
+Fourteen_day_test_rate_per_100000: 9841.0
+Percent_Positivity_in_prior_14_days: 0.114
 Level: Red
 url: /states/MN/martin-county
 ---

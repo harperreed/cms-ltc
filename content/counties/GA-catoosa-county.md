@@ -11,9 +11,9 @@ FIPS: 13047.0
 FEMA_Region: 4.0
 Population: 67580.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 728.0
-Fourteen_day_test_rate_per_100000: 1077.0
-Percent_Positivity_in_prior_14_days: 0.166
+Tests_in_prior_14_days: 828.0
+Fourteen_day_test_rate_per_100000: 1225.0
+Percent_Positivity_in_prior_14_days: 0.179
 Level: Red
 url: /states/GA/catoosa-county
 ---

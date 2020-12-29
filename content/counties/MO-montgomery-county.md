@@ -11,9 +11,9 @@ FIPS: 29139.0
 FEMA_Region: 7.0
 Population: 11551.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 186.0
-Fourteen_day_test_rate_per_100000: 1610.0
-Percent_Positivity_in_prior_14_days: 0.14
+Tests_in_prior_14_days: 96.0
+Fourteen_day_test_rate_per_100000: 831.0
+Percent_Positivity_in_prior_14_days: 0.26
 Level: Yellow
 url: /states/MO/montgomery-county
 ---

@@ -11,9 +11,9 @@ FIPS: 37083.0
 FEMA_Region: 4.0
 Population: 50010.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2509.0
-Fourteen_day_test_rate_per_100000: 5017.0
-Percent_Positivity_in_prior_14_days: 0.124
+Tests_in_prior_14_days: 3076.0
+Fourteen_day_test_rate_per_100000: 6151.0
+Percent_Positivity_in_prior_14_days: 0.164
 Level: Red
 url: /states/NC/halifax-county
 ---

@@ -11,9 +11,9 @@ FIPS: 21233.0
 FEMA_Region: 4.0
 Population: 12942.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 340.0
-Fourteen_day_test_rate_per_100000: 2627.0
-Percent_Positivity_in_prior_14_days: 0.171
+Tests_in_prior_14_days: 678.0
+Fourteen_day_test_rate_per_100000: 5239.0
+Percent_Positivity_in_prior_14_days: 0.131
 Level: Red
 url: /states/KY/webster-county
 ---

@@ -13,7 +13,7 @@ Population: 40108.0
 NCHS_Urban_Rural_Classification: Micropolitan
 Tests_in_prior_14_days: 875.0
 Fourteen_day_test_rate_per_100000: 2182.0
-Percent_Positivity_in_prior_14_days: 0.311
+Percent_Positivity_in_prior_14_days: 0.232
 Level: Red
 url: /states/ID/latah-county
 ---

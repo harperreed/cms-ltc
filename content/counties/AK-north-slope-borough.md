@@ -11,9 +11,9 @@ FIPS: 2185.0
 FEMA_Region: 10.0
 Population: 9832.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1259.0
-Fourteen_day_test_rate_per_100000: 12805.0
-Percent_Positivity_in_prior_14_days: 0.156
+Tests_in_prior_14_days: 961.0
+Fourteen_day_test_rate_per_100000: 9774.0
+Percent_Positivity_in_prior_14_days: 0.131
 Level: Red
 url: /states/AK/north-slope-borough
 ---

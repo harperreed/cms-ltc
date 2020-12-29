@@ -11,9 +11,9 @@ FIPS: 29023.0
 FEMA_Region: 7.0
 Population: 42478.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2301.0
-Fourteen_day_test_rate_per_100000: 5417.0
-Percent_Positivity_in_prior_14_days: 0.184
+Tests_in_prior_14_days: 1953.0
+Fourteen_day_test_rate_per_100000: 4598.0
+Percent_Positivity_in_prior_14_days: 0.156
 Level: Red
 url: /states/MO/butler-county
 ---

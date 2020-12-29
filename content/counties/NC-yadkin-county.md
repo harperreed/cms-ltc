@@ -11,9 +11,9 @@ FIPS: 37197.0
 FEMA_Region: 4.0
 Population: 37667.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1604.0
-Fourteen_day_test_rate_per_100000: 4258.0
-Percent_Positivity_in_prior_14_days: 0.137
+Tests_in_prior_14_days: 1709.0
+Fourteen_day_test_rate_per_100000: 4537.0
+Percent_Positivity_in_prior_14_days: 0.176
 Level: Red
 url: /states/NC/yadkin-county
 ---

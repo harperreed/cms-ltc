@@ -11,9 +11,9 @@ FIPS: 5079.0
 FEMA_Region: 6.0
 Population: 13024.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 584.0
-Fourteen_day_test_rate_per_100000: 4484.0
-Percent_Positivity_in_prior_14_days: 0.087
+Tests_in_prior_14_days: 832.0
+Fourteen_day_test_rate_per_100000: 6388.0
+Percent_Positivity_in_prior_14_days: 0.096
 Level: Yellow
 url: /states/AR/lincoln-county
 ---

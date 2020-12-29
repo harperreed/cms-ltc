@@ -11,9 +11,9 @@ FIPS: 13151.0
 FEMA_Region: 4.0
 Population: 234561.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 6307.0
-Fourteen_day_test_rate_per_100000: 2689.0
-Percent_Positivity_in_prior_14_days: 0.137
+Tests_in_prior_14_days: 9701.0
+Fourteen_day_test_rate_per_100000: 4136.0
+Percent_Positivity_in_prior_14_days: 0.177
 Level: Red
 url: /states/GA/henry-county
 ---

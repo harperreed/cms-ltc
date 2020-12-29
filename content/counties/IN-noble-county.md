@@ -11,9 +11,9 @@ FIPS: 18113.0
 FEMA_Region: 5.0
 Population: 47744.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2809.0
-Fourteen_day_test_rate_per_100000: 5883.0
-Percent_Positivity_in_prior_14_days: 0.183
+Tests_in_prior_14_days: 1990.0
+Fourteen_day_test_rate_per_100000: 4168.0
+Percent_Positivity_in_prior_14_days: 0.171
 Level: Red
 url: /states/IN/noble-county
 ---

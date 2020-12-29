@@ -3,7 +3,7 @@ title: "Montmorency County, MI"
 date: 2020-12-29
 draft: false
 type: county
-tags: [FIPS:26119.0,FEMA:5.0,Non-core,Red]
+tags: [FIPS:26119.0,FEMA:5.0,Non-core,Yellow]
 categories: [MI]
 County: Montmorency County
 State: MI
@@ -11,10 +11,10 @@ FIPS: 26119.0
 FEMA_Region: 5.0
 Population: 9328.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 603.0
-Fourteen_day_test_rate_per_100000: 6464.0
-Percent_Positivity_in_prior_14_days: 0.158
-Level: Red
+Tests_in_prior_14_days: 437.0
+Fourteen_day_test_rate_per_100000: 4685.0
+Percent_Positivity_in_prior_14_days: 0.098
+Level: Yellow
 url: /states/MI/montmorency-county
 ---
 

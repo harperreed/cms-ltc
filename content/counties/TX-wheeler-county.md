@@ -11,9 +11,9 @@ FIPS: 48483.0
 FEMA_Region: 6.0
 Population: 5056.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 98.0
-Fourteen_day_test_rate_per_100000: 1938.0
-Percent_Positivity_in_prior_14_days: 0.367
+Tests_in_prior_14_days: 48.0
+Fourteen_day_test_rate_per_100000: 949.0
+Percent_Positivity_in_prior_14_days: 0.354
 Level: Yellow
 url: /states/TX/wheeler-county
 ---

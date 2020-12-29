@@ -3,7 +3,7 @@ title: "Gila County, AZ"
 date: 2020-12-29
 draft: false
 type: county
-tags: [FIPS:4007.0,FEMA:9.0,Micropolitan,Yellow]
+tags: [FIPS:4007.0,FEMA:9.0,Micropolitan,Red]
 categories: [AZ]
 County: Gila County
 State: AZ
@@ -11,10 +11,10 @@ FIPS: 4007.0
 FEMA_Region: 9.0
 Population: 54018.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2562.0
-Fourteen_day_test_rate_per_100000: 4743.0
-Percent_Positivity_in_prior_14_days: 0.098
-Level: Yellow
+Tests_in_prior_14_days: 2212.0
+Fourteen_day_test_rate_per_100000: 4095.0
+Percent_Positivity_in_prior_14_days: 0.142
+Level: Red
 url: /states/AZ/gila-county
 ---
 

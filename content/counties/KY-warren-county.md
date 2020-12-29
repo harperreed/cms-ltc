@@ -11,9 +11,9 @@ FIPS: 21227.0
 FEMA_Region: 4.0
 Population: 132896.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3306.0
-Fourteen_day_test_rate_per_100000: 2488.0
-Percent_Positivity_in_prior_14_days: 0.126
+Tests_in_prior_14_days: 6043.0
+Fourteen_day_test_rate_per_100000: 4547.0
+Percent_Positivity_in_prior_14_days: 0.144
 Level: Red
 url: /states/KY/warren-county
 ---

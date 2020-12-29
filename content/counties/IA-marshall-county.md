@@ -11,9 +11,9 @@ FIPS: 19127.0
 FEMA_Region: 7.0
 Population: 39369.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1705.0
-Fourteen_day_test_rate_per_100000: 4331.0
-Percent_Positivity_in_prior_14_days: 0.263
+Tests_in_prior_14_days: 1088.0
+Fourteen_day_test_rate_per_100000: 2764.0
+Percent_Positivity_in_prior_14_days: 0.117
 Level: Red
 url: /states/IA/marshall-county
 ---

@@ -11,9 +11,9 @@ FIPS: 39089.0
 FEMA_Region: 5.0
 Population: 176862.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 2731.0
-Fourteen_day_test_rate_per_100000: 1544.0
-Percent_Positivity_in_prior_14_days: 0.317
+Tests_in_prior_14_days: 2040.0
+Fourteen_day_test_rate_per_100000: 1153.0
+Percent_Positivity_in_prior_14_days: 0.267
 Level: Red
 url: /states/OH/licking-county
 ---

@@ -11,9 +11,9 @@ FIPS: 17019.0
 FEMA_Region: 5.0
 Population: 209689.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 95557.0
-Fourteen_day_test_rate_per_100000: 45571.0
-Percent_Positivity_in_prior_14_days: 0.022
+Tests_in_prior_14_days: 85331.0
+Fourteen_day_test_rate_per_100000: 40694.0
+Percent_Positivity_in_prior_14_days: 0.017
 Level: Green
 url: /states/IL/champaign-county
 ---

@@ -11,9 +11,9 @@ FIPS: 8029.0
 FEMA_Region: 8.0
 Population: 31162.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 3096.0
-Fourteen_day_test_rate_per_100000: 9935.0
-Percent_Positivity_in_prior_14_days: 0.13
+Tests_in_prior_14_days: 3133.0
+Fourteen_day_test_rate_per_100000: 10054.0
+Percent_Positivity_in_prior_14_days: 0.152
 Level: Red
 url: /states/CO/delta-county
 ---

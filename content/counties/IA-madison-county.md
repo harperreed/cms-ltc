@@ -11,9 +11,9 @@ FIPS: 19121.0
 FEMA_Region: 7.0
 Population: 16338.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 833.0
-Fourteen_day_test_rate_per_100000: 5099.0
-Percent_Positivity_in_prior_14_days: 0.161
+Tests_in_prior_14_days: 558.0
+Fourteen_day_test_rate_per_100000: 3415.0
+Percent_Positivity_in_prior_14_days: 0.151
 Level: Red
 url: /states/IA/madison-county
 ---

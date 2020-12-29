@@ -11,9 +11,9 @@ FIPS: 28087.0
 FEMA_Region: 4.0
 Population: 58595.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 949.0
-Fourteen_day_test_rate_per_100000: 1620.0
-Percent_Positivity_in_prior_14_days: 0.193
+Tests_in_prior_14_days: 1731.0
+Fourteen_day_test_rate_per_100000: 2954.0
+Percent_Positivity_in_prior_14_days: 0.217
 Level: Red
 url: /states/MS/lowndes-county
 ---

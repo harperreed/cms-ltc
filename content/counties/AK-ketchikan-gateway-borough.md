@@ -11,9 +11,9 @@ FIPS: 2130.0
 FEMA_Region: 10.0
 Population: 13901.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1036.0
-Fourteen_day_test_rate_per_100000: 7453.0
-Percent_Positivity_in_prior_14_days: 0.016
+Tests_in_prior_14_days: 611.0
+Fourteen_day_test_rate_per_100000: 4395.0
+Percent_Positivity_in_prior_14_days: 0.003
 Level: Green
 url: /states/AK/ketchikan-gateway-borough
 ---

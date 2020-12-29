@@ -11,9 +11,9 @@ FIPS: 41021.0
 FEMA_Region: 10.0
 Population: 1912.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 29.0
-Fourteen_day_test_rate_per_100000: 1517.0
-Percent_Positivity_in_prior_14_days: 0.034
+Tests_in_prior_14_days: 53.0
+Fourteen_day_test_rate_per_100000: 2772.0
+Percent_Positivity_in_prior_14_days: 0.038
 Level: Green
 url: /states/OR/gilliam-county
 ---

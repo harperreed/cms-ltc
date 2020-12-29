@@ -3,7 +3,7 @@ title: "Carbon County, UT"
 date: 2020-12-29
 draft: false
 type: county
-tags: [FIPS:49007.0,FEMA:8.0,Micropolitan,Red]
+tags: [FIPS:49007.0,FEMA:8.0,Micropolitan,Green]
 categories: [UT]
 County: Carbon County
 State: UT
@@ -11,10 +11,10 @@ FIPS: 49007.0
 FEMA_Region: 8.0
 Population: 20463.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 681.0
-Fourteen_day_test_rate_per_100000: 3328.0
-Percent_Positivity_in_prior_14_days: 0.22
-Level: Red
+Tests_in_prior_14_days: 564.0
+Fourteen_day_test_rate_per_100000: 2756.0
+Percent_Positivity_in_prior_14_days: 0.046
+Level: Green
 url: /states/UT/carbon-county
 ---
 

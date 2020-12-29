@@ -11,9 +11,9 @@ FIPS: 39031.0
 FEMA_Region: 5.0
 Population: 36600.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 928.0
-Fourteen_day_test_rate_per_100000: 2536.0
-Percent_Positivity_in_prior_14_days: 0.191
+Tests_in_prior_14_days: 824.0
+Fourteen_day_test_rate_per_100000: 2251.0
+Percent_Positivity_in_prior_14_days: 0.215
 Level: Red
 url: /states/OH/coshocton-county
 ---

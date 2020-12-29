@@ -11,9 +11,9 @@ FIPS: 48363.0
 FEMA_Region: 6.0
 Population: 29189.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 859.0
-Fourteen_day_test_rate_per_100000: 2943.0
-Percent_Positivity_in_prior_14_days: 0.211
+Tests_in_prior_14_days: 549.0
+Fourteen_day_test_rate_per_100000: 1881.0
+Percent_Positivity_in_prior_14_days: 0.189
 Level: Red
 url: /states/TX/palo-pinto-county
 ---

@@ -11,8 +11,8 @@ FIPS: 23013.0
 FEMA_Region: 1.0
 Population: 39772.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 305.0
-Fourteen_day_test_rate_per_100000: 767.0
+Tests_in_prior_14_days: 279.0
+Fourteen_day_test_rate_per_100000: 701.0
 Percent_Positivity_in_prior_14_days: 0.007
 Level: Green
 url: /states/ME/knox-county

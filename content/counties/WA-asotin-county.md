@@ -11,9 +11,9 @@ FIPS: 53003.0
 FEMA_Region: 10.0
 Population: 22582.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 385.0
-Fourteen_day_test_rate_per_100000: 1705.0
-Percent_Positivity_in_prior_14_days: 0.257
+Tests_in_prior_14_days: 343.0
+Fourteen_day_test_rate_per_100000: 1519.0
+Percent_Positivity_in_prior_14_days: 0.14
 Level: Yellow
 url: /states/WA/asotin-county
 ---

@@ -11,9 +11,9 @@ FIPS: 8123.0
 FEMA_Region: 8.0
 Population: 324492.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 31590.0
-Fourteen_day_test_rate_per_100000: 9735.0
-Percent_Positivity_in_prior_14_days: 0.172
+Tests_in_prior_14_days: 25073.0
+Fourteen_day_test_rate_per_100000: 7727.0
+Percent_Positivity_in_prior_14_days: 0.117
 Level: Red
 url: /states/CO/weld-county
 ---

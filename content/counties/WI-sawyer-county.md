@@ -11,9 +11,9 @@ FIPS: 55113.0
 FEMA_Region: 5.0
 Population: 16558.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1560.0
-Fourteen_day_test_rate_per_100000: 9421.0
-Percent_Positivity_in_prior_14_days: 0.126
+Tests_in_prior_14_days: 1418.0
+Fourteen_day_test_rate_per_100000: 8564.0
+Percent_Positivity_in_prior_14_days: 0.101
 Level: Red
 url: /states/WI/sawyer-county
 ---

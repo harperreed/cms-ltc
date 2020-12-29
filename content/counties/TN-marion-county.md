@@ -3,7 +3,7 @@ title: "Marion County, TN"
 date: 2020-12-29
 draft: false
 type: county
-tags: [FIPS:47115.0,FEMA:4.0,Medium metro,Gray]
+tags: [FIPS:47115.0,FEMA:4.0,Medium metro,Red]
 categories: [TN]
 County: Marion County
 State: TN
@@ -11,10 +11,10 @@ FIPS: 47115.0
 FEMA_Region: 4.0
 Population: 28907.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 829.0
-Fourteen_day_test_rate_per_100000: 2868.0
-Percent_Positivity_in_prior_14_days: 0.138
-Level: Gray
+Tests_in_prior_14_days: 1177.0
+Fourteen_day_test_rate_per_100000: 4072.0
+Percent_Positivity_in_prior_14_days: 0.173
+Level: Red
 url: /states/TN/marion-county
 ---
 

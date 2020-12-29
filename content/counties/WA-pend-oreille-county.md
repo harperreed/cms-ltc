@@ -11,9 +11,9 @@ FIPS: 53051.0
 FEMA_Region: 10.0
 Population: 13724.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 459.0
-Fourteen_day_test_rate_per_100000: 3345.0
-Percent_Positivity_in_prior_14_days: 0.102
+Tests_in_prior_14_days: 348.0
+Fourteen_day_test_rate_per_100000: 2536.0
+Percent_Positivity_in_prior_14_days: 0.124
 Level: Red
 url: /states/WA/pend-oreille-county
 ---

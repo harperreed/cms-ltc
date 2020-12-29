@@ -11,9 +11,9 @@ FIPS: 40121.0
 FEMA_Region: 6.0
 Population: 43654.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 641.0
-Fourteen_day_test_rate_per_100000: 1468.0
-Percent_Positivity_in_prior_14_days: 0.14
+Tests_in_prior_14_days: 653.0
+Fourteen_day_test_rate_per_100000: 1496.0
+Percent_Positivity_in_prior_14_days: 0.28
 Level: Red
 url: /states/OK/pittsburg-county
 ---

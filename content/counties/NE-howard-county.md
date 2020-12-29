@@ -11,9 +11,9 @@ FIPS: 31093.0
 FEMA_Region: 7.0
 Population: 6445.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 102.0
-Fourteen_day_test_rate_per_100000: 1583.0
-Percent_Positivity_in_prior_14_days: 0.265
+Tests_in_prior_14_days: 95.0
+Fourteen_day_test_rate_per_100000: 1474.0
+Percent_Positivity_in_prior_14_days: 0.221
 Level: Yellow
 url: /states/NE/howard-county
 ---

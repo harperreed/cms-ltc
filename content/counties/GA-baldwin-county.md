@@ -11,9 +11,9 @@ FIPS: 13009.0
 FEMA_Region: 4.0
 Population: 44890.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 761.0
-Fourteen_day_test_rate_per_100000: 1695.0
-Percent_Positivity_in_prior_14_days: 0.101
+Tests_in_prior_14_days: 1036.0
+Fourteen_day_test_rate_per_100000: 2308.0
+Percent_Positivity_in_prior_14_days: 0.14
 Level: Red
 url: /states/GA/baldwin-county
 ---

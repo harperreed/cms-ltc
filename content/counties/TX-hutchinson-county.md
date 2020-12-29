@@ -11,9 +11,9 @@ FIPS: 48233.0
 FEMA_Region: 6.0
 Population: 20938.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 703.0
-Fourteen_day_test_rate_per_100000: 3358.0
-Percent_Positivity_in_prior_14_days: 0.44
+Tests_in_prior_14_days: 475.0
+Fourteen_day_test_rate_per_100000: 2269.0
+Percent_Positivity_in_prior_14_days: 0.211
 Level: Red
 url: /states/TX/hutchinson-county
 ---

@@ -11,9 +11,9 @@ FIPS: 5123.0
 FEMA_Region: 6.0
 Population: 24994.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1401.0
-Fourteen_day_test_rate_per_100000: 5605.0
-Percent_Positivity_in_prior_14_days: 0.079
+Tests_in_prior_14_days: 2984.0
+Fourteen_day_test_rate_per_100000: 11939.0
+Percent_Positivity_in_prior_14_days: 0.096
 Level: Yellow
 url: /states/AR/st-francis-county
 ---

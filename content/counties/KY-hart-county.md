@@ -11,9 +11,9 @@ FIPS: 21099.0
 FEMA_Region: 4.0
 Population: 19035.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 513.0
-Fourteen_day_test_rate_per_100000: 2695.0
-Percent_Positivity_in_prior_14_days: 0.205
+Tests_in_prior_14_days: 634.0
+Fourteen_day_test_rate_per_100000: 3331.0
+Percent_Positivity_in_prior_14_days: 0.101
 Level: Red
 url: /states/KY/hart-county
 ---

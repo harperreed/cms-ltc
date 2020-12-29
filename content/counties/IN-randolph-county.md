@@ -11,9 +11,9 @@ FIPS: 18135.0
 FEMA_Region: 5.0
 Population: 24665.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1491.0
-Fourteen_day_test_rate_per_100000: 6045.0
-Percent_Positivity_in_prior_14_days: 0.249
+Tests_in_prior_14_days: 1106.0
+Fourteen_day_test_rate_per_100000: 4484.0
+Percent_Positivity_in_prior_14_days: 0.184
 Level: Red
 url: /states/IN/randolph-county
 ---

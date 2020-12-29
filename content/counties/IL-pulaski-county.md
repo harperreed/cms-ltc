@@ -11,9 +11,9 @@ FIPS: 17153.0
 FEMA_Region: 5.0
 Population: 5335.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 359.0
-Fourteen_day_test_rate_per_100000: 6729.0
-Percent_Positivity_in_prior_14_days: 0.228
+Tests_in_prior_14_days: 315.0
+Fourteen_day_test_rate_per_100000: 5904.0
+Percent_Positivity_in_prior_14_days: 0.206
 Level: Red
 url: /states/IL/pulaski-county
 ---

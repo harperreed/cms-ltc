@@ -11,9 +11,9 @@ FIPS: 48195.0
 FEMA_Region: 6.0
 Population: 5399.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 39.0
-Fourteen_day_test_rate_per_100000: 722.0
-Percent_Positivity_in_prior_14_days: 0.359
+Tests_in_prior_14_days: 46.0
+Fourteen_day_test_rate_per_100000: 852.0
+Percent_Positivity_in_prior_14_days: 0.326
 Level: Yellow
 url: /states/TX/hansford-county
 ---

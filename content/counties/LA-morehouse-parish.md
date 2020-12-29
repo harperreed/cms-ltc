@@ -11,9 +11,9 @@ FIPS: 22067.0
 FEMA_Region: 6.0
 Population: 24874.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2119.0
-Fourteen_day_test_rate_per_100000: 8519.0
-Percent_Positivity_in_prior_14_days: 0.121
+Tests_in_prior_14_days: 2433.0
+Fourteen_day_test_rate_per_100000: 9781.0
+Percent_Positivity_in_prior_14_days: 0.107
 Level: Red
 url: /states/LA/morehouse-parish
 ---

@@ -11,9 +11,9 @@ FIPS: 5029.0
 FEMA_Region: 6.0
 Population: 20846.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 985.0
-Fourteen_day_test_rate_per_100000: 4725.0
-Percent_Positivity_in_prior_14_days: 0.103
+Tests_in_prior_14_days: 1346.0
+Fourteen_day_test_rate_per_100000: 6457.0
+Percent_Positivity_in_prior_14_days: 0.17
 Level: Red
 url: /states/AR/conway-county
 ---

@@ -11,9 +11,9 @@ FIPS: 29119.0
 FEMA_Region: 7.0
 Population: 22837.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 231.0
-Fourteen_day_test_rate_per_100000: 1012.0
-Percent_Positivity_in_prior_14_days: 0.165
+Tests_in_prior_14_days: 242.0
+Fourteen_day_test_rate_per_100000: 1060.0
+Percent_Positivity_in_prior_14_days: 0.198
 Level: Yellow
 url: /states/MO/mcdonald-county
 ---

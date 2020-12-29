@@ -11,9 +11,9 @@ FIPS: 48451.0
 FEMA_Region: 6.0
 Population: 119200.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 4426.0
-Fourteen_day_test_rate_per_100000: 3713.0
-Percent_Positivity_in_prior_14_days: 0.146
+Tests_in_prior_14_days: 4445.0
+Fourteen_day_test_rate_per_100000: 3729.0
+Percent_Positivity_in_prior_14_days: 0.109
 Level: Red
 url: /states/TX/tom-green-county
 ---

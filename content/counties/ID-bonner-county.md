@@ -11,9 +11,9 @@ FIPS: 16017.0
 FEMA_Region: 10.0
 Population: 45739.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2519.0
-Fourteen_day_test_rate_per_100000: 5507.0
-Percent_Positivity_in_prior_14_days: 0.189
+Tests_in_prior_14_days: 3647.0
+Fourteen_day_test_rate_per_100000: 7974.0
+Percent_Positivity_in_prior_14_days: 0.213
 Level: Red
 url: /states/ID/bonner-county
 ---

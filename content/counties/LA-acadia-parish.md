@@ -11,9 +11,9 @@ FIPS: 22001.0
 FEMA_Region: 6.0
 Population: 62045.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 3559.0
-Fourteen_day_test_rate_per_100000: 5736.0
-Percent_Positivity_in_prior_14_days: 0.123
+Tests_in_prior_14_days: 4033.0
+Fourteen_day_test_rate_per_100000: 6500.0
+Percent_Positivity_in_prior_14_days: 0.105
 Level: Red
 url: /states/LA/acadia-parish
 ---

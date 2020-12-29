@@ -11,9 +11,9 @@ FIPS: 39051.0
 FEMA_Region: 5.0
 Population: 42126.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 939.0
-Fourteen_day_test_rate_per_100000: 2229.0
-Percent_Positivity_in_prior_14_days: 0.182
+Tests_in_prior_14_days: 757.0
+Fourteen_day_test_rate_per_100000: 1797.0
+Percent_Positivity_in_prior_14_days: 0.272
 Level: Red
 url: /states/OH/fulton-county
 ---

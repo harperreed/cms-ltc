@@ -3,7 +3,7 @@ title: "Wayne County, MI"
 date: 2020-12-29
 draft: false
 type: county
-tags: [FIPS:26163.0,FEMA:5.0,Large central metro,Red]
+tags: [FIPS:26163.0,FEMA:5.0,Large central metro,Yellow]
 categories: [MI]
 County: Wayne County
 State: MI
@@ -11,10 +11,10 @@ FIPS: 26163.0
 FEMA_Region: 5.0
 Population: 1749343.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 125326.0
-Fourteen_day_test_rate_per_100000: 7164.0
-Percent_Positivity_in_prior_14_days: 0.133
-Level: Red
+Tests_in_prior_14_days: 104826.0
+Fourteen_day_test_rate_per_100000: 5992.0
+Percent_Positivity_in_prior_14_days: 0.098
+Level: Yellow
 url: /states/MI/wayne-county
 ---
 

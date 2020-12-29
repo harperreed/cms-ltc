@@ -11,9 +11,9 @@ FIPS: 48309.0
 FEMA_Region: 6.0
 Population: 256623.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 8970.0
-Fourteen_day_test_rate_per_100000: 3495.0
-Percent_Positivity_in_prior_14_days: 0.123
+Tests_in_prior_14_days: 14748.0
+Fourteen_day_test_rate_per_100000: 5747.0
+Percent_Positivity_in_prior_14_days: 0.15
 Level: Red
 url: /states/TX/mclennan-county
 ---

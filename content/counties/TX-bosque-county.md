@@ -11,9 +11,9 @@ FIPS: 48035.0
 FEMA_Region: 6.0
 Population: 18685.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 580.0
-Fourteen_day_test_rate_per_100000: 3104.0
-Percent_Positivity_in_prior_14_days: 0.14
+Tests_in_prior_14_days: 729.0
+Fourteen_day_test_rate_per_100000: 3902.0
+Percent_Positivity_in_prior_14_days: 0.147
 Level: Red
 url: /states/TX/bosque-county
 ---

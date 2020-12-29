@@ -11,9 +11,9 @@ FIPS: 18161.0
 FEMA_Region: 5.0
 Population: 7054.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 483.0
-Fourteen_day_test_rate_per_100000: 6847.0
-Percent_Positivity_in_prior_14_days: 0.217
+Tests_in_prior_14_days: 390.0
+Fourteen_day_test_rate_per_100000: 5529.0
+Percent_Positivity_in_prior_14_days: 0.272
 Level: Red
 url: /states/IN/union-county
 ---

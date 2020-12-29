@@ -11,9 +11,9 @@ FIPS: 45057.0
 FEMA_Region: 4.0
 Population: 98012.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 2802.0
-Fourteen_day_test_rate_per_100000: 2859.0
-Percent_Positivity_in_prior_14_days: 0.143
+Tests_in_prior_14_days: 4308.0
+Fourteen_day_test_rate_per_100000: 4395.0
+Percent_Positivity_in_prior_14_days: 0.172
 Level: Red
 url: /states/SC/lancaster-county
 ---

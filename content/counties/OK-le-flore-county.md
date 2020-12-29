@@ -11,9 +11,9 @@ FIPS: 40079.0
 FEMA_Region: 6.0
 Population: 49853.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1524.0
-Fourteen_day_test_rate_per_100000: 3057.0
-Percent_Positivity_in_prior_14_days: 0.197
+Tests_in_prior_14_days: 1481.0
+Fourteen_day_test_rate_per_100000: 2971.0
+Percent_Positivity_in_prior_14_days: 0.194
 Level: Red
 url: /states/OK/le-flore-county
 ---

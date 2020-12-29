@@ -11,9 +11,9 @@ FIPS: 33011.0
 FEMA_Region: 1.0
 Population: 417025.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 16122.0
-Fourteen_day_test_rate_per_100000: 3866.0
-Percent_Positivity_in_prior_14_days: 0.123
+Tests_in_prior_14_days: 15230.0
+Fourteen_day_test_rate_per_100000: 3652.0
+Percent_Positivity_in_prior_14_days: 0.156
 Level: Red
 url: /states/NH/hillsborough-county
 ---

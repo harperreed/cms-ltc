@@ -11,9 +11,9 @@ FIPS: 29131.0
 FEMA_Region: 7.0
 Population: 25619.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 156.0
-Fourteen_day_test_rate_per_100000: 609.0
-Percent_Positivity_in_prior_14_days: 0.16
+Tests_in_prior_14_days: 173.0
+Fourteen_day_test_rate_per_100000: 675.0
+Percent_Positivity_in_prior_14_days: 0.231
 Level: Yellow
 url: /states/MO/miller-county
 ---

@@ -11,9 +11,9 @@ FIPS: 19167.0
 FEMA_Region: 7.0
 Population: 34855.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1649.0
-Fourteen_day_test_rate_per_100000: 4731.0
-Percent_Positivity_in_prior_14_days: 0.286
+Tests_in_prior_14_days: 1153.0
+Fourteen_day_test_rate_per_100000: 3308.0
+Percent_Positivity_in_prior_14_days: 0.188
 Level: Red
 url: /states/IA/sioux-county
 ---

@@ -11,9 +11,9 @@ FIPS: 48303.0
 FEMA_Region: 6.0
 Population: 310569.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 16882.0
-Fourteen_day_test_rate_per_100000: 5436.0
-Percent_Positivity_in_prior_14_days: 0.183
+Tests_in_prior_14_days: 9407.0
+Fourteen_day_test_rate_per_100000: 3029.0
+Percent_Positivity_in_prior_14_days: 0.126
 Level: Red
 url: /states/TX/lubbock-county
 ---

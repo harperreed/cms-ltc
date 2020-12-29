@@ -11,9 +11,9 @@ FIPS: 54069.0
 FEMA_Region: 3.0
 Population: 41411.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 4992.0
-Fourteen_day_test_rate_per_100000: 12055.0
-Percent_Positivity_in_prior_14_days: 0.144
+Tests_in_prior_14_days: 3994.0
+Fourteen_day_test_rate_per_100000: 9645.0
+Percent_Positivity_in_prior_14_days: 0.137
 Level: Red
 url: /states/WV/ohio-county
 ---

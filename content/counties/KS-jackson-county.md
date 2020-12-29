@@ -11,9 +11,9 @@ FIPS: 20085.0
 FEMA_Region: 7.0
 Population: 13171.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 593.0
-Fourteen_day_test_rate_per_100000: 4502.0
-Percent_Positivity_in_prior_14_days: 0.309
+Tests_in_prior_14_days: 696.0
+Fourteen_day_test_rate_per_100000: 5284.0
+Percent_Positivity_in_prior_14_days: 0.185
 Level: Red
 url: /states/KS/jackson-county
 ---

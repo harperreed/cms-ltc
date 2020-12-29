@@ -11,9 +11,9 @@ FIPS: 48409.0
 FEMA_Region: 6.0
 Population: 66730.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1623.0
-Fourteen_day_test_rate_per_100000: 2432.0
-Percent_Positivity_in_prior_14_days: 0.144
+Tests_in_prior_14_days: 1606.0
+Fourteen_day_test_rate_per_100000: 2407.0
+Percent_Positivity_in_prior_14_days: 0.157
 Level: Red
 url: /states/TX/san-patricio-county
 ---

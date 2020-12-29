@@ -11,9 +11,9 @@ FIPS: 20165.0
 FEMA_Region: 7.0
 Population: 3036.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 310.0
-Fourteen_day_test_rate_per_100000: 10211.0
-Percent_Positivity_in_prior_14_days: 0.29
+Tests_in_prior_14_days: 156.0
+Fourteen_day_test_rate_per_100000: 5138.0
+Percent_Positivity_in_prior_14_days: 0.205
 Level: Red
 url: /states/KS/rush-county
 ---

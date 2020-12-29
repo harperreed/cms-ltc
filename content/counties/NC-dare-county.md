@@ -11,9 +11,9 @@ FIPS: 37055.0
 FEMA_Region: 4.0
 Population: 37009.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2530.0
-Fourteen_day_test_rate_per_100000: 6836.0
-Percent_Positivity_in_prior_14_days: 0.059
+Tests_in_prior_14_days: 2308.0
+Fourteen_day_test_rate_per_100000: 6236.0
+Percent_Positivity_in_prior_14_days: 0.081
 Level: Yellow
 url: /states/NC/dare-county
 ---

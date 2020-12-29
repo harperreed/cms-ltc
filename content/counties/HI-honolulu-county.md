@@ -11,9 +11,9 @@ FIPS: 15003.0
 FEMA_Region: 9.0
 Population: 974563.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 38428.0
-Fourteen_day_test_rate_per_100000: 3943.0
-Percent_Positivity_in_prior_14_days: 0.025
+Tests_in_prior_14_days: 34695.0
+Fourteen_day_test_rate_per_100000: 3560.0
+Percent_Positivity_in_prior_14_days: 0.038
 Level: Green
 url: /states/HI/honolulu-county
 ---

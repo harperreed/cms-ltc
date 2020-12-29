@@ -11,9 +11,9 @@ FIPS: 40147.0
 FEMA_Region: 6.0
 Population: 51527.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 406.0
-Fourteen_day_test_rate_per_100000: 788.0
-Percent_Positivity_in_prior_14_days: 0.175
+Tests_in_prior_14_days: 380.0
+Fourteen_day_test_rate_per_100000: 737.0
+Percent_Positivity_in_prior_14_days: 0.211
 Level: Yellow
 url: /states/OK/washington-county
 ---

@@ -11,9 +11,9 @@ FIPS: 34035.0
 FEMA_Region: 2.0
 Population: 328934.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 15144.0
-Fourteen_day_test_rate_per_100000: 4604.0
-Percent_Positivity_in_prior_14_days: 0.079
+Tests_in_prior_14_days: 20588.0
+Fourteen_day_test_rate_per_100000: 6259.0
+Percent_Positivity_in_prior_14_days: 0.076
 Level: Yellow
 url: /states/NJ/somerset-county
 ---

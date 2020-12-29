@@ -11,9 +11,9 @@ FIPS: 29011.0
 FEMA_Region: 7.0
 Population: 11754.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 67.0
-Fourteen_day_test_rate_per_100000: 570.0
-Percent_Positivity_in_prior_14_days: 0.149
+Tests_in_prior_14_days: 39.0
+Fourteen_day_test_rate_per_100000: 332.0
+Percent_Positivity_in_prior_14_days: 0.231
 Level: Yellow
 url: /states/MO/barton-county
 ---

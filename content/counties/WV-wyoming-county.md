@@ -3,7 +3,7 @@ title: "Wyoming County, WV"
 date: 2020-12-29
 draft: false
 type: county
-tags: [FIPS:54109.0,FEMA:3.0,Non-core,Red]
+tags: [FIPS:54109.0,FEMA:3.0,Non-core,Yellow]
 categories: [WV]
 County: Wyoming County
 State: WV
@@ -11,10 +11,10 @@ FIPS: 54109.0
 FEMA_Region: 3.0
 Population: 20394.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1726.0
-Fourteen_day_test_rate_per_100000: 8463.0
-Percent_Positivity_in_prior_14_days: 0.147
-Level: Red
+Tests_in_prior_14_days: 1660.0
+Fourteen_day_test_rate_per_100000: 8140.0
+Percent_Positivity_in_prior_14_days: 0.098
+Level: Yellow
 url: /states/WV/wyoming-county
 ---
 

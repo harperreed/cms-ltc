@@ -11,9 +11,9 @@ FIPS: 48385.0
 FEMA_Region: 6.0
 Population: 3452.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 147.0
-Fourteen_day_test_rate_per_100000: 4258.0
-Percent_Positivity_in_prior_14_days: 0.122
+Tests_in_prior_14_days: 205.0
+Fourteen_day_test_rate_per_100000: 5939.0
+Percent_Positivity_in_prior_14_days: 0.317
 Level: Red
 url: /states/TX/real-county
 ---

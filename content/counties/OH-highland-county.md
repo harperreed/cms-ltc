@@ -11,9 +11,9 @@ FIPS: 39071.0
 FEMA_Region: 5.0
 Population: 43161.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 626.0
-Fourteen_day_test_rate_per_100000: 1450.0
-Percent_Positivity_in_prior_14_days: 0.232
+Tests_in_prior_14_days: 604.0
+Fourteen_day_test_rate_per_100000: 1399.0
+Percent_Positivity_in_prior_14_days: 0.238
 Level: Red
 url: /states/OH/highland-county
 ---

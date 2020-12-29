@@ -11,9 +11,9 @@ FIPS: 36007.0
 FEMA_Region: 2.0
 Population: 190488.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 19985.0
-Fourteen_day_test_rate_per_100000: 10491.0
-Percent_Positivity_in_prior_14_days: 0.064
+Tests_in_prior_14_days: 17955.0
+Fourteen_day_test_rate_per_100000: 9426.0
+Percent_Positivity_in_prior_14_days: 0.078
 Level: Yellow
 url: /states/NY/broome-county
 ---

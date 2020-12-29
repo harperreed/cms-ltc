@@ -11,9 +11,9 @@ FIPS: 21117.0
 FEMA_Region: 4.0
 Population: 166998.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 5990.0
-Fourteen_day_test_rate_per_100000: 3587.0
-Percent_Positivity_in_prior_14_days: 0.159
+Tests_in_prior_14_days: 10498.0
+Fourteen_day_test_rate_per_100000: 6286.0
+Percent_Positivity_in_prior_14_days: 0.157
 Level: Red
 url: /states/KY/kenton-county
 ---

@@ -11,9 +11,9 @@ FIPS: 19023.0
 FEMA_Region: 7.0
 Population: 14439.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 917.0
-Fourteen_day_test_rate_per_100000: 6351.0
-Percent_Positivity_in_prior_14_days: 0.221
+Tests_in_prior_14_days: 448.0
+Fourteen_day_test_rate_per_100000: 3103.0
+Percent_Positivity_in_prior_14_days: 0.132
 Level: Red
 url: /states/IA/butler-county
 ---

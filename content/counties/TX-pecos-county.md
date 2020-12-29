@@ -11,9 +11,9 @@ FIPS: 48371.0
 FEMA_Region: 6.0
 Population: 15823.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 482.0
-Fourteen_day_test_rate_per_100000: 3046.0
-Percent_Positivity_in_prior_14_days: 0.118
+Tests_in_prior_14_days: 567.0
+Fourteen_day_test_rate_per_100000: 3583.0
+Percent_Positivity_in_prior_14_days: 0.129
 Level: Red
 url: /states/TX/pecos-county
 ---

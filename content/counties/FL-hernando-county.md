@@ -11,9 +11,9 @@ FIPS: 12053.0
 FEMA_Region: 4.0
 Population: 193920.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 6585.0
-Fourteen_day_test_rate_per_100000: 3396.0
-Percent_Positivity_in_prior_14_days: 0.138
+Tests_in_prior_14_days: 9563.0
+Fourteen_day_test_rate_per_100000: 4931.0
+Percent_Positivity_in_prior_14_days: 0.146
 Level: Red
 url: /states/FL/hernando-county
 ---

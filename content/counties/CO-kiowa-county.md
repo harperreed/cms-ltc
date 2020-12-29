@@ -11,9 +11,9 @@ FIPS: 8061.0
 FEMA_Region: 8.0
 Population: 1406.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 108.0
-Fourteen_day_test_rate_per_100000: 7681.0
-Percent_Positivity_in_prior_14_days: 0.102
+Tests_in_prior_14_days: 243.0
+Fourteen_day_test_rate_per_100000: 17283.0
+Percent_Positivity_in_prior_14_days: 0.103
 Level: Red
 url: /states/CO/kiowa-county
 ---

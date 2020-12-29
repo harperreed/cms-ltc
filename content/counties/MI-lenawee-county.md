@@ -11,9 +11,9 @@ FIPS: 26091.0
 FEMA_Region: 5.0
 Population: 98451.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 8347.0
-Fourteen_day_test_rate_per_100000: 8478.0
-Percent_Positivity_in_prior_14_days: 0.137
+Tests_in_prior_14_days: 8204.0
+Fourteen_day_test_rate_per_100000: 8333.0
+Percent_Positivity_in_prior_14_days: 0.104
 Level: Red
 url: /states/MI/lenawee-county
 ---

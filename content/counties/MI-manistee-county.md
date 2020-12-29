@@ -11,9 +11,9 @@ FIPS: 26101.0
 FEMA_Region: 5.0
 Population: 24558.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2781.0
-Fourteen_day_test_rate_per_100000: 11324.0
-Percent_Positivity_in_prior_14_days: 0.035
+Tests_in_prior_14_days: 2879.0
+Fourteen_day_test_rate_per_100000: 11723.0
+Percent_Positivity_in_prior_14_days: 0.044
 Level: Green
 url: /states/MI/manistee-county
 ---

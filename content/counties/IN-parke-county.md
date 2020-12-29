@@ -11,9 +11,9 @@ FIPS: 18121.0
 FEMA_Region: 5.0
 Population: 16937.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1127.0
-Fourteen_day_test_rate_per_100000: 6654.0
-Percent_Positivity_in_prior_14_days: 0.232
+Tests_in_prior_14_days: 735.0
+Fourteen_day_test_rate_per_100000: 4340.0
+Percent_Positivity_in_prior_14_days: 0.161
 Level: Red
 url: /states/IN/parke-county
 ---

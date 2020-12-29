@@ -11,9 +11,9 @@ FIPS: 25009.0
 FEMA_Region: 1.0
 Population: 789034.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 119694.0
-Fourteen_day_test_rate_per_100000: 15170.0
-Percent_Positivity_in_prior_14_days: 0.075
+Tests_in_prior_14_days: 128011.0
+Fourteen_day_test_rate_per_100000: 16224.0
+Percent_Positivity_in_prior_14_days: 0.096
 Level: Yellow
 url: /states/MA/essex-county
 ---

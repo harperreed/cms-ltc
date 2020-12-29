@@ -11,9 +11,9 @@ FIPS: 1051.0
 FEMA_Region: 4.0
 Population: 81209.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2379.0
-Fourteen_day_test_rate_per_100000: 2929.0
-Percent_Positivity_in_prior_14_days: 0.129
+Tests_in_prior_14_days: 4373.0
+Fourteen_day_test_rate_per_100000: 5385.0
+Percent_Positivity_in_prior_14_days: 0.156
 Level: Red
 url: /states/AL/elmore-county
 ---

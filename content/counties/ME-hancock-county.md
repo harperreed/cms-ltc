@@ -11,9 +11,9 @@ FIPS: 23009.0
 FEMA_Region: 1.0
 Population: 54987.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1019.0
-Fourteen_day_test_rate_per_100000: 1853.0
-Percent_Positivity_in_prior_14_days: 0.033
+Tests_in_prior_14_days: 713.0
+Fourteen_day_test_rate_per_100000: 1297.0
+Percent_Positivity_in_prior_14_days: 0.045
 Level: Green
 url: /states/ME/hancock-county
 ---

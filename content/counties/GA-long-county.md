@@ -11,9 +11,9 @@ FIPS: 13183.0
 FEMA_Region: 4.0
 Population: 19559.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 124.0
-Fourteen_day_test_rate_per_100000: 634.0
-Percent_Positivity_in_prior_14_days: 0.073
+Tests_in_prior_14_days: 202.0
+Fourteen_day_test_rate_per_100000: 1033.0
+Percent_Positivity_in_prior_14_days: 0.228
 Level: Yellow
 url: /states/GA/long-county
 ---

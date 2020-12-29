@@ -11,9 +11,9 @@ FIPS: 37023.0
 FEMA_Region: 4.0
 Population: 90485.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 5806.0
-Fourteen_day_test_rate_per_100000: 6417.0
-Percent_Positivity_in_prior_14_days: 0.084
+Tests_in_prior_14_days: 8395.0
+Fourteen_day_test_rate_per_100000: 9278.0
+Percent_Positivity_in_prior_14_days: 0.099
 Level: Yellow
 url: /states/NC/burke-county
 ---

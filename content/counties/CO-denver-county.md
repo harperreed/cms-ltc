@@ -11,9 +11,9 @@ FIPS: 8031.0
 FEMA_Region: 8.0
 Population: 727211.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 84657.0
-Fourteen_day_test_rate_per_100000: 11641.0
-Percent_Positivity_in_prior_14_days: 0.093
+Tests_in_prior_14_days: 71635.0
+Fourteen_day_test_rate_per_100000: 9851.0
+Percent_Positivity_in_prior_14_days: 0.056
 Level: Yellow
 url: /states/CO/denver-county
 ---

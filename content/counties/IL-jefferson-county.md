@@ -11,9 +11,9 @@ FIPS: 17081.0
 FEMA_Region: 5.0
 Population: 37684.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2146.0
-Fourteen_day_test_rate_per_100000: 5695.0
-Percent_Positivity_in_prior_14_days: 0.173
+Tests_in_prior_14_days: 1622.0
+Fourteen_day_test_rate_per_100000: 4304.0
+Percent_Positivity_in_prior_14_days: 0.225
 Level: Red
 url: /states/IL/jefferson-county
 ---

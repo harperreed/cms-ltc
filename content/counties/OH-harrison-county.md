@@ -11,9 +11,9 @@ FIPS: 39067.0
 FEMA_Region: 5.0
 Population: 15040.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 128.0
-Fourteen_day_test_rate_per_100000: 851.0
-Percent_Positivity_in_prior_14_days: 0.312
+Tests_in_prior_14_days: 121.0
+Fourteen_day_test_rate_per_100000: 805.0
+Percent_Positivity_in_prior_14_days: 0.273
 Level: Yellow
 url: /states/OH/harrison-county
 ---

@@ -11,9 +11,9 @@ FIPS: 49039.0
 FEMA_Region: 8.0
 Population: 30939.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1115.0
-Fourteen_day_test_rate_per_100000: 3604.0
-Percent_Positivity_in_prior_14_days: 0.293
+Tests_in_prior_14_days: 1006.0
+Fourteen_day_test_rate_per_100000: 3252.0
+Percent_Positivity_in_prior_14_days: 0.237
 Level: Red
 url: /states/UT/sanpete-county
 ---

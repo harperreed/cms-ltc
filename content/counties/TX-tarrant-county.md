@@ -11,9 +11,9 @@ FIPS: 48439.0
 FEMA_Region: 6.0
 Population: 2102515.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 104561.0
-Fourteen_day_test_rate_per_100000: 4973.0
-Percent_Positivity_in_prior_14_days: 0.157
+Tests_in_prior_14_days: 109442.0
+Fourteen_day_test_rate_per_100000: 5205.0
+Percent_Positivity_in_prior_14_days: 0.183
 Level: Red
 url: /states/TX/tarrant-county
 ---

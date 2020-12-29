@@ -11,9 +11,9 @@ FIPS: 54003.0
 FEMA_Region: 3.0
 Population: 119171.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 10503.0
-Fourteen_day_test_rate_per_100000: 8813.0
-Percent_Positivity_in_prior_14_days: 0.101
+Tests_in_prior_14_days: 9903.0
+Fourteen_day_test_rate_per_100000: 8310.0
+Percent_Positivity_in_prior_14_days: 0.159
 Level: Red
 url: /states/WV/berkeley-county
 ---

@@ -11,9 +11,9 @@ FIPS: 46109.0
 FEMA_Region: 8.0
 Population: 10394.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 237.0
-Fourteen_day_test_rate_per_100000: 2280.0
-Percent_Positivity_in_prior_14_days: 0.076
+Tests_in_prior_14_days: 124.0
+Fourteen_day_test_rate_per_100000: 1193.0
+Percent_Positivity_in_prior_14_days: 0.065
 Level: Yellow
 url: /states/SD/roberts-county
 ---

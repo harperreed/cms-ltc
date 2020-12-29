@@ -11,9 +11,9 @@ FIPS: 37075.0
 FEMA_Region: 4.0
 Population: 8441.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 356.0
-Fourteen_day_test_rate_per_100000: 4218.0
-Percent_Positivity_in_prior_14_days: 0.028
+Tests_in_prior_14_days: 454.0
+Fourteen_day_test_rate_per_100000: 5379.0
+Percent_Positivity_in_prior_14_days: 0.048
 Level: Green
 url: /states/NC/graham-county
 ---

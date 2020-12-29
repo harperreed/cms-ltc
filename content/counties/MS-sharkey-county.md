@@ -11,9 +11,9 @@ FIPS: 28125.0
 FEMA_Region: 4.0
 Population: 4321.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 97.0
-Fourteen_day_test_rate_per_100000: 2245.0
-Percent_Positivity_in_prior_14_days: 0.093
+Tests_in_prior_14_days: 44.0
+Fourteen_day_test_rate_per_100000: 1018.0
+Percent_Positivity_in_prior_14_days: 0.205
 Level: Yellow
 url: /states/MS/sharkey-county
 ---

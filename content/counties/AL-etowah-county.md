@@ -11,9 +11,9 @@ FIPS: 1055.0
 FEMA_Region: 4.0
 Population: 102268.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 4545.0
-Fourteen_day_test_rate_per_100000: 4444.0
-Percent_Positivity_in_prior_14_days: 0.196
+Tests_in_prior_14_days: 4929.0
+Fourteen_day_test_rate_per_100000: 4820.0
+Percent_Positivity_in_prior_14_days: 0.262
 Level: Red
 url: /states/AL/etowah-county
 ---

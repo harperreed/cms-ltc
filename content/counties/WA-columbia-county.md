@@ -11,9 +11,9 @@ FIPS: 53013.0
 FEMA_Region: 10.0
 Population: 3985.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 26.0
-Fourteen_day_test_rate_per_100000: 652.0
-Percent_Positivity_in_prior_14_days: 0.154
+Tests_in_prior_14_days: 22.0
+Fourteen_day_test_rate_per_100000: 552.0
+Percent_Positivity_in_prior_14_days: 0.273
 Level: Yellow
 url: /states/WA/columbia-county
 ---

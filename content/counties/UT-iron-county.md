@@ -11,9 +11,9 @@ FIPS: 49021.0
 FEMA_Region: 8.0
 Population: 54839.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1739.0
-Fourteen_day_test_rate_per_100000: 3171.0
-Percent_Positivity_in_prior_14_days: 0.224
+Tests_in_prior_14_days: 2238.0
+Fourteen_day_test_rate_per_100000: 4081.0
+Percent_Positivity_in_prior_14_days: 0.163
 Level: Red
 url: /states/UT/iron-county
 ---

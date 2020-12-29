@@ -11,9 +11,9 @@ FIPS: 22077.0
 FEMA_Region: 6.0
 Population: 21730.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 787.0
-Fourteen_day_test_rate_per_100000: 3622.0
-Percent_Positivity_in_prior_14_days: 0.108
+Tests_in_prior_14_days: 722.0
+Fourteen_day_test_rate_per_100000: 3323.0
+Percent_Positivity_in_prior_14_days: 0.129
 Level: Red
 url: /states/LA/pointe-coupee-parish
 ---

@@ -11,9 +11,9 @@ FIPS: 28027.0
 FEMA_Region: 4.0
 Population: 22124.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 701.0
-Fourteen_day_test_rate_per_100000: 3169.0
-Percent_Positivity_in_prior_14_days: 0.128
+Tests_in_prior_14_days: 845.0
+Fourteen_day_test_rate_per_100000: 3819.0
+Percent_Positivity_in_prior_14_days: 0.124
 Level: Red
 url: /states/MS/coahoma-county
 ---

@@ -11,9 +11,9 @@ FIPS: 20167.0
 FEMA_Region: 7.0
 Population: 6856.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 477.0
-Fourteen_day_test_rate_per_100000: 6957.0
-Percent_Positivity_in_prior_14_days: 0.245
+Tests_in_prior_14_days: 304.0
+Fourteen_day_test_rate_per_100000: 4434.0
+Percent_Positivity_in_prior_14_days: 0.128
 Level: Red
 url: /states/KS/russell-county
 ---

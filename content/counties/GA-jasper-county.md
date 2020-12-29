@@ -11,9 +11,9 @@ FIPS: 13159.0
 FEMA_Region: 4.0
 Population: 14219.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 166.0
-Fourteen_day_test_rate_per_100000: 1167.0
-Percent_Positivity_in_prior_14_days: 0.133
+Tests_in_prior_14_days: 253.0
+Fourteen_day_test_rate_per_100000: 1779.0
+Percent_Positivity_in_prior_14_days: 0.217
 Level: Yellow
 url: /states/GA/jasper-county
 ---

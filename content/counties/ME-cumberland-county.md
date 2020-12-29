@@ -11,9 +11,9 @@ FIPS: 23005.0
 FEMA_Region: 1.0
 Population: 295003.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 45576.0
-Fourteen_day_test_rate_per_100000: 15449.0
-Percent_Positivity_in_prior_14_days: 0.043
+Tests_in_prior_14_days: 48411.0
+Fourteen_day_test_rate_per_100000: 16410.0
+Percent_Positivity_in_prior_14_days: 0.042
 Level: Green
 url: /states/ME/cumberland-county
 ---

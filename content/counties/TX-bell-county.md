@@ -11,9 +11,9 @@ FIPS: 48027.0
 FEMA_Region: 6.0
 Population: 362924.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 17335.0
-Fourteen_day_test_rate_per_100000: 4776.0
-Percent_Positivity_in_prior_14_days: 0.109
+Tests_in_prior_14_days: 20881.0
+Fourteen_day_test_rate_per_100000: 5754.0
+Percent_Positivity_in_prior_14_days: 0.136
 Level: Red
 url: /states/TX/bell-county
 ---

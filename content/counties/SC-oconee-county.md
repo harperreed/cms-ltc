@@ -11,9 +11,9 @@ FIPS: 45073.0
 FEMA_Region: 4.0
 Population: 79546.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3262.0
-Fourteen_day_test_rate_per_100000: 4101.0
-Percent_Positivity_in_prior_14_days: 0.158
+Tests_in_prior_14_days: 3501.0
+Fourteen_day_test_rate_per_100000: 4401.0
+Percent_Positivity_in_prior_14_days: 0.203
 Level: Red
 url: /states/SC/oconee-county
 ---

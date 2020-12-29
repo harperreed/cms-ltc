@@ -3,7 +3,7 @@ title: "Grafton County, NH"
 date: 2020-12-29
 draft: false
 type: county
-tags: [FIPS:33009.0,FEMA:1.0,Micropolitan,Green]
+tags: [FIPS:33009.0,FEMA:1.0,Micropolitan,Yellow]
 categories: [NH]
 County: Grafton County
 State: NH
@@ -11,10 +11,10 @@ FIPS: 33009.0
 FEMA_Region: 1.0
 Population: 89886.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3110.0
-Fourteen_day_test_rate_per_100000: 3460.0
-Percent_Positivity_in_prior_14_days: 0.047
-Level: Green
+Tests_in_prior_14_days: 2592.0
+Fourteen_day_test_rate_per_100000: 2884.0
+Percent_Positivity_in_prior_14_days: 0.073
+Level: Yellow
 url: /states/NH/grafton-county
 ---
 

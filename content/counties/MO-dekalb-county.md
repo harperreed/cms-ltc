@@ -11,9 +11,9 @@ FIPS: 29063.0
 FEMA_Region: 7.0
 Population: 12547.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 220.0
-Fourteen_day_test_rate_per_100000: 1753.0
-Percent_Positivity_in_prior_14_days: 0.232
+Tests_in_prior_14_days: 221.0
+Fourteen_day_test_rate_per_100000: 1761.0
+Percent_Positivity_in_prior_14_days: 0.154
 Level: Yellow
 url: /states/MO/dekalb-county
 ---

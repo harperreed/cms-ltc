@@ -11,9 +11,9 @@ FIPS: 18149.0
 FEMA_Region: 5.0
 Population: 22995.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1013.0
-Fourteen_day_test_rate_per_100000: 4405.0
-Percent_Positivity_in_prior_14_days: 0.201
+Tests_in_prior_14_days: 921.0
+Fourteen_day_test_rate_per_100000: 4005.0
+Percent_Positivity_in_prior_14_days: 0.206
 Level: Red
 url: /states/IN/starke-county
 ---

@@ -11,9 +11,9 @@ FIPS: 39151.0
 FEMA_Region: 5.0
 Population: 370606.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 4396.0
-Fourteen_day_test_rate_per_100000: 1186.0
-Percent_Positivity_in_prior_14_days: 0.181
+Tests_in_prior_14_days: 3829.0
+Fourteen_day_test_rate_per_100000: 1033.0
+Percent_Positivity_in_prior_14_days: 0.233
 Level: Red
 url: /states/OH/stark-county
 ---

@@ -11,9 +11,9 @@ FIPS: 18053.0
 FEMA_Region: 5.0
 Population: 65769.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4093.0
-Fourteen_day_test_rate_per_100000: 6223.0
-Percent_Positivity_in_prior_14_days: 0.173
+Tests_in_prior_14_days: 3016.0
+Fourteen_day_test_rate_per_100000: 4586.0
+Percent_Positivity_in_prior_14_days: 0.21
 Level: Red
 url: /states/IN/grant-county
 ---

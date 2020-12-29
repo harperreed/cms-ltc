@@ -11,9 +11,9 @@ FIPS: 39087.0
 FEMA_Region: 5.0
 Population: 59463.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 530.0
-Fourteen_day_test_rate_per_100000: 891.0
-Percent_Positivity_in_prior_14_days: 0.077
+Tests_in_prior_14_days: 507.0
+Fourteen_day_test_rate_per_100000: 853.0
+Percent_Positivity_in_prior_14_days: 0.097
 Level: Yellow
 url: /states/OH/lawrence-county
 ---

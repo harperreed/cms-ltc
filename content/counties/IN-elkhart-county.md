@@ -11,9 +11,9 @@ FIPS: 18039.0
 FEMA_Region: 5.0
 Population: 206341.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 16899.0
-Fourteen_day_test_rate_per_100000: 8190.0
-Percent_Positivity_in_prior_14_days: 0.239
+Tests_in_prior_14_days: 9588.0
+Fourteen_day_test_rate_per_100000: 4647.0
+Percent_Positivity_in_prior_14_days: 0.176
 Level: Red
 url: /states/IN/elkhart-county
 ---

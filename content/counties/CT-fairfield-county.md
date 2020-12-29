@@ -11,9 +11,9 @@ FIPS: 9001.0
 FEMA_Region: 1.0
 Population: 943332.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 29812.0
-Fourteen_day_test_rate_per_100000: 3160.0
-Percent_Positivity_in_prior_14_days: 0.107
+Tests_in_prior_14_days: 44256.0
+Fourteen_day_test_rate_per_100000: 4691.0
+Percent_Positivity_in_prior_14_days: 0.122
 Level: Red
 url: /states/CT/fairfield-county
 ---

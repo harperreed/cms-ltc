@@ -11,9 +11,9 @@ FIPS: 39011.0
 FEMA_Region: 5.0
 Population: 45656.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 899.0
-Fourteen_day_test_rate_per_100000: 1969.0
-Percent_Positivity_in_prior_14_days: 0.235
+Tests_in_prior_14_days: 894.0
+Fourteen_day_test_rate_per_100000: 1958.0
+Percent_Positivity_in_prior_14_days: 0.219
 Level: Red
 url: /states/OH/auglaize-county
 ---

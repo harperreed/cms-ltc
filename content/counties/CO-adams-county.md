@@ -11,9 +11,9 @@ FIPS: 8001.0
 FEMA_Region: 8.0
 Population: 517421.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 51843.0
-Fourteen_day_test_rate_per_100000: 10020.0
-Percent_Positivity_in_prior_14_days: 0.142
+Tests_in_prior_14_days: 41389.0
+Fourteen_day_test_rate_per_100000: 7999.0
+Percent_Positivity_in_prior_14_days: 0.101
 Level: Red
 url: /states/CO/adams-county
 ---

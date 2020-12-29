@@ -11,9 +11,9 @@ FIPS: 48199.0
 FEMA_Region: 6.0
 Population: 57602.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 836.0
-Fourteen_day_test_rate_per_100000: 1451.0
-Percent_Positivity_in_prior_14_days: 0.136
+Tests_in_prior_14_days: 1531.0
+Fourteen_day_test_rate_per_100000: 2658.0
+Percent_Positivity_in_prior_14_days: 0.115
 Level: Red
 url: /states/TX/hardin-county
 ---

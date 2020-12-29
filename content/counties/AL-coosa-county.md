@@ -11,9 +11,9 @@ FIPS: 1037.0
 FEMA_Region: 4.0
 Population: 10663.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 244.0
-Fourteen_day_test_rate_per_100000: 2288.0
-Percent_Positivity_in_prior_14_days: 0.225
+Tests_in_prior_14_days: 342.0
+Fourteen_day_test_rate_per_100000: 3207.0
+Percent_Positivity_in_prior_14_days: 0.289
 Level: Red
 url: /states/AL/coosa-county
 ---

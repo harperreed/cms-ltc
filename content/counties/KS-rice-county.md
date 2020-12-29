@@ -11,9 +11,9 @@ FIPS: 20159.0
 FEMA_Region: 7.0
 Population: 9537.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 671.0
-Fourteen_day_test_rate_per_100000: 7036.0
-Percent_Positivity_in_prior_14_days: 0.414
+Tests_in_prior_14_days: 498.0
+Fourteen_day_test_rate_per_100000: 5222.0
+Percent_Positivity_in_prior_14_days: 0.267
 Level: Red
 url: /states/KS/rice-county
 ---

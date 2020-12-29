@@ -11,9 +11,9 @@ FIPS: 17053.0
 FEMA_Region: 5.0
 Population: 12961.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1040.0
-Fourteen_day_test_rate_per_100000: 8024.0
-Percent_Positivity_in_prior_14_days: 0.1
+Tests_in_prior_14_days: 999.0
+Fourteen_day_test_rate_per_100000: 7708.0
+Percent_Positivity_in_prior_14_days: 0.092
 Level: Yellow
 url: /states/IL/ford-county
 ---

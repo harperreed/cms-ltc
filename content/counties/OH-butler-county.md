@@ -11,9 +11,9 @@ FIPS: 39017.0
 FEMA_Region: 5.0
 Population: 383134.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 2747.0
-Fourteen_day_test_rate_per_100000: 717.0
-Percent_Positivity_in_prior_14_days: 0.208
+Tests_in_prior_14_days: 2531.0
+Fourteen_day_test_rate_per_100000: 661.0
+Percent_Positivity_in_prior_14_days: 0.222
 Level: Red
 url: /states/OH/butler-county
 ---

@@ -11,9 +11,9 @@ FIPS: 20077.0
 FEMA_Region: 7.0
 Population: 5436.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 245.0
-Fourteen_day_test_rate_per_100000: 4507.0
-Percent_Positivity_in_prior_14_days: 0.273
+Tests_in_prior_14_days: 203.0
+Fourteen_day_test_rate_per_100000: 3734.0
+Percent_Positivity_in_prior_14_days: 0.271
 Level: Red
 url: /states/KS/harper-county
 ---

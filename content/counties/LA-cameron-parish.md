@@ -11,9 +11,9 @@ FIPS: 22023.0
 FEMA_Region: 6.0
 Population: 6973.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 56.0
-Fourteen_day_test_rate_per_100000: 803.0
-Percent_Positivity_in_prior_14_days: 0.232
+Tests_in_prior_14_days: 54.0
+Fourteen_day_test_rate_per_100000: 774.0
+Percent_Positivity_in_prior_14_days: 0.056
 Level: Yellow
 url: /states/LA/cameron-parish
 ---

@@ -11,9 +11,9 @@ FIPS: 19123.0
 FEMA_Region: 7.0
 Population: 22095.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 882.0
-Fourteen_day_test_rate_per_100000: 3992.0
-Percent_Positivity_in_prior_14_days: 0.166
+Tests_in_prior_14_days: 605.0
+Fourteen_day_test_rate_per_100000: 2738.0
+Percent_Positivity_in_prior_14_days: 0.104
 Level: Red
 url: /states/IA/mahaska-county
 ---

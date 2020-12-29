@@ -11,9 +11,9 @@ FIPS: 17067.0
 FEMA_Region: 5.0
 Population: 17708.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 588.0
-Fourteen_day_test_rate_per_100000: 3321.0
-Percent_Positivity_in_prior_14_days: 0.146
+Tests_in_prior_14_days: 564.0
+Fourteen_day_test_rate_per_100000: 3185.0
+Percent_Positivity_in_prior_14_days: 0.145
 Level: Red
 url: /states/IL/hancock-county
 ---

@@ -11,9 +11,9 @@ FIPS: 48203.0
 FEMA_Region: 6.0
 Population: 66553.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1137.0
-Fourteen_day_test_rate_per_100000: 1708.0
-Percent_Positivity_in_prior_14_days: 0.109
+Tests_in_prior_14_days: 1903.0
+Fourteen_day_test_rate_per_100000: 2859.0
+Percent_Positivity_in_prior_14_days: 0.155
 Level: Red
 url: /states/TX/harrison-county
 ---

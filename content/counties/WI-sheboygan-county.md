@@ -11,9 +11,9 @@ FIPS: 55117.0
 FEMA_Region: 5.0
 Population: 115340.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 7331.0
-Fourteen_day_test_rate_per_100000: 6356.0
-Percent_Positivity_in_prior_14_days: 0.186
+Tests_in_prior_14_days: 7988.0
+Fourteen_day_test_rate_per_100000: 6926.0
+Percent_Positivity_in_prior_14_days: 0.128
 Level: Red
 url: /states/WI/sheboygan-county
 ---

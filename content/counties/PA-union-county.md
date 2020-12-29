@@ -11,9 +11,9 @@ FIPS: 42119.0
 FEMA_Region: 3.0
 Population: 44923.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4033.0
-Fourteen_day_test_rate_per_100000: 8978.0
-Percent_Positivity_in_prior_14_days: 0.166
+Tests_in_prior_14_days: 3153.0
+Fourteen_day_test_rate_per_100000: 7019.0
+Percent_Positivity_in_prior_14_days: 0.139
 Level: Red
 url: /states/PA/union-county
 ---

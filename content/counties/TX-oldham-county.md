@@ -3,7 +3,7 @@ title: "Oldham County, TX"
 date: 2020-12-29
 draft: false
 type: county
-tags: [FIPS:48359.0,FEMA:6.0,Medium metro,Red]
+tags: [FIPS:48359.0,FEMA:6.0,Medium metro,Yellow]
 categories: [TX]
 County: Oldham County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48359.0
 FEMA_Region: 6.0
 Population: 2112.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 49.0
-Fourteen_day_test_rate_per_100000: 2320.0
-Percent_Positivity_in_prior_14_days: 0.224
-Level: Red
+Tests_in_prior_14_days: 35.0
+Fourteen_day_test_rate_per_100000: 1657.0
+Percent_Positivity_in_prior_14_days: 0.257
+Level: Yellow
 url: /states/TX/oldham-county
 ---
 

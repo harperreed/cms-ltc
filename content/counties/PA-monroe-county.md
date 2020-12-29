@@ -11,9 +11,9 @@ FIPS: 42089.0
 FEMA_Region: 3.0
 Population: 170271.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 7834.0
-Fourteen_day_test_rate_per_100000: 4601.0
-Percent_Positivity_in_prior_14_days: 0.145
+Tests_in_prior_14_days: 7928.0
+Fourteen_day_test_rate_per_100000: 4656.0
+Percent_Positivity_in_prior_14_days: 0.158
 Level: Red
 url: /states/PA/monroe-county
 ---

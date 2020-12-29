@@ -11,9 +11,9 @@ FIPS: 29037.0
 FEMA_Region: 7.0
 Population: 105780.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 2176.0
-Fourteen_day_test_rate_per_100000: 2057.0
-Percent_Positivity_in_prior_14_days: 0.195
+Tests_in_prior_14_days: 1737.0
+Fourteen_day_test_rate_per_100000: 1642.0
+Percent_Positivity_in_prior_14_days: 0.196
 Level: Red
 url: /states/MO/cass-county
 ---

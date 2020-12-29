@@ -11,9 +11,9 @@ FIPS: 40021.0
 FEMA_Region: 6.0
 Population: 48657.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 6499.0
-Fourteen_day_test_rate_per_100000: 13357.0
-Percent_Positivity_in_prior_14_days: 0.159
+Tests_in_prior_14_days: 5553.0
+Fourteen_day_test_rate_per_100000: 11413.0
+Percent_Positivity_in_prior_14_days: 0.174
 Level: Red
 url: /states/OK/cherokee-county
 ---

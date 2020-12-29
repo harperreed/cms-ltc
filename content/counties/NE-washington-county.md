@@ -11,9 +11,9 @@ FIPS: 31177.0
 FEMA_Region: 7.0
 Population: 20729.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1212.0
-Fourteen_day_test_rate_per_100000: 5847.0
-Percent_Positivity_in_prior_14_days: 0.266
+Tests_in_prior_14_days: 1092.0
+Fourteen_day_test_rate_per_100000: 5268.0
+Percent_Positivity_in_prior_14_days: 0.19
 Level: Red
 url: /states/NE/washington-county
 ---

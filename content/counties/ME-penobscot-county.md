@@ -11,9 +11,9 @@ FIPS: 23019.0
 FEMA_Region: 1.0
 Population: 152148.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 9435.0
-Fourteen_day_test_rate_per_100000: 6201.0
-Percent_Positivity_in_prior_14_days: 0.062
+Tests_in_prior_14_days: 10469.0
+Fourteen_day_test_rate_per_100000: 6881.0
+Percent_Positivity_in_prior_14_days: 0.055
 Level: Yellow
 url: /states/ME/penobscot-county
 ---

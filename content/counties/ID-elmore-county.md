@@ -11,9 +11,9 @@ FIPS: 16039.0
 FEMA_Region: 10.0
 Population: 27511.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1268.0
-Fourteen_day_test_rate_per_100000: 4609.0
-Percent_Positivity_in_prior_14_days: 0.192
+Tests_in_prior_14_days: 1024.0
+Fourteen_day_test_rate_per_100000: 3722.0
+Percent_Positivity_in_prior_14_days: 0.157
 Level: Red
 url: /states/ID/elmore-county
 ---

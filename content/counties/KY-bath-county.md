@@ -11,9 +11,9 @@ FIPS: 21011.0
 FEMA_Region: 4.0
 Population: 12500.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 484.0
-Fourteen_day_test_rate_per_100000: 3872.0
-Percent_Positivity_in_prior_14_days: 0.14
+Tests_in_prior_14_days: 643.0
+Fourteen_day_test_rate_per_100000: 5144.0
+Percent_Positivity_in_prior_14_days: 0.117
 Level: Red
 url: /states/KY/bath-county
 ---

@@ -11,9 +11,9 @@ FIPS: 19105.0
 FEMA_Region: 7.0
 Population: 20681.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1063.0
-Fourteen_day_test_rate_per_100000: 5140.0
-Percent_Positivity_in_prior_14_days: 0.292
+Tests_in_prior_14_days: 545.0
+Fourteen_day_test_rate_per_100000: 2635.0
+Percent_Positivity_in_prior_14_days: 0.143
 Level: Red
 url: /states/IA/jones-county
 ---

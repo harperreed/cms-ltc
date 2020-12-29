@@ -11,9 +11,9 @@ FIPS: 42017.0
 FEMA_Region: 3.0
 Population: 628270.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 39518.0
-Fourteen_day_test_rate_per_100000: 6290.0
-Percent_Positivity_in_prior_14_days: 0.138
+Tests_in_prior_14_days: 38082.0
+Fourteen_day_test_rate_per_100000: 6061.0
+Percent_Positivity_in_prior_14_days: 0.152
 Level: Red
 url: /states/PA/bucks-county
 ---

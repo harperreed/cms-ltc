@@ -11,9 +11,9 @@ FIPS: 28033.0
 FEMA_Region: 4.0
 Population: 184945.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 6163.0
-Fourteen_day_test_rate_per_100000: 3332.0
-Percent_Positivity_in_prior_14_days: 0.187
+Tests_in_prior_14_days: 7145.0
+Fourteen_day_test_rate_per_100000: 3863.0
+Percent_Positivity_in_prior_14_days: 0.191
 Level: Red
 url: /states/MS/desoto-county
 ---

@@ -11,9 +11,9 @@ FIPS: 20015.0
 FEMA_Region: 7.0
 Population: 66911.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2930.0
-Fourteen_day_test_rate_per_100000: 4379.0
-Percent_Positivity_in_prior_14_days: 0.23
+Tests_in_prior_14_days: 2754.0
+Fourteen_day_test_rate_per_100000: 4116.0
+Percent_Positivity_in_prior_14_days: 0.214
 Level: Red
 url: /states/KS/butler-county
 ---

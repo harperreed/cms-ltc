@@ -11,9 +11,9 @@ FIPS: 19091.0
 FEMA_Region: 7.0
 Population: 9558.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 267.0
-Fourteen_day_test_rate_per_100000: 2793.0
-Percent_Positivity_in_prior_14_days: 0.213
+Tests_in_prior_14_days: 202.0
+Fourteen_day_test_rate_per_100000: 2113.0
+Percent_Positivity_in_prior_14_days: 0.124
 Level: Red
 url: /states/IA/humboldt-county
 ---

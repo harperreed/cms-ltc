@@ -11,9 +11,9 @@ FIPS: 31025.0
 FEMA_Region: 7.0
 Population: 26248.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1371.0
-Fourteen_day_test_rate_per_100000: 5223.0
-Percent_Positivity_in_prior_14_days: 0.179
+Tests_in_prior_14_days: 1244.0
+Fourteen_day_test_rate_per_100000: 4739.0
+Percent_Positivity_in_prior_14_days: 0.166
 Level: Red
 url: /states/NE/cass-county
 ---

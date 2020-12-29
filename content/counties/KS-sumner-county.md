@@ -11,9 +11,9 @@ FIPS: 20191.0
 FEMA_Region: 7.0
 Population: 22836.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 743.0
-Fourteen_day_test_rate_per_100000: 3254.0
-Percent_Positivity_in_prior_14_days: 0.346
+Tests_in_prior_14_days: 774.0
+Fourteen_day_test_rate_per_100000: 3389.0
+Percent_Positivity_in_prior_14_days: 0.3
 Level: Red
 url: /states/KS/sumner-county
 ---

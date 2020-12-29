@@ -11,9 +11,9 @@ FIPS: 17197.0
 FEMA_Region: 5.0
 Population: 690743.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 42286.0
-Fourteen_day_test_rate_per_100000: 6122.0
-Percent_Positivity_in_prior_14_days: 0.179
+Tests_in_prior_14_days: 37242.0
+Fourteen_day_test_rate_per_100000: 5392.0
+Percent_Positivity_in_prior_14_days: 0.136
 Level: Red
 url: /states/IL/will-county
 ---

@@ -11,9 +11,9 @@ FIPS: 13081.0
 FEMA_Region: 4.0
 Population: 22372.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 139.0
-Fourteen_day_test_rate_per_100000: 621.0
-Percent_Positivity_in_prior_14_days: 0.072
+Tests_in_prior_14_days: 250.0
+Fourteen_day_test_rate_per_100000: 1117.0
+Percent_Positivity_in_prior_14_days: 0.14
 Level: Yellow
 url: /states/GA/crisp-county
 ---

@@ -11,9 +11,9 @@ FIPS: 13255.0
 FEMA_Region: 4.0
 Population: 66703.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1116.0
-Fourteen_day_test_rate_per_100000: 1673.0
-Percent_Positivity_in_prior_14_days: 0.14
+Tests_in_prior_14_days: 1612.0
+Fourteen_day_test_rate_per_100000: 2417.0
+Percent_Positivity_in_prior_14_days: 0.154
 Level: Red
 url: /states/GA/spalding-county
 ---

@@ -11,9 +11,9 @@ FIPS: 28057.0
 FEMA_Region: 4.0
 Population: 23390.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 171.0
-Fourteen_day_test_rate_per_100000: 731.0
-Percent_Positivity_in_prior_14_days: 0.199
+Tests_in_prior_14_days: 203.0
+Fourteen_day_test_rate_per_100000: 868.0
+Percent_Positivity_in_prior_14_days: 0.163
 Level: Yellow
 url: /states/MS/itawamba-county
 ---

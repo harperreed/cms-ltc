@@ -11,9 +11,9 @@ FIPS: 36041.0
 FEMA_Region: 2.0
 Population: 4416.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 530.0
-Fourteen_day_test_rate_per_100000: 12002.0
-Percent_Positivity_in_prior_14_days: 0.03
+Tests_in_prior_14_days: 514.0
+Fourteen_day_test_rate_per_100000: 11639.0
+Percent_Positivity_in_prior_14_days: 0.037
 Level: Green
 url: /states/NY/hamilton-county
 ---

@@ -11,9 +11,9 @@ FIPS: 16075.0
 FEMA_Region: 10.0
 Population: 23951.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 657.0
-Fourteen_day_test_rate_per_100000: 2743.0
-Percent_Positivity_in_prior_14_days: 0.301
+Tests_in_prior_14_days: 495.0
+Fourteen_day_test_rate_per_100000: 2067.0
+Percent_Positivity_in_prior_14_days: 0.198
 Level: Red
 url: /states/ID/payette-county
 ---

@@ -11,9 +11,9 @@ FIPS: 22073.0
 FEMA_Region: 6.0
 Population: 153279.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 9312.0
-Fourteen_day_test_rate_per_100000: 6075.0
-Percent_Positivity_in_prior_14_days: 0.131
+Tests_in_prior_14_days: 9633.0
+Fourteen_day_test_rate_per_100000: 6285.0
+Percent_Positivity_in_prior_14_days: 0.135
 Level: Red
 url: /states/LA/ouachita-parish
 ---

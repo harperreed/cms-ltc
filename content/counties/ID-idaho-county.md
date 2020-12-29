@@ -11,9 +11,9 @@ FIPS: 16049.0
 FEMA_Region: 10.0
 Population: 16667.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 515.0
-Fourteen_day_test_rate_per_100000: 3090.0
-Percent_Positivity_in_prior_14_days: 0.299
+Tests_in_prior_14_days: 459.0
+Fourteen_day_test_rate_per_100000: 2754.0
+Percent_Positivity_in_prior_14_days: 0.179
 Level: Red
 url: /states/ID/idaho-county
 ---

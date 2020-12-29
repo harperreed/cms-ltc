@@ -11,9 +11,9 @@ FIPS: 19159.0
 FEMA_Region: 7.0
 Population: 4894.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 229.0
-Fourteen_day_test_rate_per_100000: 4679.0
-Percent_Positivity_in_prior_14_days: 0.262
+Tests_in_prior_14_days: 208.0
+Fourteen_day_test_rate_per_100000: 4250.0
+Percent_Positivity_in_prior_14_days: 0.163
 Level: Red
 url: /states/IA/ringgold-county
 ---

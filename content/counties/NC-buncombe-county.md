@@ -11,9 +11,9 @@ FIPS: 37021.0
 FEMA_Region: 4.0
 Population: 261191.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 13209.0
-Fourteen_day_test_rate_per_100000: 5057.0
-Percent_Positivity_in_prior_14_days: 0.055
+Tests_in_prior_14_days: 19887.0
+Fourteen_day_test_rate_per_100000: 7614.0
+Percent_Positivity_in_prior_14_days: 0.093
 Level: Yellow
 url: /states/NC/buncombe-county
 ---

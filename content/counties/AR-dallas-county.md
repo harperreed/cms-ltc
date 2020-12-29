@@ -11,9 +11,9 @@ FIPS: 5039.0
 FEMA_Region: 6.0
 Population: 7009.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 221.0
-Fourteen_day_test_rate_per_100000: 3153.0
-Percent_Positivity_in_prior_14_days: 0.176
+Tests_in_prior_14_days: 400.0
+Fourteen_day_test_rate_per_100000: 5707.0
+Percent_Positivity_in_prior_14_days: 0.158
 Level: Red
 url: /states/AR/dallas-county
 ---

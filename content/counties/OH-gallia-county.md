@@ -11,9 +11,9 @@ FIPS: 39053.0
 FEMA_Region: 5.0
 Population: 29898.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2927.0
-Fourteen_day_test_rate_per_100000: 9790.0
-Percent_Positivity_in_prior_14_days: 0.266
+Tests_in_prior_14_days: 2640.0
+Fourteen_day_test_rate_per_100000: 8830.0
+Percent_Positivity_in_prior_14_days: 0.223
 Level: Red
 url: /states/OH/gallia-county
 ---

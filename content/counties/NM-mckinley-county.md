@@ -11,9 +11,9 @@ FIPS: 35031.0
 FEMA_Region: 6.0
 Population: 71367.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 6365.0
-Fourteen_day_test_rate_per_100000: 8919.0
-Percent_Positivity_in_prior_14_days: 0.171
+Tests_in_prior_14_days: 3545.0
+Fourteen_day_test_rate_per_100000: 4967.0
+Percent_Positivity_in_prior_14_days: 0.193
 Level: Red
 url: /states/NM/mckinley-county
 ---

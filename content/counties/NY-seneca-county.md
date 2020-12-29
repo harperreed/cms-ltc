@@ -11,9 +11,9 @@ FIPS: 36099.0
 FEMA_Region: 2.0
 Population: 34016.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3486.0
-Fourteen_day_test_rate_per_100000: 10248.0
-Percent_Positivity_in_prior_14_days: 0.062
+Tests_in_prior_14_days: 3739.0
+Fourteen_day_test_rate_per_100000: 10992.0
+Percent_Positivity_in_prior_14_days: 0.097
 Level: Yellow
 url: /states/NY/seneca-county
 ---

@@ -11,9 +11,9 @@ FIPS: 37109.0
 FEMA_Region: 4.0
 Population: 86111.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 5188.0
-Fourteen_day_test_rate_per_100000: 6025.0
-Percent_Positivity_in_prior_14_days: 0.115
+Tests_in_prior_14_days: 6869.0
+Fourteen_day_test_rate_per_100000: 7977.0
+Percent_Positivity_in_prior_14_days: 0.144
 Level: Red
 url: /states/NC/lincoln-county
 ---

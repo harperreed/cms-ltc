@@ -11,9 +11,9 @@ FIPS: 20053.0
 FEMA_Region: 7.0
 Population: 6102.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 512.0
-Fourteen_day_test_rate_per_100000: 8391.0
-Percent_Positivity_in_prior_14_days: 0.295
+Tests_in_prior_14_days: 605.0
+Fourteen_day_test_rate_per_100000: 9915.0
+Percent_Positivity_in_prior_14_days: 0.174
 Level: Red
 url: /states/KS/ellsworth-county
 ---

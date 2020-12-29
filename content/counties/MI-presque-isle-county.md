@@ -11,9 +11,9 @@ FIPS: 26141.0
 FEMA_Region: 5.0
 Population: 12592.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 842.0
-Fourteen_day_test_rate_per_100000: 6687.0
-Percent_Positivity_in_prior_14_days: 0.15
+Tests_in_prior_14_days: 848.0
+Fourteen_day_test_rate_per_100000: 6734.0
+Percent_Positivity_in_prior_14_days: 0.133
 Level: Red
 url: /states/MI/presque-isle-county
 ---

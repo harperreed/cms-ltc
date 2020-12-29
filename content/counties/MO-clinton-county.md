@@ -11,9 +11,9 @@ FIPS: 29049.0
 FEMA_Region: 7.0
 Population: 20387.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1032.0
-Fourteen_day_test_rate_per_100000: 5062.0
-Percent_Positivity_in_prior_14_days: 0.145
+Tests_in_prior_14_days: 884.0
+Fourteen_day_test_rate_per_100000: 4336.0
+Percent_Positivity_in_prior_14_days: 0.136
 Level: Red
 url: /states/MO/clinton-county
 ---

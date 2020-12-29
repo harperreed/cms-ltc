@@ -11,9 +11,9 @@ FIPS: 18063.0
 FEMA_Region: 5.0
 Population: 170311.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 12978.0
-Fourteen_day_test_rate_per_100000: 7620.0
-Percent_Positivity_in_prior_14_days: 0.218
+Tests_in_prior_14_days: 12096.0
+Fourteen_day_test_rate_per_100000: 7102.0
+Percent_Positivity_in_prior_14_days: 0.223
 Level: Red
 url: /states/IN/hendricks-county
 ---

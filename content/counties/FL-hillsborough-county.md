@@ -11,9 +11,9 @@ FIPS: 12057.0
 FEMA_Region: 4.0
 Population: 1471968.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 59717.0
-Fourteen_day_test_rate_per_100000: 4057.0
-Percent_Positivity_in_prior_14_days: 0.081
+Tests_in_prior_14_days: 72220.0
+Fourteen_day_test_rate_per_100000: 4906.0
+Percent_Positivity_in_prior_14_days: 0.099
 Level: Yellow
 url: /states/FL/hillsborough-county
 ---

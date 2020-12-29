@@ -11,9 +11,9 @@ FIPS: 46013.0
 FEMA_Region: 8.0
 Population: 38839.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1331.0
-Fourteen_day_test_rate_per_100000: 3427.0
-Percent_Positivity_in_prior_14_days: 0.218
+Tests_in_prior_14_days: 872.0
+Fourteen_day_test_rate_per_100000: 2245.0
+Percent_Positivity_in_prior_14_days: 0.151
 Level: Red
 url: /states/SD/brown-county
 ---

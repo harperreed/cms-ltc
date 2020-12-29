@@ -11,9 +11,9 @@ FIPS: 53001.0
 FEMA_Region: 10.0
 Population: 19983.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 173.0
-Fourteen_day_test_rate_per_100000: 866.0
-Percent_Positivity_in_prior_14_days: 0.133
+Tests_in_prior_14_days: 130.0
+Fourteen_day_test_rate_per_100000: 651.0
+Percent_Positivity_in_prior_14_days: 0.1
 Level: Yellow
 url: /states/WA/adams-county
 ---

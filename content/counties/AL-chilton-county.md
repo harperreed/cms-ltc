@@ -11,9 +11,9 @@ FIPS: 1021.0
 FEMA_Region: 4.0
 Population: 44428.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1203.0
-Fourteen_day_test_rate_per_100000: 2708.0
-Percent_Positivity_in_prior_14_days: 0.173
+Tests_in_prior_14_days: 1761.0
+Fourteen_day_test_rate_per_100000: 3964.0
+Percent_Positivity_in_prior_14_days: 0.127
 Level: Red
 url: /states/AL/chilton-county
 ---

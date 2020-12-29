@@ -11,9 +11,9 @@ FIPS: 28135.0
 FEMA_Region: 4.0
 Population: 13809.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 138.0
-Fourteen_day_test_rate_per_100000: 999.0
-Percent_Positivity_in_prior_14_days: 0.123
+Tests_in_prior_14_days: 204.0
+Fourteen_day_test_rate_per_100000: 1477.0
+Percent_Positivity_in_prior_14_days: 0.152
 Level: Yellow
 url: /states/MS/tallahatchie-county
 ---

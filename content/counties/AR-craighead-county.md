@@ -11,9 +11,9 @@ FIPS: 5031.0
 FEMA_Region: 6.0
 Population: 110332.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 6478.0
-Fourteen_day_test_rate_per_100000: 5871.0
-Percent_Positivity_in_prior_14_days: 0.181
+Tests_in_prior_14_days: 8616.0
+Fourteen_day_test_rate_per_100000: 7809.0
+Percent_Positivity_in_prior_14_days: 0.164
 Level: Red
 url: /states/AR/craighead-county
 ---

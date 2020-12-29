@@ -11,9 +11,9 @@ FIPS: 55053.0
 FEMA_Region: 5.0
 Population: 20643.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1892.0
-Fourteen_day_test_rate_per_100000: 9165.0
-Percent_Positivity_in_prior_14_days: 0.193
+Tests_in_prior_14_days: 1671.0
+Fourteen_day_test_rate_per_100000: 8095.0
+Percent_Positivity_in_prior_14_days: 0.164
 Level: Red
 url: /states/WI/jackson-county
 ---

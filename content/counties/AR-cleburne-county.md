@@ -11,9 +11,9 @@ FIPS: 5023.0
 FEMA_Region: 6.0
 Population: 24919.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 564.0
-Fourteen_day_test_rate_per_100000: 2263.0
-Percent_Positivity_in_prior_14_days: 0.129
+Tests_in_prior_14_days: 1138.0
+Fourteen_day_test_rate_per_100000: 4567.0
+Percent_Positivity_in_prior_14_days: 0.116
 Level: Red
 url: /states/AR/cleburne-county
 ---

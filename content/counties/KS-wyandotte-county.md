@@ -11,9 +11,9 @@ FIPS: 20209.0
 FEMA_Region: 7.0
 Population: 165429.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 8482.0
-Fourteen_day_test_rate_per_100000: 5127.0
-Percent_Positivity_in_prior_14_days: 0.187
+Tests_in_prior_14_days: 11096.0
+Fourteen_day_test_rate_per_100000: 6707.0
+Percent_Positivity_in_prior_14_days: 0.169
 Level: Red
 url: /states/KS/wyandotte-county
 ---

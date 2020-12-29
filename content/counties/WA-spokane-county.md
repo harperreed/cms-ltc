@@ -11,9 +11,9 @@ FIPS: 53063.0
 FEMA_Region: 10.0
 Population: 522798.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 20161.0
-Fourteen_day_test_rate_per_100000: 3856.0
-Percent_Positivity_in_prior_14_days: 0.123
+Tests_in_prior_14_days: 16348.0
+Fourteen_day_test_rate_per_100000: 3127.0
+Percent_Positivity_in_prior_14_days: 0.107
 Level: Red
 url: /states/WA/spokane-county
 ---

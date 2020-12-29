@@ -11,9 +11,9 @@ FIPS: 48109.0
 FEMA_Region: 6.0
 Population: 2171.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 253.0
-Fourteen_day_test_rate_per_100000: 11654.0
-Percent_Positivity_in_prior_14_days: 0.202
+Tests_in_prior_14_days: 183.0
+Fourteen_day_test_rate_per_100000: 8429.0
+Percent_Positivity_in_prior_14_days: 0.219
 Level: Red
 url: /states/TX/culberson-county
 ---

@@ -11,9 +11,9 @@ FIPS: 54019.0
 FEMA_Region: 3.0
 Population: 42406.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 4994.0
-Fourteen_day_test_rate_per_100000: 11777.0
-Percent_Positivity_in_prior_14_days: 0.05
+Tests_in_prior_14_days: 3995.0
+Fourteen_day_test_rate_per_100000: 9421.0
+Percent_Positivity_in_prior_14_days: 0.082
 Level: Yellow
 url: /states/WV/fayette-county
 ---
