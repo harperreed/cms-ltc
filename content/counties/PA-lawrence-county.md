@@ -1,6 +1,6 @@
 ---
 title: "Lawrence County, PA"
-date: 2020-12-28
+date: 2020-12-29
 draft: false
 type: county
 tags: [FIPS:42073.0,FEMA:3.0,Micropolitan,Red]

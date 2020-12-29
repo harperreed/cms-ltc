@@ -1,6 +1,6 @@
 ---
 title: "Mason County, WV"
-date: 2020-12-28
+date: 2020-12-29
 draft: false
 type: county
 tags: [FIPS:54053.0,FEMA:3.0,Micropolitan,Yellow]

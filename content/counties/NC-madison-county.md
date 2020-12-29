@@ -1,6 +1,6 @@
 ---
 title: "Madison County, NC"
-date: 2020-12-28
+date: 2020-12-29
 draft: false
 type: county
 tags: [FIPS:37115.0,FEMA:4.0,Medium metro,Red]

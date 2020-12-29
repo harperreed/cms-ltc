@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, PA"
-date: 2020-12-28
+date: 2020-12-29
 draft: false
 type: county
 tags: [FIPS:42055.0,FEMA:3.0,Small metro,Red]

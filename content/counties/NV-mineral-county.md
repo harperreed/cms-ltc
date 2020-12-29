@@ -1,6 +1,6 @@
 ---
 title: "Mineral County, NV"
-date: 2020-12-28
+date: 2020-12-29
 draft: false
 type: county
 tags: [FIPS:32021.0,FEMA:9.0,Non-core,Red]

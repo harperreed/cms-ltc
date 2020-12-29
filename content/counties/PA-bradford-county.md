@@ -1,6 +1,6 @@
 ---
 title: "Bradford County, PA"
-date: 2020-12-28
+date: 2020-12-29
 draft: false
 type: county
 tags: [FIPS:42015.0,FEMA:3.0,Micropolitan,Red]

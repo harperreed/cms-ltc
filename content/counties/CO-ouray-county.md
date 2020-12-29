@@ -1,6 +1,6 @@
 ---
 title: "Ouray County, CO"
-date: 2020-12-28
+date: 2020-12-29
 draft: false
 type: county
 tags: [FIPS:8091.0,FEMA:8.0,Non-core,Green]

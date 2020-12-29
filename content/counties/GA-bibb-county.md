@@ -1,6 +1,6 @@
 ---
 title: "Bibb County, GA"
-date: 2020-12-28
+date: 2020-12-29
 draft: false
 type: county
 tags: [FIPS:13021.0,FEMA:4.0,Small metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Massac County, IL"
-date: 2020-12-28
+date: 2020-12-29
 draft: false
 type: county
 tags: [FIPS:17127.0,FEMA:5.0,Micropolitan,Red]

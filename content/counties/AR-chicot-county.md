@@ -1,6 +1,6 @@
 ---
 title: "Chicot County, AR"
-date: 2020-12-28
+date: 2020-12-29
 draft: false
 type: county
 tags: [FIPS:5017.0,FEMA:6.0,Non-core,Yellow]

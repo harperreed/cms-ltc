@@ -1,6 +1,6 @@
 ---
 title: "Ward County, ND"
-date: 2020-12-28
+date: 2020-12-29
 draft: false
 type: county
 tags: [FIPS:38101.0,FEMA:8.0,Micropolitan,Red]
