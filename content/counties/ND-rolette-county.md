@@ -1,6 +1,6 @@
 ---
 title: "Rolette County, ND"
-date: 2020-12-29
+date: 2020-12-30
 draft: false
 type: county
 tags: [FIPS:38079.0,FEMA:8.0,Non-core,Yellow]

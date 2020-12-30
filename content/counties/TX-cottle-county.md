@@ -1,6 +1,6 @@
 ---
 title: "Cottle County, TX"
-date: 2020-12-29
+date: 2020-12-30
 draft: false
 type: county
 tags: [FIPS:48101.0,FEMA:6.0,Non-core,Red]

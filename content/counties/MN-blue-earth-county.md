@@ -1,6 +1,6 @@
 ---
 title: "Blue Earth County, MN"
-date: 2020-12-29
+date: 2020-12-30
 draft: false
 type: county
 tags: [FIPS:27013.0,FEMA:5.0,Small metro,Yellow]

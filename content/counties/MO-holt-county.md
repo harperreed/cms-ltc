@@ -1,6 +1,6 @@
 ---
 title: "Holt County, MO"
-date: 2020-12-29
+date: 2020-12-30
 draft: false
 type: county
 tags: [FIPS:29087.0,FEMA:7.0,Non-core,Yellow]

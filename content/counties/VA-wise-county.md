@@ -1,6 +1,6 @@
 ---
 title: "Wise County, VA"
-date: 2020-12-29
+date: 2020-12-30
 draft: false
 type: county
 tags: [FIPS:51195.0,FEMA:3.0,Micropolitan,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Spartanburg County, SC"
-date: 2020-12-29
+date: 2020-12-30
 draft: false
 type: county
 tags: [FIPS:45083.0,FEMA:4.0,Medium metro,Red]

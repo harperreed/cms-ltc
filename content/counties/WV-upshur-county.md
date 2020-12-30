@@ -1,6 +1,6 @@
 ---
 title: "Upshur County, WV"
-date: 2020-12-29
+date: 2020-12-30
 draft: false
 type: county
 tags: [FIPS:54097.0,FEMA:3.0,Non-core,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Lemhi County, ID"
-date: 2020-12-29
+date: 2020-12-30
 draft: false
 type: county
 tags: [FIPS:16059.0,FEMA:10.0,Non-core,Green]

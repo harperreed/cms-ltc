@@ -1,6 +1,6 @@
 ---
 title: "Silver Bow County, MT"
-date: 2020-12-29
+date: 2020-12-30
 draft: false
 type: county
 tags: [FIPS:30093.0,FEMA:8.0,Micropolitan,Gray]

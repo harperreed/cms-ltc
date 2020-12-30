@@ -1,6 +1,6 @@
 ---
 title: "Hanson County, SD"
-date: 2020-12-29
+date: 2020-12-30
 draft: false
 type: county
 tags: [FIPS:46061.0,FEMA:8.0,Micropolitan,Yellow]
