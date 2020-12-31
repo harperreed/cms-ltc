@@ -1,6 +1,6 @@
 ---
 title: "Boyle County, KY"
-date: 2020-12-30
+date: 2020-12-31
 draft: false
 type: county
 tags: [FIPS:21021.0,FEMA:4.0,Micropolitan,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Blaine County, ID"
-date: 2020-12-30
+date: 2020-12-31
 draft: false
 type: county
 tags: [FIPS:16013.0,FEMA:10.0,Micropolitan,Yellow]

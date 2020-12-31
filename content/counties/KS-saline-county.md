@@ -1,6 +1,6 @@
 ---
 title: "Saline County, KS"
-date: 2020-12-30
+date: 2020-12-31
 draft: false
 type: county
 tags: [FIPS:20169.0,FEMA:7.0,Micropolitan,Red]

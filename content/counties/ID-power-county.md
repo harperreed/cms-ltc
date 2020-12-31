@@ -1,6 +1,6 @@
 ---
 title: "Power County, ID"
-date: 2020-12-30
+date: 2020-12-31
 draft: false
 type: county
 tags: [FIPS:16077.0,FEMA:10.0,Non-core,Yellow]

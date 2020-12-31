@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, MA"
-date: 2020-12-30
+date: 2020-12-31
 draft: false
 type: county
 tags: [FIPS:25011.0,FEMA:1.0,Micropolitan,Green]
