@@ -1,6 +1,6 @@
 ---
 title: "Greene County, GA"
-date: 2020-12-31
+date: 2021-01-01
 draft: false
 type: county
 tags: [FIPS:13133.0,FEMA:4.0,Non-core,Red]

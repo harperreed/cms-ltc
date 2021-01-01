@@ -1,6 +1,6 @@
 ---
 title: "Custer County, CO"
-date: 2020-12-31
+date: 2021-01-01
 draft: false
 type: county
 tags: [FIPS:8027.0,FEMA:8.0,Non-core,Red]

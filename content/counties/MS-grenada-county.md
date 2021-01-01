@@ -1,6 +1,6 @@
 ---
 title: "Grenada County, MS"
-date: 2020-12-31
+date: 2021-01-01
 draft: false
 type: county
 tags: [FIPS:28043.0,FEMA:4.0,Micropolitan,Red]

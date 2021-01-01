@@ -1,6 +1,6 @@
 ---
 title: "Jefferson Parish, LA"
-date: 2020-12-31
+date: 2021-01-01
 draft: false
 type: county
 tags: [FIPS:22051.0,FEMA:6.0,Large fringe metro,Red]

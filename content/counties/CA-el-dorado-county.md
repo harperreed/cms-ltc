@@ -1,6 +1,6 @@
 ---
 title: "El Dorado County, CA"
-date: 2020-12-31
+date: 2021-01-01
 draft: false
 type: county
 tags: [FIPS:6017.0,FEMA:9.0,Large fringe metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Winn Parish, LA"
-date: 2020-12-31
+date: 2021-01-01
 draft: false
 type: county
 tags: [FIPS:22127.0,FEMA:6.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Armstrong County, PA"
-date: 2020-12-31
+date: 2021-01-01
 draft: false
 type: county
 tags: [FIPS:42005.0,FEMA:3.0,Large fringe metro,Red]

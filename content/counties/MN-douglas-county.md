@@ -1,6 +1,6 @@
 ---
 title: "Douglas County, MN"
-date: 2020-12-31
+date: 2021-01-01
 draft: false
 type: county
 tags: [FIPS:27041.0,FEMA:5.0,Micropolitan,Yellow]

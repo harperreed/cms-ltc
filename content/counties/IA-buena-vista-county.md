@@ -1,6 +1,6 @@
 ---
 title: "Buena Vista County, IA"
-date: 2020-12-31
+date: 2021-01-01
 draft: false
 type: county
 tags: [FIPS:19021.0,FEMA:7.0,Micropolitan,Red]

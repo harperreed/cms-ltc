@@ -1,6 +1,6 @@
 ---
 title: "Tyler County, TX"
-date: 2020-12-31
+date: 2021-01-01
 draft: false
 type: county
 tags: [FIPS:48457.0,FEMA:6.0,Non-core,Red]
