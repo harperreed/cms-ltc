@@ -1,6 +1,6 @@
 ---
 title: "Covington County, MS"
-date: 2021-01-01
+date: 2021-01-02
 draft: false
 type: county
 tags: [FIPS:28031.0,FEMA:4.0,Non-core,Red]

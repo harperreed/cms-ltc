@@ -1,6 +1,6 @@
 ---
 title: "Clarke County, IA"
-date: 2021-01-01
+date: 2021-01-02
 draft: false
 type: county
 tags: [FIPS:19039.0,FEMA:7.0,Non-core,Red]

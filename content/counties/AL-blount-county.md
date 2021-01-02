@@ -1,6 +1,6 @@
 ---
 title: "Blount County, AL"
-date: 2021-01-01
+date: 2021-01-02
 draft: false
 type: county
 tags: [FIPS:1009.0,FEMA:4.0,Large fringe metro,Red]

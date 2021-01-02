@@ -1,6 +1,6 @@
 ---
 title: "Clark County, NV"
-date: 2021-01-01
+date: 2021-01-02
 draft: false
 type: county
 tags: [FIPS:32003.0,FEMA:9.0,Large central metro,Red]
