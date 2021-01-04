@@ -1,6 +1,6 @@
 ---
 title: "Cleveland County, AR"
-date: 2021-01-03
+date: 2021-01-04
 draft: false
 type: county
 tags: [FIPS:5025.0,FEMA:6.0,Small metro,Red]

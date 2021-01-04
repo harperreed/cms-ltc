@@ -1,6 +1,6 @@
 ---
 title: "Coffee County, GA"
-date: 2021-01-03
+date: 2021-01-04
 draft: false
 type: county
 tags: [FIPS:13069.0,FEMA:4.0,Micropolitan,Red]

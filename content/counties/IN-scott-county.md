@@ -1,6 +1,6 @@
 ---
 title: "Scott County, IN"
-date: 2021-01-03
+date: 2021-01-04
 draft: false
 type: county
 tags: [FIPS:18143.0,FEMA:5.0,Large fringe metro,Red]

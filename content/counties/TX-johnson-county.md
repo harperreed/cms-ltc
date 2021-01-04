@@ -1,6 +1,6 @@
 ---
 title: "Johnson County, TX"
-date: 2021-01-03
+date: 2021-01-04
 draft: false
 type: county
 tags: [FIPS:48251.0,FEMA:6.0,Large fringe metro,Red]

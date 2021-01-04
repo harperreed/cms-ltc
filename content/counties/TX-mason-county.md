@@ -1,6 +1,6 @@
 ---
 title: "Mason County, TX"
-date: 2021-01-03
+date: 2021-01-04
 draft: false
 type: county
 tags: [FIPS:48319.0,FEMA:6.0,Non-core,Red]

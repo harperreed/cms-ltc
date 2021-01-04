@@ -1,6 +1,6 @@
 ---
 title: "Pinal County, AZ"
-date: 2021-01-03
+date: 2021-01-04
 draft: false
 type: county
 tags: [FIPS:4021.0,FEMA:9.0,Large fringe metro,Red]
