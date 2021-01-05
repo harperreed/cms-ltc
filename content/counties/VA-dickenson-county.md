@@ -1,6 +1,6 @@
 ---
 title: "Dickenson County, VA"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:51051.0,FEMA:3.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 51051.0
 FEMA_Region: 3.0
 Population: 14318.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 387.0
-Fourteen_day_test_rate_per_100000: 2703.0
-Percent_Positivity_in_prior_14_days: 0.238
+Tests_in_prior_14_days: 340.0
+Fourteen_day_test_rate_per_100000: 2375.0
+Percent_Positivity_in_prior_14_days: 0.279
 Level: Red
 url: /states/VA/dickenson-county
 ---

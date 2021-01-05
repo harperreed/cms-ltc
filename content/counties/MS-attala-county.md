@@ -1,6 +1,6 @@
 ---
 title: "Attala County, MS"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:28007.0,FEMA:4.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 28007.0
 FEMA_Region: 4.0
 Population: 18174.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 871.0
-Fourteen_day_test_rate_per_100000: 4793.0
-Percent_Positivity_in_prior_14_days: 0.144
+Tests_in_prior_14_days: 799.0
+Fourteen_day_test_rate_per_100000: 4396.0
+Percent_Positivity_in_prior_14_days: 0.119
 Level: Red
 url: /states/MS/attala-county
 ---

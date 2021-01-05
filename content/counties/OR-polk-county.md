@@ -1,6 +1,6 @@
 ---
 title: "Polk County, OR"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:41053.0,FEMA:10.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 41053.0
 FEMA_Region: 10.0
 Population: 86085.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 4371.0
-Fourteen_day_test_rate_per_100000: 5078.0
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 4521.0
+Fourteen_day_test_rate_per_100000: 5252.0
+Percent_Positivity_in_prior_14_days: 0.081
 Level: Yellow
 url: /states/OR/polk-county
 ---

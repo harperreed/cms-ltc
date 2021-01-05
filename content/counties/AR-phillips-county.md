@@ -1,6 +1,6 @@
 ---
 title: "Phillips County, AR"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:5107.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 5107.0
 FEMA_Region: 6.0
 Population: 17782.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1650.0
-Fourteen_day_test_rate_per_100000: 9279.0
-Percent_Positivity_in_prior_14_days: 0.091
+Tests_in_prior_14_days: 1433.0
+Fourteen_day_test_rate_per_100000: 8059.0
+Percent_Positivity_in_prior_14_days: 0.084
 Level: Yellow
 url: /states/AR/phillips-county
 ---

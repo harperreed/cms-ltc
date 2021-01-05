@@ -1,6 +1,6 @@
 ---
 title: "Woodbury County, IA"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:19193.0,FEMA:7.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 19193.0
 FEMA_Region: 7.0
 Population: 103107.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 5440.0
-Fourteen_day_test_rate_per_100000: 5276.0
-Percent_Positivity_in_prior_14_days: 0.143
+Tests_in_prior_14_days: 4230.0
+Fourteen_day_test_rate_per_100000: 4103.0
+Percent_Positivity_in_prior_14_days: 0.152
 Level: Red
 url: /states/IA/woodbury-county
 ---

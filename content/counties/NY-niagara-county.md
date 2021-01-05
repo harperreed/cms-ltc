@@ -1,6 +1,6 @@
 ---
 title: "Niagara County, NY"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:36063.0,FEMA:2.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 36063.0
 FEMA_Region: 2.0
 Population: 209281.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 19286.0
-Fourteen_day_test_rate_per_100000: 9215.0
-Percent_Positivity_in_prior_14_days: 0.096
+Tests_in_prior_14_days: 18282.0
+Fourteen_day_test_rate_per_100000: 8736.0
+Percent_Positivity_in_prior_14_days: 0.098
 Level: Yellow
 url: /states/NY/niagara-county
 ---

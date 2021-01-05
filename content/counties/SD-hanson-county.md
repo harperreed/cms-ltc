@@ -1,6 +1,6 @@
 ---
 title: "Hanson County, SD"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:46061.0,FEMA:8.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 46061.0
 FEMA_Region: 8.0
 Population: 3453.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 68.0
-Fourteen_day_test_rate_per_100000: 1969.0
-Percent_Positivity_in_prior_14_days: 0.235
+Tests_in_prior_14_days: 37.0
+Fourteen_day_test_rate_per_100000: 1072.0
+Percent_Positivity_in_prior_14_days: 0.216
 Level: Yellow
 url: /states/SD/hanson-county
 ---

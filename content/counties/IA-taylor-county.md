@@ -1,9 +1,9 @@
 ---
 title: "Taylor County, IA"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
-tags: [FIPS:19173.0,FEMA:7.0,Non-core,Red]
+tags: [FIPS:19173.0,FEMA:7.0,Non-core,Yellow]
 categories: [IA]
 County: Taylor County
 State: IA
@@ -11,10 +11,10 @@ FIPS: 19173.0
 FEMA_Region: 7.0
 Population: 6121.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 152.0
-Fourteen_day_test_rate_per_100000: 2483.0
-Percent_Positivity_in_prior_14_days: 0.178
-Level: Red
+Tests_in_prior_14_days: 115.0
+Fourteen_day_test_rate_per_100000: 1879.0
+Percent_Positivity_in_prior_14_days: 0.217
+Level: Yellow
 url: /states/IA/taylor-county
 ---
 

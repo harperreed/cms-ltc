@@ -1,6 +1,6 @@
 ---
 title: "Carroll County, MO"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:29033.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 29033.0
 FEMA_Region: 7.0
 Population: 8679.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 208.0
-Fourteen_day_test_rate_per_100000: 2397.0
-Percent_Positivity_in_prior_14_days: 0.317
+Tests_in_prior_14_days: 203.0
+Fourteen_day_test_rate_per_100000: 2339.0
+Percent_Positivity_in_prior_14_days: 0.3
 Level: Red
 url: /states/MO/carroll-county
 ---

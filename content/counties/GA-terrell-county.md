@@ -1,6 +1,6 @@
 ---
 title: "Terrell County, GA"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:13273.0,FEMA:4.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 13273.0
 FEMA_Region: 4.0
 Population: 8531.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 244.0
-Fourteen_day_test_rate_per_100000: 2860.0
-Percent_Positivity_in_prior_14_days: 0.176
+Tests_in_prior_14_days: 197.0
+Fourteen_day_test_rate_per_100000: 2309.0
+Percent_Positivity_in_prior_14_days: 0.147
 Level: Red
 url: /states/GA/terrell-county
 ---

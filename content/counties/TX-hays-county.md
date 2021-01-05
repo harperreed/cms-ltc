@@ -1,6 +1,6 @@
 ---
 title: "Hays County, TX"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:48209.0,FEMA:6.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48209.0
 FEMA_Region: 6.0
 Population: 230191.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 16286.0
-Fourteen_day_test_rate_per_100000: 7075.0
-Percent_Positivity_in_prior_14_days: 0.109
+Tests_in_prior_14_days: 15290.0
+Fourteen_day_test_rate_per_100000: 6642.0
+Percent_Positivity_in_prior_14_days: 0.138
 Level: Red
 url: /states/TX/hays-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Calhoun County, TX"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:48057.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48057.0
 FEMA_Region: 6.0
 Population: 21290.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 783.0
-Fourteen_day_test_rate_per_100000: 3678.0
-Percent_Positivity_in_prior_14_days: 0.087
+Tests_in_prior_14_days: 703.0
+Fourteen_day_test_rate_per_100000: 3302.0
+Percent_Positivity_in_prior_14_days: 0.081
 Level: Yellow
 url: /states/TX/calhoun-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Coweta County, GA"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:13077.0,FEMA:4.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 13077.0
 FEMA_Region: 4.0
 Population: 148509.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 5792.0
-Fourteen_day_test_rate_per_100000: 3900.0
-Percent_Positivity_in_prior_14_days: 0.144
+Tests_in_prior_14_days: 5134.0
+Fourteen_day_test_rate_per_100000: 3457.0
+Percent_Positivity_in_prior_14_days: 0.19
 Level: Red
 url: /states/GA/coweta-county
 ---

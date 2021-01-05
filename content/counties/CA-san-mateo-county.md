@@ -1,6 +1,6 @@
 ---
 title: "San Mateo County, CA"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:6081.0,FEMA:9.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 6081.0
 FEMA_Region: 9.0
 Population: 766573.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 73263.0
-Fourteen_day_test_rate_per_100000: 9557.0
-Percent_Positivity_in_prior_14_days: 0.061
+Tests_in_prior_14_days: 72135.0
+Fourteen_day_test_rate_per_100000: 9410.0
+Percent_Positivity_in_prior_14_days: 0.06
 Level: Yellow
 url: /states/CA/san-mateo-county
 ---

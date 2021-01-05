@@ -1,6 +1,6 @@
 ---
 title: "Warrick County, IN"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:18173.0,FEMA:5.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 18173.0
 FEMA_Region: 5.0
 Population: 62998.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 4512.0
-Fourteen_day_test_rate_per_100000: 7162.0
-Percent_Positivity_in_prior_14_days: 0.178
+Tests_in_prior_14_days: 4244.0
+Fourteen_day_test_rate_per_100000: 6737.0
+Percent_Positivity_in_prior_14_days: 0.197
 Level: Red
 url: /states/IN/warrick-county
 ---

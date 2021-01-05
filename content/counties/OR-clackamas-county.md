@@ -1,6 +1,6 @@
 ---
 title: "Clackamas County, OR"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:41005.0,FEMA:10.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 41005.0
 FEMA_Region: 10.0
 Population: 418187.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 23336.0
-Fourteen_day_test_rate_per_100000: 5580.0
-Percent_Positivity_in_prior_14_days: 0.083
+Tests_in_prior_14_days: 26076.0
+Fourteen_day_test_rate_per_100000: 6235.0
+Percent_Positivity_in_prior_14_days: 0.076
 Level: Yellow
 url: /states/OR/clackamas-county
 ---

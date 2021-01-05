@@ -1,9 +1,9 @@
 ---
 title: "Tyrrell County, NC"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
-tags: [FIPS:37177.0,FEMA:4.0,Micropolitan,Green]
+tags: [FIPS:37177.0,FEMA:4.0,Micropolitan,Yellow]
 categories: [NC]
 County: Tyrrell County
 State: NC
@@ -11,10 +11,10 @@ FIPS: 37177.0
 FEMA_Region: 4.0
 Population: 4016.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 170.0
-Fourteen_day_test_rate_per_100000: 4233.0
-Percent_Positivity_in_prior_14_days: 0.041
-Level: Green
+Tests_in_prior_14_days: 156.0
+Fourteen_day_test_rate_per_100000: 3884.0
+Percent_Positivity_in_prior_14_days: 0.071
+Level: Yellow
 url: /states/NC/tyrrell-county
 ---
 

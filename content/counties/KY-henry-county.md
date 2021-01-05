@@ -1,6 +1,6 @@
 ---
 title: "Henry County, KY"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:21103.0,FEMA:4.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 21103.0
 FEMA_Region: 4.0
 Population: 16126.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 932.0
-Fourteen_day_test_rate_per_100000: 5779.0
-Percent_Positivity_in_prior_14_days: 0.145
+Tests_in_prior_14_days: 884.0
+Fourteen_day_test_rate_per_100000: 5482.0
+Percent_Positivity_in_prior_14_days: 0.163
 Level: Red
 url: /states/KY/henry-county
 ---

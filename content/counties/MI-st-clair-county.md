@@ -1,6 +1,6 @@
 ---
 title: "St. Clair County, MI"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:26147.0,FEMA:5.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 26147.0
 FEMA_Region: 5.0
 Population: 159128.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 6563.0
-Fourteen_day_test_rate_per_100000: 4124.0
-Percent_Positivity_in_prior_14_days: 0.124
+Tests_in_prior_14_days: 5471.0
+Fourteen_day_test_rate_per_100000: 3438.0
+Percent_Positivity_in_prior_14_days: 0.12
 Level: Red
 url: /states/MI/st-clair-county
 ---

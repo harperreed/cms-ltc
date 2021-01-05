@@ -1,6 +1,6 @@
 ---
 title: "Whitley County, KY"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:21235.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 21235.0
 FEMA_Region: 4.0
 Population: 36264.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3177.0
-Fourteen_day_test_rate_per_100000: 8761.0
-Percent_Positivity_in_prior_14_days: 0.092
+Tests_in_prior_14_days: 2731.0
+Fourteen_day_test_rate_per_100000: 7531.0
+Percent_Positivity_in_prior_14_days: 0.09
 Level: Yellow
 url: /states/KY/whitley-county
 ---

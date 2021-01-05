@@ -1,6 +1,6 @@
 ---
 title: "Pitkin County, CO"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:8097.0,FEMA:8.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 8097.0
 FEMA_Region: 8.0
 Population: 17767.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4144.0
-Fourteen_day_test_rate_per_100000: 23324.0
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 3612.0
+Fourteen_day_test_rate_per_100000: 20330.0
+Percent_Positivity_in_prior_14_days: 0.076
 Level: Yellow
 url: /states/CO/pitkin-county
 ---

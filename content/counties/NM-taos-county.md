@@ -1,6 +1,6 @@
 ---
 title: "Taos County, NM"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:35055.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 35055.0
 FEMA_Region: 6.0
 Population: 32723.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1544.0
-Fourteen_day_test_rate_per_100000: 4718.0
-Percent_Positivity_in_prior_14_days: 0.052
+Tests_in_prior_14_days: 1011.0
+Fourteen_day_test_rate_per_100000: 3090.0
+Percent_Positivity_in_prior_14_days: 0.062
 Level: Yellow
 url: /states/NM/taos-county
 ---

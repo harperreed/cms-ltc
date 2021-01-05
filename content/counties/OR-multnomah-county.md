@@ -1,6 +1,6 @@
 ---
 title: "Multnomah County, OR"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:41051.0,FEMA:10.0,Large central metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 41051.0
 FEMA_Region: 10.0
 Population: 812855.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 52988.0
-Fourteen_day_test_rate_per_100000: 6519.0
-Percent_Positivity_in_prior_14_days: 0.083
+Tests_in_prior_14_days: 60385.0
+Fourteen_day_test_rate_per_100000: 7429.0
+Percent_Positivity_in_prior_14_days: 0.081
 Level: Yellow
 url: /states/OR/multnomah-county
 ---

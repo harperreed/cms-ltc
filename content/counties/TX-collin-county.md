@@ -1,6 +1,6 @@
 ---
 title: "Collin County, TX"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:48085.0,FEMA:6.0,Large central metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48085.0
 FEMA_Region: 6.0
 Population: 1034730.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 74258.0
-Fourteen_day_test_rate_per_100000: 7177.0
-Percent_Positivity_in_prior_14_days: 0.115
+Tests_in_prior_14_days: 67955.0
+Fourteen_day_test_rate_per_100000: 6567.0
+Percent_Positivity_in_prior_14_days: 0.137
 Level: Red
 url: /states/TX/collin-county
 ---

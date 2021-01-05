@@ -1,6 +1,6 @@
 ---
 title: "Elkhart County, IN"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:18039.0,FEMA:5.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 18039.0
 FEMA_Region: 5.0
 Population: 206341.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 9588.0
-Fourteen_day_test_rate_per_100000: 4647.0
-Percent_Positivity_in_prior_14_days: 0.176
+Tests_in_prior_14_days: 8138.0
+Fourteen_day_test_rate_per_100000: 3944.0
+Percent_Positivity_in_prior_14_days: 0.154
 Level: Red
 url: /states/IN/elkhart-county
 ---

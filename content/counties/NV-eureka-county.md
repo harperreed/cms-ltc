@@ -1,6 +1,6 @@
 ---
 title: "Eureka County, NV"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:32011.0,FEMA:9.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 32011.0
 FEMA_Region: 9.0
 Population: 2029.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 63.0
-Fourteen_day_test_rate_per_100000: 3105.0
-Percent_Positivity_in_prior_14_days: 0.063
+Tests_in_prior_14_days: 52.0
+Fourteen_day_test_rate_per_100000: 2563.0
+Percent_Positivity_in_prior_14_days: 0.096
 Level: Yellow
 url: /states/NV/eureka-county
 ---

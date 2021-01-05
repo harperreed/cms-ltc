@@ -1,6 +1,6 @@
 ---
 title: "Midland County, TX"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:48329.0,FEMA:6.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48329.0
 FEMA_Region: 6.0
 Population: 176832.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2751.0
-Fourteen_day_test_rate_per_100000: 1556.0
-Percent_Positivity_in_prior_14_days: 0.157
+Tests_in_prior_14_days: 2051.0
+Fourteen_day_test_rate_per_100000: 1160.0
+Percent_Positivity_in_prior_14_days: 0.174
 Level: Red
 url: /states/TX/midland-county
 ---

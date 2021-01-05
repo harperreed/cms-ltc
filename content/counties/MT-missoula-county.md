@@ -1,9 +1,9 @@
 ---
 title: "Missoula County, MT"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
-tags: [FIPS:30063.0,FEMA:8.0,Small metro,Gray]
+tags: [FIPS:30063.0,FEMA:8.0,Small metro,Yellow]
 categories: [MT]
 County: Missoula County
 State: MT
@@ -11,10 +11,10 @@ FIPS: 30063.0
 FEMA_Region: 8.0
 Population: 119600.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1439.0
-Fourteen_day_test_rate_per_100000: 1203.0
-Percent_Positivity_in_prior_14_days: 0.08
-Level: Gray
+Tests_in_prior_14_days: 5368.0
+Fourteen_day_test_rate_per_100000: 4488.0
+Percent_Positivity_in_prior_14_days: 0.096
+Level: Yellow
 url: /states/MT/missoula-county
 ---
 

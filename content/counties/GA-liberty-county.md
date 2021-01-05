@@ -1,6 +1,6 @@
 ---
 title: "Liberty County, GA"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:13179.0,FEMA:4.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 13179.0
 FEMA_Region: 4.0
 Population: 61435.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 883.0
-Fourteen_day_test_rate_per_100000: 1437.0
-Percent_Positivity_in_prior_14_days: 0.119
+Tests_in_prior_14_days: 755.0
+Fourteen_day_test_rate_per_100000: 1229.0
+Percent_Positivity_in_prior_14_days: 0.155
 Level: Red
 url: /states/GA/liberty-county
 ---

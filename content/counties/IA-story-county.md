@@ -1,6 +1,6 @@
 ---
 title: "Story County, IA"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:19169.0,FEMA:7.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 19169.0
 FEMA_Region: 7.0
 Population: 97117.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3493.0
-Fourteen_day_test_rate_per_100000: 3597.0
-Percent_Positivity_in_prior_14_days: 0.098
+Tests_in_prior_14_days: 2909.0
+Fourteen_day_test_rate_per_100000: 2995.0
+Percent_Positivity_in_prior_14_days: 0.099
 Level: Yellow
 url: /states/IA/story-county
 ---

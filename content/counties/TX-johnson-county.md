@@ -1,6 +1,6 @@
 ---
 title: "Johnson County, TX"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:48251.0,FEMA:6.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48251.0
 FEMA_Region: 6.0
 Population: 175817.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 7007.0
-Fourteen_day_test_rate_per_100000: 3985.0
-Percent_Positivity_in_prior_14_days: 0.221
+Tests_in_prior_14_days: 6297.0
+Fourteen_day_test_rate_per_100000: 3582.0
+Percent_Positivity_in_prior_14_days: 0.266
 Level: Red
 url: /states/TX/johnson-county
 ---

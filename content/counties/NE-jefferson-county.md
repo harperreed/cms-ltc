@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, NE"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:31095.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 31095.0
 FEMA_Region: 7.0
 Population: 7046.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 336.0
-Fourteen_day_test_rate_per_100000: 4769.0
-Percent_Positivity_in_prior_14_days: 0.22
+Tests_in_prior_14_days: 215.0
+Fourteen_day_test_rate_per_100000: 3051.0
+Percent_Positivity_in_prior_14_days: 0.186
 Level: Red
 url: /states/NE/jefferson-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Pontotoc County, OK"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:40123.0,FEMA:6.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 40123.0
 FEMA_Region: 6.0
 Population: 38284.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1001.0
-Fourteen_day_test_rate_per_100000: 2615.0
-Percent_Positivity_in_prior_14_days: 0.183
+Tests_in_prior_14_days: 1014.0
+Fourteen_day_test_rate_per_100000: 2649.0
+Percent_Positivity_in_prior_14_days: 0.215
 Level: Red
 url: /states/OK/pontotoc-county
 ---

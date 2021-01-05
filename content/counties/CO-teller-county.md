@@ -1,6 +1,6 @@
 ---
 title: "Teller County, CO"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:8119.0,FEMA:8.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 8119.0
 FEMA_Region: 8.0
 Population: 25388.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1879.0
-Fourteen_day_test_rate_per_100000: 7401.0
-Percent_Positivity_in_prior_14_days: 0.072
+Tests_in_prior_14_days: 1249.0
+Fourteen_day_test_rate_per_100000: 4920.0
+Percent_Positivity_in_prior_14_days: 0.062
 Level: Yellow
 url: /states/CO/teller-county
 ---

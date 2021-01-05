@@ -1,6 +1,6 @@
 ---
 title: "Cuming County, NE"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:31039.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 31039.0
 FEMA_Region: 7.0
 Population: 8846.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 318.0
-Fourteen_day_test_rate_per_100000: 3595.0
-Percent_Positivity_in_prior_14_days: 0.362
+Tests_in_prior_14_days: 280.0
+Fourteen_day_test_rate_per_100000: 3165.0
+Percent_Positivity_in_prior_14_days: 0.414
 Level: Red
 url: /states/NE/cuming-county
 ---

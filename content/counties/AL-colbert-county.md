@@ -1,6 +1,6 @@
 ---
 title: "Colbert County, AL"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:1033.0,FEMA:4.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 1033.0
 FEMA_Region: 4.0
 Population: 55241.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1685.0
-Fourteen_day_test_rate_per_100000: 3050.0
-Percent_Positivity_in_prior_14_days: 0.197
+Tests_in_prior_14_days: 1546.0
+Fourteen_day_test_rate_per_100000: 2799.0
+Percent_Positivity_in_prior_14_days: 0.215
 Level: Red
 url: /states/AL/colbert-county
 ---

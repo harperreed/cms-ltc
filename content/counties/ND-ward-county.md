@@ -1,6 +1,6 @@
 ---
 title: "Ward County, ND"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:38101.0,FEMA:8.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 38101.0
 FEMA_Region: 8.0
 Population: 67641.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2900.0
-Fourteen_day_test_rate_per_100000: 4287.0
-Percent_Positivity_in_prior_14_days: 0.068
+Tests_in_prior_14_days: 2530.0
+Fourteen_day_test_rate_per_100000: 3740.0
+Percent_Positivity_in_prior_14_days: 0.063
 Level: Yellow
 url: /states/ND/ward-county
 ---

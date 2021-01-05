@@ -1,6 +1,6 @@
 ---
 title: "Copiah County, MS"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:28029.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 28029.0
 FEMA_Region: 4.0
 Population: 28065.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 700.0
-Fourteen_day_test_rate_per_100000: 2494.0
-Percent_Positivity_in_prior_14_days: 0.187
+Tests_in_prior_14_days: 560.0
+Fourteen_day_test_rate_per_100000: 1995.0
+Percent_Positivity_in_prior_14_days: 0.223
 Level: Red
 url: /states/MS/copiah-county
 ---

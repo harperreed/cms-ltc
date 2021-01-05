@@ -1,6 +1,6 @@
 ---
 title: "Kingfisher County, OK"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:40073.0,FEMA:6.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 40073.0
 FEMA_Region: 6.0
 Population: 15765.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 394.0
-Fourteen_day_test_rate_per_100000: 2499.0
-Percent_Positivity_in_prior_14_days: 0.289
+Tests_in_prior_14_days: 344.0
+Fourteen_day_test_rate_per_100000: 2182.0
+Percent_Positivity_in_prior_14_days: 0.291
 Level: Red
 url: /states/OK/kingfisher-county
 ---

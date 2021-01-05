@@ -1,9 +1,9 @@
 ---
 title: "Jefferson County, ID"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
-tags: [FIPS:16051.0,FEMA:10.0,Small metro,Yellow]
+tags: [FIPS:16051.0,FEMA:10.0,Small metro,Red]
 categories: [ID]
 County: Jefferson County
 State: ID
@@ -11,10 +11,10 @@ FIPS: 16051.0
 FEMA_Region: 10.0
 Population: 29871.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1411.0
-Fourteen_day_test_rate_per_100000: 4724.0
-Percent_Positivity_in_prior_14_days: 0.074
-Level: Yellow
+Tests_in_prior_14_days: 783.0
+Fourteen_day_test_rate_per_100000: 2621.0
+Percent_Positivity_in_prior_14_days: 0.121
+Level: Red
 url: /states/ID/jefferson-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Asotin County, WA"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:53003.0,FEMA:10.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 53003.0
 FEMA_Region: 10.0
 Population: 22582.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 343.0
-Fourteen_day_test_rate_per_100000: 1519.0
-Percent_Positivity_in_prior_14_days: 0.14
+Tests_in_prior_14_days: 217.0
+Fourteen_day_test_rate_per_100000: 961.0
+Percent_Positivity_in_prior_14_days: 0.152
 Level: Yellow
 url: /states/WA/asotin-county
 ---

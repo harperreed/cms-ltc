@@ -1,6 +1,6 @@
 ---
 title: "Marshall County, MN"
-date: 2021-01-04
+date: 2021-01-05
 draft: false
 type: county
 tags: [FIPS:27089.0,FEMA:5.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 27089.0
 FEMA_Region: 5.0
 Population: 9336.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 754.0
-Fourteen_day_test_rate_per_100000: 8076.0
-Percent_Positivity_in_prior_14_days: 0.093
+Tests_in_prior_14_days: 676.0
+Fourteen_day_test_rate_per_100000: 7241.0
+Percent_Positivity_in_prior_14_days: 0.062
 Level: Yellow
 url: /states/MN/marshall-county
 ---
