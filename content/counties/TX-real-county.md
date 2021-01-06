@@ -1,6 +1,6 @@
 ---
 title: "Real County, TX"
-date: 2021-01-05
+date: 2021-01-06
 draft: false
 type: county
 tags: [FIPS:48385.0,FEMA:6.0,Non-core,Red]

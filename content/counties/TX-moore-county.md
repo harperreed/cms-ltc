@@ -1,6 +1,6 @@
 ---
 title: "Moore County, TX"
-date: 2021-01-05
+date: 2021-01-06
 draft: false
 type: county
 tags: [FIPS:48341.0,FEMA:6.0,Micropolitan,Yellow]

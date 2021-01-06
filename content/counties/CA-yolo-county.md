@@ -1,6 +1,6 @@
 ---
 title: "Yolo County, CA"
-date: 2021-01-05
+date: 2021-01-06
 draft: false
 type: county
 tags: [FIPS:6113.0,FEMA:9.0,Large fringe metro,Red]

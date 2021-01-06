@@ -1,6 +1,6 @@
 ---
 title: "Colbert County, AL"
-date: 2021-01-05
+date: 2021-01-06
 draft: false
 type: county
 tags: [FIPS:1033.0,FEMA:4.0,Small metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Otsego County, NY"
-date: 2021-01-05
+date: 2021-01-06
 draft: false
 type: county
 tags: [FIPS:36077.0,FEMA:2.0,Micropolitan,Yellow]
