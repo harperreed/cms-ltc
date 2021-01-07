@@ -1,6 +1,6 @@
 ---
 title: "Clay County, MN"
-date: 2021-01-06
+date: 2021-01-07
 draft: false
 type: county
 tags: [FIPS:27027.0,FEMA:5.0,Small metro,Yellow]

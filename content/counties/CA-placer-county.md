@@ -1,6 +1,6 @@
 ---
 title: "Placer County, CA"
-date: 2021-01-06
+date: 2021-01-07
 draft: false
 type: county
 tags: [FIPS:6061.0,FEMA:9.0,Large fringe metro,Red]
