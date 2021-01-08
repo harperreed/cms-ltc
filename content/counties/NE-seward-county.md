@@ -1,6 +1,6 @@
 ---
 title: "Seward County, NE"
-date: 2021-01-07
+date: 2021-01-08
 draft: false
 type: county
 tags: [FIPS:31159.0,FEMA:7.0,Medium metro,Red]

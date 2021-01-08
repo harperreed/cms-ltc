@@ -1,6 +1,6 @@
 ---
 title: "Ontario County, NY"
-date: 2021-01-07
+date: 2021-01-08
 draft: false
 type: county
 tags: [FIPS:36069.0,FEMA:2.0,Large fringe metro,Yellow]

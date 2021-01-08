@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, AR"
-date: 2021-01-07
+date: 2021-01-08
 draft: false
 type: county
 tags: [FIPS:5067.0,FEMA:6.0,Non-core,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Vernon County, MO"
-date: 2021-01-07
+date: 2021-01-08
 draft: false
 type: county
 tags: [FIPS:29217.0,FEMA:7.0,Non-core,Red]

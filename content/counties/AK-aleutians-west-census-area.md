@@ -1,6 +1,6 @@
 ---
 title: "Aleutians West Census Area, AK"
-date: 2021-01-07
+date: 2021-01-08
 draft: false
 type: county
 tags: [FIPS:2016.0,FEMA:10.0,Non-core,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Franklin City, VA"
-date: 2021-01-07
+date: 2021-01-08
 draft: false
 type: county
 tags: [FIPS:51620.0,FEMA:3.0,Non-core,Yellow]

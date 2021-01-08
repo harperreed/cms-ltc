@@ -1,6 +1,6 @@
 ---
 title: "Attala County, MS"
-date: 2021-01-07
+date: 2021-01-08
 draft: false
 type: county
 tags: [FIPS:28007.0,FEMA:4.0,Non-core,Red]

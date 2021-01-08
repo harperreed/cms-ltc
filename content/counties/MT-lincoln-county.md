@@ -1,6 +1,6 @@
 ---
 title: "Lincoln County, MT"
-date: 2021-01-07
+date: 2021-01-08
 draft: false
 type: county
 tags: [FIPS:30053.0,FEMA:8.0,Non-core,Red]
