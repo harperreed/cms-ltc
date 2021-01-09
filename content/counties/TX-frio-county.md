@@ -1,6 +1,6 @@
 ---
 title: "Frio County, TX"
-date: 2021-01-08
+date: 2021-01-09
 draft: false
 type: county
 tags: [FIPS:48163.0,FEMA:6.0,Non-core,Red]

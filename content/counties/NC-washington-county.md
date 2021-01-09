@@ -1,6 +1,6 @@
 ---
 title: "Washington County, NC"
-date: 2021-01-08
+date: 2021-01-09
 draft: false
 type: county
 tags: [FIPS:37187.0,FEMA:4.0,Non-core,Red]

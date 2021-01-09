@@ -1,6 +1,6 @@
 ---
 title: "Clay County, SD"
-date: 2021-01-08
+date: 2021-01-09
 draft: false
 type: county
 tags: [FIPS:46027.0,FEMA:8.0,Micropolitan,Yellow]

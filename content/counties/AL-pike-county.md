@@ -1,6 +1,6 @@
 ---
 title: "Pike County, AL"
-date: 2021-01-08
+date: 2021-01-09
 draft: false
 type: county
 tags: [FIPS:1109.0,FEMA:4.0,Micropolitan,Yellow]

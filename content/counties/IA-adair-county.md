@@ -1,6 +1,6 @@
 ---
 title: "Adair County, IA"
-date: 2021-01-08
+date: 2021-01-09
 draft: false
 type: county
 tags: [FIPS:19001.0,FEMA:7.0,Non-core,Red]

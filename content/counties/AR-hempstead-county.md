@@ -1,6 +1,6 @@
 ---
 title: "Hempstead County, AR"
-date: 2021-01-08
+date: 2021-01-09
 draft: false
 type: county
 tags: [FIPS:5057.0,FEMA:6.0,Non-core,Yellow]
