@@ -1,6 +1,6 @@
 ---
 title: "Santa Cruz County, CA"
-date: 2021-01-09
+date: 2021-01-10
 draft: false
 type: county
 tags: [FIPS:6087.0,FEMA:9.0,Medium metro,Yellow]

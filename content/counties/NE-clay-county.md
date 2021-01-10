@@ -1,6 +1,6 @@
 ---
 title: "Clay County, NE"
-date: 2021-01-09
+date: 2021-01-10
 draft: false
 type: county
 tags: [FIPS:31035.0,FEMA:7.0,Non-core,Red]

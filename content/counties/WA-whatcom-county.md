@@ -1,6 +1,6 @@
 ---
 title: "Whatcom County, WA"
-date: 2021-01-09
+date: 2021-01-10
 draft: false
 type: county
 tags: [FIPS:53073.0,FEMA:10.0,Small metro,Green]

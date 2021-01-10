@@ -1,6 +1,6 @@
 ---
 title: "Luna County, NM"
-date: 2021-01-09
+date: 2021-01-10
 draft: false
 type: county
 tags: [FIPS:35029.0,FEMA:6.0,Micropolitan,Red]
