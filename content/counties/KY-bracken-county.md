@@ -1,6 +1,6 @@
 ---
 title: "Bracken County, KY"
-date: 2021-01-10
+date: 2021-01-11
 draft: false
 type: county
 tags: [FIPS:21023.0,FEMA:4.0,Large fringe metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Wood County, TX"
-date: 2021-01-10
+date: 2021-01-11
 draft: false
 type: county
 tags: [FIPS:48499.0,FEMA:6.0,Non-core,Red]

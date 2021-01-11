@@ -1,6 +1,6 @@
 ---
 title: "Yellow Medicine County, MN"
-date: 2021-01-10
+date: 2021-01-11
 draft: false
 type: county
 tags: [FIPS:27173.0,FEMA:5.0,Non-core,Yellow]

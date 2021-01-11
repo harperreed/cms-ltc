@@ -1,6 +1,6 @@
 ---
 title: "Blackford County, IN"
-date: 2021-01-10
+date: 2021-01-11
 draft: false
 type: county
 tags: [FIPS:18009.0,FEMA:5.0,Non-core,Red]

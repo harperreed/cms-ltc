@@ -1,6 +1,6 @@
 ---
 title: "Gunnison County, CO"
-date: 2021-01-10
+date: 2021-01-11
 draft: false
 type: county
 tags: [FIPS:8051.0,FEMA:8.0,Non-core,Green]
