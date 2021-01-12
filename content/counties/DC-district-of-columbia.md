@@ -1,9 +1,9 @@
 ---
 title: "District of Columbia, DC"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
-tags: [FIPS:11001.0,FEMA:3.0,Large central metro,Green]
+tags: [FIPS:11001.0,FEMA:3.0,Large central metro,Yellow]
 categories: [DC]
 County: District of Columbia
 State: DC
@@ -11,10 +11,10 @@ FIPS: 11001.0
 FEMA_Region: 3.0
 Population: 705749.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 102760.0
-Fourteen_day_test_rate_per_100000: 14560.0
-Percent_Positivity_in_prior_14_days: 0.044
-Level: Green
+Tests_in_prior_14_days: 89698.0
+Fourteen_day_test_rate_per_100000: 12710.0
+Percent_Positivity_in_prior_14_days: 0.054
+Level: Yellow
 url: /states/DC/district-of-columbia
 ---
 

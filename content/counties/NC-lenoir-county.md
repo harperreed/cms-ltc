@@ -1,6 +1,6 @@
 ---
 title: "Lenoir County, NC"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:37107.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 37107.0
 FEMA_Region: 4.0
 Population: 55949.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4114.0
-Fourteen_day_test_rate_per_100000: 7353.0
-Percent_Positivity_in_prior_14_days: 0.101
+Tests_in_prior_14_days: 4229.0
+Fourteen_day_test_rate_per_100000: 7559.0
+Percent_Positivity_in_prior_14_days: 0.108
 Level: Red
 url: /states/NC/lenoir-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Pike County, MS"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:28113.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 28113.0
 FEMA_Region: 4.0
 Population: 39288.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 823.0
-Fourteen_day_test_rate_per_100000: 2095.0
-Percent_Positivity_in_prior_14_days: 0.22
+Tests_in_prior_14_days: 774.0
+Fourteen_day_test_rate_per_100000: 1970.0
+Percent_Positivity_in_prior_14_days: 0.224
 Level: Red
 url: /states/MS/pike-county
 ---

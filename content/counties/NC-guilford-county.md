@@ -1,6 +1,6 @@
 ---
 title: "Guilford County, NC"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:37081.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 37081.0
 FEMA_Region: 4.0
 Population: 537174.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 28713.0
-Fourteen_day_test_rate_per_100000: 5345.0
-Percent_Positivity_in_prior_14_days: 0.102
+Tests_in_prior_14_days: 25633.0
+Fourteen_day_test_rate_per_100000: 4772.0
+Percent_Positivity_in_prior_14_days: 0.131
 Level: Red
 url: /states/NC/guilford-county
 ---

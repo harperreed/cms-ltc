@@ -1,6 +1,6 @@
 ---
 title: "Houston County, MN"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:27055.0,FEMA:5.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 27055.0
 FEMA_Region: 5.0
 Population: 18600.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1076.0
-Fourteen_day_test_rate_per_100000: 5785.0
-Percent_Positivity_in_prior_14_days: 0.091
+Tests_in_prior_14_days: 839.0
+Fourteen_day_test_rate_per_100000: 4511.0
+Percent_Positivity_in_prior_14_days: 0.088
 Level: Yellow
 url: /states/MN/houston-county
 ---

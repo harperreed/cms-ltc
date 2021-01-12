@@ -1,6 +1,6 @@
 ---
 title: "Dubuque County, IA"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:19061.0,FEMA:7.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 19061.0
 FEMA_Region: 7.0
 Population: 97311.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 4458.0
-Fourteen_day_test_rate_per_100000: 4581.0
-Percent_Positivity_in_prior_14_days: 0.104
+Tests_in_prior_14_days: 4505.0
+Fourteen_day_test_rate_per_100000: 4629.0
+Percent_Positivity_in_prior_14_days: 0.129
 Level: Red
 url: /states/IA/dubuque-county
 ---

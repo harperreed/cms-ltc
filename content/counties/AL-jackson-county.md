@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, AL"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:1071.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 1071.0
 FEMA_Region: 4.0
 Population: 51626.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2458.0
-Fourteen_day_test_rate_per_100000: 4761.0
-Percent_Positivity_in_prior_14_days: 0.249
+Tests_in_prior_14_days: 1730.0
+Fourteen_day_test_rate_per_100000: 3351.0
+Percent_Positivity_in_prior_14_days: 0.25
 Level: Red
 url: /states/AL/jackson-county
 ---

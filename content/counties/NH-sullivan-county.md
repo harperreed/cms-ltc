@@ -1,9 +1,9 @@
 ---
 title: "Sullivan County, NH"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
-tags: [FIPS:33019.0,FEMA:1.0,Micropolitan,Yellow]
+tags: [FIPS:33019.0,FEMA:1.0,Micropolitan,Red]
 categories: [NH]
 County: Sullivan County
 State: NH
@@ -11,10 +11,10 @@ FIPS: 33019.0
 FEMA_Region: 1.0
 Population: 43146.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 829.0
-Fourteen_day_test_rate_per_100000: 1921.0
-Percent_Positivity_in_prior_14_days: 0.093
-Level: Yellow
+Tests_in_prior_14_days: 1015.0
+Fourteen_day_test_rate_per_100000: 2352.0
+Percent_Positivity_in_prior_14_days: 0.163
+Level: Red
 url: /states/NH/sullivan-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Pine County, MN"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:27115.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 27115.0
 FEMA_Region: 5.0
 Population: 29579.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2076.0
-Fourteen_day_test_rate_per_100000: 7018.0
-Percent_Positivity_in_prior_14_days: 0.136
+Tests_in_prior_14_days: 1821.0
+Fourteen_day_test_rate_per_100000: 6156.0
+Percent_Positivity_in_prior_14_days: 0.138
 Level: Red
 url: /states/MN/pine-county
 ---

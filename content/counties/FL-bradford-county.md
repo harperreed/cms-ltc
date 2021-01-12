@@ -1,6 +1,6 @@
 ---
 title: "Bradford County, FL"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:12007.0,FEMA:4.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 12007.0
 FEMA_Region: 4.0
 Population: 28201.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2654.0
-Fourteen_day_test_rate_per_100000: 9411.0
-Percent_Positivity_in_prior_14_days: 0.217
+Tests_in_prior_14_days: 1857.0
+Fourteen_day_test_rate_per_100000: 6585.0
+Percent_Positivity_in_prior_14_days: 0.166
 Level: Red
 url: /states/FL/bradford-county
 ---

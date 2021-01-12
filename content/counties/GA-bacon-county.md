@@ -1,6 +1,6 @@
 ---
 title: "Bacon County, GA"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:13005.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13005.0
 FEMA_Region: 4.0
 Population: 11164.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 172.0
-Fourteen_day_test_rate_per_100000: 1541.0
-Percent_Positivity_in_prior_14_days: 0.233
+Tests_in_prior_14_days: 113.0
+Fourteen_day_test_rate_per_100000: 1012.0
+Percent_Positivity_in_prior_14_days: 0.23
 Level: Yellow
 url: /states/GA/bacon-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Russell County, AL"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:1113.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 1113.0
 FEMA_Region: 4.0
 Population: 57961.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1136.0
-Fourteen_day_test_rate_per_100000: 1960.0
-Percent_Positivity_in_prior_14_days: 0.138
+Tests_in_prior_14_days: 1082.0
+Fourteen_day_test_rate_per_100000: 1867.0
+Percent_Positivity_in_prior_14_days: 0.193
 Level: Red
 url: /states/AL/russell-county
 ---

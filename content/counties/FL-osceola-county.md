@@ -1,6 +1,6 @@
 ---
 title: "Osceola County, FL"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:12097.0,FEMA:4.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 12097.0
 FEMA_Region: 4.0
 Population: 375751.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 16744.0
-Fourteen_day_test_rate_per_100000: 4456.0
-Percent_Positivity_in_prior_14_days: 0.135
+Tests_in_prior_14_days: 18129.0
+Fourteen_day_test_rate_per_100000: 4825.0
+Percent_Positivity_in_prior_14_days: 0.159
 Level: Red
 url: /states/FL/osceola-county
 ---

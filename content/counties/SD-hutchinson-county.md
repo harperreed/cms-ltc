@@ -1,6 +1,6 @@
 ---
 title: "Hutchinson County, SD"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:46067.0,FEMA:8.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 46067.0
 FEMA_Region: 8.0
 Population: 7291.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 114.0
-Fourteen_day_test_rate_per_100000: 1564.0
-Percent_Positivity_in_prior_14_days: 0.167
+Tests_in_prior_14_days: 94.0
+Fourteen_day_test_rate_per_100000: 1289.0
+Percent_Positivity_in_prior_14_days: 0.128
 Level: Yellow
 url: /states/SD/hutchinson-county
 ---

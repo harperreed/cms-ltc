@@ -1,6 +1,6 @@
 ---
 title: "Jack County, TX"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:48237.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48237.0
 FEMA_Region: 6.0
 Population: 8935.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 138.0
-Fourteen_day_test_rate_per_100000: 1544.0
-Percent_Positivity_in_prior_14_days: 0.217
+Tests_in_prior_14_days: 157.0
+Fourteen_day_test_rate_per_100000: 1757.0
+Percent_Positivity_in_prior_14_days: 0.191
 Level: Yellow
 url: /states/TX/jack-county
 ---

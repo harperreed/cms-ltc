@@ -1,6 +1,6 @@
 ---
 title: "Saratoga County, NY"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:36091.0,FEMA:2.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 36091.0
 FEMA_Region: 2.0
 Population: 229863.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 16937.0
-Fourteen_day_test_rate_per_100000: 7368.0
-Percent_Positivity_in_prior_14_days: 0.08
+Tests_in_prior_14_days: 17303.0
+Fourteen_day_test_rate_per_100000: 7528.0
+Percent_Positivity_in_prior_14_days: 0.1
 Level: Yellow
 url: /states/NY/saratoga-county
 ---

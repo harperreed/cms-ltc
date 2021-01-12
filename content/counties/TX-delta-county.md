@@ -1,9 +1,9 @@
 ---
 title: "Delta County, TX"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
-tags: [FIPS:48119.0,FEMA:6.0,Non-core,Red]
+tags: [FIPS:48119.0,FEMA:6.0,Non-core,Yellow]
 categories: [TX]
 County: Delta County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48119.0
 FEMA_Region: 6.0
 Population: 5331.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 110.0
-Fourteen_day_test_rate_per_100000: 2063.0
-Percent_Positivity_in_prior_14_days: 0.255
-Level: Red
+Tests_in_prior_14_days: 89.0
+Fourteen_day_test_rate_per_100000: 1669.0
+Percent_Positivity_in_prior_14_days: 0.281
+Level: Yellow
 url: /states/TX/delta-county
 ---
 

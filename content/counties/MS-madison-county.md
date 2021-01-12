@@ -1,6 +1,6 @@
 ---
 title: "Madison County, MS"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:28089.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 28089.0
 FEMA_Region: 4.0
 Population: 106272.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2451.0
-Fourteen_day_test_rate_per_100000: 2306.0
-Percent_Positivity_in_prior_14_days: 0.103
+Tests_in_prior_14_days: 2037.0
+Fourteen_day_test_rate_per_100000: 1917.0
+Percent_Positivity_in_prior_14_days: 0.101
 Level: Red
 url: /states/MS/madison-county
 ---

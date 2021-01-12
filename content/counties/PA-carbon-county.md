@@ -1,6 +1,6 @@
 ---
 title: "Carbon County, PA"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:42025.0,FEMA:3.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 42025.0
 FEMA_Region: 3.0
 Population: 64182.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 4000.0
-Fourteen_day_test_rate_per_100000: 6232.0
-Percent_Positivity_in_prior_14_days: 0.177
+Tests_in_prior_14_days: 4301.0
+Fourteen_day_test_rate_per_100000: 6701.0
+Percent_Positivity_in_prior_14_days: 0.199
 Level: Red
 url: /states/PA/carbon-county
 ---

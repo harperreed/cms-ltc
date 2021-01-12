@@ -1,9 +1,9 @@
 ---
 title: "Wexford County, MI"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
-tags: [FIPS:26165.0,FEMA:5.0,Micropolitan,Yellow]
+tags: [FIPS:26165.0,FEMA:5.0,Micropolitan,Red]
 categories: [MI]
 County: Wexford County
 State: MI
@@ -11,10 +11,10 @@ FIPS: 26165.0
 FEMA_Region: 5.0
 Population: 33631.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 913.0
-Fourteen_day_test_rate_per_100000: 2715.0
-Percent_Positivity_in_prior_14_days: 0.092
-Level: Yellow
+Tests_in_prior_14_days: 810.0
+Fourteen_day_test_rate_per_100000: 2408.0
+Percent_Positivity_in_prior_14_days: 0.115
+Level: Red
 url: /states/MI/wexford-county
 ---
 

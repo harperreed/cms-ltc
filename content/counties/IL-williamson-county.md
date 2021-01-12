@@ -1,9 +1,9 @@
 ---
 title: "Williamson County, IL"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
-tags: [FIPS:17199.0,FEMA:5.0,Small metro,Yellow]
+tags: [FIPS:17199.0,FEMA:5.0,Small metro,Red]
 categories: [IL]
 County: Williamson County
 State: IL
@@ -11,10 +11,10 @@ FIPS: 17199.0
 FEMA_Region: 5.0
 Population: 66597.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 5417.0
-Fourteen_day_test_rate_per_100000: 8134.0
-Percent_Positivity_in_prior_14_days: 0.099
-Level: Yellow
+Tests_in_prior_14_days: 5142.0
+Fourteen_day_test_rate_per_100000: 7721.0
+Percent_Positivity_in_prior_14_days: 0.121
+Level: Red
 url: /states/IL/williamson-county
 ---
 

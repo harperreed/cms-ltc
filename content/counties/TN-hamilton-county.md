@@ -1,6 +1,6 @@
 ---
 title: "Hamilton County, TN"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:47065.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 47065.0
 FEMA_Region: 4.0
 Population: 367804.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 16453.0
-Fourteen_day_test_rate_per_100000: 4473.0
-Percent_Positivity_in_prior_14_days: 0.201
+Tests_in_prior_14_days: 15161.0
+Fourteen_day_test_rate_per_100000: 4122.0
+Percent_Positivity_in_prior_14_days: 0.233
 Level: Red
 url: /states/TN/hamilton-county
 ---

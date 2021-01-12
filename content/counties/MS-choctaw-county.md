@@ -1,6 +1,6 @@
 ---
 title: "Choctaw County, MS"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:28019.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28019.0
 FEMA_Region: 4.0
 Population: 8210.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 112.0
-Fourteen_day_test_rate_per_100000: 1364.0
-Percent_Positivity_in_prior_14_days: 0.134
+Tests_in_prior_14_days: 113.0
+Fourteen_day_test_rate_per_100000: 1376.0
+Percent_Positivity_in_prior_14_days: 0.159
 Level: Yellow
 url: /states/MS/choctaw-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Yellow Medicine County, MN"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:27173.0,FEMA:5.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 27173.0
 FEMA_Region: 5.0
 Population: 9709.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 834.0
-Fourteen_day_test_rate_per_100000: 8590.0
-Percent_Positivity_in_prior_14_days: 0.086
+Tests_in_prior_14_days: 901.0
+Fourteen_day_test_rate_per_100000: 9280.0
+Percent_Positivity_in_prior_14_days: 0.058
 Level: Yellow
 url: /states/MN/yellow-medicine-county
 ---

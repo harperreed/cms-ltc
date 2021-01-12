@@ -1,9 +1,9 @@
 ---
 title: "Kitsap County, WA"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
-tags: [FIPS:53035.0,FEMA:10.0,Medium metro,Green]
+tags: [FIPS:53035.0,FEMA:10.0,Medium metro,Yellow]
 categories: [WA]
 County: Kitsap County
 State: WA
@@ -11,10 +11,10 @@ FIPS: 53035.0
 FEMA_Region: 10.0
 Population: 271473.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 4581.0
-Fourteen_day_test_rate_per_100000: 1687.0
-Percent_Positivity_in_prior_14_days: 0.041
-Level: Green
+Tests_in_prior_14_days: 3892.0
+Fourteen_day_test_rate_per_100000: 1434.0
+Percent_Positivity_in_prior_14_days: 0.055
+Level: Yellow
 url: /states/WA/kitsap-county
 ---
 

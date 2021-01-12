@@ -1,6 +1,6 @@
 ---
 title: "San Benito County, CA"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:6069.0,FEMA:9.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 6069.0
 FEMA_Region: 9.0
 Population: 62808.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 3607.0
-Fourteen_day_test_rate_per_100000: 5743.0
-Percent_Positivity_in_prior_14_days: 0.179
+Tests_in_prior_14_days: 4644.0
+Fourteen_day_test_rate_per_100000: 7394.0
+Percent_Positivity_in_prior_14_days: 0.176
 Level: Red
 url: /states/CA/san-benito-county
 ---

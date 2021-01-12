@@ -1,9 +1,9 @@
 ---
 title: "Winona County, MN"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
-tags: [FIPS:27169.0,FEMA:5.0,Micropolitan,Green]
+tags: [FIPS:27169.0,FEMA:5.0,Micropolitan,Yellow]
 categories: [MN]
 County: Winona County
 State: MN
@@ -11,10 +11,10 @@ FIPS: 27169.0
 FEMA_Region: 5.0
 Population: 50484.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 8766.0
-Fourteen_day_test_rate_per_100000: 17364.0
-Percent_Positivity_in_prior_14_days: 0.047
-Level: Green
+Tests_in_prior_14_days: 7920.0
+Fourteen_day_test_rate_per_100000: 15688.0
+Percent_Positivity_in_prior_14_days: 0.06
+Level: Yellow
 url: /states/MN/winona-county
 ---
 

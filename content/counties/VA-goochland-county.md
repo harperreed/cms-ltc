@@ -1,6 +1,6 @@
 ---
 title: "Goochland County, VA"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:51075.0,FEMA:3.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 51075.0
 FEMA_Region: 3.0
 Population: 23753.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1517.0
-Fourteen_day_test_rate_per_100000: 6387.0
-Percent_Positivity_in_prior_14_days: 0.212
+Tests_in_prior_14_days: 1199.0
+Fourteen_day_test_rate_per_100000: 5048.0
+Percent_Positivity_in_prior_14_days: 0.188
 Level: Red
 url: /states/VA/goochland-county
 ---

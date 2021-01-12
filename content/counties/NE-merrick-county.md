@@ -1,6 +1,6 @@
 ---
 title: "Merrick County, NE"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:31121.0,FEMA:7.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 31121.0
 FEMA_Region: 7.0
 Population: 7755.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 401.0
-Fourteen_day_test_rate_per_100000: 5171.0
-Percent_Positivity_in_prior_14_days: 0.13
+Tests_in_prior_14_days: 322.0
+Fourteen_day_test_rate_per_100000: 4152.0
+Percent_Positivity_in_prior_14_days: 0.196
 Level: Red
 url: /states/NE/merrick-county
 ---

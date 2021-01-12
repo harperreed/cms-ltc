@@ -1,6 +1,6 @@
 ---
 title: "Muscogee County, GA"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:13215.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 13215.0
 FEMA_Region: 4.0
 Population: 195769.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 5212.0
-Fourteen_day_test_rate_per_100000: 2662.0
-Percent_Positivity_in_prior_14_days: 0.156
+Tests_in_prior_14_days: 4084.0
+Fourteen_day_test_rate_per_100000: 2086.0
+Percent_Positivity_in_prior_14_days: 0.169
 Level: Red
 url: /states/GA/muscogee-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Anderson County, TN"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:47001.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 47001.0
 FEMA_Region: 4.0
 Population: 76978.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2875.0
-Fourteen_day_test_rate_per_100000: 3735.0
-Percent_Positivity_in_prior_14_days: 0.18
+Tests_in_prior_14_days: 2569.0
+Fourteen_day_test_rate_per_100000: 3337.0
+Percent_Positivity_in_prior_14_days: 0.186
 Level: Red
 url: /states/TN/anderson-county
 ---

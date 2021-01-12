@@ -1,6 +1,6 @@
 ---
 title: "Henrico County, VA"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:51087.0,FEMA:3.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 51087.0
 FEMA_Region: 3.0
 Population: 330818.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 16036.0
-Fourteen_day_test_rate_per_100000: 4847.0
-Percent_Positivity_in_prior_14_days: 0.135
+Tests_in_prior_14_days: 16566.0
+Fourteen_day_test_rate_per_100000: 5008.0
+Percent_Positivity_in_prior_14_days: 0.174
 Level: Red
 url: /states/VA/henrico-county
 ---

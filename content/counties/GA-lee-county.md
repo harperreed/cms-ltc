@@ -1,6 +1,6 @@
 ---
 title: "Lee County, GA"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:13177.0,FEMA:4.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 13177.0
 FEMA_Region: 4.0
 Population: 29992.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 729.0
-Fourteen_day_test_rate_per_100000: 2431.0
-Percent_Positivity_in_prior_14_days: 0.2
+Tests_in_prior_14_days: 604.0
+Fourteen_day_test_rate_per_100000: 2014.0
+Percent_Positivity_in_prior_14_days: 0.215
 Level: Red
 url: /states/GA/lee-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Monroe County, FL"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
-tags: [FIPS:12087.0,FEMA:4.0,Micropolitan,Yellow]
+tags: [FIPS:12087.0,FEMA:4.0,Micropolitan,Red]
 categories: [FL]
 County: Monroe County
 State: FL
@@ -11,10 +11,10 @@ FIPS: 12087.0
 FEMA_Region: 4.0
 Population: 74228.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3506.0
-Fourteen_day_test_rate_per_100000: 4723.0
-Percent_Positivity_in_prior_14_days: 0.082
-Level: Yellow
+Tests_in_prior_14_days: 3246.0
+Fourteen_day_test_rate_per_100000: 4373.0
+Percent_Positivity_in_prior_14_days: 0.103
+Level: Red
 url: /states/FL/monroe-county
 ---
 

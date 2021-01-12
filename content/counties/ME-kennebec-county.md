@@ -1,6 +1,6 @@
 ---
 title: "Kennebec County, ME"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:23011.0,FEMA:1.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 23011.0
 FEMA_Region: 1.0
 Population: 122302.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1663.0
-Fourteen_day_test_rate_per_100000: 1360.0
-Percent_Positivity_in_prior_14_days: 0.04
+Tests_in_prior_14_days: 2167.0
+Fourteen_day_test_rate_per_100000: 1772.0
+Percent_Positivity_in_prior_14_days: 0.047
 Level: Green
 url: /states/ME/kennebec-county
 ---

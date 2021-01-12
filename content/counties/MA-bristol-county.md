@@ -1,6 +1,6 @@
 ---
 title: "Bristol County, MA"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:25005.0,FEMA:1.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 25005.0
 FEMA_Region: 1.0
 Population: 565217.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 63402.0
-Fourteen_day_test_rate_per_100000: 11217.0
-Percent_Positivity_in_prior_14_days: 0.114
+Tests_in_prior_14_days: 57824.0
+Fourteen_day_test_rate_per_100000: 10230.0
+Percent_Positivity_in_prior_14_days: 0.13
 Level: Red
 url: /states/MA/bristol-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Schoharie County, NY"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:36095.0,FEMA:2.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 36095.0
 FEMA_Region: 2.0
 Population: 30999.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1619.0
-Fourteen_day_test_rate_per_100000: 5223.0
-Percent_Positivity_in_prior_14_days: 0.109
+Tests_in_prior_14_days: 1413.0
+Fourteen_day_test_rate_per_100000: 4558.0
+Percent_Positivity_in_prior_14_days: 0.149
 Level: Red
 url: /states/NY/schoharie-county
 ---

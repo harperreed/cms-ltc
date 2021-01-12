@@ -1,9 +1,9 @@
 ---
 title: "Butte County, ID"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
-tags: [FIPS:16023.0,FEMA:10.0,Small metro,Green]
+tags: [FIPS:16023.0,FEMA:10.0,Small metro,Yellow]
 categories: [ID]
 County: Butte County
 State: ID
@@ -11,10 +11,10 @@ FIPS: 16023.0
 FEMA_Region: 10.0
 Population: 2597.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 36.0
-Fourteen_day_test_rate_per_100000: 1386.0
-Percent_Positivity_in_prior_14_days: 0.0
-Level: Green
+Tests_in_prior_14_days: 28.0
+Fourteen_day_test_rate_per_100000: 1078.0
+Percent_Positivity_in_prior_14_days: 0.107
+Level: Yellow
 url: /states/ID/butte-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Ulster County, NY"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:36111.0,FEMA:2.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 36111.0
 FEMA_Region: 2.0
 Population: 177573.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 16191.0
-Fourteen_day_test_rate_per_100000: 9118.0
-Percent_Positivity_in_prior_14_days: 0.087
+Tests_in_prior_14_days: 14396.0
+Fourteen_day_test_rate_per_100000: 8107.0
+Percent_Positivity_in_prior_14_days: 0.095
 Level: Yellow
 url: /states/NY/ulster-county
 ---

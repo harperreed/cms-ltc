@@ -1,6 +1,6 @@
 ---
 title: "Vanderburgh County, IN"
-date: 2021-01-11
+date: 2021-01-12
 draft: false
 type: county
 tags: [FIPS:18163.0,FEMA:5.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 18163.0
 FEMA_Region: 5.0
 Population: 181451.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 13148.0
-Fourteen_day_test_rate_per_100000: 7246.0
-Percent_Positivity_in_prior_14_days: 0.201
+Tests_in_prior_14_days: 12088.0
+Fourteen_day_test_rate_per_100000: 6662.0
+Percent_Positivity_in_prior_14_days: 0.233
 Level: Red
 url: /states/IN/vanderburgh-county
 ---
