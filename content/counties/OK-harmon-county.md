@@ -1,6 +1,6 @@
 ---
 title: "Harmon County, OK"
-date: 2021-01-12
+date: 2021-01-13
 draft: false
 type: county
 tags: [FIPS:40057.0,FEMA:6.0,Non-core,Yellow]

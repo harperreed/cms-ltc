@@ -1,6 +1,6 @@
 ---
 title: "Schoolcraft County, MI"
-date: 2021-01-12
+date: 2021-01-13
 draft: false
 type: county
 tags: [FIPS:26153.0,FEMA:5.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Wilkin County, MN"
-date: 2021-01-12
+date: 2021-01-13
 draft: false
 type: county
 tags: [FIPS:27167.0,FEMA:5.0,Micropolitan,Yellow]

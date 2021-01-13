@@ -1,6 +1,6 @@
 ---
 title: "Dickinson County, IA"
-date: 2021-01-12
+date: 2021-01-13
 draft: false
 type: county
 tags: [FIPS:19059.0,FEMA:7.0,Micropolitan,Red]

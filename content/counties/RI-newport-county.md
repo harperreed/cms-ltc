@@ -1,6 +1,6 @@
 ---
 title: "Newport County, RI"
-date: 2021-01-12
+date: 2021-01-13
 draft: false
 type: county
 tags: [FIPS:44005.0,FEMA:1.0,Large fringe metro,Yellow]

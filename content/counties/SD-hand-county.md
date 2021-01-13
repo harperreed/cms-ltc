@@ -1,6 +1,6 @@
 ---
 title: "Hand County, SD"
-date: 2021-01-12
+date: 2021-01-13
 draft: false
 type: county
 tags: [FIPS:46059.0,FEMA:8.0,Non-core,Yellow]
