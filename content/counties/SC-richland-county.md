@@ -1,6 +1,6 @@
 ---
 title: "Richland County, SC"
-date: 2021-01-13
+date: 2021-01-14
 draft: false
 type: county
 tags: [FIPS:45079.0,FEMA:4.0,Medium metro,Yellow]

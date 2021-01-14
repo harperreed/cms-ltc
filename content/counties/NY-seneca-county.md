@@ -1,6 +1,6 @@
 ---
 title: "Seneca County, NY"
-date: 2021-01-13
+date: 2021-01-14
 draft: false
 type: county
 tags: [FIPS:36099.0,FEMA:2.0,Micropolitan,Yellow]

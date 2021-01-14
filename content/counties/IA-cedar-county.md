@@ -1,6 +1,6 @@
 ---
 title: "Cedar County, IA"
-date: 2021-01-13
+date: 2021-01-14
 draft: false
 type: county
 tags: [FIPS:19031.0,FEMA:7.0,Non-core,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Hopewell City, VA"
-date: 2021-01-13
+date: 2021-01-14
 draft: false
 type: county
 tags: [FIPS:51670.0,FEMA:3.0,Large fringe metro,Red]

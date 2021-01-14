@@ -1,6 +1,6 @@
 ---
 title: "Beaver County, PA"
-date: 2021-01-13
+date: 2021-01-14
 draft: false
 type: county
 tags: [FIPS:42007.0,FEMA:3.0,Large fringe metro,Red]

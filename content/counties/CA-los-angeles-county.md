@@ -1,6 +1,6 @@
 ---
 title: "Los Angeles County, CA"
-date: 2021-01-13
+date: 2021-01-14
 draft: false
 type: county
 tags: [FIPS:6037.0,FEMA:9.0,Large central metro,Red]

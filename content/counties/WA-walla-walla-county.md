@@ -1,6 +1,6 @@
 ---
 title: "Walla Walla County, WA"
-date: 2021-01-13
+date: 2021-01-14
 draft: false
 type: county
 tags: [FIPS:53071.0,FEMA:10.0,Small metro,Yellow]
