@@ -1,6 +1,6 @@
 ---
 title: "Hidalgo County, NM"
-date: 2021-01-14
+date: 2021-01-15
 draft: false
 type: county
 tags: [FIPS:35023.0,FEMA:6.0,Non-core,Red]

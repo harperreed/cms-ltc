@@ -1,6 +1,6 @@
 ---
 title: "Nacogdoches County, TX"
-date: 2021-01-14
+date: 2021-01-15
 draft: false
 type: county
 tags: [FIPS:48347.0,FEMA:6.0,Micropolitan,Red]

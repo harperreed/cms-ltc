@@ -1,6 +1,6 @@
 ---
 title: "Gentry County, MO"
-date: 2021-01-14
+date: 2021-01-15
 draft: false
 type: county
 tags: [FIPS:29075.0,FEMA:7.0,Non-core,Yellow]

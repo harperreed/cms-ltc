@@ -1,6 +1,6 @@
 ---
 title: "Elko County, NV"
-date: 2021-01-14
+date: 2021-01-15
 draft: false
 type: county
 tags: [FIPS:32007.0,FEMA:9.0,Micropolitan,Red]

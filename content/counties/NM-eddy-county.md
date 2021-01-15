@@ -1,6 +1,6 @@
 ---
 title: "Eddy County, NM"
-date: 2021-01-14
+date: 2021-01-15
 draft: false
 type: county
 tags: [FIPS:35015.0,FEMA:6.0,Micropolitan,Red]

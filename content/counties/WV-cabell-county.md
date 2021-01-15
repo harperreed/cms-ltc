@@ -1,6 +1,6 @@
 ---
 title: "Cabell County, WV"
-date: 2021-01-14
+date: 2021-01-15
 draft: false
 type: county
 tags: [FIPS:54011.0,FEMA:3.0,Medium metro,Red]

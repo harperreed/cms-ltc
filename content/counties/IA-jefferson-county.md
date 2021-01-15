@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, IA"
-date: 2021-01-14
+date: 2021-01-15
 draft: false
 type: county
 tags: [FIPS:19101.0,FEMA:7.0,Micropolitan,Red]

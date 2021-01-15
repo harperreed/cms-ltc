@@ -1,6 +1,6 @@
 ---
 title: "Yuma County, AZ"
-date: 2021-01-14
+date: 2021-01-15
 draft: false
 type: county
 tags: [FIPS:4027.0,FEMA:9.0,Small metro,Red]
