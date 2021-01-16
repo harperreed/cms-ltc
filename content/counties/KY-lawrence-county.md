@@ -1,6 +1,6 @@
 ---
 title: "Lawrence County, KY"
-date: 2021-01-15
+date: 2021-01-16
 draft: false
 type: county
 tags: [FIPS:21127.0,FEMA:4.0,Non-core,Red]

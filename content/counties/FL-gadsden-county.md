@@ -1,6 +1,6 @@
 ---
 title: "Gadsden County, FL"
-date: 2021-01-15
+date: 2021-01-16
 draft: false
 type: county
 tags: [FIPS:12039.0,FEMA:4.0,Medium metro,Red]
