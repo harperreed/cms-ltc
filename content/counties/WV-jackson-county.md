@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, WV"
-date: 2021-01-16
+date: 2021-01-17
 draft: false
 type: county
 tags: [FIPS:54035.0,FEMA:3.0,Non-core,Red]

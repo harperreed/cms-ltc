@@ -1,6 +1,6 @@
 ---
 title: "Union County, AR"
-date: 2021-01-16
+date: 2021-01-17
 draft: false
 type: county
 tags: [FIPS:5139.0,FEMA:6.0,Micropolitan,Red]

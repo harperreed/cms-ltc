@@ -1,6 +1,6 @@
 ---
 title: "Cowlitz County, WA"
-date: 2021-01-16
+date: 2021-01-17
 draft: false
 type: county
 tags: [FIPS:53015.0,FEMA:10.0,Small metro,Red]

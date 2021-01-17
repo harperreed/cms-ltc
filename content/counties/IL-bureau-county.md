@@ -1,6 +1,6 @@
 ---
 title: "Bureau County, IL"
-date: 2021-01-16
+date: 2021-01-17
 draft: false
 type: county
 tags: [FIPS:17011.0,FEMA:5.0,Micropolitan,Red]

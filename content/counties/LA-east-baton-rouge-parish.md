@@ -1,6 +1,6 @@
 ---
 title: "East Baton Rouge Parish, LA"
-date: 2021-01-16
+date: 2021-01-17
 draft: false
 type: county
 tags: [FIPS:22033.0,FEMA:6.0,Medium metro,Red]

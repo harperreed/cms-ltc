@@ -1,6 +1,6 @@
 ---
 title: "Jones County, MS"
-date: 2021-01-16
+date: 2021-01-17
 draft: false
 type: county
 tags: [FIPS:28067.0,FEMA:4.0,Micropolitan,Red]

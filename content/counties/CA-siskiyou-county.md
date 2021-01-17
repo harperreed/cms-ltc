@@ -1,6 +1,6 @@
 ---
 title: "Siskiyou County, CA"
-date: 2021-01-16
+date: 2021-01-17
 draft: false
 type: county
 tags: [FIPS:6093.0,FEMA:9.0,Non-core,Gray]
