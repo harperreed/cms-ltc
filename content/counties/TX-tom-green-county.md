@@ -1,6 +1,6 @@
 ---
 title: "Tom Green County, TX"
-date: 2021-01-17
+date: 2021-01-18
 draft: false
 type: county
 tags: [FIPS:48451.0,FEMA:6.0,Small metro,Red]

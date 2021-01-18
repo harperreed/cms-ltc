@@ -1,6 +1,6 @@
 ---
 title: "Clarendon County, SC"
-date: 2021-01-17
+date: 2021-01-18
 draft: false
 type: county
 tags: [FIPS:45027.0,FEMA:4.0,Non-core,Red]

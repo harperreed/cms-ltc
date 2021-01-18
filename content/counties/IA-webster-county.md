@@ -1,6 +1,6 @@
 ---
 title: "Webster County, IA"
-date: 2021-01-17
+date: 2021-01-18
 draft: false
 type: county
 tags: [FIPS:19187.0,FEMA:7.0,Micropolitan,Yellow]

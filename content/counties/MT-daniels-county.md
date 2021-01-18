@@ -1,6 +1,6 @@
 ---
 title: "Daniels County, MT"
-date: 2021-01-17
+date: 2021-01-18
 draft: false
 type: county
 tags: [FIPS:30019.0,FEMA:8.0,Non-core,Green]

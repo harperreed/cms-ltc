@@ -1,6 +1,6 @@
 ---
 title: "Knox County, IL"
-date: 2021-01-17
+date: 2021-01-18
 draft: false
 type: county
 tags: [FIPS:17095.0,FEMA:5.0,Micropolitan,Yellow]

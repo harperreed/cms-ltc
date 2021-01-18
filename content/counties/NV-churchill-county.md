@@ -1,6 +1,6 @@
 ---
 title: "Churchill County, NV"
-date: 2021-01-17
+date: 2021-01-18
 draft: false
 type: county
 tags: [FIPS:32001.0,FEMA:9.0,Micropolitan,Red]

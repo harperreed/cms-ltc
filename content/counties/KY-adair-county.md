@@ -1,6 +1,6 @@
 ---
 title: "Adair County, KY"
-date: 2021-01-17
+date: 2021-01-18
 draft: false
 type: county
 tags: [FIPS:21001.0,FEMA:4.0,Non-core,Yellow]
