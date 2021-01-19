@@ -1,6 +1,6 @@
 ---
 title: "McCurtain County, OK"
-date: 2021-01-18
+date: 2021-01-19
 draft: false
 type: county
 tags: [FIPS:40089.0,FEMA:6.0,Non-core,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Lamoille County, VT"
-date: 2021-01-18
+date: 2021-01-19
 draft: false
 type: county
 tags: [FIPS:50015.0,FEMA:1.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Wallowa County, OR"
-date: 2021-01-18
+date: 2021-01-19
 draft: false
 type: county
 tags: [FIPS:41063.0,FEMA:10.0,Non-core,Green]

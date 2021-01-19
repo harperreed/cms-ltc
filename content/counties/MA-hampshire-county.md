@@ -1,6 +1,6 @@
 ---
 title: "Hampshire County, MA"
-date: 2021-01-18
+date: 2021-01-19
 draft: false
 type: county
 tags: [FIPS:25015.0,FEMA:1.0,Medium metro,Yellow]

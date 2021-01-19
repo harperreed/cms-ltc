@@ -1,6 +1,6 @@
 ---
 title: "Clay County, NC"
-date: 2021-01-18
+date: 2021-01-19
 draft: false
 type: county
 tags: [FIPS:37043.0,FEMA:4.0,Non-core,Red]

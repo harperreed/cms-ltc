@@ -1,6 +1,6 @@
 ---
 title: "Sedgwick County, KS"
-date: 2021-01-18
+date: 2021-01-19
 draft: false
 type: county
 tags: [FIPS:20173.0,FEMA:7.0,Medium metro,Red]

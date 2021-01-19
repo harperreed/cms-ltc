@@ -1,6 +1,6 @@
 ---
 title: "New London County, CT"
-date: 2021-01-18
+date: 2021-01-19
 draft: false
 type: county
 tags: [FIPS:9011.0,FEMA:1.0,Medium metro,Yellow]

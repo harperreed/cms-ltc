@@ -1,6 +1,6 @@
 ---
 title: "Washington County, WI"
-date: 2021-01-18
+date: 2021-01-19
 draft: false
 type: county
 tags: [FIPS:55131.0,FEMA:5.0,Large fringe metro,Red]

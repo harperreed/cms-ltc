@@ -1,6 +1,6 @@
 ---
 title: "Ventura County, CA"
-date: 2021-01-18
+date: 2021-01-19
 draft: false
 type: county
 tags: [FIPS:6111.0,FEMA:9.0,Medium metro,Red]

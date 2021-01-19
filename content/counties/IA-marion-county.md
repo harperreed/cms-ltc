@@ -1,6 +1,6 @@
 ---
 title: "Marion County, IA"
-date: 2021-01-18
+date: 2021-01-19
 draft: false
 type: county
 tags: [FIPS:19125.0,FEMA:7.0,Non-core,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Madison County, NY"
-date: 2021-01-18
+date: 2021-01-19
 draft: false
 type: county
 tags: [FIPS:36053.0,FEMA:2.0,Medium metro,Red]

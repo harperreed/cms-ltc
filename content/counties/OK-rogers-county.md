@@ -1,6 +1,6 @@
 ---
 title: "Rogers County, OK"
-date: 2021-01-18
+date: 2021-01-19
 draft: false
 type: county
 tags: [FIPS:40131.0,FEMA:6.0,Medium metro,Red]
