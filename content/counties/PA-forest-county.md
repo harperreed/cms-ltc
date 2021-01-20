@@ -1,6 +1,6 @@
 ---
 title: "Forest County, PA"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:42053.0,FEMA:3.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 42053.0
 FEMA_Region: 3.0
 Population: 7247.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 567.0
-Fourteen_day_test_rate_per_100000: 7824.0
-Percent_Positivity_in_prior_14_days: 0.189
+Tests_in_prior_14_days: 709.0
+Fourteen_day_test_rate_per_100000: 9783.0
+Percent_Positivity_in_prior_14_days: 0.379
 Level: Red
 url: /states/PA/forest-county
 ---

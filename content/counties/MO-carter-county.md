@@ -1,6 +1,6 @@
 ---
 title: "Carter County, MO"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:29035.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 29035.0
 FEMA_Region: 7.0
 Population: 5982.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 21.0
-Fourteen_day_test_rate_per_100000: 351.0
-Percent_Positivity_in_prior_14_days: 0.238
+Tests_in_prior_14_days: 26.0
+Fourteen_day_test_rate_per_100000: 435.0
+Percent_Positivity_in_prior_14_days: 0.192
 Level: Yellow
 url: /states/MO/carter-county
 ---

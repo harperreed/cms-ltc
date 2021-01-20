@@ -1,6 +1,6 @@
 ---
 title: "Juab County, UT"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:49023.0,FEMA:8.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 49023.0
 FEMA_Region: 8.0
 Population: 12017.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 644.0
-Fourteen_day_test_rate_per_100000: 5359.0
-Percent_Positivity_in_prior_14_days: 0.363
+Tests_in_prior_14_days: 677.0
+Fourteen_day_test_rate_per_100000: 5634.0
+Percent_Positivity_in_prior_14_days: 0.332
 Level: Red
 url: /states/UT/juab-county
 ---

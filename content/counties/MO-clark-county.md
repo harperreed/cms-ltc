@@ -1,6 +1,6 @@
 ---
 title: "Clark County, MO"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:29045.0,FEMA:7.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 29045.0
 FEMA_Region: 7.0
 Population: 6797.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 43.0
-Fourteen_day_test_rate_per_100000: 633.0
-Percent_Positivity_in_prior_14_days: 0.14
+Tests_in_prior_14_days: 64.0
+Fourteen_day_test_rate_per_100000: 942.0
+Percent_Positivity_in_prior_14_days: 0.234
 Level: Yellow
 url: /states/MO/clark-county
 ---

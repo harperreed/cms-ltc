@@ -1,6 +1,6 @@
 ---
 title: "Orange County, VA"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:51137.0,FEMA:3.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 51137.0
 FEMA_Region: 3.0
 Population: 37051.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1431.0
-Fourteen_day_test_rate_per_100000: 3862.0
-Percent_Positivity_in_prior_14_days: 0.195
+Tests_in_prior_14_days: 1789.0
+Fourteen_day_test_rate_per_100000: 4828.0
+Percent_Positivity_in_prior_14_days: 0.192
 Level: Red
 url: /states/VA/orange-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Windham County, CT"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:9015.0,FEMA:1.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 9015.0
 FEMA_Region: 1.0
 Population: 116782.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 5928.0
-Fourteen_day_test_rate_per_100000: 5076.0
-Percent_Positivity_in_prior_14_days: 0.156
+Tests_in_prior_14_days: 1548.0
+Fourteen_day_test_rate_per_100000: 1326.0
+Percent_Positivity_in_prior_14_days: 0.17
 Level: Red
 url: /states/CT/windham-county
 ---

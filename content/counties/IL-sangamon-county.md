@@ -1,6 +1,6 @@
 ---
 title: "Sangamon County, IL"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:17167.0,FEMA:5.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 17167.0
 FEMA_Region: 5.0
 Population: 194672.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 9793.0
-Fourteen_day_test_rate_per_100000: 5031.0
-Percent_Positivity_in_prior_14_days: 0.061
+Tests_in_prior_14_days: 12272.0
+Fourteen_day_test_rate_per_100000: 6304.0
+Percent_Positivity_in_prior_14_days: 0.053
 Level: Yellow
 url: /states/IL/sangamon-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Aitkin County, MN"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:27001.0,FEMA:5.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 27001.0
 FEMA_Region: 5.0
 Population: 15886.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1327.0
-Fourteen_day_test_rate_per_100000: 8353.0
-Percent_Positivity_in_prior_14_days: 0.05
+Tests_in_prior_14_days: 1325.0
+Fourteen_day_test_rate_per_100000: 8341.0
+Percent_Positivity_in_prior_14_days: 0.053
 Level: Yellow
 url: /states/MN/aitkin-county
 ---

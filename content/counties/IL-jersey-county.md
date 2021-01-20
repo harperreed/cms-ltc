@@ -1,6 +1,6 @@
 ---
 title: "Jersey County, IL"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:17083.0,FEMA:5.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 17083.0
 FEMA_Region: 5.0
 Population: 21773.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 417.0
-Fourteen_day_test_rate_per_100000: 1915.0
-Percent_Positivity_in_prior_14_days: 0.12
+Tests_in_prior_14_days: 524.0
+Fourteen_day_test_rate_per_100000: 2407.0
+Percent_Positivity_in_prior_14_days: 0.09
 Level: Yellow
 url: /states/IL/jersey-county
 ---

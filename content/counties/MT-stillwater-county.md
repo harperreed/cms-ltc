@@ -1,6 +1,6 @@
 ---
 title: "Stillwater County, MT"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:30095.0,FEMA:8.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 30095.0
 FEMA_Region: 8.0
 Population: 9642.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 427.0
-Fourteen_day_test_rate_per_100000: 4429.0
-Percent_Positivity_in_prior_14_days: 0.136
+Tests_in_prior_14_days: 321.0
+Fourteen_day_test_rate_per_100000: 3329.0
+Percent_Positivity_in_prior_14_days: 0.181
 Level: Red
 url: /states/MT/stillwater-county
 ---

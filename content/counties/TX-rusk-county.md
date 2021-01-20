@@ -1,6 +1,6 @@
 ---
 title: "Rusk County, TX"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:48401.0,FEMA:6.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48401.0
 FEMA_Region: 6.0
 Population: 54406.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 820.0
-Fourteen_day_test_rate_per_100000: 1507.0
-Percent_Positivity_in_prior_14_days: 0.21
+Tests_in_prior_14_days: 781.0
+Fourteen_day_test_rate_per_100000: 1436.0
+Percent_Positivity_in_prior_14_days: 0.207
 Level: Red
 url: /states/TX/rusk-county
 ---

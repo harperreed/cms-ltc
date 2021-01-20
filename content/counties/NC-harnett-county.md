@@ -1,6 +1,6 @@
 ---
 title: "Harnett County, NC"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:37085.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 37085.0
 FEMA_Region: 4.0
 Population: 135976.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4941.0
-Fourteen_day_test_rate_per_100000: 3634.0
-Percent_Positivity_in_prior_14_days: 0.143
+Tests_in_prior_14_days: 5916.0
+Fourteen_day_test_rate_per_100000: 4351.0
+Percent_Positivity_in_prior_14_days: 0.152
 Level: Red
 url: /states/NC/harnett-county
 ---

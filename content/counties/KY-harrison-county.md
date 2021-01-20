@@ -1,6 +1,6 @@
 ---
 title: "Harrison County, KY"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:21097.0,FEMA:4.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 21097.0
 FEMA_Region: 4.0
 Population: 18886.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1509.0
-Fourteen_day_test_rate_per_100000: 7990.0
-Percent_Positivity_in_prior_14_days: 0.19
+Tests_in_prior_14_days: 1543.0
+Fourteen_day_test_rate_per_100000: 8170.0
+Percent_Positivity_in_prior_14_days: 0.24
 Level: Red
 url: /states/KY/harrison-county
 ---

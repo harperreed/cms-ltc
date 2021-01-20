@@ -1,6 +1,6 @@
 ---
 title: "Waynesboro City, VA"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:51820.0,FEMA:3.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 51820.0
 FEMA_Region: 3.0
 Population: 22630.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1052.0
-Fourteen_day_test_rate_per_100000: 4649.0
-Percent_Positivity_in_prior_14_days: 0.268
+Tests_in_prior_14_days: 1177.0
+Fourteen_day_test_rate_per_100000: 5201.0
+Percent_Positivity_in_prior_14_days: 0.299
 Level: Red
 url: /states/VA/waynesboro-city
 ---

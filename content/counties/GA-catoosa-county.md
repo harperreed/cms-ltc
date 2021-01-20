@@ -1,6 +1,6 @@
 ---
 title: "Catoosa County, GA"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:13047.0,FEMA:4.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13047.0
 FEMA_Region: 4.0
 Population: 67580.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 460.0
-Fourteen_day_test_rate_per_100000: 681.0
-Percent_Positivity_in_prior_14_days: 0.248
+Tests_in_prior_14_days: 468.0
+Fourteen_day_test_rate_per_100000: 693.0
+Percent_Positivity_in_prior_14_days: 0.209
 Level: Yellow
 url: /states/GA/catoosa-county
 ---

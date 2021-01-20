@@ -1,9 +1,9 @@
 ---
 title: "Lyon County, IA"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
-tags: [FIPS:19119.0,FEMA:7.0,Non-core,Yellow]
+tags: [FIPS:19119.0,FEMA:7.0,Non-core,Red]
 categories: [IA]
 County: Lyon County
 State: IA
@@ -11,10 +11,10 @@ FIPS: 19119.0
 FEMA_Region: 7.0
 Population: 11755.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 217.0
-Fourteen_day_test_rate_per_100000: 1846.0
-Percent_Positivity_in_prior_14_days: 0.129
-Level: Yellow
+Tests_in_prior_14_days: 266.0
+Fourteen_day_test_rate_per_100000: 2263.0
+Percent_Positivity_in_prior_14_days: 0.173
+Level: Red
 url: /states/IA/lyon-county
 ---
 

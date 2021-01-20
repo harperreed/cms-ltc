@@ -1,6 +1,6 @@
 ---
 title: "Warren County, IA"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:19181.0,FEMA:7.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 19181.0
 FEMA_Region: 7.0
 Population: 51466.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2341.0
-Fourteen_day_test_rate_per_100000: 4549.0
-Percent_Positivity_in_prior_14_days: 0.145
+Tests_in_prior_14_days: 2688.0
+Fourteen_day_test_rate_per_100000: 5223.0
+Percent_Positivity_in_prior_14_days: 0.163
 Level: Red
 url: /states/IA/warren-county
 ---

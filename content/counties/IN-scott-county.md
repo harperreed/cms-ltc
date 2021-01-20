@@ -1,6 +1,6 @@
 ---
 title: "Scott County, IN"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:18143.0,FEMA:5.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 18143.0
 FEMA_Region: 5.0
 Population: 23873.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1418.0
-Fourteen_day_test_rate_per_100000: 5940.0
-Percent_Positivity_in_prior_14_days: 0.178
+Tests_in_prior_14_days: 1551.0
+Fourteen_day_test_rate_per_100000: 6497.0
+Percent_Positivity_in_prior_14_days: 0.157
 Level: Red
 url: /states/IN/scott-county
 ---

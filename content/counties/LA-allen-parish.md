@@ -1,6 +1,6 @@
 ---
 title: "Allen Parish, LA"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:22003.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 22003.0
 FEMA_Region: 6.0
 Population: 25627.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1062.0
-Fourteen_day_test_rate_per_100000: 4144.0
-Percent_Positivity_in_prior_14_days: 0.097
+Tests_in_prior_14_days: 1355.0
+Fourteen_day_test_rate_per_100000: 5287.0
+Percent_Positivity_in_prior_14_days: 0.08
 Level: Yellow
 url: /states/LA/allen-parish
 ---

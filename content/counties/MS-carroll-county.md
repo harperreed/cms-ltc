@@ -1,6 +1,6 @@
 ---
 title: "Carroll County, MS"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:28015.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28015.0
 FEMA_Region: 4.0
 Population: 9947.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 89.0
-Fourteen_day_test_rate_per_100000: 895.0
-Percent_Positivity_in_prior_14_days: 0.236
+Tests_in_prior_14_days: 125.0
+Fourteen_day_test_rate_per_100000: 1257.0
+Percent_Positivity_in_prior_14_days: 0.208
 Level: Yellow
 url: /states/MS/carroll-county
 ---

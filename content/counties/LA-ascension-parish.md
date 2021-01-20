@@ -1,6 +1,6 @@
 ---
 title: "Ascension Parish, LA"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:22005.0,FEMA:6.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 22005.0
 FEMA_Region: 6.0
 Population: 126604.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 4944.0
-Fourteen_day_test_rate_per_100000: 3905.0
-Percent_Positivity_in_prior_14_days: 0.182
+Tests_in_prior_14_days: 5865.0
+Fourteen_day_test_rate_per_100000: 4633.0
+Percent_Positivity_in_prior_14_days: 0.176
 Level: Red
 url: /states/LA/ascension-parish
 ---

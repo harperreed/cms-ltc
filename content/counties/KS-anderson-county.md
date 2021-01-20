@@ -1,6 +1,6 @@
 ---
 title: "Anderson County, KS"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:20003.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 20003.0
 FEMA_Region: 7.0
 Population: 7858.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 525.0
-Fourteen_day_test_rate_per_100000: 6681.0
-Percent_Positivity_in_prior_14_days: 0.21
+Tests_in_prior_14_days: 517.0
+Fourteen_day_test_rate_per_100000: 6579.0
+Percent_Positivity_in_prior_14_days: 0.164
 Level: Red
 url: /states/KS/anderson-county
 ---

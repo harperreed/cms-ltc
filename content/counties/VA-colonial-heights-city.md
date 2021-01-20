@@ -1,6 +1,6 @@
 ---
 title: "Colonial Heights City, VA"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:51570.0,FEMA:3.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 51570.0
 FEMA_Region: 3.0
 Population: 17370.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1369.0
-Fourteen_day_test_rate_per_100000: 7881.0
-Percent_Positivity_in_prior_14_days: 0.244
+Tests_in_prior_14_days: 1595.0
+Fourteen_day_test_rate_per_100000: 9182.0
+Percent_Positivity_in_prior_14_days: 0.215
 Level: Red
 url: /states/VA/colonial-heights-city
 ---

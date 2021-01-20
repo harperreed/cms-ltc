@@ -1,6 +1,6 @@
 ---
 title: "Washington County, MS"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:28151.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 28151.0
 FEMA_Region: 4.0
 Population: 43909.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 854.0
-Fourteen_day_test_rate_per_100000: 1945.0
-Percent_Positivity_in_prior_14_days: 0.24
+Tests_in_prior_14_days: 672.0
+Fourteen_day_test_rate_per_100000: 1530.0
+Percent_Positivity_in_prior_14_days: 0.213
 Level: Red
 url: /states/MS/washington-county
 ---

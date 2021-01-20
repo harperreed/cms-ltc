@@ -1,6 +1,6 @@
 ---
 title: "Shelby County, TN"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:47157.0,FEMA:4.0,Large central metro,Red]
@@ -11,9 +11,9 @@ FIPS: 47157.0
 FEMA_Region: 4.0
 Population: 937166.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 53557.0
-Fourteen_day_test_rate_per_100000: 5715.0
-Percent_Positivity_in_prior_14_days: 0.151
+Tests_in_prior_14_days: 66724.0
+Fourteen_day_test_rate_per_100000: 7120.0
+Percent_Positivity_in_prior_14_days: 0.13
 Level: Red
 url: /states/TN/shelby-county
 ---

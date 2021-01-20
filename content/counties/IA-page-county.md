@@ -1,6 +1,6 @@
 ---
 title: "Page County, IA"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:19145.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 19145.0
 FEMA_Region: 7.0
 Population: 15107.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 174.0
-Fourteen_day_test_rate_per_100000: 1152.0
-Percent_Positivity_in_prior_14_days: 0.247
+Tests_in_prior_14_days: 210.0
+Fourteen_day_test_rate_per_100000: 1390.0
+Percent_Positivity_in_prior_14_days: 0.2
 Level: Yellow
 url: /states/IA/page-county
 ---

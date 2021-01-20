@@ -1,6 +1,6 @@
 ---
 title: "Posey County, IN"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:18129.0,FEMA:5.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 18129.0
 FEMA_Region: 5.0
 Population: 25427.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1125.0
-Fourteen_day_test_rate_per_100000: 4424.0
-Percent_Positivity_in_prior_14_days: 0.276
+Tests_in_prior_14_days: 969.0
+Fourteen_day_test_rate_per_100000: 3811.0
+Percent_Positivity_in_prior_14_days: 0.259
 Level: Red
 url: /states/IN/posey-county
 ---

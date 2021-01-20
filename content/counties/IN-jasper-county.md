@@ -1,6 +1,6 @@
 ---
 title: "Jasper County, IN"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:18073.0,FEMA:5.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 18073.0
 FEMA_Region: 5.0
 Population: 33562.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 743.0
-Fourteen_day_test_rate_per_100000: 2214.0
-Percent_Positivity_in_prior_14_days: 0.186
+Tests_in_prior_14_days: 693.0
+Fourteen_day_test_rate_per_100000: 2065.0
+Percent_Positivity_in_prior_14_days: 0.189
 Level: Red
 url: /states/IN/jasper-county
 ---

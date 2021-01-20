@@ -1,9 +1,9 @@
 ---
 title: "Morehouse Parish, LA"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
-tags: [FIPS:22067.0,FEMA:6.0,Micropolitan,Red]
+tags: [FIPS:22067.0,FEMA:6.0,Micropolitan,Yellow]
 categories: [LA]
 County: Morehouse Parish
 State: LA
@@ -11,10 +11,10 @@ FIPS: 22067.0
 FEMA_Region: 6.0
 Population: 24874.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1735.0
-Fourteen_day_test_rate_per_100000: 6975.0
-Percent_Positivity_in_prior_14_days: 0.144
-Level: Red
+Tests_in_prior_14_days: 2276.0
+Fourteen_day_test_rate_per_100000: 9150.0
+Percent_Positivity_in_prior_14_days: 0.094
+Level: Yellow
 url: /states/LA/morehouse-parish
 ---
 

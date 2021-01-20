@@ -1,6 +1,6 @@
 ---
 title: "Hancock County, KY"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:21091.0,FEMA:4.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 21091.0
 FEMA_Region: 4.0
 Population: 8722.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 481.0
-Fourteen_day_test_rate_per_100000: 5515.0
-Percent_Positivity_in_prior_14_days: 0.306
+Tests_in_prior_14_days: 485.0
+Fourteen_day_test_rate_per_100000: 5561.0
+Percent_Positivity_in_prior_14_days: 0.26
 Level: Red
 url: /states/KY/hancock-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Caldwell County, MO"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:29025.0,FEMA:7.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 29025.0
 FEMA_Region: 7.0
 Population: 9020.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 139.0
-Fourteen_day_test_rate_per_100000: 1541.0
-Percent_Positivity_in_prior_14_days: 0.281
+Tests_in_prior_14_days: 180.0
+Fourteen_day_test_rate_per_100000: 1996.0
+Percent_Positivity_in_prior_14_days: 0.183
 Level: Yellow
 url: /states/MO/caldwell-county
 ---

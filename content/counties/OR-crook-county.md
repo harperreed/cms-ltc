@@ -1,6 +1,6 @@
 ---
 title: "Crook County, OR"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:41013.0,FEMA:10.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 41013.0
 FEMA_Region: 10.0
 Population: 24404.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1093.0
-Fourteen_day_test_rate_per_100000: 4479.0
-Percent_Positivity_in_prior_14_days: 0.101
+Tests_in_prior_14_days: 1323.0
+Fourteen_day_test_rate_per_100000: 5421.0
+Percent_Positivity_in_prior_14_days: 0.119
 Level: Red
 url: /states/OR/crook-county
 ---

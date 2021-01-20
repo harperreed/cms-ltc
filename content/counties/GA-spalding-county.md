@@ -1,6 +1,6 @@
 ---
 title: "Spalding County, GA"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:13255.0,FEMA:4.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 13255.0
 FEMA_Region: 4.0
 Population: 66703.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 876.0
-Fourteen_day_test_rate_per_100000: 1313.0
-Percent_Positivity_in_prior_14_days: 0.217
+Tests_in_prior_14_days: 1105.0
+Fourteen_day_test_rate_per_100000: 1657.0
+Percent_Positivity_in_prior_14_days: 0.221
 Level: Red
 url: /states/GA/spalding-county
 ---

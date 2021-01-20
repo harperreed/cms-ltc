@@ -1,6 +1,6 @@
 ---
 title: "Randolph County, WV"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:54083.0,FEMA:3.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 54083.0
 FEMA_Region: 3.0
 Population: 28695.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2482.0
-Fourteen_day_test_rate_per_100000: 8650.0
-Percent_Positivity_in_prior_14_days: 0.08
+Tests_in_prior_14_days: 2966.0
+Fourteen_day_test_rate_per_100000: 10336.0
+Percent_Positivity_in_prior_14_days: 0.081
 Level: Yellow
 url: /states/WV/randolph-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Saline County, NE"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
-tags: [FIPS:31151.0,FEMA:7.0,Non-core,Yellow]
+tags: [FIPS:31151.0,FEMA:7.0,Non-core,Red]
 categories: [NE]
 County: Saline County
 State: NE
@@ -11,10 +11,10 @@ FIPS: 31151.0
 FEMA_Region: 7.0
 Population: 14224.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 265.0
-Fourteen_day_test_rate_per_100000: 1863.0
-Percent_Positivity_in_prior_14_days: 0.181
-Level: Yellow
+Tests_in_prior_14_days: 460.0
+Fourteen_day_test_rate_per_100000: 3234.0
+Percent_Positivity_in_prior_14_days: 0.122
+Level: Red
 url: /states/NE/saline-county
 ---
 

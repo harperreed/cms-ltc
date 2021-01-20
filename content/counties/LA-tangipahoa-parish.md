@@ -1,6 +1,6 @@
 ---
 title: "Tangipahoa Parish, LA"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:22105.0,FEMA:6.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 22105.0
 FEMA_Region: 6.0
 Population: 134758.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 5242.0
-Fourteen_day_test_rate_per_100000: 3890.0
-Percent_Positivity_in_prior_14_days: 0.135
+Tests_in_prior_14_days: 5709.0
+Fourteen_day_test_rate_per_100000: 4236.0
+Percent_Positivity_in_prior_14_days: 0.136
 Level: Red
 url: /states/LA/tangipahoa-parish
 ---

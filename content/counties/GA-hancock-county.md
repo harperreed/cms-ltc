@@ -1,6 +1,6 @@
 ---
 title: "Hancock County, GA"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:13141.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13141.0
 FEMA_Region: 4.0
 Population: 8457.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 118.0
-Fourteen_day_test_rate_per_100000: 1395.0
-Percent_Positivity_in_prior_14_days: 0.305
+Tests_in_prior_14_days: 114.0
+Fourteen_day_test_rate_per_100000: 1348.0
+Percent_Positivity_in_prior_14_days: 0.316
 Level: Yellow
 url: /states/GA/hancock-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Pocahontas County, IA"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:19151.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 19151.0
 FEMA_Region: 7.0
 Population: 6619.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 132.0
-Fourteen_day_test_rate_per_100000: 1994.0
-Percent_Positivity_in_prior_14_days: 0.098
+Tests_in_prior_14_days: 155.0
+Fourteen_day_test_rate_per_100000: 2342.0
+Percent_Positivity_in_prior_14_days: 0.097
 Level: Yellow
 url: /states/IA/pocahontas-county
 ---

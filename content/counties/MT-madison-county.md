@@ -1,6 +1,6 @@
 ---
 title: "Madison County, MT"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:30057.0,FEMA:8.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 30057.0
 FEMA_Region: 8.0
 Population: 8600.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 444.0
-Fourteen_day_test_rate_per_100000: 5163.0
-Percent_Positivity_in_prior_14_days: 0.113
+Tests_in_prior_14_days: 533.0
+Fourteen_day_test_rate_per_100000: 6198.0
+Percent_Positivity_in_prior_14_days: 0.174
 Level: Red
 url: /states/MT/madison-county
 ---

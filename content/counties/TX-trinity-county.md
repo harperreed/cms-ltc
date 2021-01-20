@@ -1,9 +1,9 @@
 ---
 title: "Trinity County, TX"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
-tags: [FIPS:48455.0,FEMA:6.0,Micropolitan,Red]
+tags: [FIPS:48455.0,FEMA:6.0,Micropolitan,Yellow]
 categories: [TX]
 County: Trinity County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48455.0
 FEMA_Region: 6.0
 Population: 14651.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 646.0
-Fourteen_day_test_rate_per_100000: 4409.0
-Percent_Positivity_in_prior_14_days: 0.101
-Level: Red
+Tests_in_prior_14_days: 927.0
+Fourteen_day_test_rate_per_100000: 6327.0
+Percent_Positivity_in_prior_14_days: 0.092
+Level: Yellow
 url: /states/TX/trinity-county
 ---
 

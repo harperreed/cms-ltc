@@ -1,6 +1,6 @@
 ---
 title: "Rockwall County, TX"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:48397.0,FEMA:6.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48397.0
 FEMA_Region: 6.0
 Population: 104915.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 7644.0
-Fourteen_day_test_rate_per_100000: 7286.0
-Percent_Positivity_in_prior_14_days: 0.209
+Tests_in_prior_14_days: 8523.0
+Fourteen_day_test_rate_per_100000: 8124.0
+Percent_Positivity_in_prior_14_days: 0.189
 Level: Red
 url: /states/TX/rockwall-county
 ---

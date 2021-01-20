@@ -1,6 +1,6 @@
 ---
 title: "Gwinnett County, GA"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:13135.0,FEMA:4.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 13135.0
 FEMA_Region: 4.0
 Population: 936250.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 26812.0
-Fourteen_day_test_rate_per_100000: 2864.0
-Percent_Positivity_in_prior_14_days: 0.24
+Tests_in_prior_14_days: 27262.0
+Fourteen_day_test_rate_per_100000: 2912.0
+Percent_Positivity_in_prior_14_days: 0.244
 Level: Red
 url: /states/GA/gwinnett-county
 ---

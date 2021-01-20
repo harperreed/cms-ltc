@@ -1,6 +1,6 @@
 ---
 title: "St. Lawrence County, NY"
-date: 2021-01-19
+date: 2021-01-20
 draft: false
 type: county
 tags: [FIPS:36089.0,FEMA:2.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 36089.0
 FEMA_Region: 2.0
 Population: 107740.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 6995.0
-Fourteen_day_test_rate_per_100000: 6492.0
-Percent_Positivity_in_prior_14_days: 0.099
+Tests_in_prior_14_days: 10199.0
+Fourteen_day_test_rate_per_100000: 9466.0
+Percent_Positivity_in_prior_14_days: 0.074
 Level: Yellow
 url: /states/NY/st-lawrence-county
 ---
