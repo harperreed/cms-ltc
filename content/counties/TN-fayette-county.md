@@ -1,6 +1,6 @@
 ---
 title: "Fayette County, TN"
-date: 2021-01-20
+date: 2021-01-21
 draft: false
 type: county
 tags: [FIPS:47047.0,FEMA:4.0,Large fringe metro,Red]

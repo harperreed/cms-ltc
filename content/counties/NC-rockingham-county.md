@@ -1,6 +1,6 @@
 ---
 title: "Rockingham County, NC"
-date: 2021-01-20
+date: 2021-01-21
 draft: false
 type: county
 tags: [FIPS:37157.0,FEMA:4.0,Medium metro,Red]

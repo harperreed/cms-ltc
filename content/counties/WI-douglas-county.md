@@ -1,6 +1,6 @@
 ---
 title: "Douglas County, WI"
-date: 2021-01-20
+date: 2021-01-21
 draft: false
 type: county
 tags: [FIPS:55031.0,FEMA:5.0,Medium metro,Yellow]

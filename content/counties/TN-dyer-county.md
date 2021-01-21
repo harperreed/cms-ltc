@@ -1,6 +1,6 @@
 ---
 title: "Dyer County, TN"
-date: 2021-01-20
+date: 2021-01-21
 draft: false
 type: county
 tags: [FIPS:47045.0,FEMA:4.0,Micropolitan,Red]

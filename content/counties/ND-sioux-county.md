@@ -1,6 +1,6 @@
 ---
 title: "Sioux County, ND"
-date: 2021-01-20
+date: 2021-01-21
 draft: false
 type: county
 tags: [FIPS:38085.0,FEMA:8.0,Small metro,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Winnebago County, IA"
-date: 2021-01-20
+date: 2021-01-21
 draft: false
 type: county
 tags: [FIPS:19189.0,FEMA:7.0,Non-core,Red]

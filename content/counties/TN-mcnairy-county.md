@@ -1,6 +1,6 @@
 ---
 title: "McNairy County, TN"
-date: 2021-01-20
+date: 2021-01-21
 draft: false
 type: county
 tags: [FIPS:47109.0,FEMA:4.0,Non-core,Red]
