@@ -1,6 +1,6 @@
 ---
 title: "Elmore County, ID"
-date: 2021-01-21
+date: 2021-01-22
 draft: false
 type: county
 tags: [FIPS:16039.0,FEMA:10.0,Micropolitan,Red]

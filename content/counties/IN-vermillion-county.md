@@ -1,6 +1,6 @@
 ---
 title: "Vermillion County, IN"
-date: 2021-01-21
+date: 2021-01-22
 draft: false
 type: county
 tags: [FIPS:18165.0,FEMA:5.0,Small metro,Red]

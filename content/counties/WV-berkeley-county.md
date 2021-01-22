@@ -1,6 +1,6 @@
 ---
 title: "Berkeley County, WV"
-date: 2021-01-21
+date: 2021-01-22
 draft: false
 type: county
 tags: [FIPS:54003.0,FEMA:3.0,Medium metro,Red]

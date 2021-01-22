@@ -1,6 +1,6 @@
 ---
 title: "Lexington County, SC"
-date: 2021-01-21
+date: 2021-01-22
 draft: false
 type: county
 tags: [FIPS:45063.0,FEMA:4.0,Medium metro,Red]
