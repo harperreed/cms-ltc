@@ -1,6 +1,6 @@
 ---
 title: "Richland Parish, LA"
-date: 2021-01-22
+date: 2021-01-23
 draft: false
 type: county
 tags: [FIPS:22083.0,FEMA:6.0,Non-core,Red]

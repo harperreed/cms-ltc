@@ -1,6 +1,6 @@
 ---
 title: "Bent County, CO"
-date: 2021-01-22
+date: 2021-01-23
 draft: false
 type: county
 tags: [FIPS:8011.0,FEMA:8.0,Non-core,Red]

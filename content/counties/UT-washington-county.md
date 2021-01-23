@@ -1,6 +1,6 @@
 ---
 title: "Washington County, UT"
-date: 2021-01-22
+date: 2021-01-23
 draft: false
 type: county
 tags: [FIPS:49053.0,FEMA:8.0,Small metro,Red]

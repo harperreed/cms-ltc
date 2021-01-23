@@ -1,6 +1,6 @@
 ---
 title: "Black Hawk County, IA"
-date: 2021-01-22
+date: 2021-01-23
 draft: false
 type: county
 tags: [FIPS:19013.0,FEMA:7.0,Small metro,Red]
