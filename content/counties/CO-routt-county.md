@@ -1,6 +1,6 @@
 ---
 title: "Routt County, CO"
-date: 2021-01-23
+date: 2021-01-24
 draft: false
 type: county
 tags: [FIPS:8107.0,FEMA:8.0,Micropolitan,Yellow]

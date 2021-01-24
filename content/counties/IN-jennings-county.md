@@ -1,6 +1,6 @@
 ---
 title: "Jennings County, IN"
-date: 2021-01-23
+date: 2021-01-24
 draft: false
 type: county
 tags: [FIPS:18079.0,FEMA:5.0,Micropolitan,Red]

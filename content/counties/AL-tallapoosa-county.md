@@ -1,6 +1,6 @@
 ---
 title: "Tallapoosa County, AL"
-date: 2021-01-23
+date: 2021-01-24
 draft: false
 type: county
 tags: [FIPS:1123.0,FEMA:4.0,Non-core,Red]
