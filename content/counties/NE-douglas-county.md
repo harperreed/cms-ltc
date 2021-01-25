@@ -1,6 +1,6 @@
 ---
 title: "Douglas County, NE"
-date: 2021-01-24
+date: 2021-01-25
 draft: false
 type: county
 tags: [FIPS:31055.0,FEMA:7.0,Medium metro,Red]

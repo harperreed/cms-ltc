@@ -1,6 +1,6 @@
 ---
 title: "Gibson County, TN"
-date: 2021-01-24
+date: 2021-01-25
 draft: false
 type: county
 tags: [FIPS:47053.0,FEMA:4.0,Non-core,Red]

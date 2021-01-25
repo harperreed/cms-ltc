@@ -1,6 +1,6 @@
 ---
 title: "Hopkins County, KY"
-date: 2021-01-24
+date: 2021-01-25
 draft: false
 type: county
 tags: [FIPS:21107.0,FEMA:4.0,Micropolitan,Red]

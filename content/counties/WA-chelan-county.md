@@ -1,6 +1,6 @@
 ---
 title: "Chelan County, WA"
-date: 2021-01-24
+date: 2021-01-25
 draft: false
 type: county
 tags: [FIPS:53007.0,FEMA:10.0,Small metro,Red]

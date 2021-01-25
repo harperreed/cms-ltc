@@ -1,6 +1,6 @@
 ---
 title: "Bowie County, TX"
-date: 2021-01-24
+date: 2021-01-25
 draft: false
 type: county
 tags: [FIPS:48037.0,FEMA:6.0,Small metro,Red]

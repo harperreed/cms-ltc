@@ -1,6 +1,6 @@
 ---
 title: "Chilton County, AL"
-date: 2021-01-24
+date: 2021-01-25
 draft: false
 type: county
 tags: [FIPS:1021.0,FEMA:4.0,Large fringe metro,Red]

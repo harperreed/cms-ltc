@@ -1,6 +1,6 @@
 ---
 title: "Mesa County, CO"
-date: 2021-01-24
+date: 2021-01-25
 draft: false
 type: county
 tags: [FIPS:8077.0,FEMA:8.0,Small metro,Yellow]
