@@ -1,6 +1,6 @@
 ---
 title: "Manistee County, MI"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
 tags: [FIPS:26101.0,FEMA:5.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 26101.0
 FEMA_Region: 5.0
 Population: 24558.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2545.0
-Fourteen_day_test_rate_per_100000: 10363.0
-Percent_Positivity_in_prior_14_days: 0.059
+Tests_in_prior_14_days: 2478.0
+Fourteen_day_test_rate_per_100000: 10090.0
+Percent_Positivity_in_prior_14_days: 0.075
 Level: Yellow
 url: /states/MI/manistee-county
 ---

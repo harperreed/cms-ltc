@@ -1,6 +1,6 @@
 ---
 title: "Creek County, OK"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
 tags: [FIPS:40037.0,FEMA:6.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 40037.0
 FEMA_Region: 6.0
 Population: 71522.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 381.0
-Fourteen_day_test_rate_per_100000: 533.0
-Percent_Positivity_in_prior_14_days: 0.26
+Tests_in_prior_14_days: 348.0
+Fourteen_day_test_rate_per_100000: 487.0
+Percent_Positivity_in_prior_14_days: 0.279
 Level: Yellow
 url: /states/OK/creek-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Lewis County, WA"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
 tags: [FIPS:53041.0,FEMA:10.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 53041.0
 FEMA_Region: 10.0
 Population: 80707.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 917.0
-Fourteen_day_test_rate_per_100000: 1136.0
-Percent_Positivity_in_prior_14_days: 0.098
+Tests_in_prior_14_days: 1011.0
+Fourteen_day_test_rate_per_100000: 1253.0
+Percent_Positivity_in_prior_14_days: 0.092
 Level: Yellow
 url: /states/WA/lewis-county
 ---

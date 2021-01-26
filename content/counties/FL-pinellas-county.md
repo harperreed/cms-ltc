@@ -1,9 +1,9 @@
 ---
 title: "Pinellas County, FL"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
-tags: [FIPS:12103.0,FEMA:4.0,Large central metro,Red]
+tags: [FIPS:12103.0,FEMA:4.0,Large central metro,Yellow]
 categories: [FL]
 County: Pinellas County
 State: FL
@@ -11,10 +11,10 @@ FIPS: 12103.0
 FEMA_Region: 4.0
 Population: 974996.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 59702.0
-Fourteen_day_test_rate_per_100000: 6123.0
-Percent_Positivity_in_prior_14_days: 0.111
-Level: Red
+Tests_in_prior_14_days: 66770.0
+Fourteen_day_test_rate_per_100000: 6848.0
+Percent_Positivity_in_prior_14_days: 0.094
+Level: Yellow
 url: /states/FL/pinellas-county
 ---
 

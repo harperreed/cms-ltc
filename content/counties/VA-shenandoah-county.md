@@ -1,6 +1,6 @@
 ---
 title: "Shenandoah County, VA"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
 tags: [FIPS:51171.0,FEMA:3.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 51171.0
 FEMA_Region: 3.0
 Population: 43616.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2934.0
-Fourteen_day_test_rate_per_100000: 6727.0
-Percent_Positivity_in_prior_14_days: 0.182
+Tests_in_prior_14_days: 2881.0
+Fourteen_day_test_rate_per_100000: 6605.0
+Percent_Positivity_in_prior_14_days: 0.137
 Level: Red
 url: /states/VA/shenandoah-county
 ---

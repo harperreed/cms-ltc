@@ -1,9 +1,9 @@
 ---
 title: "Davison County, SD"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
-tags: [FIPS:46035.0,FEMA:8.0,Micropolitan,Yellow]
+tags: [FIPS:46035.0,FEMA:8.0,Micropolitan,Gray]
 categories: [SD]
 County: Davison County
 State: SD
@@ -11,10 +11,10 @@ FIPS: 46035.0
 FEMA_Region: 8.0
 Population: 19775.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 336.0
-Fourteen_day_test_rate_per_100000: 1699.0
-Percent_Positivity_in_prior_14_days: 0.092
-Level: Yellow
+Tests_in_prior_14_days: 280.0
+Fourteen_day_test_rate_per_100000: 1416.0
+Percent_Positivity_in_prior_14_days: 0.064
+Level: Gray
 url: /states/SD/davison-county
 ---
 

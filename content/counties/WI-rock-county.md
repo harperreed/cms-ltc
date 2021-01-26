@@ -1,9 +1,9 @@
 ---
 title: "Rock County, WI"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
-tags: [FIPS:55105.0,FEMA:5.0,Small metro,Red]
+tags: [FIPS:55105.0,FEMA:5.0,Small metro,Yellow]
 categories: [WI]
 County: Rock County
 State: WI
@@ -11,10 +11,10 @@ FIPS: 55105.0
 FEMA_Region: 5.0
 Population: 163354.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 10571.0
-Fourteen_day_test_rate_per_100000: 6471.0
-Percent_Positivity_in_prior_14_days: 0.106
-Level: Red
+Tests_in_prior_14_days: 10740.0
+Fourteen_day_test_rate_per_100000: 6575.0
+Percent_Positivity_in_prior_14_days: 0.094
+Level: Yellow
 url: /states/WI/rock-county
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Assumption Parish, LA"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
-tags: [FIPS:22007.0,FEMA:6.0,Non-core,Yellow]
+tags: [FIPS:22007.0,FEMA:6.0,Non-core,Red]
 categories: [LA]
 County: Assumption Parish
 State: LA
@@ -11,10 +11,10 @@ FIPS: 22007.0
 FEMA_Region: 6.0
 Population: 21891.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1139.0
-Fourteen_day_test_rate_per_100000: 5203.0
-Percent_Positivity_in_prior_14_days: 0.097
-Level: Yellow
+Tests_in_prior_14_days: 863.0
+Fourteen_day_test_rate_per_100000: 3942.0
+Percent_Positivity_in_prior_14_days: 0.149
+Level: Red
 url: /states/LA/assumption-parish
 ---
 

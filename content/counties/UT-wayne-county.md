@@ -1,9 +1,9 @@
 ---
 title: "Wayne County, UT"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
-tags: [FIPS:49055.0,FEMA:8.0,Non-core,Green]
+tags: [FIPS:49055.0,FEMA:8.0,Non-core,Yellow]
 categories: [UT]
 County: Wayne County
 State: UT
@@ -11,10 +11,10 @@ FIPS: 49055.0
 FEMA_Region: 8.0
 Population: 2711.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 132.0
-Fourteen_day_test_rate_per_100000: 4869.0
-Percent_Positivity_in_prior_14_days: 0.038
-Level: Green
+Tests_in_prior_14_days: 131.0
+Fourteen_day_test_rate_per_100000: 4832.0
+Percent_Positivity_in_prior_14_days: 0.084
+Level: Yellow
 url: /states/UT/wayne-county
 ---
 

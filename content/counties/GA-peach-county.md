@@ -1,9 +1,9 @@
 ---
 title: "Peach County, GA"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
-tags: [FIPS:13225.0,FEMA:4.0,Small metro,Yellow]
+tags: [FIPS:13225.0,FEMA:4.0,Small metro,Red]
 categories: [GA]
 County: Peach County
 State: GA
@@ -11,10 +11,10 @@ FIPS: 13225.0
 FEMA_Region: 4.0
 Population: 27546.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 445.0
-Fourteen_day_test_rate_per_100000: 1615.0
-Percent_Positivity_in_prior_14_days: 0.22
-Level: Yellow
+Tests_in_prior_14_days: 665.0
+Fourteen_day_test_rate_per_100000: 2414.0
+Percent_Positivity_in_prior_14_days: 0.195
+Level: Red
 url: /states/GA/peach-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Tuscarawas County, OH"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
 tags: [FIPS:39157.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 39157.0
 FEMA_Region: 5.0
 Population: 91987.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 366.0
-Fourteen_day_test_rate_per_100000: 398.0
-Percent_Positivity_in_prior_14_days: 0.189
+Tests_in_prior_14_days: 394.0
+Fourteen_day_test_rate_per_100000: 428.0
+Percent_Positivity_in_prior_14_days: 0.18
 Level: Yellow
 url: /states/OH/tuscarawas-county
 ---

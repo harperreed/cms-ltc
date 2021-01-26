@@ -1,6 +1,6 @@
 ---
 title: "Gratiot County, MI"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
 tags: [FIPS:26057.0,FEMA:5.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 26057.0
 FEMA_Region: 5.0
 Population: 40711.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2868.0
-Fourteen_day_test_rate_per_100000: 7045.0
-Percent_Positivity_in_prior_14_days: 0.042
+Tests_in_prior_14_days: 2949.0
+Fourteen_day_test_rate_per_100000: 7244.0
+Percent_Positivity_in_prior_14_days: 0.035
 Level: Green
 url: /states/MI/gratiot-county
 ---

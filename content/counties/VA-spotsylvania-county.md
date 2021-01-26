@@ -1,6 +1,6 @@
 ---
 title: "Spotsylvania County, VA"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
 tags: [FIPS:51177.0,FEMA:3.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 51177.0
 FEMA_Region: 3.0
 Population: 136215.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 6026.0
-Fourteen_day_test_rate_per_100000: 4424.0
-Percent_Positivity_in_prior_14_days: 0.246
+Tests_in_prior_14_days: 6077.0
+Fourteen_day_test_rate_per_100000: 4461.0
+Percent_Positivity_in_prior_14_days: 0.202
 Level: Red
 url: /states/VA/spotsylvania-county
 ---

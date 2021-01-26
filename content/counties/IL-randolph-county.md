@@ -1,9 +1,9 @@
 ---
 title: "Randolph County, IL"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
-tags: [FIPS:17157.0,FEMA:5.0,Non-core,Yellow]
+tags: [FIPS:17157.0,FEMA:5.0,Non-core,Green]
 categories: [IL]
 County: Randolph County
 State: IL
@@ -11,10 +11,10 @@ FIPS: 17157.0
 FEMA_Region: 5.0
 Population: 31782.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 7719.0
-Fourteen_day_test_rate_per_100000: 24287.0
-Percent_Positivity_in_prior_14_days: 0.05
-Level: Yellow
+Tests_in_prior_14_days: 12570.0
+Fourteen_day_test_rate_per_100000: 39551.0
+Percent_Positivity_in_prior_14_days: 0.027
+Level: Green
 url: /states/IL/randolph-county
 ---
 

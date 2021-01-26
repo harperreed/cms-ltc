@@ -1,6 +1,6 @@
 ---
 title: "Chesterfield County, VA"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
 tags: [FIPS:51041.0,FEMA:3.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 51041.0
 FEMA_Region: 3.0
 Population: 352802.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 18021.0
-Fourteen_day_test_rate_per_100000: 5108.0
-Percent_Positivity_in_prior_14_days: 0.22
+Tests_in_prior_14_days: 18551.0
+Fourteen_day_test_rate_per_100000: 5258.0
+Percent_Positivity_in_prior_14_days: 0.163
 Level: Red
 url: /states/VA/chesterfield-county
 ---

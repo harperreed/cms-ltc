@@ -1,9 +1,9 @@
 ---
 title: "Highland County, VA"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
-tags: [FIPS:51091.0,FEMA:3.0,Non-core,Green]
+tags: [FIPS:51091.0,FEMA:3.0,Non-core,Yellow]
 categories: [VA]
 County: Highland County
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51091.0
 FEMA_Region: 3.0
 Population: 2190.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 49.0
-Fourteen_day_test_rate_per_100000: 2237.0
-Percent_Positivity_in_prior_14_days: 0.02
-Level: Green
+Tests_in_prior_14_days: 37.0
+Fourteen_day_test_rate_per_100000: 1689.0
+Percent_Positivity_in_prior_14_days: 0.054
+Level: Yellow
 url: /states/VA/highland-county
 ---
 

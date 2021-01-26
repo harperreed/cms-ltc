@@ -1,6 +1,6 @@
 ---
 title: "Pasco County, FL"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
 tags: [FIPS:12101.0,FEMA:4.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 12101.0
 FEMA_Region: 4.0
 Population: 553947.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 25848.0
-Fourteen_day_test_rate_per_100000: 4666.0
-Percent_Positivity_in_prior_14_days: 0.139
+Tests_in_prior_14_days: 28076.0
+Fourteen_day_test_rate_per_100000: 5068.0
+Percent_Positivity_in_prior_14_days: 0.115
 Level: Red
 url: /states/FL/pasco-county
 ---

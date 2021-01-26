@@ -1,6 +1,6 @@
 ---
 title: "Clarke County, MS"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
 tags: [FIPS:28023.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28023.0
 FEMA_Region: 4.0
 Population: 15541.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 176.0
-Fourteen_day_test_rate_per_100000: 1132.0
-Percent_Positivity_in_prior_14_days: 0.136
+Tests_in_prior_14_days: 142.0
+Fourteen_day_test_rate_per_100000: 914.0
+Percent_Positivity_in_prior_14_days: 0.162
 Level: Yellow
 url: /states/MS/clarke-county
 ---

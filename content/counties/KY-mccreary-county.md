@@ -1,6 +1,6 @@
 ---
 title: "McCreary County, KY"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
 tags: [FIPS:21147.0,FEMA:4.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 21147.0
 FEMA_Region: 4.0
 Population: 17231.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 510.0
-Fourteen_day_test_rate_per_100000: 2960.0
-Percent_Positivity_in_prior_14_days: 0.147
+Tests_in_prior_14_days: 372.0
+Fourteen_day_test_rate_per_100000: 2159.0
+Percent_Positivity_in_prior_14_days: 0.124
 Level: Red
 url: /states/KY/mccreary-county
 ---

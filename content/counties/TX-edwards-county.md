@@ -1,9 +1,9 @@
 ---
 title: "Edwards County, TX"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
-tags: [FIPS:48137.0,FEMA:6.0,Non-core,Red]
+tags: [FIPS:48137.0,FEMA:6.0,Non-core,Yellow]
 categories: [TX]
 County: Edwards County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48137.0
 FEMA_Region: 6.0
 Population: 1932.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 77.0
-Fourteen_day_test_rate_per_100000: 3986.0
-Percent_Positivity_in_prior_14_days: 0.117
-Level: Red
+Tests_in_prior_14_days: 84.0
+Fourteen_day_test_rate_per_100000: 4348.0
+Percent_Positivity_in_prior_14_days: 0.083
+Level: Yellow
 url: /states/TX/edwards-county
 ---
 

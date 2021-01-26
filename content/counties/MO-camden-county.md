@@ -1,6 +1,6 @@
 ---
 title: "Camden County, MO"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
 tags: [FIPS:29029.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 29029.0
 FEMA_Region: 7.0
 Population: 46305.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 401.0
-Fourteen_day_test_rate_per_100000: 866.0
-Percent_Positivity_in_prior_14_days: 0.107
+Tests_in_prior_14_days: 408.0
+Fourteen_day_test_rate_per_100000: 881.0
+Percent_Positivity_in_prior_14_days: 0.088
 Level: Yellow
 url: /states/MO/camden-county
 ---

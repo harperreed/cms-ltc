@@ -1,6 +1,6 @@
 ---
 title: "Morgan County, CO"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
 tags: [FIPS:8087.0,FEMA:8.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 8087.0
 FEMA_Region: 8.0
 Population: 29068.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2454.0
-Fourteen_day_test_rate_per_100000: 8442.0
-Percent_Positivity_in_prior_14_days: 0.083
+Tests_in_prior_14_days: 2278.0
+Fourteen_day_test_rate_per_100000: 7837.0
+Percent_Positivity_in_prior_14_days: 0.065
 Level: Yellow
 url: /states/CO/morgan-county
 ---

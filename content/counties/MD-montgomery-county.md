@@ -1,6 +1,6 @@
 ---
 title: "Montgomery County, MD"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
 tags: [FIPS:24031.0,FEMA:3.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 24031.0
 FEMA_Region: 3.0
 Population: 1050688.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 113478.0
-Fourteen_day_test_rate_per_100000: 10800.0
-Percent_Positivity_in_prior_14_days: 0.089
+Tests_in_prior_14_days: 117968.0
+Fourteen_day_test_rate_per_100000: 11228.0
+Percent_Positivity_in_prior_14_days: 0.094
 Level: Yellow
 url: /states/MD/montgomery-county
 ---

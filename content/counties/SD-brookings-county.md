@@ -1,9 +1,9 @@
 ---
 title: "Brookings County, SD"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
-tags: [FIPS:46011.0,FEMA:8.0,Micropolitan,Yellow]
+tags: [FIPS:46011.0,FEMA:8.0,Micropolitan,Gray]
 categories: [SD]
 County: Brookings County
 State: SD
@@ -11,10 +11,10 @@ FIPS: 46011.0
 FEMA_Region: 8.0
 Population: 35077.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 592.0
-Fourteen_day_test_rate_per_100000: 1688.0
-Percent_Positivity_in_prior_14_days: 0.088
-Level: Yellow
+Tests_in_prior_14_days: 352.0
+Fourteen_day_test_rate_per_100000: 1004.0
+Percent_Positivity_in_prior_14_days: 0.097
+Level: Gray
 url: /states/SD/brookings-county
 ---
 

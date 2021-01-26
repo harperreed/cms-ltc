@@ -1,9 +1,9 @@
 ---
 title: "Colfax County, NE"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
-tags: [FIPS:31037.0,FEMA:7.0,Non-core,Red]
+tags: [FIPS:31037.0,FEMA:7.0,Non-core,Yellow]
 categories: [NE]
 County: Colfax County
 State: NE
@@ -11,10 +11,10 @@ FIPS: 31037.0
 FEMA_Region: 7.0
 Population: 10709.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 250.0
-Fourteen_day_test_rate_per_100000: 2334.0
-Percent_Positivity_in_prior_14_days: 0.428
-Level: Red
+Tests_in_prior_14_days: 209.0
+Fourteen_day_test_rate_per_100000: 1952.0
+Percent_Positivity_in_prior_14_days: 0.292
+Level: Yellow
 url: /states/NE/colfax-county
 ---
 

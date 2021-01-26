@@ -1,6 +1,6 @@
 ---
 title: "Pierce County, GA"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
 tags: [FIPS:13229.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 13229.0
 FEMA_Region: 4.0
 Population: 19465.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 479.0
-Fourteen_day_test_rate_per_100000: 2461.0
-Percent_Positivity_in_prior_14_days: 0.154
+Tests_in_prior_14_days: 694.0
+Fourteen_day_test_rate_per_100000: 3565.0
+Percent_Positivity_in_prior_14_days: 0.137
 Level: Red
 url: /states/GA/pierce-county
 ---

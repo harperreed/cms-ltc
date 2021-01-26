@@ -1,9 +1,9 @@
 ---
 title: "St. Louis City, MO"
-date: 2021-01-25
+date: 2021-01-26
 draft: false
 type: county
-tags: [FIPS:29510.0,FEMA:7.0,Large central metro,Red]
+tags: [FIPS:29510.0,FEMA:7.0,Large central metro,Yellow]
 categories: [MO]
 County: St. Louis City
 State: MO
@@ -11,10 +11,10 @@ FIPS: 29510.0
 FEMA_Region: 7.0
 Population: 300576.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 14684.0
-Fourteen_day_test_rate_per_100000: 4885.0
-Percent_Positivity_in_prior_14_days: 0.115
-Level: Red
+Tests_in_prior_14_days: 14629.0
+Fourteen_day_test_rate_per_100000: 4867.0
+Percent_Positivity_in_prior_14_days: 0.095
+Level: Yellow
 url: /states/MO/st-louis-city
 ---
 
