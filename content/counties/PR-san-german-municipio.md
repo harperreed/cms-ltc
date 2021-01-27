@@ -1,6 +1,6 @@
 ---
 title: "San Germán Municipio, PR"
-date: 2021-01-26
+date: 2021-01-27
 draft: false
 type: county
 tags: [FIPS:72125.0,FEMA:2.0,,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Rowan County, NC"
-date: 2021-01-26
+date: 2021-01-27
 draft: false
 type: county
 tags: [FIPS:37159.0,FEMA:4.0,Large fringe metro,Red]

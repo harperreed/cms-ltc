@@ -1,6 +1,6 @@
 ---
 title: "Collin County, TX"
-date: 2021-01-26
+date: 2021-01-27
 draft: false
 type: county
 tags: [FIPS:48085.0,FEMA:6.0,Large central metro,Red]

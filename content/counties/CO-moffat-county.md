@@ -1,6 +1,6 @@
 ---
 title: "Moffat County, CO"
-date: 2021-01-26
+date: 2021-01-27
 draft: false
 type: county
 tags: [FIPS:8081.0,FEMA:8.0,Micropolitan,Green]
