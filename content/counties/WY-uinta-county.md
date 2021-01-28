@@ -1,6 +1,6 @@
 ---
 title: "Uinta County, WY"
-date: 2021-01-27
+date: 2021-01-28
 draft: false
 type: county
 tags: [FIPS:56041.0,FEMA:8.0,Micropolitan,Red]

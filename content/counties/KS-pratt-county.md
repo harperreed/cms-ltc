@@ -1,6 +1,6 @@
 ---
 title: "Pratt County, KS"
-date: 2021-01-27
+date: 2021-01-28
 draft: false
 type: county
 tags: [FIPS:20151.0,FEMA:7.0,Non-core,Yellow]

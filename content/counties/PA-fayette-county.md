@@ -1,6 +1,6 @@
 ---
 title: "Fayette County, PA"
-date: 2021-01-27
+date: 2021-01-28
 draft: false
 type: county
 tags: [FIPS:42051.0,FEMA:3.0,Large fringe metro,Red]

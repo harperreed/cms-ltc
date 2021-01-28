@@ -1,6 +1,6 @@
 ---
 title: "Swain County, NC"
-date: 2021-01-27
+date: 2021-01-28
 draft: false
 type: county
 tags: [FIPS:37173.0,FEMA:4.0,Non-core,Red]

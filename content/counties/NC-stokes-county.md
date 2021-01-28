@@ -1,6 +1,6 @@
 ---
 title: "Stokes County, NC"
-date: 2021-01-27
+date: 2021-01-28
 draft: false
 type: county
 tags: [FIPS:37169.0,FEMA:4.0,Medium metro,Red]

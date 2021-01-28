@@ -1,6 +1,6 @@
 ---
 title: "Callahan County, TX"
-date: 2021-01-27
+date: 2021-01-28
 draft: false
 type: county
 tags: [FIPS:48059.0,FEMA:6.0,Small metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Del Norte County, CA"
-date: 2021-01-27
+date: 2021-01-28
 draft: false
 type: county
 tags: [FIPS:6015.0,FEMA:9.0,Micropolitan,Gray]
