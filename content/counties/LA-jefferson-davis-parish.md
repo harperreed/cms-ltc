@@ -1,6 +1,6 @@
 ---
 title: "Jefferson Davis Parish, LA"
-date: 2021-01-28
+date: 2021-01-29
 draft: false
 type: county
 tags: [FIPS:22053.0,FEMA:6.0,Non-core,Yellow]
