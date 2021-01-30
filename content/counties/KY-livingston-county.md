@@ -1,6 +1,6 @@
 ---
 title: "Livingston County, KY"
-date: 2021-01-29
+date: 2021-01-30
 draft: false
 type: county
 tags: [FIPS:21139.0,FEMA:4.0,Micropolitan,Red]

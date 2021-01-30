@@ -1,6 +1,6 @@
 ---
 title: "Malheur County, OR"
-date: 2021-01-29
+date: 2021-01-30
 draft: false
 type: county
 tags: [FIPS:41045.0,FEMA:10.0,Micropolitan,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Sheridan County, ND"
-date: 2021-01-29
+date: 2021-01-30
 draft: false
 type: county
 tags: [FIPS:38083.0,FEMA:8.0,Non-core,Green]

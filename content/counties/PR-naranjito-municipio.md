@@ -1,6 +1,6 @@
 ---
 title: "Naranjito Municipio, PR"
-date: 2021-01-29
+date: 2021-01-30
 draft: false
 type: county
 tags: [FIPS:72105.0,FEMA:2.0,,Green]

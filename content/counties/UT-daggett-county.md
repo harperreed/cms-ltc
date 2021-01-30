@@ -1,6 +1,6 @@
 ---
 title: "Daggett County, UT"
-date: 2021-01-29
+date: 2021-01-30
 draft: false
 type: county
 tags: [FIPS:49009.0,FEMA:8.0,Non-core,Yellow]

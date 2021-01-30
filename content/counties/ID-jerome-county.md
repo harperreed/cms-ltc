@@ -1,6 +1,6 @@
 ---
 title: "Jerome County, ID"
-date: 2021-01-29
+date: 2021-01-30
 draft: false
 type: county
 tags: [FIPS:16053.0,FEMA:10.0,Micropolitan,Yellow]
