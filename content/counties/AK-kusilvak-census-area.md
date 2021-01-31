@@ -1,6 +1,6 @@
 ---
 title: "Kusilvak Census Area, AK"
-date: 2021-01-30
+date: 2021-01-31
 draft: false
 type: county
 tags: [FIPS:2158.0,FEMA:10.0,Non-core,Yellow]

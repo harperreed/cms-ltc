@@ -1,6 +1,6 @@
 ---
 title: "Smyth County, VA"
-date: 2021-01-30
+date: 2021-01-31
 draft: false
 type: county
 tags: [FIPS:51173.0,FEMA:3.0,Non-core,Red]

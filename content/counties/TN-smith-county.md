@@ -1,6 +1,6 @@
 ---
 title: "Smith County, TN"
-date: 2021-01-30
+date: 2021-01-31
 draft: false
 type: county
 tags: [FIPS:47159.0,FEMA:4.0,Large fringe metro,Red]
