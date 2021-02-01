@@ -1,6 +1,6 @@
 ---
 title: "Morehouse Parish, LA"
-date: 2021-01-31
+date: 2021-02-01
 draft: false
 type: county
 tags: [FIPS:22067.0,FEMA:6.0,Micropolitan,Yellow]

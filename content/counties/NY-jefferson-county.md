@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, NY"
-date: 2021-01-31
+date: 2021-02-01
 draft: false
 type: county
 tags: [FIPS:36045.0,FEMA:2.0,Small metro,Yellow]

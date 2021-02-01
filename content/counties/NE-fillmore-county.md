@@ -1,6 +1,6 @@
 ---
 title: "Fillmore County, NE"
-date: 2021-01-31
+date: 2021-02-01
 draft: false
 type: county
 tags: [FIPS:31059.0,FEMA:7.0,Non-core,Red]

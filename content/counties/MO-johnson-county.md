@@ -1,6 +1,6 @@
 ---
 title: "Johnson County, MO"
-date: 2021-01-31
+date: 2021-02-01
 draft: false
 type: county
 tags: [FIPS:29101.0,FEMA:7.0,Micropolitan,Red]

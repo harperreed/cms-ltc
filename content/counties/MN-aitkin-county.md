@@ -1,6 +1,6 @@
 ---
 title: "Aitkin County, MN"
-date: 2021-01-31
+date: 2021-02-01
 draft: false
 type: county
 tags: [FIPS:27001.0,FEMA:5.0,Non-core,Yellow]

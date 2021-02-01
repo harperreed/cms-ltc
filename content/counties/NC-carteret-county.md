@@ -1,6 +1,6 @@
 ---
 title: "Carteret County, NC"
-date: 2021-01-31
+date: 2021-02-01
 draft: false
 type: county
 tags: [FIPS:37031.0,FEMA:4.0,Micropolitan,Yellow]

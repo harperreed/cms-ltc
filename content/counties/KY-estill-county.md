@@ -1,6 +1,6 @@
 ---
 title: "Estill County, KY"
-date: 2021-01-31
+date: 2021-02-01
 draft: false
 type: county
 tags: [FIPS:21065.0,FEMA:4.0,Non-core,Red]

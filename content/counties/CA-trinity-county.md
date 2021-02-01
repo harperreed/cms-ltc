@@ -1,6 +1,6 @@
 ---
 title: "Trinity County, CA"
-date: 2021-01-31
+date: 2021-02-01
 draft: false
 type: county
 tags: [FIPS:6105.0,FEMA:9.0,Non-core,Gray]
