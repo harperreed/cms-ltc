@@ -1,6 +1,6 @@
 ---
 title: "Hamblen County, TN"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:47063.0,FEMA:4.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 47063.0
 FEMA_Region: 4.0
 Population: 64934.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1831.0
-Fourteen_day_test_rate_per_100000: 2820.0
-Percent_Positivity_in_prior_14_days: 0.177
+Tests_in_prior_14_days: 1603.0
+Fourteen_day_test_rate_per_100000: 2469.0
+Percent_Positivity_in_prior_14_days: 0.141
 Level: Red
 url: /states/TN/hamblen-county
 ---

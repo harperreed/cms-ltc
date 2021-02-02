@@ -1,9 +1,9 @@
 ---
 title: "Bucks County, PA"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
-tags: [FIPS:42017.0,FEMA:3.0,Large fringe metro,Red]
+tags: [FIPS:42017.0,FEMA:3.0,Large fringe metro,Yellow]
 categories: [PA]
 County: Bucks County
 State: PA
@@ -11,10 +11,10 @@ FIPS: 42017.0
 FEMA_Region: 3.0
 Population: 628270.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 37449.0
-Fourteen_day_test_rate_per_100000: 5961.0
-Percent_Positivity_in_prior_14_days: 0.11
-Level: Red
+Tests_in_prior_14_days: 33723.0
+Fourteen_day_test_rate_per_100000: 5368.0
+Percent_Positivity_in_prior_14_days: 0.1
+Level: Yellow
 url: /states/PA/bucks-county
 ---
 

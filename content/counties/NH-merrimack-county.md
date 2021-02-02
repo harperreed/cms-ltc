@@ -1,9 +1,9 @@
 ---
 title: "Merrimack County, NH"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
-tags: [FIPS:33013.0,FEMA:1.0,Micropolitan,Red]
+tags: [FIPS:33013.0,FEMA:1.0,Micropolitan,Yellow]
 categories: [NH]
 County: Merrimack County
 State: NH
@@ -11,10 +11,10 @@ FIPS: 33013.0
 FEMA_Region: 1.0
 Population: 151391.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4967.0
-Fourteen_day_test_rate_per_100000: 3281.0
-Percent_Positivity_in_prior_14_days: 0.106
-Level: Red
+Tests_in_prior_14_days: 4603.0
+Fourteen_day_test_rate_per_100000: 3040.0
+Percent_Positivity_in_prior_14_days: 0.086
+Level: Yellow
 url: /states/NH/merrimack-county
 ---
 

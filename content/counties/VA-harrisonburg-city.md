@@ -1,9 +1,9 @@
 ---
 title: "Harrisonburg City, VA"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
-tags: [FIPS:51660.0,FEMA:3.0,Small metro,Red]
+tags: [FIPS:51660.0,FEMA:3.0,Small metro,Yellow]
 categories: [VA]
 County: Harrisonburg City
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51660.0
 FEMA_Region: 3.0
 Population: 53016.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3373.0
-Fourteen_day_test_rate_per_100000: 6362.0
-Percent_Positivity_in_prior_14_days: 0.154
-Level: Red
+Tests_in_prior_14_days: 3157.0
+Fourteen_day_test_rate_per_100000: 5955.0
+Percent_Positivity_in_prior_14_days: 0.092
+Level: Yellow
 url: /states/VA/harrisonburg-city
 ---
 

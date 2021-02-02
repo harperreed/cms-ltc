@@ -1,6 +1,6 @@
 ---
 title: "St. Tammany Parish, LA"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:22103.0,FEMA:6.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 22103.0
 FEMA_Region: 6.0
 Population: 260419.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 15425.0
-Fourteen_day_test_rate_per_100000: 5923.0
-Percent_Positivity_in_prior_14_days: 0.135
+Tests_in_prior_14_days: 11392.0
+Fourteen_day_test_rate_per_100000: 4374.0
+Percent_Positivity_in_prior_14_days: 0.123
 Level: Red
 url: /states/LA/st-tammany-parish
 ---

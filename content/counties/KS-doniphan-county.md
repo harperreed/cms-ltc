@@ -1,9 +1,9 @@
 ---
 title: "Doniphan County, KS"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
-tags: [FIPS:20043.0,FEMA:7.0,Small metro,Red]
+tags: [FIPS:20043.0,FEMA:7.0,Small metro,Yellow]
 categories: [KS]
 County: Doniphan County
 State: KS
@@ -11,10 +11,10 @@ FIPS: 20043.0
 FEMA_Region: 7.0
 Population: 7600.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 362.0
-Fourteen_day_test_rate_per_100000: 4763.0
-Percent_Positivity_in_prior_14_days: 0.13
-Level: Red
+Tests_in_prior_14_days: 376.0
+Fourteen_day_test_rate_per_100000: 4947.0
+Percent_Positivity_in_prior_14_days: 0.09
+Level: Yellow
 url: /states/KS/doniphan-county
 ---
 

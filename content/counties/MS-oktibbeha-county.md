@@ -1,6 +1,6 @@
 ---
 title: "Oktibbeha County, MS"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:28105.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 28105.0
 FEMA_Region: 4.0
 Population: 49587.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1074.0
-Fourteen_day_test_rate_per_100000: 2166.0
-Percent_Positivity_in_prior_14_days: 0.182
+Tests_in_prior_14_days: 910.0
+Fourteen_day_test_rate_per_100000: 1835.0
+Percent_Positivity_in_prior_14_days: 0.141
 Level: Red
 url: /states/MS/oktibbeha-county
 ---

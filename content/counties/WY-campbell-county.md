@@ -1,6 +1,6 @@
 ---
 title: "Campbell County, WY"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:56005.0,FEMA:8.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 56005.0
 FEMA_Region: 8.0
 Population: 46341.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 110.0
-Fourteen_day_test_rate_per_100000: 237.0
-Percent_Positivity_in_prior_14_days: 0.218
+Tests_in_prior_14_days: 90.0
+Fourteen_day_test_rate_per_100000: 194.0
+Percent_Positivity_in_prior_14_days: 0.1
 Level: Yellow
 url: /states/WY/campbell-county
 ---

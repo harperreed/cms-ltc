@@ -1,6 +1,6 @@
 ---
 title: "Wabaunsee County, KS"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:20197.0,FEMA:7.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 20197.0
 FEMA_Region: 7.0
 Population: 6931.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 326.0
-Fourteen_day_test_rate_per_100000: 4704.0
-Percent_Positivity_in_prior_14_days: 0.264
+Tests_in_prior_14_days: 341.0
+Fourteen_day_test_rate_per_100000: 4920.0
+Percent_Positivity_in_prior_14_days: 0.208
 Level: Red
 url: /states/KS/wabaunsee-county
 ---

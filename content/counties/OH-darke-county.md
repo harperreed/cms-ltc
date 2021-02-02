@@ -1,9 +1,9 @@
 ---
 title: "Darke County, OH"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
-tags: [FIPS:39037.0,FEMA:5.0,Micropolitan,Red]
+tags: [FIPS:39037.0,FEMA:5.0,Micropolitan,Yellow]
 categories: [OH]
 County: Darke County
 State: OH
@@ -11,10 +11,10 @@ FIPS: 39037.0
 FEMA_Region: 5.0
 Population: 51113.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 649.0
-Fourteen_day_test_rate_per_100000: 1270.0
-Percent_Positivity_in_prior_14_days: 0.211
-Level: Red
+Tests_in_prior_14_days: 485.0
+Fourteen_day_test_rate_per_100000: 949.0
+Percent_Positivity_in_prior_14_days: 0.196
+Level: Yellow
 url: /states/OH/darke-county
 ---
 

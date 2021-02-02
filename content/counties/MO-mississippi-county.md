@@ -1,6 +1,6 @@
 ---
 title: "Mississippi County, MO"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:29133.0,FEMA:7.0,Non-core,Yellow]
@@ -13,7 +13,7 @@ Population: 13180.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 44.0
 Fourteen_day_test_rate_per_100000: 334.0
-Percent_Positivity_in_prior_14_days: 0.159
+Percent_Positivity_in_prior_14_days: 0.182
 Level: Yellow
 url: /states/MO/mississippi-county
 ---

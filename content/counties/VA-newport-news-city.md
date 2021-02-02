@@ -1,6 +1,6 @@
 ---
 title: "Newport News City, VA"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:51700.0,FEMA:3.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 51700.0
 FEMA_Region: 3.0
 Population: 179225.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 9002.0
-Fourteen_day_test_rate_per_100000: 5023.0
-Percent_Positivity_in_prior_14_days: 0.221
+Tests_in_prior_14_days: 8459.0
+Fourteen_day_test_rate_per_100000: 4720.0
+Percent_Positivity_in_prior_14_days: 0.176
 Level: Red
 url: /states/VA/newport-news-city
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Licking County, OH"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:39089.0,FEMA:5.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 39089.0
 FEMA_Region: 5.0
 Population: 176862.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1511.0
-Fourteen_day_test_rate_per_100000: 854.0
-Percent_Positivity_in_prior_14_days: 0.292
+Tests_in_prior_14_days: 1121.0
+Fourteen_day_test_rate_per_100000: 634.0
+Percent_Positivity_in_prior_14_days: 0.228
 Level: Red
 url: /states/OH/licking-county
 ---

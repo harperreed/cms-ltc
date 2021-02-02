@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, WI"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:55055.0,FEMA:5.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 55055.0
 FEMA_Region: 5.0
 Population: 84769.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4435.0
-Fourteen_day_test_rate_per_100000: 5232.0
-Percent_Positivity_in_prior_14_days: 0.114
+Tests_in_prior_14_days: 4170.0
+Fourteen_day_test_rate_per_100000: 4919.0
+Percent_Positivity_in_prior_14_days: 0.101
 Level: Red
 url: /states/WI/jefferson-county
 ---

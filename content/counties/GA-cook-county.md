@@ -1,6 +1,6 @@
 ---
 title: "Cook County, GA"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:13075.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13075.0
 FEMA_Region: 4.0
 Population: 17270.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 257.0
-Fourteen_day_test_rate_per_100000: 1488.0
-Percent_Positivity_in_prior_14_days: 0.136
+Tests_in_prior_14_days: 199.0
+Fourteen_day_test_rate_per_100000: 1152.0
+Percent_Positivity_in_prior_14_days: 0.156
 Level: Yellow
 url: /states/GA/cook-county
 ---

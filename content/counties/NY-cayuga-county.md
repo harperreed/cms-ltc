@@ -1,6 +1,6 @@
 ---
 title: "Cayuga County, NY"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:36011.0,FEMA:2.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 36011.0
 FEMA_Region: 2.0
 Population: 76576.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 7839.0
-Fourteen_day_test_rate_per_100000: 10237.0
-Percent_Positivity_in_prior_14_days: 0.097
+Tests_in_prior_14_days: 7148.0
+Fourteen_day_test_rate_per_100000: 9335.0
+Percent_Positivity_in_prior_14_days: 0.081
 Level: Yellow
 url: /states/NY/cayuga-county
 ---

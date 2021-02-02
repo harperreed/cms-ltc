@@ -1,9 +1,9 @@
 ---
 title: "White Pine County, NV"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
-tags: [FIPS:32033.0,FEMA:9.0,Non-core,Green]
+tags: [FIPS:32033.0,FEMA:9.0,Non-core,Yellow]
 categories: [NV]
 County: White Pine County
 State: NV
@@ -11,10 +11,10 @@ FIPS: 32033.0
 FEMA_Region: 9.0
 Population: 9580.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 494.0
-Fourteen_day_test_rate_per_100000: 5157.0
-Percent_Positivity_in_prior_14_days: 0.043
-Level: Green
+Tests_in_prior_14_days: 186.0
+Fourteen_day_test_rate_per_100000: 1942.0
+Percent_Positivity_in_prior_14_days: 0.113
+Level: Yellow
 url: /states/NV/white-pine-county
 ---
 

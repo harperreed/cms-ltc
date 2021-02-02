@@ -1,6 +1,6 @@
 ---
 title: "Cabarrus County, NC"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:37025.0,FEMA:4.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 37025.0
 FEMA_Region: 4.0
 Population: 216453.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 16164.0
-Fourteen_day_test_rate_per_100000: 7468.0
-Percent_Positivity_in_prior_14_days: 0.154
+Tests_in_prior_14_days: 15341.0
+Fourteen_day_test_rate_per_100000: 7087.0
+Percent_Positivity_in_prior_14_days: 0.127
 Level: Red
 url: /states/NC/cabarrus-county
 ---

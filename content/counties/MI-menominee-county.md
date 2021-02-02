@@ -1,9 +1,9 @@
 ---
 title: "Menominee County, MI"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
-tags: [FIPS:26109.0,FEMA:5.0,Micropolitan,Yellow]
+tags: [FIPS:26109.0,FEMA:5.0,Micropolitan,Green]
 categories: [MI]
 County: Menominee County
 State: MI
@@ -11,10 +11,10 @@ FIPS: 26109.0
 FEMA_Region: 5.0
 Population: 22780.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 812.0
-Fourteen_day_test_rate_per_100000: 3565.0
-Percent_Positivity_in_prior_14_days: 0.074
-Level: Yellow
+Tests_in_prior_14_days: 1424.0
+Fourteen_day_test_rate_per_100000: 6251.0
+Percent_Positivity_in_prior_14_days: 0.025
+Level: Green
 url: /states/MI/menominee-county
 ---
 

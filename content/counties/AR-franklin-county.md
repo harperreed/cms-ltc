@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, AR"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:5047.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 5047.0
 FEMA_Region: 6.0
 Population: 17715.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 930.0
-Fourteen_day_test_rate_per_100000: 5250.0
-Percent_Positivity_in_prior_14_days: 0.086
+Tests_in_prior_14_days: 919.0
+Fourteen_day_test_rate_per_100000: 5188.0
+Percent_Positivity_in_prior_14_days: 0.099
 Level: Yellow
 url: /states/AR/franklin-county
 ---

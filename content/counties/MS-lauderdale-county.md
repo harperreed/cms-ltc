@@ -1,6 +1,6 @@
 ---
 title: "Lauderdale County, MS"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:28075.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 28075.0
 FEMA_Region: 4.0
 Population: 74125.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1120.0
-Fourteen_day_test_rate_per_100000: 1511.0
-Percent_Positivity_in_prior_14_days: 0.151
+Tests_in_prior_14_days: 864.0
+Fourteen_day_test_rate_per_100000: 1166.0
+Percent_Positivity_in_prior_14_days: 0.133
 Level: Red
 url: /states/MS/lauderdale-county
 ---

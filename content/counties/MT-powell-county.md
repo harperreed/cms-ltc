@@ -1,6 +1,6 @@
 ---
 title: "Powell County, MT"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:30077.0,FEMA:8.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 30077.0
 FEMA_Region: 8.0
 Population: 6890.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 495.0
-Fourteen_day_test_rate_per_100000: 7184.0
-Percent_Positivity_in_prior_14_days: 0.19
+Tests_in_prior_14_days: 491.0
+Fourteen_day_test_rate_per_100000: 7126.0
+Percent_Positivity_in_prior_14_days: 0.169
 Level: Red
 url: /states/MT/powell-county
 ---

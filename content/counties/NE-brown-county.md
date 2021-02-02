@@ -1,6 +1,6 @@
 ---
 title: "Brown County, NE"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:31017.0,FEMA:7.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 31017.0
 FEMA_Region: 7.0
 Population: 2955.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 46.0
-Fourteen_day_test_rate_per_100000: 1557.0
-Percent_Positivity_in_prior_14_days: 0.022
+Tests_in_prior_14_days: 21.0
+Fourteen_day_test_rate_per_100000: 711.0
+Percent_Positivity_in_prior_14_days: 0.048
 Level: Green
 url: /states/NE/brown-county
 ---

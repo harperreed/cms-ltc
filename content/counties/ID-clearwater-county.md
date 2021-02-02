@@ -1,6 +1,6 @@
 ---
 title: "Clearwater County, ID"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:16035.0,FEMA:10.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 16035.0
 FEMA_Region: 10.0
 Population: 8756.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 578.0
-Fourteen_day_test_rate_per_100000: 6601.0
-Percent_Positivity_in_prior_14_days: 0.272
+Tests_in_prior_14_days: 645.0
+Fourteen_day_test_rate_per_100000: 7366.0
+Percent_Positivity_in_prior_14_days: 0.264
 Level: Red
 url: /states/ID/clearwater-county
 ---

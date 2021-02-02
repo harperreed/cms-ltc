@@ -1,6 +1,6 @@
 ---
 title: "McNairy County, TN"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:47109.0,FEMA:4.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 47109.0
 FEMA_Region: 4.0
 Population: 25694.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1119.0
-Fourteen_day_test_rate_per_100000: 4355.0
-Percent_Positivity_in_prior_14_days: 0.125
+Tests_in_prior_14_days: 947.0
+Fourteen_day_test_rate_per_100000: 3686.0
+Percent_Positivity_in_prior_14_days: 0.107
 Level: Red
 url: /states/TN/mcnairy-county
 ---

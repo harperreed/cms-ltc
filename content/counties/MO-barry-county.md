@@ -1,6 +1,6 @@
 ---
 title: "Barry County, MO"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:29009.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 29009.0
 FEMA_Region: 7.0
 Population: 35789.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 158.0
-Fourteen_day_test_rate_per_100000: 441.0
-Percent_Positivity_in_prior_14_days: 0.101
+Tests_in_prior_14_days: 107.0
+Fourteen_day_test_rate_per_100000: 299.0
+Percent_Positivity_in_prior_14_days: 0.112
 Level: Yellow
 url: /states/MO/barry-county
 ---

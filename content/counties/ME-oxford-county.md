@@ -1,9 +1,9 @@
 ---
 title: "Oxford County, ME"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
-tags: [FIPS:23017.0,FEMA:1.0,Non-core,Red]
+tags: [FIPS:23017.0,FEMA:1.0,Non-core,Yellow]
 categories: [ME]
 County: Oxford County
 State: ME
@@ -11,10 +11,10 @@ FIPS: 23017.0
 FEMA_Region: 1.0
 Population: 57975.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1240.0
-Fourteen_day_test_rate_per_100000: 2139.0
-Percent_Positivity_in_prior_14_days: 0.104
-Level: Red
+Tests_in_prior_14_days: 1364.0
+Fourteen_day_test_rate_per_100000: 2353.0
+Percent_Positivity_in_prior_14_days: 0.05
+Level: Yellow
 url: /states/ME/oxford-county
 ---
 

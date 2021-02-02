@@ -1,9 +1,9 @@
 ---
 title: "Clark County, WA"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
-tags: [FIPS:53011.0,FEMA:10.0,Large fringe metro,Red]
+tags: [FIPS:53011.0,FEMA:10.0,Large fringe metro,Yellow]
 categories: [WA]
 County: Clark County
 State: WA
@@ -11,10 +11,10 @@ FIPS: 53011.0
 FEMA_Region: 10.0
 Population: 488241.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 3052.0
-Fourteen_day_test_rate_per_100000: 625.0
-Percent_Positivity_in_prior_14_days: 0.106
-Level: Red
+Tests_in_prior_14_days: 2361.0
+Fourteen_day_test_rate_per_100000: 484.0
+Percent_Positivity_in_prior_14_days: 0.092
+Level: Yellow
 url: /states/WA/clark-county
 ---
 

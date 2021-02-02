@@ -1,6 +1,6 @@
 ---
 title: "Gunnison County, CO"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:8051.0,FEMA:8.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 8051.0
 FEMA_Region: 8.0
 Population: 17462.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2208.0
-Fourteen_day_test_rate_per_100000: 12645.0
-Percent_Positivity_in_prior_14_days: 0.083
+Tests_in_prior_14_days: 2204.0
+Fourteen_day_test_rate_per_100000: 12622.0
+Percent_Positivity_in_prior_14_days: 0.078
 Level: Yellow
 url: /states/CO/gunnison-county
 ---

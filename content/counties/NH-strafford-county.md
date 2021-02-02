@@ -1,6 +1,6 @@
 ---
 title: "Strafford County, NH"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:33017.0,FEMA:1.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 33017.0
 FEMA_Region: 1.0
 Population: 130633.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 4134.0
-Fourteen_day_test_rate_per_100000: 3165.0
-Percent_Positivity_in_prior_14_days: 0.167
+Tests_in_prior_14_days: 3981.0
+Fourteen_day_test_rate_per_100000: 3047.0
+Percent_Positivity_in_prior_14_days: 0.14
 Level: Red
 url: /states/NH/strafford-county
 ---

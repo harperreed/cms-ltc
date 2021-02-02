@@ -1,6 +1,6 @@
 ---
 title: "Portsmouth City, VA"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:51740.0,FEMA:3.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 51740.0
 FEMA_Region: 3.0
 Population: 94398.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 6481.0
-Fourteen_day_test_rate_per_100000: 6866.0
-Percent_Positivity_in_prior_14_days: 0.227
+Tests_in_prior_14_days: 5582.0
+Fourteen_day_test_rate_per_100000: 5913.0
+Percent_Positivity_in_prior_14_days: 0.208
 Level: Red
 url: /states/VA/portsmouth-city
 ---

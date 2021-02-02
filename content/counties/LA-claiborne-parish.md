@@ -1,6 +1,6 @@
 ---
 title: "Claiborne Parish, LA"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:22027.0,FEMA:6.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 22027.0
 FEMA_Region: 6.0
 Population: 15670.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 506.0
-Fourteen_day_test_rate_per_100000: 3229.0
-Percent_Positivity_in_prior_14_days: 0.186
+Tests_in_prior_14_days: 420.0
+Fourteen_day_test_rate_per_100000: 2680.0
+Percent_Positivity_in_prior_14_days: 0.114
 Level: Red
 url: /states/LA/claiborne-parish
 ---

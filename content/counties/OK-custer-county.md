@@ -1,6 +1,6 @@
 ---
 title: "Custer County, OK"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:40039.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 40039.0
 FEMA_Region: 6.0
 Population: 29003.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 393.0
-Fourteen_day_test_rate_per_100000: 1355.0
-Percent_Positivity_in_prior_14_days: 0.16
+Tests_in_prior_14_days: 341.0
+Fourteen_day_test_rate_per_100000: 1176.0
+Percent_Positivity_in_prior_14_days: 0.15
 Level: Yellow
 url: /states/OK/custer-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Steuben County, NY"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
-tags: [FIPS:36101.0,FEMA:2.0,Micropolitan,Yellow]
+tags: [FIPS:36101.0,FEMA:2.0,Micropolitan,Green]
 categories: [NY]
 County: Steuben County
 State: NY
@@ -11,10 +11,10 @@ FIPS: 36101.0
 FEMA_Region: 2.0
 Population: 95379.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 10587.0
-Fourteen_day_test_rate_per_100000: 11100.0
-Percent_Positivity_in_prior_14_days: 0.065
-Level: Yellow
+Tests_in_prior_14_days: 11118.0
+Fourteen_day_test_rate_per_100000: 11657.0
+Percent_Positivity_in_prior_14_days: 0.046
+Level: Green
 url: /states/NY/steuben-county
 ---
 

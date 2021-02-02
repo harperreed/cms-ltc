@@ -1,6 +1,6 @@
 ---
 title: "Judith Basin County, MT"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:30045.0,FEMA:8.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 30045.0
 FEMA_Region: 8.0
 Population: 2007.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 41.0
-Fourteen_day_test_rate_per_100000: 2043.0
-Percent_Positivity_in_prior_14_days: 0.049
+Tests_in_prior_14_days: 21.0
+Fourteen_day_test_rate_per_100000: 1046.0
+Percent_Positivity_in_prior_14_days: 0.048
 Level: Green
 url: /states/MT/judith-basin-county
 ---

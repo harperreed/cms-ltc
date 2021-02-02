@@ -1,6 +1,6 @@
 ---
 title: "Bracken County, KY"
-date: 2021-02-01
+date: 2021-02-02
 draft: false
 type: county
 tags: [FIPS:21023.0,FEMA:4.0,Large fringe metro,Red]
@@ -13,7 +13,7 @@ Population: 8303.0
 NCHS_Urban_Rural_Classification: Large fringe metro
 Tests_in_prior_14_days: 300.0
 Fourteen_day_test_rate_per_100000: 3613.0
-Percent_Positivity_in_prior_14_days: 0.12
+Percent_Positivity_in_prior_14_days: 0.103
 Level: Red
 url: /states/KY/bracken-county
 ---
