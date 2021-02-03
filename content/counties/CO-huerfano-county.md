@@ -1,6 +1,6 @@
 ---
 title: "Huerfano County, CO"
-date: 2021-02-02
+date: 2021-02-03
 draft: false
 type: county
 tags: [FIPS:8055.0,FEMA:8.0,Non-core,Green]

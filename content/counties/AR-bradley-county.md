@@ -1,6 +1,6 @@
 ---
 title: "Bradley County, AR"
-date: 2021-02-02
+date: 2021-02-03
 draft: false
 type: county
 tags: [FIPS:5011.0,FEMA:6.0,Non-core,Red]

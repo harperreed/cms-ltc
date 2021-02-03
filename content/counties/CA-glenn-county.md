@@ -1,6 +1,6 @@
 ---
 title: "Glenn County, CA"
-date: 2021-02-02
+date: 2021-02-03
 draft: false
 type: county
 tags: [FIPS:6021.0,FEMA:9.0,Non-core,Gray]

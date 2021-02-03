@@ -1,6 +1,6 @@
 ---
 title: "Cumberland County, NJ"
-date: 2021-02-02
+date: 2021-02-03
 draft: false
 type: county
 tags: [FIPS:34011.0,FEMA:2.0,Small metro,Red]

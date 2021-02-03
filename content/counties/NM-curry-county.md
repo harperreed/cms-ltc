@@ -1,6 +1,6 @@
 ---
 title: "Curry County, NM"
-date: 2021-02-02
+date: 2021-02-03
 draft: false
 type: county
 tags: [FIPS:35009.0,FEMA:6.0,Micropolitan,Yellow]

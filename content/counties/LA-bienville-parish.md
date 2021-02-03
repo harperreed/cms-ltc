@@ -1,6 +1,6 @@
 ---
 title: "Bienville Parish, LA"
-date: 2021-02-02
+date: 2021-02-03
 draft: false
 type: county
 tags: [FIPS:22013.0,FEMA:6.0,Non-core,Yellow]

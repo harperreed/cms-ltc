@@ -1,6 +1,6 @@
 ---
 title: "Chemung County, NY"
-date: 2021-02-02
+date: 2021-02-03
 draft: false
 type: county
 tags: [FIPS:36015.0,FEMA:2.0,Small metro,Yellow]
