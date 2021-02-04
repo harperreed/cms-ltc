@@ -1,6 +1,6 @@
 ---
 title: "Cottonwood County, MN"
-date: 2021-02-03
+date: 2021-02-04
 draft: false
 type: county
 tags: [FIPS:27033.0,FEMA:5.0,Non-core,Yellow]

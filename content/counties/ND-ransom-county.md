@@ -1,6 +1,6 @@
 ---
 title: "Ransom County, ND"
-date: 2021-02-03
+date: 2021-02-04
 draft: false
 type: county
 tags: [FIPS:38073.0,FEMA:8.0,Non-core,Green]

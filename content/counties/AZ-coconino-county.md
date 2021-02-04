@@ -1,6 +1,6 @@
 ---
 title: "Coconino County, AZ"
-date: 2021-02-03
+date: 2021-02-04
 draft: false
 type: county
 tags: [FIPS:4005.0,FEMA:9.0,Small metro,Red]

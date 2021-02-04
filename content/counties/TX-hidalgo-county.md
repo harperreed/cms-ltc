@@ -1,6 +1,6 @@
 ---
 title: "Hidalgo County, TX"
-date: 2021-02-03
+date: 2021-02-04
 draft: false
 type: county
 tags: [FIPS:48215.0,FEMA:6.0,Medium metro,Red]

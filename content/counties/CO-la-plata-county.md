@@ -1,6 +1,6 @@
 ---
 title: "La Plata County, CO"
-date: 2021-02-03
+date: 2021-02-04
 draft: false
 type: county
 tags: [FIPS:8067.0,FEMA:8.0,Micropolitan,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Tuolumne County, CA"
-date: 2021-02-03
+date: 2021-02-04
 draft: false
 type: county
 tags: [FIPS:6109.0,FEMA:9.0,Micropolitan,Yellow]
