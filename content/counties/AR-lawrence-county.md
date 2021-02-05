@@ -1,6 +1,6 @@
 ---
 title: "Lawrence County, AR"
-date: 2021-02-04
+date: 2021-02-05
 draft: false
 type: county
 tags: [FIPS:5075.0,FEMA:6.0,Non-core,Green]

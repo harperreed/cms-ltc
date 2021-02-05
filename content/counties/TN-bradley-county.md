@@ -1,6 +1,6 @@
 ---
 title: "Bradley County, TN"
-date: 2021-02-04
+date: 2021-02-05
 draft: false
 type: county
 tags: [FIPS:47011.0,FEMA:4.0,Small metro,Red]

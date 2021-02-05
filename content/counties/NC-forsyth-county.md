@@ -1,6 +1,6 @@
 ---
 title: "Forsyth County, NC"
-date: 2021-02-04
+date: 2021-02-05
 draft: false
 type: county
 tags: [FIPS:37067.0,FEMA:4.0,Medium metro,Red]

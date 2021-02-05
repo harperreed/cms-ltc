@@ -1,6 +1,6 @@
 ---
 title: "Doniphan County, KS"
-date: 2021-02-04
+date: 2021-02-05
 draft: false
 type: county
 tags: [FIPS:20043.0,FEMA:7.0,Small metro,Yellow]

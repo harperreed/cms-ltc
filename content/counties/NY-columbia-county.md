@@ -1,6 +1,6 @@
 ---
 title: "Columbia County, NY"
-date: 2021-02-04
+date: 2021-02-05
 draft: false
 type: county
 tags: [FIPS:36021.0,FEMA:2.0,Micropolitan,Yellow]

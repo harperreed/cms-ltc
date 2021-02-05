@@ -1,6 +1,6 @@
 ---
 title: "Yuba County, CA"
-date: 2021-02-04
+date: 2021-02-05
 draft: false
 type: county
 tags: [FIPS:6115.0,FEMA:9.0,Small metro,Red]
