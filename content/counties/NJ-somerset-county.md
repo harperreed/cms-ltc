@@ -1,6 +1,6 @@
 ---
 title: "Somerset County, NJ"
-date: 2021-02-05
+date: 2021-02-06
 draft: false
 type: county
 tags: [FIPS:34035.0,FEMA:2.0,Large fringe metro,Yellow]

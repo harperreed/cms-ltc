@@ -1,6 +1,6 @@
 ---
 title: "Steele County, ND"
-date: 2021-02-05
+date: 2021-02-06
 draft: false
 type: county
 tags: [FIPS:38091.0,FEMA:8.0,Non-core,Green]

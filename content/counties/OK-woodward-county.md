@@ -1,6 +1,6 @@
 ---
 title: "Woodward County, OK"
-date: 2021-02-05
+date: 2021-02-06
 draft: false
 type: county
 tags: [FIPS:40153.0,FEMA:6.0,Micropolitan,Yellow]

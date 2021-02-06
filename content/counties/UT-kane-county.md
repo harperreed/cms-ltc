@@ -1,6 +1,6 @@
 ---
 title: "Kane County, UT"
-date: 2021-02-05
+date: 2021-02-06
 draft: false
 type: county
 tags: [FIPS:49025.0,FEMA:8.0,Non-core,Red]
