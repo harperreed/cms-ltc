@@ -1,6 +1,6 @@
 ---
 title: "Elliott County, KY"
-date: 2021-02-06
+date: 2021-02-07
 draft: false
 type: county
 tags: [FIPS:21063.0,FEMA:4.0,Non-core,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Tooele County, UT"
-date: 2021-02-06
+date: 2021-02-07
 draft: false
 type: county
 tags: [FIPS:49045.0,FEMA:8.0,Large fringe metro,Red]

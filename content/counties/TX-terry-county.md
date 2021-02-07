@@ -1,6 +1,6 @@
 ---
 title: "Terry County, TX"
-date: 2021-02-06
+date: 2021-02-07
 draft: false
 type: county
 tags: [FIPS:48445.0,FEMA:6.0,Non-core,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Clay County, TN"
-date: 2021-02-06
+date: 2021-02-07
 draft: false
 type: county
 tags: [FIPS:47027.0,FEMA:4.0,Non-core,Yellow]

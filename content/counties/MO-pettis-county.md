@@ -1,6 +1,6 @@
 ---
 title: "Pettis County, MO"
-date: 2021-02-06
+date: 2021-02-07
 draft: false
 type: county
 tags: [FIPS:29159.0,FEMA:7.0,Micropolitan,Yellow]

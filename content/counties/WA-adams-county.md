@@ -1,6 +1,6 @@
 ---
 title: "Adams County, WA"
-date: 2021-02-06
+date: 2021-02-07
 draft: false
 type: county
 tags: [FIPS:53001.0,FEMA:10.0,Micropolitan,Yellow]
