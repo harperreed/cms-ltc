@@ -1,6 +1,6 @@
 ---
 title: "Bedford County, VA"
-date: 2021-02-07
+date: 2021-02-08
 draft: false
 type: county
 tags: [FIPS:51019.0,FEMA:3.0,Medium metro,Red]
