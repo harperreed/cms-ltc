@@ -1,6 +1,6 @@
 ---
 title: "Nueces County, TX"
-date: 2021-02-08
+date: 2021-02-09
 draft: false
 type: county
 tags: [FIPS:48355.0,FEMA:6.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48355.0
 FEMA_Region: 6.0
 Population: 362294.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 9395.0
-Fourteen_day_test_rate_per_100000: 2593.0
-Percent_Positivity_in_prior_14_days: 0.137
+Tests_in_prior_14_days: 10082.0
+Fourteen_day_test_rate_per_100000: 2783.0
+Percent_Positivity_in_prior_14_days: 0.146
 Level: Red
 url: /states/TX/nueces-county
 ---

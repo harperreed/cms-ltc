@@ -1,6 +1,6 @@
 ---
 title: "Pamlico County, NC"
-date: 2021-02-08
+date: 2021-02-09
 draft: false
 type: county
 tags: [FIPS:37137.0,FEMA:4.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 37137.0
 FEMA_Region: 4.0
 Population: 12726.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 985.0
-Fourteen_day_test_rate_per_100000: 7740.0
-Percent_Positivity_in_prior_14_days: 0.082
+Tests_in_prior_14_days: 986.0
+Fourteen_day_test_rate_per_100000: 7748.0
+Percent_Positivity_in_prior_14_days: 0.097
 Level: Yellow
 url: /states/NC/pamlico-county
 ---

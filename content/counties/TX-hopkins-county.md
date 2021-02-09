@@ -1,6 +1,6 @@
 ---
 title: "Hopkins County, TX"
-date: 2021-02-08
+date: 2021-02-09
 draft: false
 type: county
 tags: [FIPS:48223.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48223.0
 FEMA_Region: 6.0
 Population: 37084.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 959.0
-Fourteen_day_test_rate_per_100000: 2586.0
-Percent_Positivity_in_prior_14_days: 0.075
+Tests_in_prior_14_days: 1002.0
+Fourteen_day_test_rate_per_100000: 2702.0
+Percent_Positivity_in_prior_14_days: 0.092
 Level: Yellow
 url: /states/TX/hopkins-county
 ---

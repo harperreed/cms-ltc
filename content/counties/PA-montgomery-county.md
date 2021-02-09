@@ -1,6 +1,6 @@
 ---
 title: "Montgomery County, PA"
-date: 2021-02-08
+date: 2021-02-09
 draft: false
 type: county
 tags: [FIPS:42091.0,FEMA:3.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 42091.0
 FEMA_Region: 3.0
 Population: 830915.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 52143.0
-Fourteen_day_test_rate_per_100000: 6275.0
-Percent_Positivity_in_prior_14_days: 0.083
+Tests_in_prior_14_days: 43024.0
+Fourteen_day_test_rate_per_100000: 5178.0
+Percent_Positivity_in_prior_14_days: 0.077
 Level: Yellow
 url: /states/PA/montgomery-county
 ---

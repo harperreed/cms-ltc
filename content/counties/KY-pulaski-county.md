@@ -1,6 +1,6 @@
 ---
 title: "Pulaski County, KY"
-date: 2021-02-08
+date: 2021-02-09
 draft: false
 type: county
 tags: [FIPS:21199.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 21199.0
 FEMA_Region: 4.0
 Population: 64979.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1797.0
-Fourteen_day_test_rate_per_100000: 2766.0
-Percent_Positivity_in_prior_14_days: 0.075
+Tests_in_prior_14_days: 1790.0
+Fourteen_day_test_rate_per_100000: 2755.0
+Percent_Positivity_in_prior_14_days: 0.058
 Level: Yellow
 url: /states/KY/pulaski-county
 ---

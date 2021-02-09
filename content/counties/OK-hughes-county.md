@@ -1,6 +1,6 @@
 ---
 title: "Hughes County, OK"
-date: 2021-02-08
+date: 2021-02-09
 draft: false
 type: county
 tags: [FIPS:40063.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 40063.0
 FEMA_Region: 6.0
 Population: 13279.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 168.0
-Fourteen_day_test_rate_per_100000: 1265.0
-Percent_Positivity_in_prior_14_days: 0.137
+Tests_in_prior_14_days: 159.0
+Fourteen_day_test_rate_per_100000: 1197.0
+Percent_Positivity_in_prior_14_days: 0.176
 Level: Yellow
 url: /states/OK/hughes-county
 ---

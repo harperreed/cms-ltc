@@ -1,6 +1,6 @@
 ---
 title: "Tripp County, SD"
-date: 2021-02-08
+date: 2021-02-09
 draft: false
 type: county
 tags: [FIPS:46123.0,FEMA:8.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 46123.0
 FEMA_Region: 8.0
 Population: 5441.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 29.0
-Fourteen_day_test_rate_per_100000: 533.0
-Percent_Positivity_in_prior_14_days: 0.034
+Tests_in_prior_14_days: 80.0
+Fourteen_day_test_rate_per_100000: 1470.0
+Percent_Positivity_in_prior_14_days: 0.012
 Level: Green
 url: /states/SD/tripp-county
 ---

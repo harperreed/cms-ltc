@@ -1,9 +1,9 @@
 ---
 title: "Towner County, ND"
-date: 2021-02-08
+date: 2021-02-09
 draft: false
 type: county
-tags: [FIPS:38095.0,FEMA:8.0,Non-core,Yellow]
+tags: [FIPS:38095.0,FEMA:8.0,Non-core,Green]
 categories: [ND]
 County: Towner County
 State: ND
@@ -11,10 +11,10 @@ FIPS: 38095.0
 FEMA_Region: 8.0
 Population: 2189.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 191.0
-Fourteen_day_test_rate_per_100000: 8725.0
-Percent_Positivity_in_prior_14_days: 0.063
-Level: Yellow
+Tests_in_prior_14_days: 155.0
+Fourteen_day_test_rate_per_100000: 7081.0
+Percent_Positivity_in_prior_14_days: 0.045
+Level: Green
 url: /states/ND/towner-county
 ---
 

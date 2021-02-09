@@ -1,9 +1,9 @@
 ---
 title: "Coconino County, AZ"
-date: 2021-02-08
+date: 2021-02-09
 draft: false
 type: county
-tags: [FIPS:4005.0,FEMA:9.0,Small metro,Red]
+tags: [FIPS:4005.0,FEMA:9.0,Small metro,Yellow]
 categories: [AZ]
 County: Coconino County
 State: AZ
@@ -11,10 +11,10 @@ FIPS: 4005.0
 FEMA_Region: 9.0
 Population: 143476.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 12041.0
-Fourteen_day_test_rate_per_100000: 8392.0
-Percent_Positivity_in_prior_14_days: 0.119
-Level: Red
+Tests_in_prior_14_days: 12244.0
+Fourteen_day_test_rate_per_100000: 8534.0
+Percent_Positivity_in_prior_14_days: 0.093
+Level: Yellow
 url: /states/AZ/coconino-county
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: "Fairfax City, VA"
-date: 2021-02-08
+title: "Fairfax city, VA"
+date: 2021-02-09
 draft: false
 type: county
 tags: [FIPS:51600.0,FEMA:3.0,Large fringe metro,Green]
 categories: [VA]
-County: Fairfax City
+County: Fairfax city
 State: VA
 FIPS: 51600.0
 FEMA_Region: 3.0

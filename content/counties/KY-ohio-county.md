@@ -1,6 +1,6 @@
 ---
 title: "Ohio County, KY"
-date: 2021-02-08
+date: 2021-02-09
 draft: false
 type: county
 tags: [FIPS:21183.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 21183.0
 FEMA_Region: 4.0
 Population: 23994.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 454.0
-Fourteen_day_test_rate_per_100000: 1892.0
-Percent_Positivity_in_prior_14_days: 0.236
+Tests_in_prior_14_days: 423.0
+Fourteen_day_test_rate_per_100000: 1763.0
+Percent_Positivity_in_prior_14_days: 0.225
 Level: Yellow
 url: /states/KY/ohio-county
 ---

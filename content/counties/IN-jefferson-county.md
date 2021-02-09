@@ -1,9 +1,9 @@
 ---
 title: "Jefferson County, IN"
-date: 2021-02-08
+date: 2021-02-09
 draft: false
 type: county
-tags: [FIPS:18077.0,FEMA:5.0,Micropolitan,Yellow]
+tags: [FIPS:18077.0,FEMA:5.0,Micropolitan,Red]
 categories: [IN]
 County: Jefferson County
 State: IN
@@ -11,10 +11,10 @@ FIPS: 18077.0
 FEMA_Region: 5.0
 Population: 32308.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1653.0
-Fourteen_day_test_rate_per_100000: 5116.0
-Percent_Positivity_in_prior_14_days: 0.097
-Level: Yellow
+Tests_in_prior_14_days: 1495.0
+Fourteen_day_test_rate_per_100000: 4627.0
+Percent_Positivity_in_prior_14_days: 0.11
+Level: Red
 url: /states/IN/jefferson-county
 ---
 

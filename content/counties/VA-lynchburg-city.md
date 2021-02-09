@@ -1,19 +1,19 @@
 ---
-title: "Lynchburg City, VA"
-date: 2021-02-08
+title: "Lynchburg city, VA"
+date: 2021-02-09
 draft: false
 type: county
 tags: [FIPS:51680.0,FEMA:3.0,Medium metro,Red]
 categories: [VA]
-County: Lynchburg City
+County: Lynchburg city
 State: VA
 FIPS: 51680.0
 FEMA_Region: 3.0
 Population: 82168.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 5179.0
-Fourteen_day_test_rate_per_100000: 6303.0
-Percent_Positivity_in_prior_14_days: 0.139
+Tests_in_prior_14_days: 4305.0
+Fourteen_day_test_rate_per_100000: 5239.0
+Percent_Positivity_in_prior_14_days: 0.128
 Level: Red
 url: /states/VA/lynchburg-city
 ---

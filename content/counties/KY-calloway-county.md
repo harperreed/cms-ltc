@@ -1,9 +1,9 @@
 ---
 title: "Calloway County, KY"
-date: 2021-02-08
+date: 2021-02-09
 draft: false
 type: county
-tags: [FIPS:21035.0,FEMA:4.0,Micropolitan,Red]
+tags: [FIPS:21035.0,FEMA:4.0,Micropolitan,Yellow]
 categories: [KY]
 County: Calloway County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21035.0
 FEMA_Region: 4.0
 Population: 39001.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2116.0
-Fourteen_day_test_rate_per_100000: 5426.0
-Percent_Positivity_in_prior_14_days: 0.107
-Level: Red
+Tests_in_prior_14_days: 1946.0
+Fourteen_day_test_rate_per_100000: 4990.0
+Percent_Positivity_in_prior_14_days: 0.077
+Level: Yellow
 url: /states/KY/calloway-county
 ---
 

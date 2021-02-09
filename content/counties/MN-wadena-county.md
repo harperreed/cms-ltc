@@ -1,9 +1,9 @@
 ---
 title: "Wadena County, MN"
-date: 2021-02-08
+date: 2021-02-09
 draft: false
 type: county
-tags: [FIPS:27159.0,FEMA:5.0,Non-core,Yellow]
+tags: [FIPS:27159.0,FEMA:5.0,Non-core,Green]
 categories: [MN]
 County: Wadena County
 State: MN
@@ -11,10 +11,10 @@ FIPS: 27159.0
 FEMA_Region: 5.0
 Population: 13682.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 939.0
-Fourteen_day_test_rate_per_100000: 6863.0
-Percent_Positivity_in_prior_14_days: 0.075
-Level: Yellow
+Tests_in_prior_14_days: 853.0
+Fourteen_day_test_rate_per_100000: 6234.0
+Percent_Positivity_in_prior_14_days: 0.045
+Level: Green
 url: /states/MN/wadena-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Genesee County, MI"
-date: 2021-02-08
+date: 2021-02-09
 draft: false
 type: county
 tags: [FIPS:26049.0,FEMA:5.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 26049.0
 FEMA_Region: 5.0
 Population: 405813.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 16303.0
-Fourteen_day_test_rate_per_100000: 4017.0
-Percent_Positivity_in_prior_14_days: 0.048
+Tests_in_prior_14_days: 15121.0
+Fourteen_day_test_rate_per_100000: 3726.0
+Percent_Positivity_in_prior_14_days: 0.039
 Level: Green
 url: /states/MI/genesee-county
 ---

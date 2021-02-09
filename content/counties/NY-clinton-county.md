@@ -1,6 +1,6 @@
 ---
 title: "Clinton County, NY"
-date: 2021-02-08
+date: 2021-02-09
 draft: false
 type: county
 tags: [FIPS:36019.0,FEMA:2.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 36019.0
 FEMA_Region: 2.0
 Population: 80485.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 7896.0
-Fourteen_day_test_rate_per_100000: 9811.0
-Percent_Positivity_in_prior_14_days: 0.074
+Tests_in_prior_14_days: 7236.0
+Fourteen_day_test_rate_per_100000: 8990.0
+Percent_Positivity_in_prior_14_days: 0.071
 Level: Yellow
 url: /states/NY/clinton-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Lincoln County, MS"
-date: 2021-02-08
+date: 2021-02-09
 draft: false
 type: county
 tags: [FIPS:28085.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28085.0
 FEMA_Region: 4.0
 Population: 34153.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 574.0
-Fourteen_day_test_rate_per_100000: 1681.0
-Percent_Positivity_in_prior_14_days: 0.073
+Tests_in_prior_14_days: 392.0
+Fourteen_day_test_rate_per_100000: 1148.0
+Percent_Positivity_in_prior_14_days: 0.122
 Level: Yellow
 url: /states/MS/lincoln-county
 ---

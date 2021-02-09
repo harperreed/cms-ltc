@@ -1,6 +1,6 @@
 ---
 title: "Richmond County, NC"
-date: 2021-02-08
+date: 2021-02-09
 draft: false
 type: county
 tags: [FIPS:37153.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 37153.0
 FEMA_Region: 4.0
 Population: 44829.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2868.0
-Fourteen_day_test_rate_per_100000: 6398.0
-Percent_Positivity_in_prior_14_days: 0.109
+Tests_in_prior_14_days: 2729.0
+Fourteen_day_test_rate_per_100000: 6088.0
+Percent_Positivity_in_prior_14_days: 0.103
 Level: Red
 url: /states/NC/richmond-county
 ---

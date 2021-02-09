@@ -1,6 +1,6 @@
 ---
 title: "Le Flore County, OK"
-date: 2021-02-08
+date: 2021-02-09
 draft: false
 type: county
 tags: [FIPS:40079.0,FEMA:6.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 40079.0
 FEMA_Region: 6.0
 Population: 49853.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1199.0
-Fourteen_day_test_rate_per_100000: 2405.0
-Percent_Positivity_in_prior_14_days: 0.183
+Tests_in_prior_14_days: 1426.0
+Fourteen_day_test_rate_per_100000: 2860.0
+Percent_Positivity_in_prior_14_days: 0.152
 Level: Red
 url: /states/OK/le-flore-county
 ---

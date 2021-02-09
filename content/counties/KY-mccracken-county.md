@@ -1,6 +1,6 @@
 ---
 title: "McCracken County, KY"
-date: 2021-02-08
+date: 2021-02-09
 draft: false
 type: county
 tags: [FIPS:21145.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 21145.0
 FEMA_Region: 4.0
 Population: 65418.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2768.0
-Fourteen_day_test_rate_per_100000: 4231.0
-Percent_Positivity_in_prior_14_days: 0.134
+Tests_in_prior_14_days: 2351.0
+Fourteen_day_test_rate_per_100000: 3594.0
+Percent_Positivity_in_prior_14_days: 0.114
 Level: Red
 url: /states/KY/mccracken-county
 ---
