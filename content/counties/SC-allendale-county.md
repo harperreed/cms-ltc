@@ -1,6 +1,6 @@
 ---
 title: "Allendale County, SC"
-date: 2021-02-09
+date: 2021-02-10
 draft: false
 type: county
 tags: [FIPS:45005.0,FEMA:4.0,Non-core,Red]

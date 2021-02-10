@@ -1,6 +1,6 @@
 ---
 title: "Wright County, MN"
-date: 2021-02-09
+date: 2021-02-10
 draft: false
 type: county
 tags: [FIPS:27171.0,FEMA:5.0,Large fringe metro,Green]

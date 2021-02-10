@@ -1,6 +1,6 @@
 ---
 title: "Noble County, IN"
-date: 2021-02-09
+date: 2021-02-10
 draft: false
 type: county
 tags: [FIPS:18113.0,FEMA:5.0,Micropolitan,Red]

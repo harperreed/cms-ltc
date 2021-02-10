@@ -1,6 +1,6 @@
 ---
 title: "Big Horn County, WY"
-date: 2021-02-09
+date: 2021-02-10
 draft: false
 type: county
 tags: [FIPS:56003.0,FEMA:8.0,Non-core,Yellow]

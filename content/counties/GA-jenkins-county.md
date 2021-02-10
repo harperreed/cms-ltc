@@ -1,6 +1,6 @@
 ---
 title: "Jenkins County, GA"
-date: 2021-02-09
+date: 2021-02-10
 draft: false
 type: county
 tags: [FIPS:13165.0,FEMA:4.0,Non-core,Yellow]

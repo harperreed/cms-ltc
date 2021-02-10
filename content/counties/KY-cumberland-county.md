@@ -1,6 +1,6 @@
 ---
 title: "Cumberland County, KY"
-date: 2021-02-09
+date: 2021-02-10
 draft: false
 type: county
 tags: [FIPS:21057.0,FEMA:4.0,Non-core,Green]
