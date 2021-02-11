@@ -1,6 +1,6 @@
 ---
 title: "Lucas County, OH"
-date: 2021-02-10
+date: 2021-02-11
 draft: false
 type: county
 tags: [FIPS:39095.0,FEMA:5.0,Medium metro,Red]

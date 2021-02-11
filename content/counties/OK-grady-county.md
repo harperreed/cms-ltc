@@ -1,6 +1,6 @@
 ---
 title: "Grady County, OK"
-date: 2021-02-10
+date: 2021-02-11
 draft: false
 type: county
 tags: [FIPS:40051.0,FEMA:6.0,Large fringe metro,Yellow]

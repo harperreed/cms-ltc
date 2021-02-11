@@ -1,6 +1,6 @@
 ---
 title: "Twiggs County, GA"
-date: 2021-02-10
+date: 2021-02-11
 draft: false
 type: county
 tags: [FIPS:13289.0,FEMA:4.0,Small metro,Yellow]

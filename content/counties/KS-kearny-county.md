@@ -1,6 +1,6 @@
 ---
 title: "Kearny County, KS"
-date: 2021-02-10
+date: 2021-02-11
 draft: false
 type: county
 tags: [FIPS:20093.0,FEMA:7.0,Micropolitan,Green]

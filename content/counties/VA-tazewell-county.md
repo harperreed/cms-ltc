@@ -1,6 +1,6 @@
 ---
 title: "Tazewell County, VA"
-date: 2021-02-10
+date: 2021-02-11
 draft: false
 type: county
 tags: [FIPS:51185.0,FEMA:3.0,Micropolitan,Red]

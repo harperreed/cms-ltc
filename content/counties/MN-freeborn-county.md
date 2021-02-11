@@ -1,6 +1,6 @@
 ---
 title: "Freeborn County, MN"
-date: 2021-02-10
+date: 2021-02-11
 draft: false
 type: county
 tags: [FIPS:27047.0,FEMA:5.0,Micropolitan,Yellow]
