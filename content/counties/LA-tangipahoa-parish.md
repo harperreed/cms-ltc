@@ -1,6 +1,6 @@
 ---
 title: "Tangipahoa Parish, LA"
-date: 2021-02-11
+date: 2021-02-12
 draft: false
 type: county
 tags: [FIPS:22105.0,FEMA:6.0,Small metro,Yellow]

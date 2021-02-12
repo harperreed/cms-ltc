@@ -1,6 +1,6 @@
 ---
 title: "Custer County, SD"
-date: 2021-02-11
+date: 2021-02-12
 draft: false
 type: county
 tags: [FIPS:46033.0,FEMA:8.0,Small metro,Yellow]

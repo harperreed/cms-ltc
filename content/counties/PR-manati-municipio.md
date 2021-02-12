@@ -1,6 +1,6 @@
 ---
 title: "Manatí Municipio, PR"
-date: 2021-02-11
+date: 2021-02-12
 draft: false
 type: county
 tags: [FIPS:72091.0,FEMA:2.0,,Yellow]

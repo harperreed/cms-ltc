@@ -1,6 +1,6 @@
 ---
 title: "Davison County, SD"
-date: 2021-02-11
+date: 2021-02-12
 draft: false
 type: county
 tags: [FIPS:46035.0,FEMA:8.0,Micropolitan,Green]
