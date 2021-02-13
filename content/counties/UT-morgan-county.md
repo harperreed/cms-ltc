@@ -1,6 +1,6 @@
 ---
 title: "Morgan County, UT"
-date: 2021-02-12
+date: 2021-02-13
 draft: false
 type: county
 tags: [FIPS:49029.0,FEMA:8.0,Medium metro,Green]

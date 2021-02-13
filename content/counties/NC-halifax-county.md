@@ -1,6 +1,6 @@
 ---
 title: "Halifax County, NC"
-date: 2021-02-12
+date: 2021-02-13
 draft: false
 type: county
 tags: [FIPS:37083.0,FEMA:4.0,Micropolitan,Red]

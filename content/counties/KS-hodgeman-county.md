@@ -1,6 +1,6 @@
 ---
 title: "Hodgeman County, KS"
-date: 2021-02-12
+date: 2021-02-13
 draft: false
 type: county
 tags: [FIPS:20083.0,FEMA:7.0,Non-core,Red]

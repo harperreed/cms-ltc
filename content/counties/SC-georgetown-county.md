@@ -1,6 +1,6 @@
 ---
 title: "Georgetown County, SC"
-date: 2021-02-12
+date: 2021-02-13
 draft: false
 type: county
 tags: [FIPS:45043.0,FEMA:4.0,Micropolitan,Red]
