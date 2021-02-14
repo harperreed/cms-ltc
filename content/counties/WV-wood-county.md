@@ -1,6 +1,6 @@
 ---
 title: "Wood County, WV"
-date: 2021-02-13
+date: 2021-02-14
 draft: false
 type: county
 tags: [FIPS:54107.0,FEMA:3.0,Small metro,Yellow]

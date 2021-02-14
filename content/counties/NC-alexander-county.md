@@ -1,6 +1,6 @@
 ---
 title: "Alexander County, NC"
-date: 2021-02-13
+date: 2021-02-14
 draft: false
 type: county
 tags: [FIPS:37003.0,FEMA:4.0,Medium metro,Yellow]

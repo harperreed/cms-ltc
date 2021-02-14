@@ -1,6 +1,6 @@
 ---
 title: "Rusk County, TX"
-date: 2021-02-13
+date: 2021-02-14
 draft: false
 type: county
 tags: [FIPS:48401.0,FEMA:6.0,Small metro,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Broomfield County, CO"
-date: 2021-02-13
+date: 2021-02-14
 draft: false
 type: county
 tags: [FIPS:8014.0,FEMA:8.0,Large fringe metro,Yellow]

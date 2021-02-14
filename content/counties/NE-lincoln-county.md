@@ -1,6 +1,6 @@
 ---
 title: "Lincoln County, NE"
-date: 2021-02-13
+date: 2021-02-14
 draft: false
 type: county
 tags: [FIPS:31111.0,FEMA:7.0,Micropolitan,Red]

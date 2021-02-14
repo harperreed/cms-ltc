@@ -1,6 +1,6 @@
 ---
 title: "Trumbull County, OH"
-date: 2021-02-13
+date: 2021-02-14
 draft: false
 type: county
 tags: [FIPS:39155.0,FEMA:5.0,Medium metro,Yellow]
