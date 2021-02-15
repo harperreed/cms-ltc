@@ -1,6 +1,6 @@
 ---
 title: "Polk County, TX"
-date: 2021-02-14
+date: 2021-02-15
 draft: false
 type: county
 tags: [FIPS:48373.0,FEMA:6.0,Non-core,Red]

@@ -1,6 +1,6 @@
 ---
 title: "McPherson County, KS"
-date: 2021-02-14
+date: 2021-02-15
 draft: false
 type: county
 tags: [FIPS:20113.0,FEMA:7.0,Micropolitan,Red]
