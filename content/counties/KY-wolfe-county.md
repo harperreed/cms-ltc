@@ -1,6 +1,6 @@
 ---
 title: "Wolfe County, KY"
-date: 2021-02-15
+date: 2021-02-16
 draft: false
 type: county
 tags: [FIPS:21237.0,FEMA:4.0,Non-core,Red]

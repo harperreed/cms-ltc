@@ -1,6 +1,6 @@
 ---
 title: "Tippecanoe County, IN"
-date: 2021-02-15
+date: 2021-02-16
 draft: false
 type: county
 tags: [FIPS:18157.0,FEMA:5.0,Small metro,Yellow]

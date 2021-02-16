@@ -1,6 +1,6 @@
 ---
 title: "Victoria County, TX"
-date: 2021-02-15
+date: 2021-02-16
 draft: false
 type: county
 tags: [FIPS:48469.0,FEMA:6.0,Small metro,Red]

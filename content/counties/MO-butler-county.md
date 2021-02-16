@@ -1,6 +1,6 @@
 ---
 title: "Butler County, MO"
-date: 2021-02-15
+date: 2021-02-16
 draft: false
 type: county
 tags: [FIPS:29023.0,FEMA:7.0,Micropolitan,Yellow]
