@@ -1,6 +1,6 @@
 ---
 title: "Nash County, NC"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:37127.0,FEMA:4.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 37127.0
 FEMA_Region: 4.0
 Population: 94298.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 5928.0
-Fourteen_day_test_rate_per_100000: 6286.0
-Percent_Positivity_in_prior_14_days: 0.139
+Tests_in_prior_14_days: 5942.0
+Fourteen_day_test_rate_per_100000: 6301.0
+Percent_Positivity_in_prior_14_days: 0.106
 Level: Red
 url: /states/NC/nash-county
 ---

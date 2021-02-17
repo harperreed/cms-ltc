@@ -1,9 +1,9 @@
 ---
 title: "Glynn County, GA"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
-tags: [FIPS:13127.0,FEMA:4.0,Small metro,Red]
+tags: [FIPS:13127.0,FEMA:4.0,Small metro,Yellow]
 categories: [GA]
 County: Glynn County
 State: GA
@@ -11,10 +11,10 @@ FIPS: 13127.0
 FEMA_Region: 4.0
 Population: 85292.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3011.0
-Fourteen_day_test_rate_per_100000: 3530.0
-Percent_Positivity_in_prior_14_days: 0.111
-Level: Red
+Tests_in_prior_14_days: 2735.0
+Fourteen_day_test_rate_per_100000: 3207.0
+Percent_Positivity_in_prior_14_days: 0.086
+Level: Yellow
 url: /states/GA/glynn-county
 ---
 

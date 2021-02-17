@@ -1,6 +1,6 @@
 ---
 title: "Beaufort County, SC"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:45013.0,FEMA:4.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 45013.0
 FEMA_Region: 4.0
 Population: 192122.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 5077.0
-Fourteen_day_test_rate_per_100000: 2643.0
-Percent_Positivity_in_prior_14_days: 0.137
+Tests_in_prior_14_days: 4319.0
+Fourteen_day_test_rate_per_100000: 2248.0
+Percent_Positivity_in_prior_14_days: 0.116
 Level: Red
 url: /states/SC/beaufort-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Miami-Dade County, FL"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:12086.0,FEMA:4.0,Large central metro,Red]
@@ -11,9 +11,9 @@ FIPS: 12086.0
 FEMA_Region: 4.0
 Population: 2716940.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 359137.0
-Fourteen_day_test_rate_per_100000: 13218.0
-Percent_Positivity_in_prior_14_days: 0.121
+Tests_in_prior_14_days: 317422.0
+Fourteen_day_test_rate_per_100000: 11683.0
+Percent_Positivity_in_prior_14_days: 0.112
 Level: Red
 url: /states/FL/miami-dade-county
 ---

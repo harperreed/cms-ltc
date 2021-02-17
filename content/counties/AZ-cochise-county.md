@@ -1,9 +1,9 @@
 ---
 title: "Cochise County, AZ"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
-tags: [FIPS:4003.0,FEMA:9.0,Small metro,Red]
+tags: [FIPS:4003.0,FEMA:9.0,Small metro,Yellow]
 categories: [AZ]
 County: Cochise County
 State: AZ
@@ -11,10 +11,10 @@ FIPS: 4003.0
 FEMA_Region: 9.0
 Population: 125922.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3854.0
-Fourteen_day_test_rate_per_100000: 3061.0
-Percent_Positivity_in_prior_14_days: 0.131
-Level: Red
+Tests_in_prior_14_days: 3430.0
+Fourteen_day_test_rate_per_100000: 2724.0
+Percent_Positivity_in_prior_14_days: 0.098
+Level: Yellow
 url: /states/AZ/cochise-county
 ---
 

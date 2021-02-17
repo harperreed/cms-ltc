@@ -1,9 +1,9 @@
 ---
 title: "Aguadilla Municipio, PR"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
-tags: [FIPS:72005.0,FEMA:2.0,,Green]
+tags: [FIPS:72005.0,FEMA:2.0,,Yellow]
 categories: [PR]
 County: Aguadilla Municipio
 State: PR
@@ -11,10 +11,10 @@ FIPS: 72005.0
 FEMA_Region: 2.0
 Population: 50265.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 78.0
-Fourteen_day_test_rate_per_100000: 155.0
-Percent_Positivity_in_prior_14_days: 0.038
-Level: Green
+Tests_in_prior_14_days: 162.0
+Fourteen_day_test_rate_per_100000: 322.0
+Percent_Positivity_in_prior_14_days: 0.093
+Level: Yellow
 url: /states/PR/aguadilla-municipio
 ---
 

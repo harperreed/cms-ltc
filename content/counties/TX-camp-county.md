@@ -1,6 +1,6 @@
 ---
 title: "Camp County, TX"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:48063.0,FEMA:6.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 48063.0
 FEMA_Region: 6.0
 Population: 13094.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 341.0
-Fourteen_day_test_rate_per_100000: 2604.0
-Percent_Positivity_in_prior_14_days: 0.173
+Tests_in_prior_14_days: 372.0
+Fourteen_day_test_rate_per_100000: 2841.0
+Percent_Positivity_in_prior_14_days: 0.134
 Level: Red
 url: /states/TX/camp-county
 ---

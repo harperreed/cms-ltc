@@ -1,6 +1,6 @@
 ---
 title: "Blount County, TN"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:47009.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 47009.0
 FEMA_Region: 4.0
 Population: 133088.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2640.0
-Fourteen_day_test_rate_per_100000: 1984.0
-Percent_Positivity_in_prior_14_days: 0.124
+Tests_in_prior_14_days: 2378.0
+Fourteen_day_test_rate_per_100000: 1787.0
+Percent_Positivity_in_prior_14_days: 0.122
 Level: Red
 url: /states/TN/blount-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Sabine Parish, LA"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:22085.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 22085.0
 FEMA_Region: 6.0
 Population: 23884.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 679.0
-Fourteen_day_test_rate_per_100000: 2843.0
-Percent_Positivity_in_prior_14_days: 0.097
+Tests_in_prior_14_days: 1070.0
+Fourteen_day_test_rate_per_100000: 4480.0
+Percent_Positivity_in_prior_14_days: 0.064
 Level: Yellow
 url: /states/LA/sabine-parish
 ---

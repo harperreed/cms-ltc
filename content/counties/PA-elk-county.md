@@ -1,6 +1,6 @@
 ---
 title: "Elk County, PA"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:42047.0,FEMA:3.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 42047.0
 FEMA_Region: 3.0
 Population: 29910.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2039.0
-Fourteen_day_test_rate_per_100000: 6817.0
-Percent_Positivity_in_prior_14_days: 0.041
+Tests_in_prior_14_days: 1575.0
+Fourteen_day_test_rate_per_100000: 5266.0
+Percent_Positivity_in_prior_14_days: 0.042
 Level: Green
 url: /states/PA/elk-county
 ---

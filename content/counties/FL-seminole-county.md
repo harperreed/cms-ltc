@@ -1,6 +1,6 @@
 ---
 title: "Seminole County, FL"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:12117.0,FEMA:4.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 12117.0
 FEMA_Region: 4.0
 Population: 471826.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 19360.0
-Fourteen_day_test_rate_per_100000: 4103.0
-Percent_Positivity_in_prior_14_days: 0.087
+Tests_in_prior_14_days: 18615.0
+Fourteen_day_test_rate_per_100000: 3945.0
+Percent_Positivity_in_prior_14_days: 0.076
 Level: Yellow
 url: /states/FL/seminole-county
 ---

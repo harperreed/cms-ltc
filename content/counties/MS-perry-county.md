@@ -1,6 +1,6 @@
 ---
 title: "Perry County, MS"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:28111.0,FEMA:4.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28111.0
 FEMA_Region: 4.0
 Population: 11973.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 224.0
-Fourteen_day_test_rate_per_100000: 1871.0
-Percent_Positivity_in_prior_14_days: 0.107
+Tests_in_prior_14_days: 186.0
+Fourteen_day_test_rate_per_100000: 1553.0
+Percent_Positivity_in_prior_14_days: 0.059
 Level: Yellow
 url: /states/MS/perry-county
 ---

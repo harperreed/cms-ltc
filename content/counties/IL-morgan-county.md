@@ -1,6 +1,6 @@
 ---
 title: "Morgan County, IL"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:17137.0,FEMA:5.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 17137.0
 FEMA_Region: 5.0
 Population: 33658.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2454.0
-Fourteen_day_test_rate_per_100000: 7291.0
-Percent_Positivity_in_prior_14_days: 0.03
+Tests_in_prior_14_days: 1919.0
+Fourteen_day_test_rate_per_100000: 5701.0
+Percent_Positivity_in_prior_14_days: 0.044
 Level: Green
 url: /states/IL/morgan-county
 ---

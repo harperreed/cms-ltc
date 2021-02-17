@@ -1,9 +1,9 @@
 ---
 title: "Cowlitz County, WA"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
-tags: [FIPS:53015.0,FEMA:10.0,Small metro,Red]
+tags: [FIPS:53015.0,FEMA:10.0,Small metro,Yellow]
 categories: [WA]
 County: Cowlitz County
 State: WA
@@ -11,10 +11,10 @@ FIPS: 53015.0
 FEMA_Region: 10.0
 Population: 110593.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1537.0
-Fourteen_day_test_rate_per_100000: 1390.0
-Percent_Positivity_in_prior_14_days: 0.113
-Level: Red
+Tests_in_prior_14_days: 1554.0
+Fourteen_day_test_rate_per_100000: 1405.0
+Percent_Positivity_in_prior_14_days: 0.097
+Level: Yellow
 url: /states/WA/cowlitz-county
 ---
 

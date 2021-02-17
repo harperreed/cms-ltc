@@ -1,9 +1,9 @@
 ---
 title: "Richland County, OH"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
-tags: [FIPS:39139.0,FEMA:5.0,Small metro,Red]
+tags: [FIPS:39139.0,FEMA:5.0,Small metro,Yellow]
 categories: [OH]
 County: Richland County
 State: OH
@@ -11,10 +11,10 @@ FIPS: 39139.0
 FEMA_Region: 5.0
 Population: 121154.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1363.0
-Fourteen_day_test_rate_per_100000: 1125.0
-Percent_Positivity_in_prior_14_days: 0.101
-Level: Red
+Tests_in_prior_14_days: 1165.0
+Fourteen_day_test_rate_per_100000: 962.0
+Percent_Positivity_in_prior_14_days: 0.087
+Level: Yellow
 url: /states/OH/richland-county
 ---
 

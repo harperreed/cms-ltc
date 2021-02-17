@@ -1,6 +1,6 @@
 ---
 title: "Dimmit County, TX"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:48127.0,FEMA:6.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 48127.0
 FEMA_Region: 6.0
 Population: 10124.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 830.0
-Fourteen_day_test_rate_per_100000: 8198.0
-Percent_Positivity_in_prior_14_days: 0.32
+Tests_in_prior_14_days: 1157.0
+Fourteen_day_test_rate_per_100000: 11428.0
+Percent_Positivity_in_prior_14_days: 0.202
 Level: Red
 url: /states/TX/dimmit-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Effingham County, GA"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:13103.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 13103.0
 FEMA_Region: 4.0
 Population: 64296.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2019.0
-Fourteen_day_test_rate_per_100000: 3140.0
-Percent_Positivity_in_prior_14_days: 0.159
+Tests_in_prior_14_days: 1741.0
+Fourteen_day_test_rate_per_100000: 2708.0
+Percent_Positivity_in_prior_14_days: 0.131
 Level: Red
 url: /states/GA/effingham-county
 ---

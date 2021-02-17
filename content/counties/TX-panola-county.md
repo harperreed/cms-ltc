@@ -1,9 +1,9 @@
 ---
 title: "Panola County, TX"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
-tags: [FIPS:48365.0,FEMA:6.0,Non-core,Red]
+tags: [FIPS:48365.0,FEMA:6.0,Non-core,Yellow]
 categories: [TX]
 County: Panola County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48365.0
 FEMA_Region: 6.0
 Population: 23194.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 490.0
-Fourteen_day_test_rate_per_100000: 2113.0
-Percent_Positivity_in_prior_14_days: 0.116
-Level: Red
+Tests_in_prior_14_days: 482.0
+Fourteen_day_test_rate_per_100000: 2078.0
+Percent_Positivity_in_prior_14_days: 0.093
+Level: Yellow
 url: /states/TX/panola-county
 ---
 

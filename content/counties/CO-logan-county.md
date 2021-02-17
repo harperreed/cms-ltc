@@ -1,9 +1,9 @@
 ---
 title: "Logan County, CO"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
-tags: [FIPS:8075.0,FEMA:8.0,Micropolitan,Yellow]
+tags: [FIPS:8075.0,FEMA:8.0,Micropolitan,Green]
 categories: [CO]
 County: Logan County
 State: CO
@@ -11,10 +11,10 @@ FIPS: 8075.0
 FEMA_Region: 8.0
 Population: 22409.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3117.0
-Fourteen_day_test_rate_per_100000: 13910.0
-Percent_Positivity_in_prior_14_days: 0.06
-Level: Yellow
+Tests_in_prior_14_days: 2728.0
+Fourteen_day_test_rate_per_100000: 12174.0
+Percent_Positivity_in_prior_14_days: 0.043
+Level: Green
 url: /states/CO/logan-county
 ---
 

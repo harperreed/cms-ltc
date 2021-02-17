@@ -1,6 +1,6 @@
 ---
 title: "Prince William County, VA"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:51153.0,FEMA:3.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 51153.0
 FEMA_Region: 3.0
 Population: 470335.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 18516.0
-Fourteen_day_test_rate_per_100000: 3937.0
-Percent_Positivity_in_prior_14_days: 0.14
+Tests_in_prior_14_days: 16390.0
+Fourteen_day_test_rate_per_100000: 3485.0
+Percent_Positivity_in_prior_14_days: 0.137
 Level: Red
 url: /states/VA/prince-william-county
 ---

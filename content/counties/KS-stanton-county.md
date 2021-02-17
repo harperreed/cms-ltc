@@ -1,9 +1,9 @@
 ---
 title: "Stanton County, KS"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
-tags: [FIPS:20187.0,FEMA:7.0,Non-core,Yellow]
+tags: [FIPS:20187.0,FEMA:7.0,Non-core,Red]
 categories: [KS]
 County: Stanton County
 State: KS
@@ -11,10 +11,10 @@ FIPS: 20187.0
 FEMA_Region: 7.0
 Population: 2006.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 54.0
-Fourteen_day_test_rate_per_100000: 2692.0
-Percent_Positivity_in_prior_14_days: 0.074
-Level: Yellow
+Tests_in_prior_14_days: 46.0
+Fourteen_day_test_rate_per_100000: 2293.0
+Percent_Positivity_in_prior_14_days: 0.109
+Level: Red
 url: /states/KS/stanton-county
 ---
 

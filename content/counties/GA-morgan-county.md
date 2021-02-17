@@ -1,9 +1,9 @@
 ---
 title: "Morgan County, GA"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
-tags: [FIPS:13211.0,FEMA:4.0,Large fringe metro,Red]
+tags: [FIPS:13211.0,FEMA:4.0,Large fringe metro,Yellow]
 categories: [GA]
 County: Morgan County
 State: GA
@@ -11,10 +11,10 @@ FIPS: 13211.0
 FEMA_Region: 4.0
 Population: 19276.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 445.0
-Fourteen_day_test_rate_per_100000: 2309.0
-Percent_Positivity_in_prior_14_days: 0.144
-Level: Red
+Tests_in_prior_14_days: 313.0
+Fourteen_day_test_rate_per_100000: 1624.0
+Percent_Positivity_in_prior_14_days: 0.147
+Level: Yellow
 url: /states/GA/morgan-county
 ---
 

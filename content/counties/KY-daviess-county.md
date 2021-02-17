@@ -1,6 +1,6 @@
 ---
 title: "Daviess County, KY"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:21059.0,FEMA:4.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 21059.0
 FEMA_Region: 4.0
 Population: 101511.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3620.0
-Fourteen_day_test_rate_per_100000: 3566.0
-Percent_Positivity_in_prior_14_days: 0.244
+Tests_in_prior_14_days: 2833.0
+Fourteen_day_test_rate_per_100000: 2791.0
+Percent_Positivity_in_prior_14_days: 0.207
 Level: Red
 url: /states/KY/daviess-county
 ---

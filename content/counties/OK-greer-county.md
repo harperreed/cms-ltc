@@ -1,6 +1,6 @@
 ---
 title: "Greer County, OK"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:40055.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 40055.0
 FEMA_Region: 6.0
 Population: 5712.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 90.0
-Fourteen_day_test_rate_per_100000: 1576.0
-Percent_Positivity_in_prior_14_days: 0.067
+Tests_in_prior_14_days: 158.0
+Fourteen_day_test_rate_per_100000: 2766.0
+Percent_Positivity_in_prior_14_days: 0.076
 Level: Yellow
 url: /states/OK/greer-county
 ---

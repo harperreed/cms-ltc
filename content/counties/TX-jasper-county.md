@@ -1,6 +1,6 @@
 ---
 title: "Jasper County, TX"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:48241.0,FEMA:6.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 48241.0
 FEMA_Region: 6.0
 Population: 35529.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 750.0
-Fourteen_day_test_rate_per_100000: 2111.0
-Percent_Positivity_in_prior_14_days: 0.153
+Tests_in_prior_14_days: 663.0
+Fourteen_day_test_rate_per_100000: 1866.0
+Percent_Positivity_in_prior_14_days: 0.136
 Level: Red
 url: /states/TX/jasper-county
 ---

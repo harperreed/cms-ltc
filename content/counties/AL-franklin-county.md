@@ -1,9 +1,9 @@
 ---
 title: "Franklin County, AL"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
-tags: [FIPS:1059.0,FEMA:4.0,Non-core,Red]
+tags: [FIPS:1059.0,FEMA:4.0,Non-core,Yellow]
 categories: [AL]
 County: Franklin County
 State: AL
@@ -11,10 +11,10 @@ FIPS: 1059.0
 FEMA_Region: 4.0
 Population: 31362.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 811.0
-Fourteen_day_test_rate_per_100000: 2586.0
-Percent_Positivity_in_prior_14_days: 0.117
-Level: Red
+Tests_in_prior_14_days: 835.0
+Fourteen_day_test_rate_per_100000: 2662.0
+Percent_Positivity_in_prior_14_days: 0.097
+Level: Yellow
 url: /states/AL/franklin-county
 ---
 

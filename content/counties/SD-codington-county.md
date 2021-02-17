@@ -1,6 +1,6 @@
 ---
 title: "Codington County, SD"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:46029.0,FEMA:8.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 46029.0
 FEMA_Region: 8.0
 Population: 28009.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 143.0
-Fourteen_day_test_rate_per_100000: 511.0
-Percent_Positivity_in_prior_14_days: 0.007
+Tests_in_prior_14_days: 159.0
+Fourteen_day_test_rate_per_100000: 568.0
+Percent_Positivity_in_prior_14_days: 0.006
 Level: Green
 url: /states/SD/codington-county
 ---

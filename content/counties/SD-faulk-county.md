@@ -1,9 +1,9 @@
 ---
 title: "Faulk County, SD"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
-tags: [FIPS:46049.0,FEMA:8.0,Non-core,Green]
+tags: [FIPS:46049.0,FEMA:8.0,Non-core,Yellow]
 categories: [SD]
 County: Faulk County
 State: SD
@@ -13,8 +13,8 @@ Population: 2299.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 20.0
 Fourteen_day_test_rate_per_100000: 870.0
-Percent_Positivity_in_prior_14_days: 0.0
-Level: Green
+Percent_Positivity_in_prior_14_days: 0.05
+Level: Yellow
 url: /states/SD/faulk-county
 ---
 

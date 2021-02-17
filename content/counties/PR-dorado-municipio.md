@@ -1,6 +1,6 @@
 ---
 title: "Dorado Municipio, PR"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:72051.0,FEMA:2.0,,Yellow]
@@ -11,9 +11,9 @@ FIPS: 72051.0
 FEMA_Region: 2.0
 Population: 36141.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 104.0
-Fourteen_day_test_rate_per_100000: 288.0
-Percent_Positivity_in_prior_14_days: 0.096
+Tests_in_prior_14_days: 131.0
+Fourteen_day_test_rate_per_100000: 362.0
+Percent_Positivity_in_prior_14_days: 0.099
 Level: Yellow
 url: /states/PR/dorado-municipio
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Herkimer County, NY"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:36043.0,FEMA:2.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 36043.0
 FEMA_Region: 2.0
 Population: 61319.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 5393.0
-Fourteen_day_test_rate_per_100000: 8795.0
-Percent_Positivity_in_prior_14_days: 0.084
+Tests_in_prior_14_days: 4899.0
+Fourteen_day_test_rate_per_100000: 7989.0
+Percent_Positivity_in_prior_14_days: 0.055
 Level: Yellow
 url: /states/NY/herkimer-county
 ---

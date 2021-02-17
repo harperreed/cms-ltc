@@ -1,6 +1,6 @@
 ---
 title: "Lyon County, MN"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:27083.0,FEMA:5.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 27083.0
 FEMA_Region: 5.0
 Population: 25474.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3100.0
-Fourteen_day_test_rate_per_100000: 12169.0
-Percent_Positivity_in_prior_14_days: 0.015
+Tests_in_prior_14_days: 2296.0
+Fourteen_day_test_rate_per_100000: 9013.0
+Percent_Positivity_in_prior_14_days: 0.012
 Level: Green
 url: /states/MN/lyon-county
 ---

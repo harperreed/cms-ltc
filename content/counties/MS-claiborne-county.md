@@ -1,6 +1,6 @@
 ---
 title: "Claiborne County, MS"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:28021.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 28021.0
 FEMA_Region: 4.0
 Population: 8988.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 372.0
-Fourteen_day_test_rate_per_100000: 4139.0
-Percent_Positivity_in_prior_14_days: 0.188
+Tests_in_prior_14_days: 302.0
+Fourteen_day_test_rate_per_100000: 3360.0
+Percent_Positivity_in_prior_14_days: 0.248
 Level: Red
 url: /states/MS/claiborne-county
 ---

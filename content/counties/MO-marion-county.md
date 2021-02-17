@@ -1,6 +1,6 @@
 ---
 title: "Marion County, MO"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:29127.0,FEMA:7.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 29127.0
 FEMA_Region: 7.0
 Population: 28530.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 274.0
-Fourteen_day_test_rate_per_100000: 960.0
-Percent_Positivity_in_prior_14_days: 0.157
+Tests_in_prior_14_days: 169.0
+Fourteen_day_test_rate_per_100000: 592.0
+Percent_Positivity_in_prior_14_days: 0.136
 Level: Yellow
 url: /states/MO/marion-county
 ---

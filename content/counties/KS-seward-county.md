@@ -1,9 +1,9 @@
 ---
 title: "Seward County, KS"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
-tags: [FIPS:20175.0,FEMA:7.0,Micropolitan,Red]
+tags: [FIPS:20175.0,FEMA:7.0,Micropolitan,Yellow]
 categories: [KS]
 County: Seward County
 State: KS
@@ -11,10 +11,10 @@ FIPS: 20175.0
 FEMA_Region: 7.0
 Population: 21428.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 474.0
-Fourteen_day_test_rate_per_100000: 2212.0
-Percent_Positivity_in_prior_14_days: 0.15
-Level: Red
+Tests_in_prior_14_days: 352.0
+Fourteen_day_test_rate_per_100000: 1643.0
+Percent_Positivity_in_prior_14_days: 0.122
+Level: Yellow
 url: /states/KS/seward-county
 ---
 

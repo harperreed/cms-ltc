@@ -1,6 +1,6 @@
 ---
 title: "Butte County, CA"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:6007.0,FEMA:9.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 6007.0
 FEMA_Region: 9.0
 Population: 219186.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 9039.0
-Fourteen_day_test_rate_per_100000: 4124.0
-Percent_Positivity_in_prior_14_days: 0.074
+Tests_in_prior_14_days: 7246.0
+Fourteen_day_test_rate_per_100000: 3306.0
+Percent_Positivity_in_prior_14_days: 0.067
 Level: Yellow
 url: /states/CA/butte-county
 ---

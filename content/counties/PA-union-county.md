@@ -1,6 +1,6 @@
 ---
 title: "Union County, PA"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:42119.0,FEMA:3.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 42119.0
 FEMA_Region: 3.0
 Population: 44923.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 5465.0
-Fourteen_day_test_rate_per_100000: 12165.0
-Percent_Positivity_in_prior_14_days: 0.049
+Tests_in_prior_14_days: 6792.0
+Fourteen_day_test_rate_per_100000: 15119.0
+Percent_Positivity_in_prior_14_days: 0.035
 Level: Green
 url: /states/PA/union-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Bottineau County, ND"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:38009.0,FEMA:8.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 38009.0
 FEMA_Region: 8.0
 Population: 6282.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 300.0
-Fourteen_day_test_rate_per_100000: 4776.0
-Percent_Positivity_in_prior_14_days: 0.047
+Tests_in_prior_14_days: 356.0
+Fourteen_day_test_rate_per_100000: 5667.0
+Percent_Positivity_in_prior_14_days: 0.028
 Level: Green
 url: /states/ND/bottineau-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Nassau County, NY"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:36059.0,FEMA:2.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 36059.0
 FEMA_Region: 2.0
 Population: 1356924.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 177642.0
-Fourteen_day_test_rate_per_100000: 13092.0
-Percent_Positivity_in_prior_14_days: 0.084
+Tests_in_prior_14_days: 153087.0
+Fourteen_day_test_rate_per_100000: 11282.0
+Percent_Positivity_in_prior_14_days: 0.076
 Level: Yellow
 url: /states/NY/nassau-county
 ---

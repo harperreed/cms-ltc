@@ -1,9 +1,9 @@
 ---
 title: "Gregg County, TX"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
-tags: [FIPS:48183.0,FEMA:6.0,Small metro,Red]
+tags: [FIPS:48183.0,FEMA:6.0,Small metro,Yellow]
 categories: [TX]
 County: Gregg County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48183.0
 FEMA_Region: 6.0
 Population: 123945.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3547.0
-Fourteen_day_test_rate_per_100000: 2862.0
-Percent_Positivity_in_prior_14_days: 0.113
-Level: Red
+Tests_in_prior_14_days: 3945.0
+Fourteen_day_test_rate_per_100000: 3183.0
+Percent_Positivity_in_prior_14_days: 0.089
+Level: Yellow
 url: /states/TX/gregg-county
 ---
 

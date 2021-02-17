@@ -1,6 +1,6 @@
 ---
 title: "Fulton County, OH"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:39051.0,FEMA:5.0,Medium metro,Yellow]
@@ -13,7 +13,7 @@ Population: 42126.0
 NCHS_Urban_Rural_Classification: Medium metro
 Tests_in_prior_14_days: 374.0
 Fourteen_day_test_rate_per_100000: 888.0
-Percent_Positivity_in_prior_14_days: 0.176
+Percent_Positivity_in_prior_14_days: 0.136
 Level: Yellow
 url: /states/OH/fulton-county
 ---

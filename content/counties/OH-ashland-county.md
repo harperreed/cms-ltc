@@ -1,6 +1,6 @@
 ---
 title: "Ashland County, OH"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:39005.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 39005.0
 FEMA_Region: 5.0
 Population: 53484.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 149.0
-Fourteen_day_test_rate_per_100000: 279.0
-Percent_Positivity_in_prior_14_days: 0.107
+Tests_in_prior_14_days: 124.0
+Fourteen_day_test_rate_per_100000: 232.0
+Percent_Positivity_in_prior_14_days: 0.089
 Level: Yellow
 url: /states/OH/ashland-county
 ---

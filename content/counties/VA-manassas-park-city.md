@@ -1,6 +1,6 @@
 ---
 title: "Manassas Park city, VA"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:51685.0,FEMA:3.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51685.0
 FEMA_Region: 3.0
 Population: 17478.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 45.0
-Fourteen_day_test_rate_per_100000: 257.0
-Percent_Positivity_in_prior_14_days: 0.378
+Tests_in_prior_14_days: 44.0
+Fourteen_day_test_rate_per_100000: 252.0
+Percent_Positivity_in_prior_14_days: 0.477
 Level: Yellow
 url: /states/VA/manassas-park-city
 ---

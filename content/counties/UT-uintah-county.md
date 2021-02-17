@@ -1,9 +1,9 @@
 ---
 title: "Uintah County, UT"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
-tags: [FIPS:49047.0,FEMA:8.0,Micropolitan,Red]
+tags: [FIPS:49047.0,FEMA:8.0,Micropolitan,Yellow]
 categories: [UT]
 County: Uintah County
 State: UT
@@ -11,10 +11,10 @@ FIPS: 49047.0
 FEMA_Region: 8.0
 Population: 35734.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 686.0
-Fourteen_day_test_rate_per_100000: 1920.0
-Percent_Positivity_in_prior_14_days: 0.125
-Level: Red
+Tests_in_prior_14_days: 735.0
+Fourteen_day_test_rate_per_100000: 2057.0
+Percent_Positivity_in_prior_14_days: 0.099
+Level: Yellow
 url: /states/UT/uintah-county
 ---
 

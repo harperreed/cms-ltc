@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, CO"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:8059.0,FEMA:8.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 8059.0
 FEMA_Region: 8.0
 Population: 582881.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 38705.0
-Fourteen_day_test_rate_per_100000: 6640.0
-Percent_Positivity_in_prior_14_days: 0.041
+Tests_in_prior_14_days: 38795.0
+Fourteen_day_test_rate_per_100000: 6656.0
+Percent_Positivity_in_prior_14_days: 0.038
 Level: Green
 url: /states/CO/jefferson-county
 ---

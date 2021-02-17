@@ -1,9 +1,9 @@
 ---
 title: "Marion County, KS"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
-tags: [FIPS:20115.0,FEMA:7.0,Non-core,Red]
+tags: [FIPS:20115.0,FEMA:7.0,Non-core,Yellow]
 categories: [KS]
 County: Marion County
 State: KS
@@ -11,10 +11,10 @@ FIPS: 20115.0
 FEMA_Region: 7.0
 Population: 11884.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 324.0
-Fourteen_day_test_rate_per_100000: 2726.0
-Percent_Positivity_in_prior_14_days: 0.133
-Level: Red
+Tests_in_prior_14_days: 232.0
+Fourteen_day_test_rate_per_100000: 1952.0
+Percent_Positivity_in_prior_14_days: 0.108
+Level: Yellow
 url: /states/KS/marion-county
 ---
 

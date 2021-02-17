@@ -1,6 +1,6 @@
 ---
 title: "Isabela Municipio, PR"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:72071.0,FEMA:2.0,,Yellow]
@@ -11,9 +11,9 @@ FIPS: 72071.0
 FEMA_Region: 2.0
 Population: 40423.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 98.0
-Fourteen_day_test_rate_per_100000: 242.0
-Percent_Positivity_in_prior_14_days: 0.092
+Tests_in_prior_14_days: 121.0
+Fourteen_day_test_rate_per_100000: 299.0
+Percent_Positivity_in_prior_14_days: 0.074
 Level: Yellow
 url: /states/PR/isabela-municipio
 ---

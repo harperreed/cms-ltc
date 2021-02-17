@@ -1,6 +1,6 @@
 ---
 title: "Florence County, SC"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:45041.0,FEMA:4.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 45041.0
 FEMA_Region: 4.0
 Population: 138293.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 5803.0
-Fourteen_day_test_rate_per_100000: 4196.0
-Percent_Positivity_in_prior_14_days: 0.156
+Tests_in_prior_14_days: 6181.0
+Fourteen_day_test_rate_per_100000: 4469.0
+Percent_Positivity_in_prior_14_days: 0.137
 Level: Red
 url: /states/SC/florence-county
 ---

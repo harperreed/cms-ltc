@@ -1,6 +1,6 @@
 ---
 title: "Cass County, IA"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:19029.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 19029.0
 FEMA_Region: 7.0
 Population: 12836.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 376.0
-Fourteen_day_test_rate_per_100000: 2929.0
-Percent_Positivity_in_prior_14_days: 0.138
+Tests_in_prior_14_days: 413.0
+Fourteen_day_test_rate_per_100000: 3218.0
+Percent_Positivity_in_prior_14_days: 0.145
 Level: Red
 url: /states/IA/cass-county
 ---

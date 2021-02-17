@@ -1,6 +1,6 @@
 ---
 title: "Kodiak Island Borough, AK"
-date: 2021-02-16
+date: 2021-02-17
 draft: false
 type: county
 tags: [FIPS:2150.0,FEMA:10.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 2150.0
 FEMA_Region: 10.0
 Population: 12998.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1627.0
-Fourteen_day_test_rate_per_100000: 12517.0
-Percent_Positivity_in_prior_14_days: 0.012
+Tests_in_prior_14_days: 1735.0
+Fourteen_day_test_rate_per_100000: 13348.0
+Percent_Positivity_in_prior_14_days: 0.009
 Level: Green
 url: /states/AK/kodiak-island-borough
 ---
