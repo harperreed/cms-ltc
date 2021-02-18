@@ -1,6 +1,6 @@
 ---
 title: "Valdez-Cordova Census Area, AK"
-date: 2021-02-17
+date: 2021-02-18
 draft: false
 type: county
 tags: [FIPS:2261.0,FEMA:10.0,Non-core,Green]
