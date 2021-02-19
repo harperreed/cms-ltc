@@ -1,6 +1,6 @@
 ---
 title: "Coweta County, GA"
-date: 2021-02-18
+date: 2021-02-19
 draft: false
 type: county
 tags: [FIPS:13077.0,FEMA:4.0,Large fringe metro,Red]

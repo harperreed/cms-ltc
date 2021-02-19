@@ -1,6 +1,6 @@
 ---
 title: "Yakutat City and Borough, AK"
-date: 2021-02-18
+date: 2021-02-19
 draft: false
 type: county
 tags: [FIPS:2282.0,FEMA:10.0,Non-core,Green]

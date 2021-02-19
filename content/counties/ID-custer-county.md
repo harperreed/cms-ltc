@@ -1,6 +1,6 @@
 ---
 title: "Custer County, ID"
-date: 2021-02-18
+date: 2021-02-19
 draft: false
 type: county
 tags: [FIPS:16037.0,FEMA:10.0,Non-core,Green]

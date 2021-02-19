@@ -1,6 +1,6 @@
 ---
 title: "Washita County, OK"
-date: 2021-02-18
+date: 2021-02-19
 draft: false
 type: county
 tags: [FIPS:40149.0,FEMA:6.0,Non-core,Yellow]

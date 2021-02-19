@@ -1,6 +1,6 @@
 ---
 title: "Mahaska County, IA"
-date: 2021-02-18
+date: 2021-02-19
 draft: false
 type: county
 tags: [FIPS:19123.0,FEMA:7.0,Micropolitan,Yellow]
