@@ -1,6 +1,6 @@
 ---
 title: "Cortland County, NY"
-date: 2021-02-19
+date: 2021-02-20
 draft: false
 type: county
 tags: [FIPS:36023.0,FEMA:2.0,Micropolitan,Green]

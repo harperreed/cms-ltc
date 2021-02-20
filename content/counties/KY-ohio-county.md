@@ -1,6 +1,6 @@
 ---
 title: "Ohio County, KY"
-date: 2021-02-19
+date: 2021-02-20
 draft: false
 type: county
 tags: [FIPS:21183.0,FEMA:4.0,Non-core,Yellow]

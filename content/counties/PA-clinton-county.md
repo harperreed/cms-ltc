@@ -1,6 +1,6 @@
 ---
 title: "Clinton County, PA"
-date: 2021-02-19
+date: 2021-02-20
 draft: false
 type: county
 tags: [FIPS:42035.0,FEMA:3.0,Micropolitan,Yellow]

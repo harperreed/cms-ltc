@@ -1,6 +1,6 @@
 ---
 title: "Wabash County, IN"
-date: 2021-02-19
+date: 2021-02-20
 draft: false
 type: county
 tags: [FIPS:18169.0,FEMA:5.0,Micropolitan,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Lander County, NV"
-date: 2021-02-19
+date: 2021-02-20
 draft: false
 type: county
 tags: [FIPS:32015.0,FEMA:9.0,Non-core,Green]
