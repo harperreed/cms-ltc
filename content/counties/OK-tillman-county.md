@@ -1,6 +1,6 @@
 ---
 title: "Tillman County, OK"
-date: 2021-02-20
+date: 2021-02-21
 draft: false
 type: county
 tags: [FIPS:40141.0,FEMA:6.0,Non-core,Yellow]

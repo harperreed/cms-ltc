@@ -1,6 +1,6 @@
 ---
 title: "Itasca County, MN"
-date: 2021-02-20
+date: 2021-02-21
 draft: false
 type: county
 tags: [FIPS:27061.0,FEMA:5.0,Non-core,Green]

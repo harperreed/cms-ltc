@@ -1,6 +1,6 @@
 ---
 title: "Lawrence County, MS"
-date: 2021-02-20
+date: 2021-02-21
 draft: false
 type: county
 tags: [FIPS:28077.0,FEMA:4.0,Non-core,Yellow]
