@@ -1,6 +1,6 @@
 ---
 title: "Ellsworth County, KS"
-date: 2021-02-21
+date: 2021-02-22
 draft: false
 type: county
 tags: [FIPS:20053.0,FEMA:7.0,Non-core,Red]

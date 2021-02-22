@@ -1,6 +1,6 @@
 ---
 title: "Clay County, IN"
-date: 2021-02-21
+date: 2021-02-22
 draft: false
 type: county
 tags: [FIPS:18021.0,FEMA:5.0,Small metro,Yellow]

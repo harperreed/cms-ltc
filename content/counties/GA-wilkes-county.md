@@ -1,6 +1,6 @@
 ---
 title: "Wilkes County, GA"
-date: 2021-02-21
+date: 2021-02-22
 draft: false
 type: county
 tags: [FIPS:13317.0,FEMA:4.0,Non-core,Red]

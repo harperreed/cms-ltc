@@ -1,6 +1,6 @@
 ---
 title: "Grant County, AR"
-date: 2021-02-21
+date: 2021-02-22
 draft: false
 type: county
 tags: [FIPS:5053.0,FEMA:6.0,Medium metro,Red]
