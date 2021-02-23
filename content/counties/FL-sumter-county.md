@@ -1,9 +1,9 @@
 ---
 title: "Sumter County, FL"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
-tags: [FIPS:12119.0,FEMA:4.0,Small metro,Red]
+tags: [FIPS:12119.0,FEMA:4.0,Small metro,Yellow]
 categories: [FL]
 County: Sumter County
 State: FL
@@ -11,10 +11,10 @@ FIPS: 12119.0
 FEMA_Region: 4.0
 Population: 132420.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 5994.0
-Fourteen_day_test_rate_per_100000: 4527.0
-Percent_Positivity_in_prior_14_days: 0.103
-Level: Red
+Tests_in_prior_14_days: 5299.0
+Fourteen_day_test_rate_per_100000: 4002.0
+Percent_Positivity_in_prior_14_days: 0.079
+Level: Yellow
 url: /states/FL/sumter-county
 ---
 

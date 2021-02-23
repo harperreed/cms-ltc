@@ -1,9 +1,9 @@
 ---
 title: "Rutherford County, NC"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
-tags: [FIPS:37161.0,FEMA:4.0,Micropolitan,Red]
+tags: [FIPS:37161.0,FEMA:4.0,Micropolitan,Yellow]
 categories: [NC]
 County: Rutherford County
 State: NC
@@ -11,10 +11,10 @@ FIPS: 37161.0
 FEMA_Region: 4.0
 Population: 67029.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3417.0
-Fourteen_day_test_rate_per_100000: 5098.0
-Percent_Positivity_in_prior_14_days: 0.105
-Level: Red
+Tests_in_prior_14_days: 3156.0
+Fourteen_day_test_rate_per_100000: 4708.0
+Percent_Positivity_in_prior_14_days: 0.086
+Level: Yellow
 url: /states/NC/rutherford-county
 ---
 

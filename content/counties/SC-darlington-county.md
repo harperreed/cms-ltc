@@ -1,9 +1,9 @@
 ---
 title: "Darlington County, SC"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
-tags: [FIPS:45031.0,FEMA:4.0,Small metro,Red]
+tags: [FIPS:45031.0,FEMA:4.0,Small metro,Yellow]
 categories: [SC]
 County: Darlington County
 State: SC
@@ -11,10 +11,10 @@ FIPS: 45031.0
 FEMA_Region: 4.0
 Population: 66618.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3051.0
-Fourteen_day_test_rate_per_100000: 4580.0
-Percent_Positivity_in_prior_14_days: 0.109
-Level: Red
+Tests_in_prior_14_days: 1090.0
+Fourteen_day_test_rate_per_100000: 1636.0
+Percent_Positivity_in_prior_14_days: 0.054
+Level: Yellow
 url: /states/SC/darlington-county
 ---
 

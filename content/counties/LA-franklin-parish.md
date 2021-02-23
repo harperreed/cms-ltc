@@ -1,6 +1,6 @@
 ---
 title: "Franklin Parish, LA"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:22041.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 22041.0
 FEMA_Region: 6.0
 Population: 20015.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 461.0
-Fourteen_day_test_rate_per_100000: 2303.0
-Percent_Positivity_in_prior_14_days: 0.1
+Tests_in_prior_14_days: 214.0
+Fourteen_day_test_rate_per_100000: 1069.0
+Percent_Positivity_in_prior_14_days: 0.15
 Level: Yellow
 url: /states/LA/franklin-parish
 ---

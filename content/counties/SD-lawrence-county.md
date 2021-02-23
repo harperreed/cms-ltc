@@ -1,6 +1,6 @@
 ---
 title: "Lawrence County, SD"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:46081.0,FEMA:8.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 46081.0
 FEMA_Region: 8.0
 Population: 25844.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 485.0
-Fourteen_day_test_rate_per_100000: 1877.0
-Percent_Positivity_in_prior_14_days: 0.039
+Tests_in_prior_14_days: 567.0
+Fourteen_day_test_rate_per_100000: 2194.0
+Percent_Positivity_in_prior_14_days: 0.042
 Level: Green
 url: /states/SD/lawrence-county
 ---

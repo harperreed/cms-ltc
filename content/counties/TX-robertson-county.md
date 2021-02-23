@@ -1,6 +1,6 @@
 ---
 title: "Robertson County, TX"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:48395.0,FEMA:6.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48395.0
 FEMA_Region: 6.0
 Population: 17074.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 770.0
-Fourteen_day_test_rate_per_100000: 4510.0
-Percent_Positivity_in_prior_14_days: 0.129
+Tests_in_prior_14_days: 495.0
+Fourteen_day_test_rate_per_100000: 2899.0
+Percent_Positivity_in_prior_14_days: 0.127
 Level: Red
 url: /states/TX/robertson-county
 ---

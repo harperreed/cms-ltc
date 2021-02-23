@@ -1,6 +1,6 @@
 ---
 title: "Grand Forks County, ND"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:38035.0,FEMA:8.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 38035.0
 FEMA_Region: 8.0
 Population: 69451.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3380.0
-Fourteen_day_test_rate_per_100000: 4867.0
-Percent_Positivity_in_prior_14_days: 0.022
+Tests_in_prior_14_days: 3154.0
+Fourteen_day_test_rate_per_100000: 4541.0
+Percent_Positivity_in_prior_14_days: 0.027
 Level: Green
 url: /states/ND/grand-forks-county
 ---

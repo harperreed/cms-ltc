@@ -1,6 +1,6 @@
 ---
 title: "Nome Census Area, AK"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:2180.0,FEMA:10.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 2180.0
 FEMA_Region: 10.0
 Population: 10004.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 4634.0
-Fourteen_day_test_rate_per_100000: 46321.0
-Percent_Positivity_in_prior_14_days: 0.003
+Tests_in_prior_14_days: 4598.0
+Fourteen_day_test_rate_per_100000: 45962.0
+Percent_Positivity_in_prior_14_days: 0.001
 Level: Green
 url: /states/AK/nome-census-area
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Cullman County, AL"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:1043.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 1043.0
 FEMA_Region: 4.0
 Population: 83768.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3845.0
-Fourteen_day_test_rate_per_100000: 4590.0
-Percent_Positivity_in_prior_14_days: 0.044
+Tests_in_prior_14_days: 3618.0
+Fourteen_day_test_rate_per_100000: 4319.0
+Percent_Positivity_in_prior_14_days: 0.034
 Level: Green
 url: /states/AL/cullman-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Carroll County, IL"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:17015.0,FEMA:5.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 17015.0
 FEMA_Region: 5.0
 Population: 14305.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 429.0
-Fourteen_day_test_rate_per_100000: 2999.0
-Percent_Positivity_in_prior_14_days: 0.058
+Tests_in_prior_14_days: 371.0
+Fourteen_day_test_rate_per_100000: 2593.0
+Percent_Positivity_in_prior_14_days: 0.059
 Level: Yellow
 url: /states/IL/carroll-county
 ---

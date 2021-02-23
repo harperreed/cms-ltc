@@ -1,9 +1,9 @@
 ---
 title: "Daviess County, IN"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
-tags: [FIPS:18027.0,FEMA:5.0,Micropolitan,Yellow]
+tags: [FIPS:18027.0,FEMA:5.0,Micropolitan,Green]
 categories: [IN]
 County: Daviess County
 State: IN
@@ -11,10 +11,10 @@ FIPS: 18027.0
 FEMA_Region: 5.0
 Population: 33351.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1148.0
-Fourteen_day_test_rate_per_100000: 3442.0
-Percent_Positivity_in_prior_14_days: 0.071
-Level: Yellow
+Tests_in_prior_14_days: 957.0
+Fourteen_day_test_rate_per_100000: 2869.0
+Percent_Positivity_in_prior_14_days: 0.031
+Level: Green
 url: /states/IN/daviess-county
 ---
 

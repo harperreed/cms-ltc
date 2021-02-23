@@ -1,9 +1,9 @@
 ---
 title: "Walker County, TX"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
-tags: [FIPS:48471.0,FEMA:6.0,Micropolitan,Red]
+tags: [FIPS:48471.0,FEMA:6.0,Micropolitan,Yellow]
 categories: [TX]
 County: Walker County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48471.0
 FEMA_Region: 6.0
 Population: 72971.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4822.0
-Fourteen_day_test_rate_per_100000: 6608.0
-Percent_Positivity_in_prior_14_days: 0.108
-Level: Red
+Tests_in_prior_14_days: 4044.0
+Fourteen_day_test_rate_per_100000: 5542.0
+Percent_Positivity_in_prior_14_days: 0.074
+Level: Yellow
 url: /states/TX/walker-county
 ---
 

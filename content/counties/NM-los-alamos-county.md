@@ -1,6 +1,6 @@
 ---
 title: "Los Alamos County, NM"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:35028.0,FEMA:6.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 35028.0
 FEMA_Region: 6.0
 Population: 19369.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 756.0
-Fourteen_day_test_rate_per_100000: 3903.0
-Percent_Positivity_in_prior_14_days: 0.015
+Tests_in_prior_14_days: 630.0
+Fourteen_day_test_rate_per_100000: 3253.0
+Percent_Positivity_in_prior_14_days: 0.005
 Level: Green
 url: /states/NM/los-alamos-county
 ---

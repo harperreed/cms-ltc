@@ -1,9 +1,9 @@
 ---
 title: "Toa Alta Municipio, PR"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
-tags: [FIPS:72135.0,FEMA:2.0,,Green]
+tags: [FIPS:72135.0,FEMA:2.0,,Yellow]
 categories: [PR]
 County: Toa Alta Municipio
 State: PR
@@ -11,10 +11,10 @@ FIPS: 72135.0
 FEMA_Region: 2.0
 Population: 72025.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 144.0
-Fourteen_day_test_rate_per_100000: 200.0
-Percent_Positivity_in_prior_14_days: 0.042
-Level: Green
+Tests_in_prior_14_days: 98.0
+Fourteen_day_test_rate_per_100000: 136.0
+Percent_Positivity_in_prior_14_days: 0.051
+Level: Yellow
 url: /states/PR/toa-alta-municipio
 ---
 

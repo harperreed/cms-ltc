@@ -1,6 +1,6 @@
 ---
 title: "Escambia County, FL"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:12033.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 12033.0
 FEMA_Region: 4.0
 Population: 318316.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 15804.0
-Fourteen_day_test_rate_per_100000: 4965.0
-Percent_Positivity_in_prior_14_days: 0.138
+Tests_in_prior_14_days: 12109.0
+Fourteen_day_test_rate_per_100000: 3804.0
+Percent_Positivity_in_prior_14_days: 0.101
 Level: Red
 url: /states/FL/escambia-county
 ---

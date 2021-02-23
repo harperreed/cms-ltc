@@ -1,9 +1,9 @@
 ---
 title: "Carbon County, MT"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
-tags: [FIPS:30009.0,FEMA:8.0,Small metro,Yellow]
+tags: [FIPS:30009.0,FEMA:8.0,Small metro,Red]
 categories: [MT]
 County: Carbon County
 State: MT
@@ -11,10 +11,10 @@ FIPS: 30009.0
 FEMA_Region: 8.0
 Population: 10725.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 291.0
-Fourteen_day_test_rate_per_100000: 2713.0
-Percent_Positivity_in_prior_14_days: 0.082
-Level: Yellow
+Tests_in_prior_14_days: 279.0
+Fourteen_day_test_rate_per_100000: 2601.0
+Percent_Positivity_in_prior_14_days: 0.104
+Level: Red
 url: /states/MT/carbon-county
 ---
 

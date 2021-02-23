@@ -1,9 +1,9 @@
 ---
 title: "Marion County, OH"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
-tags: [FIPS:39101.0,FEMA:5.0,Micropolitan,Green]
+tags: [FIPS:39101.0,FEMA:5.0,Micropolitan,Yellow]
 categories: [OH]
 County: Marion County
 State: OH
@@ -11,10 +11,10 @@ FIPS: 39101.0
 FEMA_Region: 5.0
 Population: 65093.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 303.0
-Fourteen_day_test_rate_per_100000: 465.0
-Percent_Positivity_in_prior_14_days: 0.046
-Level: Green
+Tests_in_prior_14_days: 253.0
+Fourteen_day_test_rate_per_100000: 389.0
+Percent_Positivity_in_prior_14_days: 0.055
+Level: Yellow
 url: /states/OH/marion-county
 ---
 

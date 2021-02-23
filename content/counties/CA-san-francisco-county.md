@@ -1,6 +1,6 @@
 ---
 title: "San Francisco County, CA"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:6075.0,FEMA:9.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 6075.0
 FEMA_Region: 9.0
 Population: 881549.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 64551.0
-Fourteen_day_test_rate_per_100000: 7322.0
-Percent_Positivity_in_prior_14_days: 0.027
+Tests_in_prior_14_days: 48320.0
+Fourteen_day_test_rate_per_100000: 5481.0
+Percent_Positivity_in_prior_14_days: 0.03
 Level: Green
 url: /states/CA/san-francisco-county
 ---

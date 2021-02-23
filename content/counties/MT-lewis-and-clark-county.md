@@ -1,6 +1,6 @@
 ---
 title: "Lewis and Clark County, MT"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:30049.0,FEMA:8.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 30049.0
 FEMA_Region: 8.0
 Population: 69432.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2875.0
-Fourteen_day_test_rate_per_100000: 4141.0
-Percent_Positivity_in_prior_14_days: 0.098
+Tests_in_prior_14_days: 2291.0
+Fourteen_day_test_rate_per_100000: 3300.0
+Percent_Positivity_in_prior_14_days: 0.072
 Level: Yellow
 url: /states/MT/lewis-and-clark-county
 ---

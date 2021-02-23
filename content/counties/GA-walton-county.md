@@ -1,6 +1,6 @@
 ---
 title: "Walton County, GA"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:13297.0,FEMA:4.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 13297.0
 FEMA_Region: 4.0
 Population: 94593.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 2650.0
-Fourteen_day_test_rate_per_100000: 2801.0
-Percent_Positivity_in_prior_14_days: 0.138
+Tests_in_prior_14_days: 2689.0
+Fourteen_day_test_rate_per_100000: 2843.0
+Percent_Positivity_in_prior_14_days: 0.123
 Level: Red
 url: /states/GA/walton-county
 ---

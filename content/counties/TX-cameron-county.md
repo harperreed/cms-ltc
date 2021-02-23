@@ -1,6 +1,6 @@
 ---
 title: "Cameron County, TX"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:48061.0,FEMA:6.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48061.0
 FEMA_Region: 6.0
 Population: 423163.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 13783.0
-Fourteen_day_test_rate_per_100000: 3257.0
-Percent_Positivity_in_prior_14_days: 0.152
+Tests_in_prior_14_days: 8830.0
+Fourteen_day_test_rate_per_100000: 2087.0
+Percent_Positivity_in_prior_14_days: 0.14
 Level: Red
 url: /states/TX/cameron-county
 ---

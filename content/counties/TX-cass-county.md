@@ -1,6 +1,6 @@
 ---
 title: "Cass County, TX"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:48067.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48067.0
 FEMA_Region: 6.0
 Population: 30026.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 510.0
-Fourteen_day_test_rate_per_100000: 1699.0
-Percent_Positivity_in_prior_14_days: 0.076
+Tests_in_prior_14_days: 366.0
+Fourteen_day_test_rate_per_100000: 1219.0
+Percent_Positivity_in_prior_14_days: 0.096
 Level: Yellow
 url: /states/TX/cass-county
 ---

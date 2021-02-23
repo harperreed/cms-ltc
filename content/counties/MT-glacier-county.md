@@ -1,6 +1,6 @@
 ---
 title: "Glacier County, MT"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:30035.0,FEMA:8.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 30035.0
 FEMA_Region: 8.0
 Population: 13753.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1075.0
-Fourteen_day_test_rate_per_100000: 7816.0
-Percent_Positivity_in_prior_14_days: 0.038
+Tests_in_prior_14_days: 556.0
+Fourteen_day_test_rate_per_100000: 4043.0
+Percent_Positivity_in_prior_14_days: 0.041
 Level: Green
 url: /states/MT/glacier-county
 ---

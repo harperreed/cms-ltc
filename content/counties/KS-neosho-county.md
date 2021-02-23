@@ -1,6 +1,6 @@
 ---
 title: "Neosho County, KS"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:20133.0,FEMA:7.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 20133.0
 FEMA_Region: 7.0
 Population: 16007.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 660.0
-Fourteen_day_test_rate_per_100000: 4123.0
-Percent_Positivity_in_prior_14_days: 0.174
+Tests_in_prior_14_days: 454.0
+Fourteen_day_test_rate_per_100000: 2836.0
+Percent_Positivity_in_prior_14_days: 0.152
 Level: Red
 url: /states/KS/neosho-county
 ---

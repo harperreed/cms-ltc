@@ -1,6 +1,6 @@
 ---
 title: "Gosper County, NE"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:31073.0,FEMA:7.0,Micropolitan,Green]

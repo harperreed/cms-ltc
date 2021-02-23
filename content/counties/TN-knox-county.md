@@ -1,9 +1,9 @@
 ---
 title: "Knox County, TN"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
-tags: [FIPS:47093.0,FEMA:4.0,Medium metro,Red]
+tags: [FIPS:47093.0,FEMA:4.0,Medium metro,Yellow]
 categories: [TN]
 County: Knox County
 State: TN
@@ -11,10 +11,10 @@ FIPS: 47093.0
 FEMA_Region: 4.0
 Population: 470313.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 12347.0
-Fourteen_day_test_rate_per_100000: 2625.0
-Percent_Positivity_in_prior_14_days: 0.106
-Level: Red
+Tests_in_prior_14_days: 11969.0
+Fourteen_day_test_rate_per_100000: 2545.0
+Percent_Positivity_in_prior_14_days: 0.091
+Level: Yellow
 url: /states/TN/knox-county
 ---
 

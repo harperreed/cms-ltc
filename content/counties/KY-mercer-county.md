@@ -1,6 +1,6 @@
 ---
 title: "Mercer County, KY"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:21167.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 21167.0
 FEMA_Region: 4.0
 Population: 21933.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 877.0
-Fourteen_day_test_rate_per_100000: 3999.0
-Percent_Positivity_in_prior_14_days: 0.052
+Tests_in_prior_14_days: 566.0
+Fourteen_day_test_rate_per_100000: 2581.0
+Percent_Positivity_in_prior_14_days: 0.06
 Level: Yellow
 url: /states/KY/mercer-county
 ---

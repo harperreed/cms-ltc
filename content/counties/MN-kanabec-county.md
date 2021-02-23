@@ -1,6 +1,6 @@
 ---
 title: "Kanabec County, MN"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:27065.0,FEMA:5.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 27065.0
 FEMA_Region: 5.0
 Population: 16337.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 971.0
-Fourteen_day_test_rate_per_100000: 5944.0
-Percent_Positivity_in_prior_14_days: 0.076
+Tests_in_prior_14_days: 833.0
+Fourteen_day_test_rate_per_100000: 5099.0
+Percent_Positivity_in_prior_14_days: 0.055
 Level: Yellow
 url: /states/MN/kanabec-county
 ---

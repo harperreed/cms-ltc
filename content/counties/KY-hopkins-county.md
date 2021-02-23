@@ -1,9 +1,9 @@
 ---
 title: "Hopkins County, KY"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
-tags: [FIPS:21107.0,FEMA:4.0,Micropolitan,Red]
+tags: [FIPS:21107.0,FEMA:4.0,Micropolitan,Yellow]
 categories: [KY]
 County: Hopkins County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21107.0
 FEMA_Region: 4.0
 Population: 44686.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1154.0
-Fourteen_day_test_rate_per_100000: 2582.0
-Percent_Positivity_in_prior_14_days: 0.107
-Level: Red
+Tests_in_prior_14_days: 1305.0
+Fourteen_day_test_rate_per_100000: 2920.0
+Percent_Positivity_in_prior_14_days: 0.076
+Level: Yellow
 url: /states/KY/hopkins-county
 ---
 

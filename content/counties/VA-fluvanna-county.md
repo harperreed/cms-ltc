@@ -1,6 +1,6 @@
 ---
 title: "Fluvanna County, VA"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:51065.0,FEMA:3.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51065.0
 FEMA_Region: 3.0
 Population: 27270.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1305.0
-Fourteen_day_test_rate_per_100000: 4785.0
-Percent_Positivity_in_prior_14_days: 0.064
+Tests_in_prior_14_days: 1223.0
+Fourteen_day_test_rate_per_100000: 4485.0
+Percent_Positivity_in_prior_14_days: 0.075
 Level: Yellow
 url: /states/VA/fluvanna-county
 ---

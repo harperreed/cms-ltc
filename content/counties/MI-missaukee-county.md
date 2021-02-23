@@ -1,6 +1,6 @@
 ---
 title: "Missaukee County, MI"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:26113.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 26113.0
 FEMA_Region: 5.0
 Population: 15118.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 373.0
-Fourteen_day_test_rate_per_100000: 2467.0
-Percent_Positivity_in_prior_14_days: 0.099
+Tests_in_prior_14_days: 351.0
+Fourteen_day_test_rate_per_100000: 2322.0
+Percent_Positivity_in_prior_14_days: 0.085
 Level: Yellow
 url: /states/MI/missaukee-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Chester County, SC"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
-tags: [FIPS:45023.0,FEMA:4.0,Large fringe metro,Red]
+tags: [FIPS:45023.0,FEMA:4.0,Large fringe metro,Yellow]
 categories: [SC]
 County: Chester County
 State: SC
@@ -11,10 +11,10 @@ FIPS: 45023.0
 FEMA_Region: 4.0
 Population: 32244.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1116.0
-Fourteen_day_test_rate_per_100000: 3461.0
-Percent_Positivity_in_prior_14_days: 0.129
-Level: Red
+Tests_in_prior_14_days: 367.0
+Fourteen_day_test_rate_per_100000: 1138.0
+Percent_Positivity_in_prior_14_days: 0.199
+Level: Yellow
 url: /states/SC/chester-county
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Erath County, TX"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
-tags: [FIPS:48143.0,FEMA:6.0,Micropolitan,Red]
+tags: [FIPS:48143.0,FEMA:6.0,Micropolitan,Yellow]
 categories: [TX]
 County: Erath County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48143.0
 FEMA_Region: 6.0
 Population: 42698.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 957.0
-Fourteen_day_test_rate_per_100000: 2241.0
-Percent_Positivity_in_prior_14_days: 0.114
-Level: Red
+Tests_in_prior_14_days: 707.0
+Fourteen_day_test_rate_per_100000: 1656.0
+Percent_Positivity_in_prior_14_days: 0.095
+Level: Yellow
 url: /states/TX/erath-county
 ---
 

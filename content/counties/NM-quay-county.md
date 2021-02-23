@@ -1,6 +1,6 @@
 ---
 title: "Quay County, NM"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:35037.0,FEMA:6.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 35037.0
 FEMA_Region: 6.0
 Population: 8253.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 283.0
-Fourteen_day_test_rate_per_100000: 3429.0
-Percent_Positivity_in_prior_14_days: 0.028
+Tests_in_prior_14_days: 200.0
+Fourteen_day_test_rate_per_100000: 2423.0
+Percent_Positivity_in_prior_14_days: 0.04
 Level: Green
 url: /states/NM/quay-county
 ---

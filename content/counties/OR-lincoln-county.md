@@ -1,6 +1,6 @@
 ---
 title: "Lincoln County, OR"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:41041.0,FEMA:10.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 41041.0
 FEMA_Region: 10.0
 Population: 49962.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 917.0
-Fourteen_day_test_rate_per_100000: 1835.0
-Percent_Positivity_in_prior_14_days: 0.048
+Tests_in_prior_14_days: 871.0
+Fourteen_day_test_rate_per_100000: 1743.0
+Percent_Positivity_in_prior_14_days: 0.029
 Level: Green
 url: /states/OR/lincoln-county
 ---

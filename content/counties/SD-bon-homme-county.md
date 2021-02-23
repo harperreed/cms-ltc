@@ -1,9 +1,9 @@
 ---
 title: "Bon Homme County, SD"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
-tags: [FIPS:46009.0,FEMA:8.0,Non-core,Green]
+tags: [FIPS:46009.0,FEMA:8.0,Non-core,Yellow]
 categories: [SD]
 County: Bon Homme County
 State: SD
@@ -13,8 +13,8 @@ Population: 6901.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 52.0
 Fourteen_day_test_rate_per_100000: 754.0
-Percent_Positivity_in_prior_14_days: 0.038
-Level: Green
+Percent_Positivity_in_prior_14_days: 0.058
+Level: Yellow
 url: /states/SD/bon-homme-county
 ---
 

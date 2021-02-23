@@ -1,6 +1,6 @@
 ---
 title: "Hanover County, VA"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:51085.0,FEMA:3.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51085.0
 FEMA_Region: 3.0
 Population: 107766.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 4335.0
-Fourteen_day_test_rate_per_100000: 4023.0
-Percent_Positivity_in_prior_14_days: 0.099
+Tests_in_prior_14_days: 4034.0
+Fourteen_day_test_rate_per_100000: 3743.0
+Percent_Positivity_in_prior_14_days: 0.09
 Level: Yellow
 url: /states/VA/hanover-county
 ---

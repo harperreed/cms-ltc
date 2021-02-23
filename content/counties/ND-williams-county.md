@@ -1,6 +1,6 @@
 ---
 title: "Williams County, ND"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:38105.0,FEMA:8.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 38105.0
 FEMA_Region: 8.0
 Population: 37589.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1722.0
-Fourteen_day_test_rate_per_100000: 4581.0
-Percent_Positivity_in_prior_14_days: 0.039
+Tests_in_prior_14_days: 1478.0
+Fourteen_day_test_rate_per_100000: 3932.0
+Percent_Positivity_in_prior_14_days: 0.028
 Level: Green
 url: /states/ND/williams-county
 ---

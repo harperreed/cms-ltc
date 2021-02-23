@@ -1,9 +1,9 @@
 ---
 title: "Sequatchie County, TN"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
-tags: [FIPS:47153.0,FEMA:4.0,Medium metro,Red]
+tags: [FIPS:47153.0,FEMA:4.0,Medium metro,Yellow]
 categories: [TN]
 County: Sequatchie County
 State: TN
@@ -11,10 +11,10 @@ FIPS: 47153.0
 FEMA_Region: 4.0
 Population: 15026.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 322.0
-Fourteen_day_test_rate_per_100000: 2143.0
-Percent_Positivity_in_prior_14_days: 0.158
-Level: Red
+Tests_in_prior_14_days: 254.0
+Fourteen_day_test_rate_per_100000: 1690.0
+Percent_Positivity_in_prior_14_days: 0.106
+Level: Yellow
 url: /states/TN/sequatchie-county
 ---
 

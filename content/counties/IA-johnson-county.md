@@ -1,6 +1,6 @@
 ---
 title: "Johnson County, IA"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:19103.0,FEMA:7.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 19103.0
 FEMA_Region: 7.0
 Population: 151140.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 7632.0
-Fourteen_day_test_rate_per_100000: 5050.0
-Percent_Positivity_in_prior_14_days: 0.06
+Tests_in_prior_14_days: 6932.0
+Fourteen_day_test_rate_per_100000: 4586.0
+Percent_Positivity_in_prior_14_days: 0.056
 Level: Yellow
 url: /states/IA/johnson-county
 ---

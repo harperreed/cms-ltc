@@ -1,6 +1,6 @@
 ---
 title: "Shawnee County, KS"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:20177.0,FEMA:7.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 20177.0
 FEMA_Region: 7.0
 Population: 176875.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 11990.0
-Fourteen_day_test_rate_per_100000: 6779.0
-Percent_Positivity_in_prior_14_days: 0.084
+Tests_in_prior_14_days: 8808.0
+Fourteen_day_test_rate_per_100000: 4980.0
+Percent_Positivity_in_prior_14_days: 0.074
 Level: Yellow
 url: /states/KS/shawnee-county
 ---

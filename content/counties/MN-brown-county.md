@@ -1,6 +1,6 @@
 ---
 title: "Brown County, MN"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:27015.0,FEMA:5.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 27015.0
 FEMA_Region: 5.0
 Population: 25008.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3623.0
-Fourteen_day_test_rate_per_100000: 14487.0
-Percent_Positivity_in_prior_14_days: 0.049
+Tests_in_prior_14_days: 3737.0
+Fourteen_day_test_rate_per_100000: 14943.0
+Percent_Positivity_in_prior_14_days: 0.046
 Level: Green
 url: /states/MN/brown-county
 ---

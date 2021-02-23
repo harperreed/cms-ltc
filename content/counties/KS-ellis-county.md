@@ -1,6 +1,6 @@
 ---
 title: "Ellis County, KS"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:20051.0,FEMA:7.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 20051.0
 FEMA_Region: 7.0
 Population: 28553.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2332.0
-Fourteen_day_test_rate_per_100000: 8167.0
-Percent_Positivity_in_prior_14_days: 0.081
+Tests_in_prior_14_days: 1963.0
+Fourteen_day_test_rate_per_100000: 6875.0
+Percent_Positivity_in_prior_14_days: 0.089
 Level: Yellow
 url: /states/KS/ellis-county
 ---

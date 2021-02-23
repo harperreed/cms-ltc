@@ -1,6 +1,6 @@
 ---
 title: "Angelina County, TX"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:48005.0,FEMA:6.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 48005.0
 FEMA_Region: 6.0
 Population: 86715.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3447.0
-Fourteen_day_test_rate_per_100000: 3975.0
-Percent_Positivity_in_prior_14_days: 0.112
+Tests_in_prior_14_days: 1672.0
+Fourteen_day_test_rate_per_100000: 1928.0
+Percent_Positivity_in_prior_14_days: 0.13
 Level: Red
 url: /states/TX/angelina-county
 ---

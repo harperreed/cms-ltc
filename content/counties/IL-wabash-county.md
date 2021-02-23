@@ -1,6 +1,6 @@
 ---
 title: "Wabash County, IL"
-date: 2021-02-22
+date: 2021-02-23
 draft: false
 type: county
 tags: [FIPS:17185.0,FEMA:5.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 17185.0
 FEMA_Region: 5.0
 Population: 11520.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 425.0
-Fourteen_day_test_rate_per_100000: 3689.0
-Percent_Positivity_in_prior_14_days: 0.033
+Tests_in_prior_14_days: 329.0
+Fourteen_day_test_rate_per_100000: 2856.0
+Percent_Positivity_in_prior_14_days: 0.021
 Level: Green
 url: /states/IL/wabash-county
 ---
