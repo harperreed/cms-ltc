@@ -1,6 +1,6 @@
 ---
 title: "Washtenaw County, MI"
-date: 2021-02-23
+date: 2021-02-24
 draft: false
 type: county
 tags: [FIPS:26161.0,FEMA:5.0,Medium metro,Green]

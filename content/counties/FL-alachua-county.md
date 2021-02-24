@@ -1,6 +1,6 @@
 ---
 title: "Alachua County, FL"
-date: 2021-02-23
+date: 2021-02-24
 draft: false
 type: county
 tags: [FIPS:12001.0,FEMA:4.0,Medium metro,Green]

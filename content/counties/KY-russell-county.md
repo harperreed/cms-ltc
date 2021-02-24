@@ -1,6 +1,6 @@
 ---
 title: "Russell County, KY"
-date: 2021-02-23
+date: 2021-02-24
 draft: false
 type: county
 tags: [FIPS:21207.0,FEMA:4.0,Non-core,Yellow]
