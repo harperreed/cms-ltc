@@ -1,6 +1,6 @@
 ---
 title: "Bethel Census Area, AK"
-date: 2021-02-24
+date: 2021-02-25
 draft: false
 type: county
 tags: [FIPS:2050.0,FEMA:10.0,Non-core,Yellow]

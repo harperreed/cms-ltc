@@ -1,6 +1,6 @@
 ---
 title: "Archer County, TX"
-date: 2021-02-24
+date: 2021-02-25
 draft: false
 type: county
 tags: [FIPS:48009.0,FEMA:6.0,Small metro,Green]

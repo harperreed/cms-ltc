@@ -1,6 +1,6 @@
 ---
 title: "Barton County, MO"
-date: 2021-02-24
+date: 2021-02-25
 draft: false
 type: county
 tags: [FIPS:29011.0,FEMA:7.0,Non-core,Green]

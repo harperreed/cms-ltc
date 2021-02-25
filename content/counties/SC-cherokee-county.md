@@ -1,6 +1,6 @@
 ---
 title: "Cherokee County, SC"
-date: 2021-02-24
+date: 2021-02-25
 draft: false
 type: county
 tags: [FIPS:45021.0,FEMA:4.0,Micropolitan,Red]

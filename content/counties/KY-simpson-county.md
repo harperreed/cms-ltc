@@ -1,6 +1,6 @@
 ---
 title: "Simpson County, KY"
-date: 2021-02-24
+date: 2021-02-25
 draft: false
 type: county
 tags: [FIPS:21213.0,FEMA:4.0,Non-core,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Lauderdale County, AL"
-date: 2021-02-24
+date: 2021-02-25
 draft: false
 type: county
 tags: [FIPS:1077.0,FEMA:4.0,Small metro,Yellow]

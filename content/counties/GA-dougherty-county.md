@@ -1,6 +1,6 @@
 ---
 title: "Dougherty County, GA"
-date: 2021-02-24
+date: 2021-02-25
 draft: false
 type: county
 tags: [FIPS:13095.0,FEMA:4.0,Small metro,Yellow]
