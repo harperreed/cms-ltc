@@ -1,6 +1,6 @@
 ---
 title: "Newton County, MS"
-date: 2021-02-25
+date: 2021-02-26
 draft: false
 type: county
 tags: [FIPS:28101.0,FEMA:4.0,Non-core,Yellow]
