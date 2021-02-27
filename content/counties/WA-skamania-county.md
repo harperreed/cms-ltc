@@ -1,6 +1,6 @@
 ---
 title: "Skamania County, WA"
-date: 2021-02-26
+date: 2021-02-27
 draft: false
 type: county
 tags: [FIPS:53059.0,FEMA:10.0,Large fringe metro,Green]

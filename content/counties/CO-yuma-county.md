@@ -1,6 +1,6 @@
 ---
 title: "Yuma County, CO"
-date: 2021-02-26
+date: 2021-02-27
 draft: false
 type: county
 tags: [FIPS:8125.0,FEMA:8.0,Non-core,Green]

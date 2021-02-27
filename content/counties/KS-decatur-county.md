@@ -1,6 +1,6 @@
 ---
 title: "Decatur County, KS"
-date: 2021-02-26
+date: 2021-02-27
 draft: false
 type: county
 tags: [FIPS:20039.0,FEMA:7.0,Non-core,Yellow]

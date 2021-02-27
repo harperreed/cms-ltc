@@ -1,6 +1,6 @@
 ---
 title: "Washburn County, WI"
-date: 2021-02-26
+date: 2021-02-27
 draft: false
 type: county
 tags: [FIPS:55129.0,FEMA:5.0,Non-core,Red]

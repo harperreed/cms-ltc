@@ -1,6 +1,6 @@
 ---
 title: "Osage County, MO"
-date: 2021-02-26
+date: 2021-02-27
 draft: false
 type: county
 tags: [FIPS:29151.0,FEMA:7.0,Small metro,Yellow]

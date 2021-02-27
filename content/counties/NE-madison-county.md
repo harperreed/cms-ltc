@@ -1,6 +1,6 @@
 ---
 title: "Madison County, NE"
-date: 2021-02-26
+date: 2021-02-27
 draft: false
 type: county
 tags: [FIPS:31119.0,FEMA:7.0,Micropolitan,Red]

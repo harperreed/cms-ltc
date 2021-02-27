@@ -1,6 +1,6 @@
 ---
 title: "Calhoun County, WV"
-date: 2021-02-26
+date: 2021-02-27
 draft: false
 type: county
 tags: [FIPS:54013.0,FEMA:3.0,Non-core,Green]

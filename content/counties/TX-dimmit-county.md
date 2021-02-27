@@ -1,6 +1,6 @@
 ---
 title: "Dimmit County, TX"
-date: 2021-02-26
+date: 2021-02-27
 draft: false
 type: county
 tags: [FIPS:48127.0,FEMA:6.0,Non-core,Red]
