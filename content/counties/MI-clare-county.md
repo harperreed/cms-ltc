@@ -1,6 +1,6 @@
 ---
 title: "Clare County, MI"
-date: 2021-02-27
+date: 2021-02-28
 draft: false
 type: county
 tags: [FIPS:26035.0,FEMA:5.0,Non-core,Green]

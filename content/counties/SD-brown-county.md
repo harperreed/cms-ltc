@@ -1,6 +1,6 @@
 ---
 title: "Brown County, SD"
-date: 2021-02-27
+date: 2021-02-28
 draft: false
 type: county
 tags: [FIPS:46013.0,FEMA:8.0,Micropolitan,Yellow]

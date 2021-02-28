@@ -1,6 +1,6 @@
 ---
 title: "Tift County, GA"
-date: 2021-02-27
+date: 2021-02-28
 draft: false
 type: county
 tags: [FIPS:13277.0,FEMA:4.0,Micropolitan,Yellow]

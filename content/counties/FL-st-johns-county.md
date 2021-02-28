@@ -1,6 +1,6 @@
 ---
 title: "St. Johns County, FL"
-date: 2021-02-27
+date: 2021-02-28
 draft: false
 type: county
 tags: [FIPS:12109.0,FEMA:4.0,Large fringe metro,Yellow]

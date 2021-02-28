@@ -1,6 +1,6 @@
 ---
 title: "Kittitas County, WA"
-date: 2021-02-27
+date: 2021-02-28
 draft: false
 type: county
 tags: [FIPS:53037.0,FEMA:10.0,Micropolitan,Yellow]

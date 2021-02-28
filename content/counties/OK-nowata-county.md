@@ -1,6 +1,6 @@
 ---
 title: "Nowata County, OK"
-date: 2021-02-27
+date: 2021-02-28
 draft: false
 type: county
 tags: [FIPS:40105.0,FEMA:6.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Davidson County, NC"
-date: 2021-02-27
+date: 2021-02-28
 draft: false
 type: county
 tags: [FIPS:37057.0,FEMA:4.0,Medium metro,Red]
