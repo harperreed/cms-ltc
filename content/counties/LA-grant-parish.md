@@ -1,6 +1,6 @@
 ---
 title: "Grant Parish, LA"
-date: 2021-02-28
+date: 2021-03-01
 draft: false
 type: county
 tags: [FIPS:22043.0,FEMA:6.0,Small metro,Green]

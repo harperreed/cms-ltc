@@ -1,6 +1,6 @@
 ---
 title: "Bernalillo County, NM"
-date: 2021-02-28
+date: 2021-03-01
 draft: false
 type: county
 tags: [FIPS:35001.0,FEMA:6.0,Medium metro,Green]
