@@ -1,6 +1,6 @@
 ---
 title: "Greenville County, SC"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
 tags: [FIPS:45045.0,FEMA:4.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 45045.0
 FEMA_Region: 4.0
 Population: 523542.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 7280.0
-Fourteen_day_test_rate_per_100000: 1391.0
-Percent_Positivity_in_prior_14_days: 0.215
+Tests_in_prior_14_days: 18662.0
+Fourteen_day_test_rate_per_100000: 3565.0
+Percent_Positivity_in_prior_14_days: 0.111
 Level: Red
 url: /states/SC/greenville-county
 ---

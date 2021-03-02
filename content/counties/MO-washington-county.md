@@ -1,6 +1,6 @@
 ---
 title: "Washington County, MO"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
 tags: [FIPS:29221.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 29221.0
 FEMA_Region: 7.0
 Population: 24730.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 137.0
-Fourteen_day_test_rate_per_100000: 554.0
-Percent_Positivity_in_prior_14_days: 0.102
+Tests_in_prior_14_days: 119.0
+Fourteen_day_test_rate_per_100000: 481.0
+Percent_Positivity_in_prior_14_days: 0.092
 Level: Yellow
 url: /states/MO/washington-county
 ---

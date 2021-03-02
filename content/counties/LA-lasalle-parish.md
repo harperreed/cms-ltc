@@ -1,6 +1,6 @@
 ---
 title: "LaSalle Parish, LA"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
 tags: [FIPS:22059.0,FEMA:6.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 22059.0
 FEMA_Region: 6.0
 Population: 14892.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 372.0
-Fourteen_day_test_rate_per_100000: 2498.0
-Percent_Positivity_in_prior_14_days: 0.027
+Tests_in_prior_14_days: 427.0
+Fourteen_day_test_rate_per_100000: 2867.0
+Percent_Positivity_in_prior_14_days: 0.03
 Level: Green
 url: /states/LA/lasalle-parish
 ---

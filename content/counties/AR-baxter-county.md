@@ -1,9 +1,9 @@
 ---
 title: "Baxter County, AR"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
-tags: [FIPS:5005.0,FEMA:6.0,Micropolitan,Green]
+tags: [FIPS:5005.0,FEMA:6.0,Micropolitan,Yellow]
 categories: [AR]
 County: Baxter County
 State: AR
@@ -11,10 +11,10 @@ FIPS: 5005.0
 FEMA_Region: 6.0
 Population: 41932.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 179.0
-Fourteen_day_test_rate_per_100000: 427.0
-Percent_Positivity_in_prior_14_days: 0.045
-Level: Green
+Tests_in_prior_14_days: 362.0
+Fourteen_day_test_rate_per_100000: 863.0
+Percent_Positivity_in_prior_14_days: 0.05
+Level: Yellow
 url: /states/AR/baxter-county
 ---
 

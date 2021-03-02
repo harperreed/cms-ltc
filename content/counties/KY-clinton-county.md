@@ -1,9 +1,9 @@
 ---
 title: "Clinton County, KY"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
-tags: [FIPS:21053.0,FEMA:4.0,Non-core,Yellow]
+tags: [FIPS:21053.0,FEMA:4.0,Non-core,Green]
 categories: [KY]
 County: Clinton County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21053.0
 FEMA_Region: 4.0
 Population: 10218.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 57.0
-Fourteen_day_test_rate_per_100000: 558.0
-Percent_Positivity_in_prior_14_days: 0.123
-Level: Yellow
+Tests_in_prior_14_days: 30.0
+Fourteen_day_test_rate_per_100000: 294.0
+Percent_Positivity_in_prior_14_days: 0.033
+Level: Green
 url: /states/KY/clinton-county
 ---
 

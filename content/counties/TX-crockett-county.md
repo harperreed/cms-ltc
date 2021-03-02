@@ -1,6 +1,6 @@
 ---
 title: "Crockett County, TX"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
 tags: [FIPS:48105.0,FEMA:6.0,Non-core,Green]

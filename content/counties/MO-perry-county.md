@@ -1,6 +1,6 @@
 ---
 title: "Perry County, MO"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
 tags: [FIPS:29157.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 29157.0
 FEMA_Region: 7.0
 Population: 19136.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 143.0
-Fourteen_day_test_rate_per_100000: 747.0
-Percent_Positivity_in_prior_14_days: 0.112
+Tests_in_prior_14_days: 134.0
+Fourteen_day_test_rate_per_100000: 700.0
+Percent_Positivity_in_prior_14_days: 0.127
 Level: Yellow
 url: /states/MO/perry-county
 ---

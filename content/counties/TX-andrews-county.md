@@ -1,6 +1,6 @@
 ---
 title: "Andrews County, TX"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
 tags: [FIPS:48003.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48003.0
 FEMA_Region: 6.0
 Population: 18705.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 95.0
-Fourteen_day_test_rate_per_100000: 508.0
-Percent_Positivity_in_prior_14_days: 0.063
+Tests_in_prior_14_days: 68.0
+Fourteen_day_test_rate_per_100000: 364.0
+Percent_Positivity_in_prior_14_days: 0.059
 Level: Yellow
 url: /states/TX/andrews-county
 ---

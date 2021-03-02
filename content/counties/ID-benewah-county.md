@@ -1,9 +1,9 @@
 ---
 title: "Benewah County, ID"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
-tags: [FIPS:16009.0,FEMA:10.0,Non-core,Green]
+tags: [FIPS:16009.0,FEMA:10.0,Non-core,Red]
 categories: [ID]
 County: Benewah County
 State: ID
@@ -11,10 +11,10 @@ FIPS: 16009.0
 FEMA_Region: 10.0
 Population: 9298.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 427.0
-Fourteen_day_test_rate_per_100000: 4592.0
-Percent_Positivity_in_prior_14_days: 0.037
-Level: Green
+Tests_in_prior_14_days: 432.0
+Fourteen_day_test_rate_per_100000: 4646.0
+Percent_Positivity_in_prior_14_days: 0.116
+Level: Red
 url: /states/ID/benewah-county
 ---
 

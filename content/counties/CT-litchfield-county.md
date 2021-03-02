@@ -1,6 +1,6 @@
 ---
 title: "Litchfield County, CT"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
 tags: [FIPS:9005.0,FEMA:1.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 9005.0
 FEMA_Region: 1.0
 Population: 180333.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 24586.0
-Fourteen_day_test_rate_per_100000: 13634.0
-Percent_Positivity_in_prior_14_days: 0.037
+Tests_in_prior_14_days: 18664.0
+Fourteen_day_test_rate_per_100000: 10350.0
+Percent_Positivity_in_prior_14_days: 0.028
 Level: Green
 url: /states/CT/litchfield-county
 ---

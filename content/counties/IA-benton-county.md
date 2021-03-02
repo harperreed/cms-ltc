@@ -1,6 +1,6 @@
 ---
 title: "Benton County, IA"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
 tags: [FIPS:19011.0,FEMA:7.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 19011.0
 FEMA_Region: 7.0
 Population: 25645.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 794.0
-Fourteen_day_test_rate_per_100000: 3096.0
-Percent_Positivity_in_prior_14_days: 0.139
+Tests_in_prior_14_days: 824.0
+Fourteen_day_test_rate_per_100000: 3213.0
+Percent_Positivity_in_prior_14_days: 0.118
 Level: Red
 url: /states/IA/benton-county
 ---

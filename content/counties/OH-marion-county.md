@@ -1,6 +1,6 @@
 ---
 title: "Marion County, OH"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
 tags: [FIPS:39101.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 39101.0
 FEMA_Region: 5.0
 Population: 65093.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 253.0
-Fourteen_day_test_rate_per_100000: 389.0
-Percent_Positivity_in_prior_14_days: 0.055
+Tests_in_prior_14_days: 208.0
+Fourteen_day_test_rate_per_100000: 320.0
+Percent_Positivity_in_prior_14_days: 0.077
 Level: Yellow
 url: /states/OH/marion-county
 ---

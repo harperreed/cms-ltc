@@ -1,6 +1,6 @@
 ---
 title: "Decatur County, GA"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
 tags: [FIPS:13087.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 13087.0
 FEMA_Region: 4.0
 Population: 26404.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 501.0
-Fourteen_day_test_rate_per_100000: 1897.0
-Percent_Positivity_in_prior_14_days: 0.03
+Tests_in_prior_14_days: 440.0
+Fourteen_day_test_rate_per_100000: 1666.0
+Percent_Positivity_in_prior_14_days: 0.023
 Level: Green
 url: /states/GA/decatur-county
 ---

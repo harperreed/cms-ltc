@@ -1,9 +1,9 @@
 ---
 title: "Cherokee County, IA"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
-tags: [FIPS:19035.0,FEMA:7.0,Non-core,Green]
+tags: [FIPS:19035.0,FEMA:7.0,Non-core,Yellow]
 categories: [IA]
 County: Cherokee County
 State: IA
@@ -11,10 +11,10 @@ FIPS: 19035.0
 FEMA_Region: 7.0
 Population: 11235.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 147.0
-Fourteen_day_test_rate_per_100000: 1308.0
-Percent_Positivity_in_prior_14_days: 0.034
-Level: Green
+Tests_in_prior_14_days: 145.0
+Fourteen_day_test_rate_per_100000: 1291.0
+Percent_Positivity_in_prior_14_days: 0.083
+Level: Yellow
 url: /states/IA/cherokee-county
 ---
 

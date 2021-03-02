@@ -1,6 +1,6 @@
 ---
 title: "Clare County, MI"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
 tags: [FIPS:26035.0,FEMA:5.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 26035.0
 FEMA_Region: 5.0
 Population: 30950.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1012.0
-Fourteen_day_test_rate_per_100000: 3270.0
-Percent_Positivity_in_prior_14_days: 0.037
+Tests_in_prior_14_days: 864.0
+Fourteen_day_test_rate_per_100000: 2792.0
+Percent_Positivity_in_prior_14_days: 0.025
 Level: Green
 url: /states/MI/clare-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Fairfax County, VA"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
 tags: [FIPS:51059.0,FEMA:3.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51059.0
 FEMA_Region: 3.0
 Population: 1147532.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 37295.0
-Fourteen_day_test_rate_per_100000: 3250.0
-Percent_Positivity_in_prior_14_days: 0.092
+Tests_in_prior_14_days: 34552.0
+Fourteen_day_test_rate_per_100000: 3011.0
+Percent_Positivity_in_prior_14_days: 0.079
 Level: Yellow
 url: /states/VA/fairfax-county
 ---

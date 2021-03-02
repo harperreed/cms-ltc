@@ -1,9 +1,9 @@
 ---
 title: "Oconee County, GA"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
-tags: [FIPS:13219.0,FEMA:4.0,Small metro,Red]
+tags: [FIPS:13219.0,FEMA:4.0,Small metro,Yellow]
 categories: [GA]
 County: Oconee County
 State: GA
@@ -11,10 +11,10 @@ FIPS: 13219.0
 FEMA_Region: 4.0
 Population: 40280.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1044.0
-Fourteen_day_test_rate_per_100000: 2592.0
-Percent_Positivity_in_prior_14_days: 0.101
-Level: Red
+Tests_in_prior_14_days: 912.0
+Fourteen_day_test_rate_per_100000: 2264.0
+Percent_Positivity_in_prior_14_days: 0.078
+Level: Yellow
 url: /states/GA/oconee-county
 ---
 

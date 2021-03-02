@@ -1,6 +1,6 @@
 ---
 title: "Lincoln County, GA"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
 tags: [FIPS:13181.0,FEMA:4.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13181.0
 FEMA_Region: 4.0
 Population: 7921.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 130.0
-Fourteen_day_test_rate_per_100000: 1641.0
-Percent_Positivity_in_prior_14_days: 0.154
+Tests_in_prior_14_days: 153.0
+Fourteen_day_test_rate_per_100000: 1932.0
+Percent_Positivity_in_prior_14_days: 0.118
 Level: Yellow
 url: /states/GA/lincoln-county
 ---

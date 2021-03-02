@@ -1,9 +1,9 @@
 ---
 title: "Buchanan County, VA"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
-tags: [FIPS:51027.0,FEMA:3.0,Non-core,Yellow]
+tags: [FIPS:51027.0,FEMA:3.0,Non-core,Green]
 categories: [VA]
 County: Buchanan County
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51027.0
 FEMA_Region: 3.0
 Population: 21004.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 108.0
-Fourteen_day_test_rate_per_100000: 514.0
-Percent_Positivity_in_prior_14_days: 0.056
-Level: Yellow
+Tests_in_prior_14_days: 116.0
+Fourteen_day_test_rate_per_100000: 552.0
+Percent_Positivity_in_prior_14_days: 0.034
+Level: Green
 url: /states/VA/buchanan-county
 ---
 

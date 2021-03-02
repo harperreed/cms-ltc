@@ -1,6 +1,6 @@
 ---
 title: "Winn Parish, LA"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
 tags: [FIPS:22127.0,FEMA:6.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 22127.0
 FEMA_Region: 6.0
 Population: 13904.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 628.0
-Fourteen_day_test_rate_per_100000: 4517.0
-Percent_Positivity_in_prior_14_days: 0.018
+Tests_in_prior_14_days: 536.0
+Fourteen_day_test_rate_per_100000: 3855.0
+Percent_Positivity_in_prior_14_days: 0.024
 Level: Green
 url: /states/LA/winn-parish
 ---

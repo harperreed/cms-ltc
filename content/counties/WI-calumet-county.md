@@ -1,9 +1,9 @@
 ---
 title: "Calumet County, WI"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
-tags: [FIPS:55015.0,FEMA:5.0,Small metro,Yellow]
+tags: [FIPS:55015.0,FEMA:5.0,Small metro,Green]
 categories: [WI]
 County: Calumet County
 State: WI
@@ -13,8 +13,8 @@ Population: 50089.0
 NCHS_Urban_Rural_Classification: Small metro
 Tests_in_prior_14_days: 1305.0
 Fourteen_day_test_rate_per_100000: 2605.0
-Percent_Positivity_in_prior_14_days: 0.051
-Level: Yellow
+Percent_Positivity_in_prior_14_days: 0.044
+Level: Green
 url: /states/WI/calumet-county
 ---
 

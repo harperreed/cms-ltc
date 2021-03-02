@@ -1,9 +1,9 @@
 ---
 title: "Panola County, MS"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
-tags: [FIPS:28107.0,FEMA:4.0,Non-core,Red]
+tags: [FIPS:28107.0,FEMA:4.0,Non-core,Yellow]
 categories: [MS]
 County: Panola County
 State: MS
@@ -11,10 +11,10 @@ FIPS: 28107.0
 FEMA_Region: 4.0
 Population: 34192.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 861.0
-Fourteen_day_test_rate_per_100000: 2518.0
-Percent_Positivity_in_prior_14_days: 0.105
-Level: Red
+Tests_in_prior_14_days: 644.0
+Fourteen_day_test_rate_per_100000: 1883.0
+Percent_Positivity_in_prior_14_days: 0.099
+Level: Yellow
 url: /states/MS/panola-county
 ---
 

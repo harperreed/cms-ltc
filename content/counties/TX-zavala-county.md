@@ -1,6 +1,6 @@
 ---
 title: "Zavala County, TX"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
 tags: [FIPS:48507.0,FEMA:6.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 48507.0
 FEMA_Region: 6.0
 Population: 11840.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 506.0
-Fourteen_day_test_rate_per_100000: 4274.0
-Percent_Positivity_in_prior_14_days: 0.271
+Tests_in_prior_14_days: 301.0
+Fourteen_day_test_rate_per_100000: 2542.0
+Percent_Positivity_in_prior_14_days: 0.266
 Level: Red
 url: /states/TX/zavala-county
 ---

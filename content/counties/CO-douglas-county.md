@@ -1,6 +1,6 @@
 ---
 title: "Douglas County, CO"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
 tags: [FIPS:8035.0,FEMA:8.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 8035.0
 FEMA_Region: 8.0
 Population: 351154.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 19210.0
-Fourteen_day_test_rate_per_100000: 5471.0
-Percent_Positivity_in_prior_14_days: 0.056
+Tests_in_prior_14_days: 18863.0
+Fourteen_day_test_rate_per_100000: 5372.0
+Percent_Positivity_in_prior_14_days: 0.05
 Level: Yellow
 url: /states/CO/douglas-county
 ---

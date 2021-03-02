@@ -1,6 +1,6 @@
 ---
 title: "Mathews County, VA"
-date: 2021-03-01
+date: 2021-03-02
 draft: false
 type: county
 tags: [FIPS:51115.0,FEMA:3.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 51115.0
 FEMA_Region: 3.0
 Population: 8834.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 200.0
-Fourteen_day_test_rate_per_100000: 2264.0
-Percent_Positivity_in_prior_14_days: 0.12
+Tests_in_prior_14_days: 183.0
+Fourteen_day_test_rate_per_100000: 2072.0
+Percent_Positivity_in_prior_14_days: 0.131
 Level: Red
 url: /states/VA/mathews-county
 ---
