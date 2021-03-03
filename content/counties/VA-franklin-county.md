@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, VA"
-date: 2021-03-02
+date: 2021-03-03
 draft: false
 type: county
 tags: [FIPS:51067.0,FEMA:3.0,Medium metro,Yellow]

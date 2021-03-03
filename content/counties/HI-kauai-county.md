@@ -1,6 +1,6 @@
 ---
 title: "Kauai County, HI"
-date: 2021-03-02
+date: 2021-03-03
 draft: false
 type: county
 tags: [FIPS:15007.0,FEMA:9.0,Micropolitan,Green]

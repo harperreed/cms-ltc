@@ -1,6 +1,6 @@
 ---
 title: "Adams County, ID"
-date: 2021-03-02
+date: 2021-03-03
 draft: false
 type: county
 tags: [FIPS:16003.0,FEMA:10.0,Non-core,Green]
