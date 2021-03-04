@@ -1,6 +1,6 @@
 ---
 title: "Northampton County, NC"
-date: 2021-03-03
+date: 2021-03-04
 draft: false
 type: county
 tags: [FIPS:37131.0,FEMA:4.0,Micropolitan,Green]

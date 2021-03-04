@@ -1,6 +1,6 @@
 ---
 title: "Gooding County, ID"
-date: 2021-03-03
+date: 2021-03-04
 draft: false
 type: county
 tags: [FIPS:16047.0,FEMA:10.0,Non-core,Yellow]

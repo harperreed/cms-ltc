@@ -1,6 +1,6 @@
 ---
 title: "Richland County, IL"
-date: 2021-03-03
+date: 2021-03-04
 draft: false
 type: county
 tags: [FIPS:17159.0,FEMA:5.0,Non-core,Green]
