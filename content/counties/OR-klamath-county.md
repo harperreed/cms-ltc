@@ -1,6 +1,6 @@
 ---
 title: "Klamath County, OR"
-date: 2021-03-05
+date: 2021-03-06
 draft: false
 type: county
 tags: [FIPS:41035.0,FEMA:10.0,Micropolitan,Green]

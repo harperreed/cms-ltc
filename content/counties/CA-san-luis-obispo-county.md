@@ -1,6 +1,6 @@
 ---
 title: "San Luis Obispo County, CA"
-date: 2021-03-05
+date: 2021-03-06
 draft: false
 type: county
 tags: [FIPS:6079.0,FEMA:9.0,Medium metro,Green]

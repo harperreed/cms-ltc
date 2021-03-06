@@ -1,6 +1,6 @@
 ---
 title: "Kay County, OK"
-date: 2021-03-05
+date: 2021-03-06
 draft: false
 type: county
 tags: [FIPS:40071.0,FEMA:6.0,Micropolitan,Green]

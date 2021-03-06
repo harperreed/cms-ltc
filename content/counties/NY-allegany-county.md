@@ -1,6 +1,6 @@
 ---
 title: "Allegany County, NY"
-date: 2021-03-05
+date: 2021-03-06
 draft: false
 type: county
 tags: [FIPS:36003.0,FEMA:2.0,Non-core,Yellow]
