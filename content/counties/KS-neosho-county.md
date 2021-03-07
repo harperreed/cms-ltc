@@ -1,6 +1,6 @@
 ---
 title: "Neosho County, KS"
-date: 2021-03-06
+date: 2021-03-07
 draft: false
 type: county
 tags: [FIPS:20133.0,FEMA:7.0,Non-core,Red]

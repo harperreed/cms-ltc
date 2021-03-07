@@ -1,6 +1,6 @@
 ---
 title: "Quitman County, GA"
-date: 2021-03-06
+date: 2021-03-07
 draft: false
 type: county
 tags: [FIPS:13239.0,FEMA:4.0,Non-core,Green]
