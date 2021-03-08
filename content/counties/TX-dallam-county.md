@@ -1,6 +1,6 @@
 ---
 title: "Dallam County, TX"
-date: 2021-03-07
+date: 2021-03-08
 draft: false
 type: county
 tags: [FIPS:48111.0,FEMA:6.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Scott County, KY"
-date: 2021-03-07
+date: 2021-03-08
 draft: false
 type: county
 tags: [FIPS:21209.0,FEMA:4.0,Medium metro,Yellow]
