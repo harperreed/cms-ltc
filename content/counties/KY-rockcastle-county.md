@@ -1,6 +1,6 @@
 ---
 title: "Rockcastle County, KY"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:21203.0,FEMA:4.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 21203.0
 FEMA_Region: 4.0
 Population: 16695.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 480.0
-Fourteen_day_test_rate_per_100000: 2875.0
-Percent_Positivity_in_prior_14_days: 0.152
+Tests_in_prior_14_days: 545.0
+Fourteen_day_test_rate_per_100000: 3264.0
+Percent_Positivity_in_prior_14_days: 0.119
 Level: Red
 url: /states/KY/rockcastle-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, FL"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:12063.0,FEMA:4.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 12063.0
 FEMA_Region: 4.0
 Population: 46414.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2011.0
-Fourteen_day_test_rate_per_100000: 4333.0
-Percent_Positivity_in_prior_14_days: 0.026
+Tests_in_prior_14_days: 1727.0
+Fourteen_day_test_rate_per_100000: 3721.0
+Percent_Positivity_in_prior_14_days: 0.023
 Level: Green
 url: /states/FL/jackson-county
 ---

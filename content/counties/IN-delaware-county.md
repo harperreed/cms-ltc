@@ -1,6 +1,6 @@
 ---
 title: "Delaware County, IN"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:18035.0,FEMA:5.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 18035.0
 FEMA_Region: 5.0
 Population: 114135.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3209.0
-Fourteen_day_test_rate_per_100000: 2812.0
-Percent_Positivity_in_prior_14_days: 0.041
+Tests_in_prior_14_days: 2849.0
+Fourteen_day_test_rate_per_100000: 2496.0
+Percent_Positivity_in_prior_14_days: 0.031
 Level: Green
 url: /states/IN/delaware-county
 ---

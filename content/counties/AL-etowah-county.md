@@ -1,6 +1,6 @@
 ---
 title: "Etowah County, AL"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:1055.0,FEMA:4.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 1055.0
 FEMA_Region: 4.0
 Population: 102268.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2025.0
-Fourteen_day_test_rate_per_100000: 1980.0
-Percent_Positivity_in_prior_14_days: 0.116
+Tests_in_prior_14_days: 3264.0
+Fourteen_day_test_rate_per_100000: 3192.0
+Percent_Positivity_in_prior_14_days: 0.131
 Level: Red
 url: /states/AL/etowah-county
 ---

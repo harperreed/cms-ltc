@@ -1,9 +1,9 @@
 ---
 title: "Cape May County, NJ"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
-tags: [FIPS:34009.0,FEMA:2.0,Small metro,Yellow]
+tags: [FIPS:34009.0,FEMA:2.0,Small metro,Green]
 categories: [NJ]
 County: Cape May County
 State: NJ
@@ -11,10 +11,10 @@ FIPS: 34009.0
 FEMA_Region: 2.0
 Population: 92039.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 5430.0
-Fourteen_day_test_rate_per_100000: 5900.0
-Percent_Positivity_in_prior_14_days: 0.051
-Level: Yellow
+Tests_in_prior_14_days: 5426.0
+Fourteen_day_test_rate_per_100000: 5895.0
+Percent_Positivity_in_prior_14_days: 0.047
+Level: Green
 url: /states/NJ/cape-may-county
 ---
 

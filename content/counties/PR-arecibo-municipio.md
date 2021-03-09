@@ -1,6 +1,6 @@
 ---
 title: "Arecibo Municipio, PR"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:72013.0,FEMA:2.0,,Yellow]
@@ -11,9 +11,9 @@ FIPS: 72013.0
 FEMA_Region: 2.0
 Population: 81966.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 53.0
-Fourteen_day_test_rate_per_100000: 65.0
-Percent_Positivity_in_prior_14_days: 0.075
+Tests_in_prior_14_days: 59.0
+Fourteen_day_test_rate_per_100000: 72.0
+Percent_Positivity_in_prior_14_days: 0.102
 Level: Yellow
 url: /states/PR/arecibo-municipio
 ---

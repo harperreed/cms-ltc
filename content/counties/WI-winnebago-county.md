@@ -1,6 +1,6 @@
 ---
 title: "Winnebago County, WI"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:55139.0,FEMA:5.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 55139.0
 FEMA_Region: 5.0
 Population: 171907.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 10292.0
-Fourteen_day_test_rate_per_100000: 5987.0
-Percent_Positivity_in_prior_14_days: 0.03
+Tests_in_prior_14_days: 10505.0
+Fourteen_day_test_rate_per_100000: 6111.0
+Percent_Positivity_in_prior_14_days: 0.027
 Level: Green
 url: /states/WI/winnebago-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Wythe County, VA"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:51197.0,FEMA:3.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51197.0
 FEMA_Region: 3.0
 Population: 28684.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 640.0
-Fourteen_day_test_rate_per_100000: 2231.0
-Percent_Positivity_in_prior_14_days: 0.078
+Tests_in_prior_14_days: 656.0
+Fourteen_day_test_rate_per_100000: 2287.0
+Percent_Positivity_in_prior_14_days: 0.088
 Level: Yellow
 url: /states/VA/wythe-county
 ---

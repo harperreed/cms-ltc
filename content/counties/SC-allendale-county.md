@@ -1,9 +1,9 @@
 ---
 title: "Allendale County, SC"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
-tags: [FIPS:45005.0,FEMA:4.0,Non-core,Red]
+tags: [FIPS:45005.0,FEMA:4.0,Non-core,Gray]
 categories: [SC]
 County: Allendale County
 State: SC
@@ -11,10 +11,10 @@ FIPS: 45005.0
 FEMA_Region: 4.0
 Population: 8688.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 356.0
-Fourteen_day_test_rate_per_100000: 4098.0
-Percent_Positivity_in_prior_14_days: 0.205
-Level: Red
+Tests_in_prior_14_days: 404.0
+Fourteen_day_test_rate_per_100000: 4650.0
+Percent_Positivity_in_prior_14_days: 0.144
+Level: Gray
 url: /states/SC/allendale-county
 ---
 

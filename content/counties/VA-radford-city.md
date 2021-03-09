@@ -1,9 +1,9 @@
 ---
 title: "Radford city, VA"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
-tags: [FIPS:51750.0,FEMA:3.0,Small metro,Red]
+tags: [FIPS:51750.0,FEMA:3.0,Small metro,Yellow]
 categories: [VA]
 County: Radford city
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51750.0
 FEMA_Region: 3.0
 Population: 18249.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 371.0
-Fourteen_day_test_rate_per_100000: 2033.0
-Percent_Positivity_in_prior_14_days: 0.102
-Level: Red
+Tests_in_prior_14_days: 406.0
+Fourteen_day_test_rate_per_100000: 2225.0
+Percent_Positivity_in_prior_14_days: 0.091
+Level: Yellow
 url: /states/VA/radford-city
 ---
 

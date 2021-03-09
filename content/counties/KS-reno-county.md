@@ -1,9 +1,9 @@
 ---
 title: "Reno County, KS"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
-tags: [FIPS:20155.0,FEMA:7.0,Micropolitan,Yellow]
+tags: [FIPS:20155.0,FEMA:7.0,Micropolitan,Green]
 categories: [KS]
 County: Reno County
 State: KS
@@ -11,10 +11,10 @@ FIPS: 20155.0
 FEMA_Region: 7.0
 Population: 61998.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2416.0
-Fourteen_day_test_rate_per_100000: 3897.0
-Percent_Positivity_in_prior_14_days: 0.057
-Level: Yellow
+Tests_in_prior_14_days: 2536.0
+Fourteen_day_test_rate_per_100000: 4090.0
+Percent_Positivity_in_prior_14_days: 0.043
+Level: Green
 url: /states/KS/reno-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Carolina Municipio, PR"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:72031.0,FEMA:2.0,,Green]
@@ -11,9 +11,9 @@ FIPS: 72031.0
 FEMA_Region: 2.0
 Population: 146984.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 314.0
-Fourteen_day_test_rate_per_100000: 214.0
-Percent_Positivity_in_prior_14_days: 0.041
+Tests_in_prior_14_days: 342.0
+Fourteen_day_test_rate_per_100000: 233.0
+Percent_Positivity_in_prior_14_days: 0.026
 Level: Green
 url: /states/PR/carolina-municipio
 ---

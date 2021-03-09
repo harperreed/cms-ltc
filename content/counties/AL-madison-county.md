@@ -1,9 +1,9 @@
 ---
 title: "Madison County, AL"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
-tags: [FIPS:1089.0,FEMA:4.0,Medium metro,Red]
+tags: [FIPS:1089.0,FEMA:4.0,Medium metro,Yellow]
 categories: [AL]
 County: Madison County
 State: AL
@@ -11,10 +11,10 @@ FIPS: 1089.0
 FEMA_Region: 4.0
 Population: 372909.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 11885.0
-Fourteen_day_test_rate_per_100000: 3187.0
-Percent_Positivity_in_prior_14_days: 0.109
-Level: Red
+Tests_in_prior_14_days: 12797.0
+Fourteen_day_test_rate_per_100000: 3432.0
+Percent_Positivity_in_prior_14_days: 0.089
+Level: Yellow
 url: /states/AL/madison-county
 ---
 

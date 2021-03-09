@@ -1,6 +1,6 @@
 ---
 title: "Bannock County, ID"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:16005.0,FEMA:10.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 16005.0
 FEMA_Region: 10.0
 Population: 87808.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2324.0
-Fourteen_day_test_rate_per_100000: 2647.0
-Percent_Positivity_in_prior_14_days: 0.075
+Tests_in_prior_14_days: 2590.0
+Fourteen_day_test_rate_per_100000: 2950.0
+Percent_Positivity_in_prior_14_days: 0.053
 Level: Yellow
 url: /states/ID/bannock-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Lapeer County, MI"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
-tags: [FIPS:26087.0,FEMA:5.0,Large fringe metro,Green]
+tags: [FIPS:26087.0,FEMA:5.0,Large fringe metro,Yellow]
 categories: [MI]
 County: Lapeer County
 State: MI
@@ -11,10 +11,10 @@ FIPS: 26087.0
 FEMA_Region: 5.0
 Population: 87607.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 3869.0
-Fourteen_day_test_rate_per_100000: 4416.0
-Percent_Positivity_in_prior_14_days: 0.04
-Level: Green
+Tests_in_prior_14_days: 3239.0
+Fourteen_day_test_rate_per_100000: 3697.0
+Percent_Positivity_in_prior_14_days: 0.051
+Level: Yellow
 url: /states/MI/lapeer-county
 ---
 

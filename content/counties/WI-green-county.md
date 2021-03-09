@@ -1,6 +1,6 @@
 ---
 title: "Green County, WI"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:55045.0,FEMA:5.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 55045.0
 FEMA_Region: 5.0
 Population: 36960.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2425.0
-Fourteen_day_test_rate_per_100000: 6561.0
-Percent_Positivity_in_prior_14_days: 0.079
+Tests_in_prior_14_days: 2402.0
+Fourteen_day_test_rate_per_100000: 6499.0
+Percent_Positivity_in_prior_14_days: 0.072
 Level: Yellow
 url: /states/WI/green-county
 ---

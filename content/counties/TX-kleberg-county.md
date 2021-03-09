@@ -1,9 +1,9 @@
 ---
 title: "Kleberg County, TX"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
-tags: [FIPS:48273.0,FEMA:6.0,Micropolitan,Red]
+tags: [FIPS:48273.0,FEMA:6.0,Micropolitan,Yellow]
 categories: [TX]
 County: Kleberg County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48273.0
 FEMA_Region: 6.0
 Population: 30680.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 551.0
-Fourteen_day_test_rate_per_100000: 1796.0
-Percent_Positivity_in_prior_14_days: 0.127
-Level: Red
+Tests_in_prior_14_days: 402.0
+Fourteen_day_test_rate_per_100000: 1310.0
+Percent_Positivity_in_prior_14_days: 0.134
+Level: Yellow
 url: /states/TX/kleberg-county
 ---
 

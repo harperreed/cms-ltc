@@ -1,6 +1,6 @@
 ---
 title: "Henry County, OH"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:39069.0,FEMA:5.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 39069.0
 FEMA_Region: 5.0
 Population: 27006.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 51.0
-Fourteen_day_test_rate_per_100000: 189.0
-Percent_Positivity_in_prior_14_days: 0.196
+Tests_in_prior_14_days: 49.0
+Fourteen_day_test_rate_per_100000: 181.0
+Percent_Positivity_in_prior_14_days: 0.306
 Level: Yellow
 url: /states/OH/henry-county
 ---

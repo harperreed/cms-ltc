@@ -1,6 +1,6 @@
 ---
 title: "Davidson County, TN"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:47037.0,FEMA:4.0,Large central metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 47037.0
 FEMA_Region: 4.0
 Population: 694144.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 27085.0
-Fourteen_day_test_rate_per_100000: 3902.0
-Percent_Positivity_in_prior_14_days: 0.065
+Tests_in_prior_14_days: 22414.0
+Fourteen_day_test_rate_per_100000: 3229.0
+Percent_Positivity_in_prior_14_days: 0.067
 Level: Yellow
 url: /states/TN/davidson-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Bristol city, VA"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:51520.0,FEMA:3.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51520.0
 FEMA_Region: 3.0
 Population: 16762.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 229.0
-Fourteen_day_test_rate_per_100000: 1366.0
-Percent_Positivity_in_prior_14_days: 0.118
+Tests_in_prior_14_days: 227.0
+Fourteen_day_test_rate_per_100000: 1354.0
+Percent_Positivity_in_prior_14_days: 0.106
 Level: Yellow
 url: /states/VA/bristol-city
 ---

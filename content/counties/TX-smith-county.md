@@ -1,9 +1,9 @@
 ---
 title: "Smith County, TX"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
-tags: [FIPS:48423.0,FEMA:6.0,Small metro,Yellow]
+tags: [FIPS:48423.0,FEMA:6.0,Small metro,Red]
 categories: [TX]
 County: Smith County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48423.0
 FEMA_Region: 6.0
 Population: 232751.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2322.0
-Fourteen_day_test_rate_per_100000: 998.0
-Percent_Positivity_in_prior_14_days: 0.097
-Level: Yellow
+Tests_in_prior_14_days: 1705.0
+Fourteen_day_test_rate_per_100000: 733.0
+Percent_Positivity_in_prior_14_days: 0.101
+Level: Red
 url: /states/TX/smith-county
 ---
 

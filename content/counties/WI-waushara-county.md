@@ -1,6 +1,6 @@
 ---
 title: "Waushara County, WI"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:55137.0,FEMA:5.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 55137.0
 FEMA_Region: 5.0
 Population: 24443.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1017.0
-Fourteen_day_test_rate_per_100000: 4161.0
-Percent_Positivity_in_prior_14_days: 0.013
+Tests_in_prior_14_days: 1011.0
+Fourteen_day_test_rate_per_100000: 4136.0
+Percent_Positivity_in_prior_14_days: 0.012
 Level: Green
 url: /states/WI/waushara-county
 ---

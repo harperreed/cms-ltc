@@ -1,6 +1,6 @@
 ---
 title: "Gloucester County, NJ"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:34015.0,FEMA:2.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 34015.0
 FEMA_Region: 2.0
 Population: 291636.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 14497.0
-Fourteen_day_test_rate_per_100000: 4971.0
-Percent_Positivity_in_prior_14_days: 0.067
+Tests_in_prior_14_days: 13846.0
+Fourteen_day_test_rate_per_100000: 4748.0
+Percent_Positivity_in_prior_14_days: 0.066
 Level: Yellow
 url: /states/NJ/gloucester-county
 ---

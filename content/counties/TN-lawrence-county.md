@@ -1,6 +1,6 @@
 ---
 title: "Lawrence County, TN"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:47099.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 47099.0
 FEMA_Region: 4.0
 Population: 44142.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 598.0
-Fourteen_day_test_rate_per_100000: 1355.0
-Percent_Positivity_in_prior_14_days: 0.074
+Tests_in_prior_14_days: 454.0
+Fourteen_day_test_rate_per_100000: 1028.0
+Percent_Positivity_in_prior_14_days: 0.073
 Level: Yellow
 url: /states/TN/lawrence-county
 ---

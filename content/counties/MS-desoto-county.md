@@ -1,6 +1,6 @@
 ---
 title: "DeSoto County, MS"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:28033.0,FEMA:4.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 28033.0
 FEMA_Region: 4.0
 Population: 184945.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 31672.0
-Fourteen_day_test_rate_per_100000: 17125.0
-Percent_Positivity_in_prior_14_days: 0.112
+Tests_in_prior_14_days: 18302.0
+Fourteen_day_test_rate_per_100000: 9896.0
+Percent_Positivity_in_prior_14_days: 0.114
 Level: Red
 url: /states/MS/desoto-county
 ---

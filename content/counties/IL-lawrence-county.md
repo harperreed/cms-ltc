@@ -1,6 +1,6 @@
 ---
 title: "Lawrence County, IL"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:17101.0,FEMA:5.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 17101.0
 FEMA_Region: 5.0
 Population: 15678.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 3528.0
-Fourteen_day_test_rate_per_100000: 22503.0
-Percent_Positivity_in_prior_14_days: 0.005
+Tests_in_prior_14_days: 3946.0
+Fourteen_day_test_rate_per_100000: 25169.0
+Percent_Positivity_in_prior_14_days: 0.009
 Level: Green
 url: /states/IL/lawrence-county
 ---

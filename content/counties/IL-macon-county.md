@@ -1,6 +1,6 @@
 ---
 title: "Macon County, IL"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:17115.0,FEMA:5.0,Small metro,Green]
@@ -11,8 +11,8 @@ FIPS: 17115.0
 FEMA_Region: 5.0
 Population: 104009.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 7310.0
-Fourteen_day_test_rate_per_100000: 7028.0
+Tests_in_prior_14_days: 7868.0
+Fourteen_day_test_rate_per_100000: 7565.0
 Percent_Positivity_in_prior_14_days: 0.011
 Level: Green
 url: /states/IL/macon-county

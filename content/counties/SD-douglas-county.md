@@ -1,6 +1,6 @@
 ---
 title: "Douglas County, SD"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:46043.0,FEMA:8.0,Non-core,Green]

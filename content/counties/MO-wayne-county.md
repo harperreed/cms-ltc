@@ -1,9 +1,9 @@
 ---
 title: "Wayne County, MO"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
-tags: [FIPS:29223.0,FEMA:7.0,Non-core,Yellow]
+tags: [FIPS:29223.0,FEMA:7.0,Non-core,Green]
 categories: [MO]
 County: Wayne County
 State: MO
@@ -11,10 +11,10 @@ FIPS: 29223.0
 FEMA_Region: 7.0
 Population: 12873.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 38.0
-Fourteen_day_test_rate_per_100000: 295.0
-Percent_Positivity_in_prior_14_days: 0.079
-Level: Yellow
+Tests_in_prior_14_days: 30.0
+Fourteen_day_test_rate_per_100000: 233.0
+Percent_Positivity_in_prior_14_days: 0.033
+Level: Green
 url: /states/MO/wayne-county
 ---
 

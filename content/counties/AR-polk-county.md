@@ -1,6 +1,6 @@
 ---
 title: "Polk County, AR"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:5113.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 5113.0
 FEMA_Region: 6.0
 Population: 19964.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 195.0
-Fourteen_day_test_rate_per_100000: 977.0
-Percent_Positivity_in_prior_14_days: 0.133
+Tests_in_prior_14_days: 193.0
+Fourteen_day_test_rate_per_100000: 967.0
+Percent_Positivity_in_prior_14_days: 0.078
 Level: Yellow
 url: /states/AR/polk-county
 ---

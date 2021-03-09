@@ -1,6 +1,6 @@
 ---
 title: "Rooks County, KS"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:20163.0,FEMA:7.0,Non-core,Red]
@@ -13,7 +13,7 @@ Population: 4920.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 101.0
 Fourteen_day_test_rate_per_100000: 2053.0
-Percent_Positivity_in_prior_14_days: 0.178
+Percent_Positivity_in_prior_14_days: 0.158
 Level: Red
 url: /states/KS/rooks-county
 ---

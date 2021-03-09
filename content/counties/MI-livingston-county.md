@@ -1,9 +1,9 @@
 ---
 title: "Livingston County, MI"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
-tags: [FIPS:26093.0,FEMA:5.0,Large fringe metro,Green]
+tags: [FIPS:26093.0,FEMA:5.0,Large fringe metro,Yellow]
 categories: [MI]
 County: Livingston County
 State: MI
@@ -11,10 +11,10 @@ FIPS: 26093.0
 FEMA_Region: 5.0
 Population: 191995.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 6319.0
-Fourteen_day_test_rate_per_100000: 3291.0
-Percent_Positivity_in_prior_14_days: 0.042
-Level: Green
+Tests_in_prior_14_days: 5996.0
+Fourteen_day_test_rate_per_100000: 3123.0
+Percent_Positivity_in_prior_14_days: 0.051
+Level: Yellow
 url: /states/MI/livingston-county
 ---
 

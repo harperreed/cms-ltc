@@ -1,6 +1,6 @@
 ---
 title: "Clay County, IA"
-date: 2021-03-08
+date: 2021-03-09
 draft: false
 type: county
 tags: [FIPS:19041.0,FEMA:7.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 19041.0
 FEMA_Region: 7.0
 Population: 16016.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 283.0
-Fourteen_day_test_rate_per_100000: 1767.0
-Percent_Positivity_in_prior_14_days: 0.042
+Tests_in_prior_14_days: 269.0
+Fourteen_day_test_rate_per_100000: 1680.0
+Percent_Positivity_in_prior_14_days: 0.037
 Level: Green
 url: /states/IA/clay-county
 ---
