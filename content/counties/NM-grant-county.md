@@ -1,6 +1,6 @@
 ---
 title: "Grant County, NM"
-date: 2021-03-09
+date: 2021-03-10
 draft: false
 type: county
 tags: [FIPS:35017.0,FEMA:6.0,Micropolitan,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Douglas County, GA"
-date: 2021-03-09
+date: 2021-03-10
 draft: false
 type: county
 tags: [FIPS:13097.0,FEMA:4.0,Large fringe metro,Yellow]

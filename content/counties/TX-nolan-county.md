@@ -1,6 +1,6 @@
 ---
 title: "Nolan County, TX"
-date: 2021-03-09
+date: 2021-03-10
 draft: false
 type: county
 tags: [FIPS:48353.0,FEMA:6.0,Micropolitan,Green]
