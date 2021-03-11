@@ -1,6 +1,6 @@
 ---
 title: "Los Alamos County, NM"
-date: 2021-03-10
+date: 2021-03-11
 draft: false
 type: county
 tags: [FIPS:35028.0,FEMA:6.0,Micropolitan,Green]
