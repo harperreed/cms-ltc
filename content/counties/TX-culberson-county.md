@@ -1,6 +1,6 @@
 ---
 title: "Culberson County, TX"
-date: 2021-03-11
+date: 2021-03-12
 draft: false
 type: county
 tags: [FIPS:48109.0,FEMA:6.0,Non-core,Yellow]

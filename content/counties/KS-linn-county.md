@@ -1,6 +1,6 @@
 ---
 title: "Linn County, KS"
-date: 2021-03-11
+date: 2021-03-12
 draft: false
 type: county
 tags: [FIPS:20107.0,FEMA:7.0,Large fringe metro,Green]
