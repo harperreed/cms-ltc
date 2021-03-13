@@ -1,6 +1,6 @@
 ---
 title: "Elmore County, AL"
-date: 2021-03-12
+date: 2021-03-13
 draft: false
 type: county
 tags: [FIPS:1051.0,FEMA:4.0,Medium metro,Yellow]

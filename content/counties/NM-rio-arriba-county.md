@@ -1,6 +1,6 @@
 ---
 title: "Rio Arriba County, NM"
-date: 2021-03-12
+date: 2021-03-13
 draft: false
 type: county
 tags: [FIPS:35039.0,FEMA:6.0,Micropolitan,Green]

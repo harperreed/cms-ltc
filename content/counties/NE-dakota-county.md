@@ -1,6 +1,6 @@
 ---
 title: "Dakota County, NE"
-date: 2021-03-12
+date: 2021-03-13
 draft: false
 type: county
 tags: [FIPS:31043.0,FEMA:7.0,Small metro,Green]
