@@ -1,6 +1,6 @@
 ---
 title: "Tehama County, CA"
-date: 2021-03-13
+date: 2021-03-14
 draft: false
 type: county
 tags: [FIPS:6103.0,FEMA:9.0,Micropolitan,Yellow]

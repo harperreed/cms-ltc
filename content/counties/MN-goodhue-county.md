@@ -1,6 +1,6 @@
 ---
 title: "Goodhue County, MN"
-date: 2021-03-13
+date: 2021-03-14
 draft: false
 type: county
 tags: [FIPS:27049.0,FEMA:5.0,Micropolitan,Green]

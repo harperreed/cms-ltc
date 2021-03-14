@@ -1,6 +1,6 @@
 ---
 title: "Lincoln County, OK"
-date: 2021-03-13
+date: 2021-03-14
 draft: false
 type: county
 tags: [FIPS:40081.0,FEMA:6.0,Large fringe metro,Yellow]

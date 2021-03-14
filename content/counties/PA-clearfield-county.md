@@ -1,6 +1,6 @@
 ---
 title: "Clearfield County, PA"
-date: 2021-03-13
+date: 2021-03-14
 draft: false
 type: county
 tags: [FIPS:42033.0,FEMA:3.0,Micropolitan,Green]
