@@ -1,6 +1,6 @@
 ---
 title: "Kerr County, TX"
-date: 2021-03-14
+date: 2021-03-15
 draft: false
 type: county
 tags: [FIPS:48265.0,FEMA:6.0,Micropolitan,Yellow]

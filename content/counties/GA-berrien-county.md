@@ -1,6 +1,6 @@
 ---
 title: "Berrien County, GA"
-date: 2021-03-14
+date: 2021-03-15
 draft: false
 type: county
 tags: [FIPS:13019.0,FEMA:4.0,Non-core,Yellow]
