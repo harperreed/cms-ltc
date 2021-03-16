@@ -1,9 +1,9 @@
 ---
 title: "Linn County, KS"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
-tags: [FIPS:20107.0,FEMA:7.0,Large fringe metro,Green]
+tags: [FIPS:20107.0,FEMA:7.0,Large fringe metro,Yellow]
 categories: [KS]
 County: Linn County
 State: KS
@@ -11,10 +11,10 @@ FIPS: 20107.0
 FEMA_Region: 7.0
 Population: 9703.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 311.0
-Fourteen_day_test_rate_per_100000: 3205.0
-Percent_Positivity_in_prior_14_days: 0.045
-Level: Green
+Tests_in_prior_14_days: 314.0
+Fourteen_day_test_rate_per_100000: 3236.0
+Percent_Positivity_in_prior_14_days: 0.064
+Level: Yellow
 url: /states/KS/linn-county
 ---
 

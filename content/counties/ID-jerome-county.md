@@ -1,6 +1,6 @@
 ---
 title: "Jerome County, ID"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:16053.0,FEMA:10.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 16053.0
 FEMA_Region: 10.0
 Population: 24412.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 485.0
-Fourteen_day_test_rate_per_100000: 1987.0
-Percent_Positivity_in_prior_14_days: 0.031
+Tests_in_prior_14_days: 495.0
+Fourteen_day_test_rate_per_100000: 2028.0
+Percent_Positivity_in_prior_14_days: 0.02
 Level: Green
 url: /states/ID/jerome-county
 ---

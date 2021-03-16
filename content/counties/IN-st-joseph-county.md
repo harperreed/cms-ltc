@@ -1,6 +1,6 @@
 ---
 title: "St. Joseph County, IN"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:18141.0,FEMA:5.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 18141.0
 FEMA_Region: 5.0
 Population: 271826.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 32893.0
-Fourteen_day_test_rate_per_100000: 12101.0
-Percent_Positivity_in_prior_14_days: 0.029
+Tests_in_prior_14_days: 35566.0
+Fourteen_day_test_rate_per_100000: 13084.0
+Percent_Positivity_in_prior_14_days: 0.028
 Level: Green
 url: /states/IN/st-joseph-county
 ---

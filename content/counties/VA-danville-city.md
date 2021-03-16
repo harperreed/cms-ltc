@@ -1,6 +1,6 @@
 ---
 title: "Danville city, VA"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:51590.0,FEMA:3.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 51590.0
 FEMA_Region: 3.0
 Population: 40044.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1791.0
-Fourteen_day_test_rate_per_100000: 4473.0
-Percent_Positivity_in_prior_14_days: 0.119
+Tests_in_prior_14_days: 1598.0
+Fourteen_day_test_rate_per_100000: 3991.0
+Percent_Positivity_in_prior_14_days: 0.108
 Level: Red
 url: /states/VA/danville-city
 ---

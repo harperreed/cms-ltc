@@ -1,6 +1,6 @@
 ---
 title: "Medina County, TX"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:48325.0,FEMA:6.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48325.0
 FEMA_Region: 6.0
 Population: 51584.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 637.0
-Fourteen_day_test_rate_per_100000: 1235.0
-Percent_Positivity_in_prior_14_days: 0.075
+Tests_in_prior_14_days: 825.0
+Fourteen_day_test_rate_per_100000: 1599.0
+Percent_Positivity_in_prior_14_days: 0.057
 Level: Yellow
 url: /states/TX/medina-county
 ---

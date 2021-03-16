@@ -1,9 +1,9 @@
 ---
 title: "Roane County, TN"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
-tags: [FIPS:47145.0,FEMA:4.0,Medium metro,Yellow]
+tags: [FIPS:47145.0,FEMA:4.0,Medium metro,Green]
 categories: [TN]
 County: Roane County
 State: TN
@@ -11,10 +11,10 @@ FIPS: 47145.0
 FEMA_Region: 4.0
 Population: 53382.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1144.0
-Fourteen_day_test_rate_per_100000: 2143.0
-Percent_Positivity_in_prior_14_days: 0.066
-Level: Yellow
+Tests_in_prior_14_days: 1087.0
+Fourteen_day_test_rate_per_100000: 2036.0
+Percent_Positivity_in_prior_14_days: 0.043
+Level: Green
 url: /states/TN/roane-county
 ---
 

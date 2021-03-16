@@ -1,9 +1,9 @@
 ---
 title: "Pennington County, MN"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
-tags: [FIPS:27113.0,FEMA:5.0,Non-core,Red]
+tags: [FIPS:27113.0,FEMA:5.0,Non-core,Yellow]
 categories: [MN]
 County: Pennington County
 State: MN
@@ -11,10 +11,10 @@ FIPS: 27113.0
 FEMA_Region: 5.0
 Population: 14119.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 919.0
-Fourteen_day_test_rate_per_100000: 6509.0
-Percent_Positivity_in_prior_14_days: 0.112
-Level: Red
+Tests_in_prior_14_days: 957.0
+Fourteen_day_test_rate_per_100000: 6778.0
+Percent_Positivity_in_prior_14_days: 0.075
+Level: Yellow
 url: /states/MN/pennington-county
 ---
 

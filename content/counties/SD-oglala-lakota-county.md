@@ -1,6 +1,6 @@
 ---
 title: "Oglala Lakota County, SD"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:46102.0,FEMA:8.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 46102.0
 FEMA_Region: 8.0
 Population: 14177.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 53.0
-Fourteen_day_test_rate_per_100000: 374.0
-Percent_Positivity_in_prior_14_days: 0.075
+Tests_in_prior_14_days: 86.0
+Fourteen_day_test_rate_per_100000: 607.0
+Percent_Positivity_in_prior_14_days: 0.128
 Level: Yellow
 url: /states/SD/oglala-lakota-county
 ---

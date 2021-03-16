@@ -1,6 +1,6 @@
 ---
 title: "Humboldt County, IA"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:19091.0,FEMA:7.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 19091.0
 FEMA_Region: 7.0
 Population: 9558.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 150.0
-Fourteen_day_test_rate_per_100000: 1569.0
-Percent_Positivity_in_prior_14_days: 0.027
+Tests_in_prior_14_days: 180.0
+Fourteen_day_test_rate_per_100000: 1883.0
+Percent_Positivity_in_prior_14_days: 0.044
 Level: Green
 url: /states/IA/humboldt-county
 ---

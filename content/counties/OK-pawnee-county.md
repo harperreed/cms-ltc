@@ -1,6 +1,6 @@
 ---
 title: "Pawnee County, OK"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:40117.0,FEMA:6.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 40117.0
 FEMA_Region: 6.0
 Population: 16376.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 68.0
-Fourteen_day_test_rate_per_100000: 415.0
-Percent_Positivity_in_prior_14_days: 0.176
+Tests_in_prior_14_days: 49.0
+Fourteen_day_test_rate_per_100000: 299.0
+Percent_Positivity_in_prior_14_days: 0.082
 Level: Yellow
 url: /states/OK/pawnee-county
 ---

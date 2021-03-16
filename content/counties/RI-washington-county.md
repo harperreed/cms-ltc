@@ -1,6 +1,6 @@
 ---
 title: "Washington County, RI"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:44009.0,FEMA:1.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 44009.0
 FEMA_Region: 1.0
 Population: 125577.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 26342.0
-Fourteen_day_test_rate_per_100000: 20977.0
-Percent_Positivity_in_prior_14_days: 0.019
+Tests_in_prior_14_days: 27689.0
+Fourteen_day_test_rate_per_100000: 22049.0
+Percent_Positivity_in_prior_14_days: 0.022
 Level: Green
 url: /states/RI/washington-county
 ---

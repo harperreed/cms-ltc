@@ -1,6 +1,6 @@
 ---
 title: "Lexington County, SC"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:45063.0,FEMA:4.0,Medium metro,Gray]
@@ -11,9 +11,9 @@ FIPS: 45063.0
 FEMA_Region: 4.0
 Population: 298750.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 9681.0
-Fourteen_day_test_rate_per_100000: 3241.0
-Percent_Positivity_in_prior_14_days: 0.063
+Tests_in_prior_14_days: 9022.0
+Fourteen_day_test_rate_per_100000: 3020.0
+Percent_Positivity_in_prior_14_days: 0.044
 Level: Gray
 url: /states/SC/lexington-county
 ---

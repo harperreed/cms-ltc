@@ -1,9 +1,9 @@
 ---
 title: "Warren County, OH"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
-tags: [FIPS:39165.0,FEMA:5.0,Large fringe metro,Red]
+tags: [FIPS:39165.0,FEMA:5.0,Large fringe metro,Yellow]
 categories: [OH]
 County: Warren County
 State: OH
@@ -11,10 +11,10 @@ FIPS: 39165.0
 FEMA_Region: 5.0
 Population: 234602.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 704.0
-Fourteen_day_test_rate_per_100000: 300.0
-Percent_Positivity_in_prior_14_days: 0.134
-Level: Red
+Tests_in_prior_14_days: 632.0
+Fourteen_day_test_rate_per_100000: 269.0
+Percent_Positivity_in_prior_14_days: 0.089
+Level: Yellow
 url: /states/OH/warren-county
 ---
 

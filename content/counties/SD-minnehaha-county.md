@@ -1,6 +1,6 @@
 ---
 title: "Minnehaha County, SD"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:46099.0,FEMA:8.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 46099.0
 FEMA_Region: 8.0
 Population: 193134.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3899.0
-Fourteen_day_test_rate_per_100000: 2019.0
-Percent_Positivity_in_prior_14_days: 0.053
+Tests_in_prior_14_days: 4218.0
+Fourteen_day_test_rate_per_100000: 2184.0
+Percent_Positivity_in_prior_14_days: 0.069
 Level: Yellow
 url: /states/SD/minnehaha-county
 ---

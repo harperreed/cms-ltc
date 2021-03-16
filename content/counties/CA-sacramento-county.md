@@ -1,6 +1,6 @@
 ---
 title: "Sacramento County, CA"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:6067.0,FEMA:9.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 6067.0
 FEMA_Region: 9.0
 Population: 1552058.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 55436.0
-Fourteen_day_test_rate_per_100000: 3572.0
-Percent_Positivity_in_prior_14_days: 0.042
+Tests_in_prior_14_days: 51132.0
+Fourteen_day_test_rate_per_100000: 3294.0
+Percent_Positivity_in_prior_14_days: 0.033
 Level: Green
 url: /states/CA/sacramento-county
 ---

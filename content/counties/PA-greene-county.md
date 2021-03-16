@@ -1,9 +1,9 @@
 ---
 title: "Greene County, PA"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
-tags: [FIPS:42059.0,FEMA:3.0,Non-core,Yellow]
+tags: [FIPS:42059.0,FEMA:3.0,Non-core,Green]
 categories: [PA]
 County: Greene County
 State: PA
@@ -11,10 +11,10 @@ FIPS: 42059.0
 FEMA_Region: 3.0
 Population: 36233.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1199.0
-Fourteen_day_test_rate_per_100000: 3309.0
-Percent_Positivity_in_prior_14_days: 0.059
-Level: Yellow
+Tests_in_prior_14_days: 1386.0
+Fourteen_day_test_rate_per_100000: 3825.0
+Percent_Positivity_in_prior_14_days: 0.04
+Level: Green
 url: /states/PA/greene-county
 ---
 

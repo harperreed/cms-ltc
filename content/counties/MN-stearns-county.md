@@ -1,6 +1,6 @@
 ---
 title: "Stearns County, MN"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:27145.0,FEMA:5.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 27145.0
 FEMA_Region: 5.0
 Population: 161075.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 11051.0
-Fourteen_day_test_rate_per_100000: 6861.0
-Percent_Positivity_in_prior_14_days: 0.023
+Tests_in_prior_14_days: 11023.0
+Fourteen_day_test_rate_per_100000: 6843.0
+Percent_Positivity_in_prior_14_days: 0.027
 Level: Green
 url: /states/MN/stearns-county
 ---

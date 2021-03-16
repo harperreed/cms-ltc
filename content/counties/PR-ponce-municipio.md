@@ -1,9 +1,9 @@
 ---
 title: "Ponce Municipio, PR"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
-tags: [FIPS:72113.0,FEMA:2.0,,Green]
+tags: [FIPS:72113.0,FEMA:2.0,,Yellow]
 categories: [PR]
 County: Ponce Municipio
 State: PR
@@ -11,10 +11,10 @@ FIPS: 72113.0
 FEMA_Region: 2.0
 Population: 131881.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 71.0
-Fourteen_day_test_rate_per_100000: 54.0
-Percent_Positivity_in_prior_14_days: 0.028
-Level: Green
+Tests_in_prior_14_days: 49.0
+Fourteen_day_test_rate_per_100000: 37.0
+Percent_Positivity_in_prior_14_days: 0.082
+Level: Yellow
 url: /states/PR/ponce-municipio
 ---
 

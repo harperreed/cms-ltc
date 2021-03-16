@@ -1,6 +1,6 @@
 ---
 title: "Dawson County, GA"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:13085.0,FEMA:4.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13085.0
 FEMA_Region: 4.0
 Population: 26108.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 446.0
-Fourteen_day_test_rate_per_100000: 1708.0
-Percent_Positivity_in_prior_14_days: 0.081
+Tests_in_prior_14_days: 451.0
+Fourteen_day_test_rate_per_100000: 1727.0
+Percent_Positivity_in_prior_14_days: 0.075
 Level: Yellow
 url: /states/GA/dawson-county
 ---

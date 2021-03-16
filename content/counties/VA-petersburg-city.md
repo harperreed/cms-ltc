@@ -1,9 +1,9 @@
 ---
 title: "Petersburg city, VA"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
-tags: [FIPS:51730.0,FEMA:3.0,Large fringe metro,Red]
+tags: [FIPS:51730.0,FEMA:3.0,Large fringe metro,Yellow]
 categories: [VA]
 County: Petersburg city
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51730.0
 FEMA_Region: 3.0
 Population: 31346.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 2464.0
-Fourteen_day_test_rate_per_100000: 7861.0
-Percent_Positivity_in_prior_14_days: 0.104
-Level: Red
+Tests_in_prior_14_days: 2457.0
+Fourteen_day_test_rate_per_100000: 7838.0
+Percent_Positivity_in_prior_14_days: 0.077
+Level: Yellow
 url: /states/VA/petersburg-city
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Garfield County, MT"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:30033.0,FEMA:8.0,Non-core,Green]

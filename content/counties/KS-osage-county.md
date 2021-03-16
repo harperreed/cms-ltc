@@ -1,6 +1,6 @@
 ---
 title: "Osage County, KS"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:20139.0,FEMA:7.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 20139.0
 FEMA_Region: 7.0
 Population: 15949.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 398.0
-Fourteen_day_test_rate_per_100000: 2495.0
-Percent_Positivity_in_prior_14_days: 0.045
+Tests_in_prior_14_days: 331.0
+Fourteen_day_test_rate_per_100000: 2075.0
+Percent_Positivity_in_prior_14_days: 0.027
 Level: Green
 url: /states/KS/osage-county
 ---

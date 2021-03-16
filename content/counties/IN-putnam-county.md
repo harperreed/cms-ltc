@@ -1,6 +1,6 @@
 ---
 title: "Putnam County, IN"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:18133.0,FEMA:5.0,Large fringe metro,Yellow]
@@ -11,8 +11,8 @@ FIPS: 18133.0
 FEMA_Region: 5.0
 Population: 37576.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1199.0
-Fourteen_day_test_rate_per_100000: 3191.0
+Tests_in_prior_14_days: 1255.0
+Fourteen_day_test_rate_per_100000: 3340.0
 Percent_Positivity_in_prior_14_days: 0.06
 Level: Yellow
 url: /states/IN/putnam-county

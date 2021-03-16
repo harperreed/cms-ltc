@@ -1,6 +1,6 @@
 ---
 title: "Kingman County, KS"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:20095.0,FEMA:7.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 20095.0
 FEMA_Region: 7.0
 Population: 7152.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 356.0
-Fourteen_day_test_rate_per_100000: 4978.0
-Percent_Positivity_in_prior_14_days: 0.031
+Tests_in_prior_14_days: 350.0
+Fourteen_day_test_rate_per_100000: 4894.0
+Percent_Positivity_in_prior_14_days: 0.017
 Level: Green
 url: /states/KS/kingman-county
 ---

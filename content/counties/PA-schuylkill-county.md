@@ -1,6 +1,6 @@
 ---
 title: "Schuylkill County, PA"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:42107.0,FEMA:3.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 42107.0
 FEMA_Region: 3.0
 Population: 141359.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3627.0
-Fourteen_day_test_rate_per_100000: 2566.0
-Percent_Positivity_in_prior_14_days: 0.071
+Tests_in_prior_14_days: 3902.0
+Fourteen_day_test_rate_per_100000: 2760.0
+Percent_Positivity_in_prior_14_days: 0.061
 Level: Yellow
 url: /states/PA/schuylkill-county
 ---

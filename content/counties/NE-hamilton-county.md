@@ -1,9 +1,9 @@
 ---
 title: "Hamilton County, NE"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
-tags: [FIPS:31081.0,FEMA:7.0,Small metro,Yellow]
+tags: [FIPS:31081.0,FEMA:7.0,Small metro,Red]
 categories: [NE]
 County: Hamilton County
 State: NE
@@ -11,10 +11,10 @@ FIPS: 31081.0
 FEMA_Region: 7.0
 Population: 9324.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 264.0
-Fourteen_day_test_rate_per_100000: 2831.0
-Percent_Positivity_in_prior_14_days: 0.053
-Level: Yellow
+Tests_in_prior_14_days: 201.0
+Fourteen_day_test_rate_per_100000: 2156.0
+Percent_Positivity_in_prior_14_days: 0.109
+Level: Red
 url: /states/NE/hamilton-county
 ---
 

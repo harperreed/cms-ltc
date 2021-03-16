@@ -1,9 +1,9 @@
 ---
 title: "Stanislaus County, CA"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
-tags: [FIPS:6099.0,FEMA:9.0,Medium metro,Yellow]
+tags: [FIPS:6099.0,FEMA:9.0,Medium metro,Green]
 categories: [CA]
 County: Stanislaus County
 State: CA
@@ -11,10 +11,10 @@ FIPS: 6099.0
 FEMA_Region: 9.0
 Population: 550660.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 20063.0
-Fourteen_day_test_rate_per_100000: 3643.0
-Percent_Positivity_in_prior_14_days: 0.055
-Level: Yellow
+Tests_in_prior_14_days: 17158.0
+Fourteen_day_test_rate_per_100000: 3116.0
+Percent_Positivity_in_prior_14_days: 0.048
+Level: Green
 url: /states/CA/stanislaus-county
 ---
 

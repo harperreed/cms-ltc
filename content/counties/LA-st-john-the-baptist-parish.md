@@ -1,6 +1,6 @@
 ---
 title: "St. John the Baptist Parish, LA"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:22095.0,FEMA:6.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 22095.0
 FEMA_Region: 6.0
 Population: 42837.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1962.0
-Fourteen_day_test_rate_per_100000: 4580.0
-Percent_Positivity_in_prior_14_days: 0.038
+Tests_in_prior_14_days: 1768.0
+Fourteen_day_test_rate_per_100000: 4127.0
+Percent_Positivity_in_prior_14_days: 0.033
 Level: Green
 url: /states/LA/st-john-the-baptist-parish
 ---

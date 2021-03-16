@@ -1,6 +1,6 @@
 ---
 title: "Marshall County, AL"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:1095.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 1095.0
 FEMA_Region: 4.0
 Population: 96774.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2883.0
-Fourteen_day_test_rate_per_100000: 2979.0
-Percent_Positivity_in_prior_14_days: 0.098
+Tests_in_prior_14_days: 2750.0
+Fourteen_day_test_rate_per_100000: 2842.0
+Percent_Positivity_in_prior_14_days: 0.095
 Level: Yellow
 url: /states/AL/marshall-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Garvin County, OK"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:40049.0,FEMA:6.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 40049.0
 FEMA_Region: 6.0
 Population: 27711.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 65.0
-Fourteen_day_test_rate_per_100000: 235.0
-Percent_Positivity_in_prior_14_days: 0.015
+Tests_in_prior_14_days: 91.0
+Fourteen_day_test_rate_per_100000: 328.0
+Percent_Positivity_in_prior_14_days: 0.011
 Level: Green
 url: /states/OK/garvin-county
 ---

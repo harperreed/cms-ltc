@@ -1,9 +1,9 @@
 ---
 title: "Cleburne County, AL"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
-tags: [FIPS:1029.0,FEMA:4.0,Non-core,Red]
+tags: [FIPS:1029.0,FEMA:4.0,Non-core,Yellow]
 categories: [AL]
 County: Cleburne County
 State: AL
@@ -11,10 +11,10 @@ FIPS: 1029.0
 FEMA_Region: 4.0
 Population: 14910.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 330.0
-Fourteen_day_test_rate_per_100000: 2213.0
-Percent_Positivity_in_prior_14_days: 0.148
-Level: Red
+Tests_in_prior_14_days: 298.0
+Fourteen_day_test_rate_per_100000: 1999.0
+Percent_Positivity_in_prior_14_days: 0.151
+Level: Yellow
 url: /states/AL/cleburne-county
 ---
 

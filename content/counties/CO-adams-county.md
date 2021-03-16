@@ -1,6 +1,6 @@
 ---
 title: "Adams County, CO"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:8001.0,FEMA:8.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 8001.0
 FEMA_Region: 8.0
 Population: 517421.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 25487.0
-Fourteen_day_test_rate_per_100000: 4926.0
-Percent_Positivity_in_prior_14_days: 0.048
+Tests_in_prior_14_days: 25754.0
+Fourteen_day_test_rate_per_100000: 4977.0
+Percent_Positivity_in_prior_14_days: 0.042
 Level: Green
 url: /states/CO/adams-county
 ---

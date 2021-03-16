@@ -1,6 +1,6 @@
 ---
 title: "Yuma County, AZ"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:4027.0,FEMA:9.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 4027.0
 FEMA_Region: 9.0
 Population: 213787.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 4025.0
-Fourteen_day_test_rate_per_100000: 1883.0
-Percent_Positivity_in_prior_14_days: 0.087
+Tests_in_prior_14_days: 3936.0
+Fourteen_day_test_rate_per_100000: 1841.0
+Percent_Positivity_in_prior_14_days: 0.061
 Level: Yellow
 url: /states/AZ/yuma-county
 ---

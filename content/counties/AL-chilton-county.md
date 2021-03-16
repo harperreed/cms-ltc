@@ -1,6 +1,6 @@
 ---
 title: "Chilton County, AL"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:1021.0,FEMA:4.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 1021.0
 FEMA_Region: 4.0
 Population: 44428.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 724.0
-Fourteen_day_test_rate_per_100000: 1630.0
-Percent_Positivity_in_prior_14_days: 0.075
+Tests_in_prior_14_days: 716.0
+Fourteen_day_test_rate_per_100000: 1612.0
+Percent_Positivity_in_prior_14_days: 0.085
 Level: Yellow
 url: /states/AL/chilton-county
 ---

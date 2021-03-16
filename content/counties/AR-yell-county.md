@@ -1,9 +1,9 @@
 ---
 title: "Yell County, AR"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
-tags: [FIPS:5149.0,FEMA:6.0,Micropolitan,Yellow]
+tags: [FIPS:5149.0,FEMA:6.0,Micropolitan,Green]
 categories: [AR]
 County: Yell County
 State: AR
@@ -11,10 +11,10 @@ FIPS: 5149.0
 FEMA_Region: 6.0
 Population: 21341.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 797.0
-Fourteen_day_test_rate_per_100000: 3735.0
-Percent_Positivity_in_prior_14_days: 0.072
-Level: Yellow
+Tests_in_prior_14_days: 1115.0
+Fourteen_day_test_rate_per_100000: 5225.0
+Percent_Positivity_in_prior_14_days: 0.038
+Level: Green
 url: /states/AR/yell-county
 ---
 

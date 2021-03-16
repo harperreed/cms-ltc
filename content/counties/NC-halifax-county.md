@@ -1,9 +1,9 @@
 ---
 title: "Halifax County, NC"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
-tags: [FIPS:37083.0,FEMA:4.0,Micropolitan,Yellow]
+tags: [FIPS:37083.0,FEMA:4.0,Micropolitan,Green]
 categories: [NC]
 County: Halifax County
 State: NC
@@ -11,10 +11,10 @@ FIPS: 37083.0
 FEMA_Region: 4.0
 Population: 50010.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1917.0
-Fourteen_day_test_rate_per_100000: 3833.0
-Percent_Positivity_in_prior_14_days: 0.063
-Level: Yellow
+Tests_in_prior_14_days: 1841.0
+Fourteen_day_test_rate_per_100000: 3681.0
+Percent_Positivity_in_prior_14_days: 0.046
+Level: Green
 url: /states/NC/halifax-county
 ---
 

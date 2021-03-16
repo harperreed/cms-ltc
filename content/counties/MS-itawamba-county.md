@@ -1,6 +1,6 @@
 ---
 title: "Itawamba County, MS"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:28057.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 28057.0
 FEMA_Region: 4.0
 Population: 23390.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 91.0
-Fourteen_day_test_rate_per_100000: 389.0
-Percent_Positivity_in_prior_14_days: 0.044
+Tests_in_prior_14_days: 73.0
+Fourteen_day_test_rate_per_100000: 312.0
+Percent_Positivity_in_prior_14_days: 0.027
 Level: Green
 url: /states/MS/itawamba-county
 ---

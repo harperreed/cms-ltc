@@ -1,9 +1,9 @@
 ---
 title: "Bowie County, TX"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
-tags: [FIPS:48037.0,FEMA:6.0,Small metro,Red]
+tags: [FIPS:48037.0,FEMA:6.0,Small metro,Yellow]
 categories: [TX]
 County: Bowie County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48037.0
 FEMA_Region: 6.0
 Population: 93245.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 979.0
-Fourteen_day_test_rate_per_100000: 1050.0
-Percent_Positivity_in_prior_14_days: 0.118
-Level: Red
+Tests_in_prior_14_days: 1489.0
+Fourteen_day_test_rate_per_100000: 1597.0
+Percent_Positivity_in_prior_14_days: 0.071
+Level: Yellow
 url: /states/TX/bowie-county
 ---
 

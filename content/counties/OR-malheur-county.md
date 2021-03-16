@@ -1,6 +1,6 @@
 ---
 title: "Malheur County, OR"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:41045.0,FEMA:10.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 41045.0
 FEMA_Region: 10.0
 Population: 30571.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1072.0
-Fourteen_day_test_rate_per_100000: 3507.0
-Percent_Positivity_in_prior_14_days: 0.027
+Tests_in_prior_14_days: 984.0
+Fourteen_day_test_rate_per_100000: 3219.0
+Percent_Positivity_in_prior_14_days: 0.01
 Level: Green
 url: /states/OR/malheur-county
 ---

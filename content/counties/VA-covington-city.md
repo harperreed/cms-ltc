@@ -1,6 +1,6 @@
 ---
 title: "Covington city, VA"
-date: 2021-03-15
+date: 2021-03-16
 draft: false
 type: county
 tags: [FIPS:51580.0,FEMA:3.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51580.0
 FEMA_Region: 3.0
 Population: 5538.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 110.0
-Fourteen_day_test_rate_per_100000: 1986.0
-Percent_Positivity_in_prior_14_days: 0.136
+Tests_in_prior_14_days: 71.0
+Fourteen_day_test_rate_per_100000: 1282.0
+Percent_Positivity_in_prior_14_days: 0.155
 Level: Yellow
 url: /states/VA/covington-city
 ---
