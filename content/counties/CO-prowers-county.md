@@ -1,6 +1,6 @@
 ---
 title: "Prowers County, CO"
-date: 2021-03-17
+date: 2021-03-18
 draft: false
 type: county
 tags: [FIPS:8099.0,FEMA:8.0,Non-core,Green]

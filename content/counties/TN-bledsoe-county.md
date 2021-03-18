@@ -1,6 +1,6 @@
 ---
 title: "Bledsoe County, TN"
-date: 2021-03-17
+date: 2021-03-18
 draft: false
 type: county
 tags: [FIPS:47007.0,FEMA:4.0,Non-core,Green]

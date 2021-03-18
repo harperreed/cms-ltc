@@ -1,6 +1,6 @@
 ---
 title: "Rutland County, VT"
-date: 2021-03-17
+date: 2021-03-18
 draft: false
 type: county
 tags: [FIPS:50021.0,FEMA:1.0,Micropolitan,Green]
