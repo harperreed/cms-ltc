@@ -1,6 +1,6 @@
 ---
 title: "Lake County, OR"
-date: 2021-03-18
+date: 2021-03-19
 draft: false
 type: county
 tags: [FIPS:41037.0,FEMA:10.0,Non-core,Yellow]

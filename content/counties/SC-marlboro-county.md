@@ -1,6 +1,6 @@
 ---
 title: "Marlboro County, SC"
-date: 2021-03-18
+date: 2021-03-19
 draft: false
 type: county
 tags: [FIPS:45069.0,FEMA:4.0,Micropolitan,Gray]
