@@ -1,6 +1,6 @@
 ---
 title: "Washington County, OH"
-date: 2021-03-19
+date: 2021-03-20
 draft: false
 type: county
 tags: [FIPS:39167.0,FEMA:5.0,Micropolitan,Yellow]

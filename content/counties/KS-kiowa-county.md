@@ -1,6 +1,6 @@
 ---
 title: "Kiowa County, KS"
-date: 2021-03-19
+date: 2021-03-20
 draft: false
 type: county
 tags: [FIPS:20097.0,FEMA:7.0,Non-core,Green]

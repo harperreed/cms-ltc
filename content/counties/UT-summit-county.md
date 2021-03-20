@@ -1,6 +1,6 @@
 ---
 title: "Summit County, UT"
-date: 2021-03-19
+date: 2021-03-20
 draft: false
 type: county
 tags: [FIPS:49043.0,FEMA:8.0,Micropolitan,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Hot Spring County, AR"
-date: 2021-03-19
+date: 2021-03-20
 draft: false
 type: county
 tags: [FIPS:5059.0,FEMA:6.0,Micropolitan,Yellow]

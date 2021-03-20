@@ -1,6 +1,6 @@
 ---
 title: "Mingo County, WV"
-date: 2021-03-19
+date: 2021-03-20
 draft: false
 type: county
 tags: [FIPS:54059.0,FEMA:3.0,Non-core,Green]

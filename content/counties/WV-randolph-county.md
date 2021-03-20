@@ -1,6 +1,6 @@
 ---
 title: "Randolph County, WV"
-date: 2021-03-19
+date: 2021-03-20
 draft: false
 type: county
 tags: [FIPS:54083.0,FEMA:3.0,Micropolitan,Green]

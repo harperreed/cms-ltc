@@ -1,6 +1,6 @@
 ---
 title: "Schoharie County, NY"
-date: 2021-03-19
+date: 2021-03-20
 draft: false
 type: county
 tags: [FIPS:36095.0,FEMA:2.0,Medium metro,Yellow]
