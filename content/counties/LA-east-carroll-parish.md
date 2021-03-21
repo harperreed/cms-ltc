@@ -1,6 +1,6 @@
 ---
 title: "East Carroll Parish, LA"
-date: 2021-03-20
+date: 2021-03-21
 draft: false
 type: county
 tags: [FIPS:22035.0,FEMA:6.0,Non-core,Green]

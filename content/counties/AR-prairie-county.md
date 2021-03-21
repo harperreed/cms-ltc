@@ -1,6 +1,6 @@
 ---
 title: "Prairie County, AR"
-date: 2021-03-20
+date: 2021-03-21
 draft: false
 type: county
 tags: [FIPS:5117.0,FEMA:6.0,Non-core,Green]

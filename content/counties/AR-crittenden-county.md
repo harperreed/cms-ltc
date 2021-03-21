@@ -1,6 +1,6 @@
 ---
 title: "Crittenden County, AR"
-date: 2021-03-20
+date: 2021-03-21
 draft: false
 type: county
 tags: [FIPS:5035.0,FEMA:6.0,Large fringe metro,Green]
