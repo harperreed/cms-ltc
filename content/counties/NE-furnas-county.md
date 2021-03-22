@@ -1,6 +1,6 @@
 ---
 title: "Furnas County, NE"
-date: 2021-03-21
+date: 2021-03-22
 draft: false
 type: county
 tags: [FIPS:31065.0,FEMA:7.0,Non-core,Yellow]

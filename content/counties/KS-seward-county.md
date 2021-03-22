@@ -1,6 +1,6 @@
 ---
 title: "Seward County, KS"
-date: 2021-03-21
+date: 2021-03-22
 draft: false
 type: county
 tags: [FIPS:20175.0,FEMA:7.0,Micropolitan,Yellow]

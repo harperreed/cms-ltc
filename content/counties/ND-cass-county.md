@@ -1,6 +1,6 @@
 ---
 title: "Cass County, ND"
-date: 2021-03-21
+date: 2021-03-22
 draft: false
 type: county
 tags: [FIPS:38017.0,FEMA:8.0,Small metro,Green]
