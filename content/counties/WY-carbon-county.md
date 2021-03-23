@@ -1,9 +1,9 @@
 ---
 title: "Carbon County, WY"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
-tags: [FIPS:56007.0,FEMA:8.0,Non-core,Yellow]
+tags: [FIPS:56007.0,FEMA:8.0,Non-core,Green]
 categories: [WY]
 County: Carbon County
 State: WY
@@ -11,10 +11,10 @@ FIPS: 56007.0
 FEMA_Region: 8.0
 Population: 14800.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 197.0
-Fourteen_day_test_rate_per_100000: 1331.0
-Percent_Positivity_in_prior_14_days: 0.061
-Level: Yellow
+Tests_in_prior_14_days: 1613.0
+Fourteen_day_test_rate_per_100000: 10899.0
+Percent_Positivity_in_prior_14_days: 0.02
+Level: Green
 url: /states/WY/carbon-county
 ---
 

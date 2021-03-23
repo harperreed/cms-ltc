@@ -1,6 +1,6 @@
 ---
 title: "Orange County, VT"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:50017.0,FEMA:1.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 50017.0
 FEMA_Region: 1.0
 Population: 28892.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1887.0
-Fourteen_day_test_rate_per_100000: 6531.0
-Percent_Positivity_in_prior_14_days: 0.019
+Tests_in_prior_14_days: 1841.0
+Fourteen_day_test_rate_per_100000: 6372.0
+Percent_Positivity_in_prior_14_days: 0.011
 Level: Green
 url: /states/VT/orange-county
 ---

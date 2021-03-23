@@ -1,6 +1,6 @@
 ---
 title: "Leake County, MS"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:28079.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28079.0
 FEMA_Region: 4.0
 Population: 22786.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 229.0
-Fourteen_day_test_rate_per_100000: 1005.0
-Percent_Positivity_in_prior_14_days: 0.087
+Tests_in_prior_14_days: 193.0
+Fourteen_day_test_rate_per_100000: 847.0
+Percent_Positivity_in_prior_14_days: 0.098
 Level: Yellow
 url: /states/MS/leake-county
 ---

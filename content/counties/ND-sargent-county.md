@@ -1,6 +1,6 @@
 ---
 title: "Sargent County, ND"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:38081.0,FEMA:8.0,Non-core,Green]
@@ -11,8 +11,8 @@ FIPS: 38081.0
 FEMA_Region: 8.0
 Population: 3898.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 238.0
-Fourteen_day_test_rate_per_100000: 6106.0
+Tests_in_prior_14_days: 233.0
+Fourteen_day_test_rate_per_100000: 5977.0
 Percent_Positivity_in_prior_14_days: 0.004
 Level: Green
 url: /states/ND/sargent-county

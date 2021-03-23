@@ -1,6 +1,6 @@
 ---
 title: "Taylor County, TX"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:48441.0,FEMA:6.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 48441.0
 FEMA_Region: 6.0
 Population: 138034.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2021.0
-Fourteen_day_test_rate_per_100000: 1464.0
-Percent_Positivity_in_prior_14_days: 0.034
+Tests_in_prior_14_days: 1663.0
+Fourteen_day_test_rate_per_100000: 1205.0
+Percent_Positivity_in_prior_14_days: 0.027
 Level: Green
 url: /states/TX/taylor-county
 ---

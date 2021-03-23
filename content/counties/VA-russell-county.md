@@ -1,6 +1,6 @@
 ---
 title: "Russell County, VA"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:51167.0,FEMA:3.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51167.0
 FEMA_Region: 3.0
 Population: 26586.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 315.0
-Fourteen_day_test_rate_per_100000: 1185.0
-Percent_Positivity_in_prior_14_days: 0.089
+Tests_in_prior_14_days: 303.0
+Fourteen_day_test_rate_per_100000: 1140.0
+Percent_Positivity_in_prior_14_days: 0.109
 Level: Yellow
 url: /states/VA/russell-county
 ---

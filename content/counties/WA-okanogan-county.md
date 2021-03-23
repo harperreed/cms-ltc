@@ -1,6 +1,6 @@
 ---
 title: "Okanogan County, WA"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:53047.0,FEMA:10.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 53047.0
 FEMA_Region: 10.0
 Population: 42243.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 624.0
-Fourteen_day_test_rate_per_100000: 1477.0
-Percent_Positivity_in_prior_14_days: 0.021
+Tests_in_prior_14_days: 546.0
+Fourteen_day_test_rate_per_100000: 1293.0
+Percent_Positivity_in_prior_14_days: 0.009
 Level: Green
 url: /states/WA/okanogan-county
 ---

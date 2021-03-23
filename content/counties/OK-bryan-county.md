@@ -1,6 +1,6 @@
 ---
 title: "Bryan County, OK"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:40013.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 40013.0
 FEMA_Region: 6.0
 Population: 47995.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 96.0
-Fourteen_day_test_rate_per_100000: 200.0
-Percent_Positivity_in_prior_14_days: 0.188
+Tests_in_prior_14_days: 103.0
+Fourteen_day_test_rate_per_100000: 215.0
+Percent_Positivity_in_prior_14_days: 0.058
 Level: Yellow
 url: /states/OK/bryan-county
 ---

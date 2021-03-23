@@ -1,6 +1,6 @@
 ---
 title: "Lowndes County, AL"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:1085.0,FEMA:4.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 1085.0
 FEMA_Region: 4.0
 Population: 9726.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 325.0
-Fourteen_day_test_rate_per_100000: 3342.0
-Percent_Positivity_in_prior_14_days: 0.086
+Tests_in_prior_14_days: 164.0
+Fourteen_day_test_rate_per_100000: 1686.0
+Percent_Positivity_in_prior_14_days: 0.14
 Level: Yellow
 url: /states/AL/lowndes-county
 ---

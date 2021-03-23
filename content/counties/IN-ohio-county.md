@@ -1,9 +1,9 @@
 ---
 title: "Ohio County, IN"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
-tags: [FIPS:18115.0,FEMA:5.0,Large fringe metro,Red]
+tags: [FIPS:18115.0,FEMA:5.0,Large fringe metro,Green]
 categories: [IN]
 County: Ohio County
 State: IN
@@ -11,10 +11,10 @@ FIPS: 18115.0
 FEMA_Region: 5.0
 Population: 5875.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 132.0
-Fourteen_day_test_rate_per_100000: 2247.0
-Percent_Positivity_in_prior_14_days: 0.121
-Level: Red
+Tests_in_prior_14_days: 89.0
+Fourteen_day_test_rate_per_100000: 1515.0
+Percent_Positivity_in_prior_14_days: 0.034
+Level: Green
 url: /states/IN/ohio-county
 ---
 

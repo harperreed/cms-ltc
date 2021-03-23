@@ -1,6 +1,6 @@
 ---
 title: "Edmunds County, SD"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:46045.0,FEMA:8.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 46045.0
 FEMA_Region: 8.0
 Population: 3829.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 36.0
-Fourteen_day_test_rate_per_100000: 940.0
-Percent_Positivity_in_prior_14_days: 0.083
+Tests_in_prior_14_days: 32.0
+Fourteen_day_test_rate_per_100000: 836.0
+Percent_Positivity_in_prior_14_days: 0.094
 Level: Yellow
 url: /states/SD/edmunds-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Oconee County, SC"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
-tags: [FIPS:45073.0,FEMA:4.0,Micropolitan,Gray]
+tags: [FIPS:45073.0,FEMA:4.0,Micropolitan,Green]
 categories: [SC]
 County: Oconee County
 State: SC
@@ -11,10 +11,10 @@ FIPS: 45073.0
 FEMA_Region: 4.0
 Population: 79546.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2067.0
-Fourteen_day_test_rate_per_100000: 2598.0
-Percent_Positivity_in_prior_14_days: 0.053
-Level: Gray
+Tests_in_prior_14_days: 2060.0
+Fourteen_day_test_rate_per_100000: 2590.0
+Percent_Positivity_in_prior_14_days: 0.044
+Level: Green
 url: /states/SC/oconee-county
 ---
 

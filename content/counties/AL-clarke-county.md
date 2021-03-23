@@ -1,6 +1,6 @@
 ---
 title: "Clarke County, AL"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:1025.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 1025.0
 FEMA_Region: 4.0
 Population: 23622.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 372.0
-Fourteen_day_test_rate_per_100000: 1575.0
-Percent_Positivity_in_prior_14_days: 0.051
+Tests_in_prior_14_days: 367.0
+Fourteen_day_test_rate_per_100000: 1554.0
+Percent_Positivity_in_prior_14_days: 0.074
 Level: Yellow
 url: /states/AL/clarke-county
 ---

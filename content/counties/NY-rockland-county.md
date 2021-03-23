@@ -1,6 +1,6 @@
 ---
 title: "Rockland County, NY"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:36087.0,FEMA:2.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 36087.0
 FEMA_Region: 2.0
 Population: 325789.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 29181.0
-Fourteen_day_test_rate_per_100000: 8957.0
-Percent_Positivity_in_prior_14_days: 0.075
+Tests_in_prior_14_days: 28536.0
+Fourteen_day_test_rate_per_100000: 8759.0
+Percent_Positivity_in_prior_14_days: 0.081
 Level: Yellow
 url: /states/NY/rockland-county
 ---

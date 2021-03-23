@@ -1,6 +1,6 @@
 ---
 title: "Decatur County, TN"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:47039.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 47039.0
 FEMA_Region: 4.0
 Population: 11663.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 71.0
-Fourteen_day_test_rate_per_100000: 609.0
-Percent_Positivity_in_prior_14_days: 0.085
+Tests_in_prior_14_days: 73.0
+Fourteen_day_test_rate_per_100000: 626.0
+Percent_Positivity_in_prior_14_days: 0.068
 Level: Yellow
 url: /states/TN/decatur-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Montcalm County, MI"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:26117.0,FEMA:5.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 26117.0
 FEMA_Region: 5.0
 Population: 63888.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 4509.0
-Fourteen_day_test_rate_per_100000: 7058.0
-Percent_Positivity_in_prior_14_days: 0.021
+Tests_in_prior_14_days: 5754.0
+Fourteen_day_test_rate_per_100000: 9006.0
+Percent_Positivity_in_prior_14_days: 0.019
 Level: Green
 url: /states/MI/montcalm-county
 ---

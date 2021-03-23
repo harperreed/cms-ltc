@@ -1,9 +1,9 @@
 ---
 title: "Bertie County, NC"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
-tags: [FIPS:37015.0,FEMA:4.0,Non-core,Yellow]
+tags: [FIPS:37015.0,FEMA:4.0,Non-core,Green]
 categories: [NC]
 County: Bertie County
 State: NC
@@ -11,10 +11,10 @@ FIPS: 37015.0
 FEMA_Region: 4.0
 Population: 18947.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 776.0
-Fourteen_day_test_rate_per_100000: 4096.0
-Percent_Positivity_in_prior_14_days: 0.071
-Level: Yellow
+Tests_in_prior_14_days: 610.0
+Fourteen_day_test_rate_per_100000: 3220.0
+Percent_Positivity_in_prior_14_days: 0.034
+Level: Green
 url: /states/NC/bertie-county
 ---
 

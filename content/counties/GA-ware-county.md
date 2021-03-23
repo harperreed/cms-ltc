@@ -1,6 +1,6 @@
 ---
 title: "Ware County, GA"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:13299.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 13299.0
 FEMA_Region: 4.0
 Population: 35734.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1097.0
-Fourteen_day_test_rate_per_100000: 3070.0
-Percent_Positivity_in_prior_14_days: 0.046
+Tests_in_prior_14_days: 1306.0
+Fourteen_day_test_rate_per_100000: 3655.0
+Percent_Positivity_in_prior_14_days: 0.022
 Level: Green
 url: /states/GA/ware-county
 ---

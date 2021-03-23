@@ -1,6 +1,6 @@
 ---
 title: "Northwest Arctic Borough, AK"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:2188.0,FEMA:10.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 2188.0
 FEMA_Region: 10.0
 Population: 7621.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1373.0
-Fourteen_day_test_rate_per_100000: 18016.0
-Percent_Positivity_in_prior_14_days: 0.004
+Tests_in_prior_14_days: 1720.0
+Fourteen_day_test_rate_per_100000: 22569.0
+Percent_Positivity_in_prior_14_days: 0.006
 Level: Green
 url: /states/AK/northwest-arctic-borough
 ---

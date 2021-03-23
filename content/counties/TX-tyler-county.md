@@ -1,6 +1,6 @@
 ---
 title: "Tyler County, TX"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:48457.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48457.0
 FEMA_Region: 6.0
 Population: 21672.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 300.0
-Fourteen_day_test_rate_per_100000: 1384.0
-Percent_Positivity_in_prior_14_days: 0.067
+Tests_in_prior_14_days: 175.0
+Fourteen_day_test_rate_per_100000: 807.0
+Percent_Positivity_in_prior_14_days: 0.103
 Level: Yellow
 url: /states/TX/tyler-county
 ---

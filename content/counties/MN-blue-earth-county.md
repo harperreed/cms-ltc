@@ -1,6 +1,6 @@
 ---
 title: "Blue Earth County, MN"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:27013.0,FEMA:5.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 27013.0
 FEMA_Region: 5.0
 Population: 67653.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 7416.0
-Fourteen_day_test_rate_per_100000: 10962.0
-Percent_Positivity_in_prior_14_days: 0.052
+Tests_in_prior_14_days: 7364.0
+Fourteen_day_test_rate_per_100000: 10885.0
+Percent_Positivity_in_prior_14_days: 0.059
 Level: Yellow
 url: /states/MN/blue-earth-county
 ---

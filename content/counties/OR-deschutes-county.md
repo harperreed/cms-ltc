@@ -1,6 +1,6 @@
 ---
 title: "Deschutes County, OR"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:41017.0,FEMA:10.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 41017.0
 FEMA_Region: 10.0
 Population: 197692.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 7767.0
-Fourteen_day_test_rate_per_100000: 3929.0
-Percent_Positivity_in_prior_14_days: 0.016
+Tests_in_prior_14_days: 6831.0
+Fourteen_day_test_rate_per_100000: 3455.0
+Percent_Positivity_in_prior_14_days: 0.019
 Level: Green
 url: /states/OR/deschutes-county
 ---

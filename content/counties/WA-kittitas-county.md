@@ -1,6 +1,6 @@
 ---
 title: "Kittitas County, WA"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:53037.0,FEMA:10.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 53037.0
 FEMA_Region: 10.0
 Population: 47935.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1032.0
-Fourteen_day_test_rate_per_100000: 2153.0
-Percent_Positivity_in_prior_14_days: 0.068
+Tests_in_prior_14_days: 736.0
+Fourteen_day_test_rate_per_100000: 1535.0
+Percent_Positivity_in_prior_14_days: 0.088
 Level: Yellow
 url: /states/WA/kittitas-county
 ---

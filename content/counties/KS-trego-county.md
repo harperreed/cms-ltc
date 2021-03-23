@@ -1,9 +1,9 @@
 ---
 title: "Trego County, KS"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
-tags: [FIPS:20195.0,FEMA:7.0,Non-core,Green]
+tags: [FIPS:20195.0,FEMA:7.0,Non-core,Yellow]
 categories: [KS]
 County: Trego County
 State: KS
@@ -13,8 +13,8 @@ Population: 2803.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 62.0
 Fourteen_day_test_rate_per_100000: 2212.0
-Percent_Positivity_in_prior_14_days: 0.032
-Level: Green
+Percent_Positivity_in_prior_14_days: 0.065
+Level: Yellow
 url: /states/KS/trego-county
 ---
 

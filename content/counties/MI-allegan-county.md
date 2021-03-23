@@ -1,6 +1,6 @@
 ---
 title: "Allegan County, MI"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:26005.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 26005.0
 FEMA_Region: 5.0
 Population: 118081.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4194.0
-Fourteen_day_test_rate_per_100000: 3552.0
-Percent_Positivity_in_prior_14_days: 0.062
+Tests_in_prior_14_days: 4470.0
+Fourteen_day_test_rate_per_100000: 3786.0
+Percent_Positivity_in_prior_14_days: 0.079
 Level: Yellow
 url: /states/MI/allegan-county
 ---

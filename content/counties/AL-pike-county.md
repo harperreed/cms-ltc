@@ -1,6 +1,6 @@
 ---
 title: "Pike County, AL"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:1109.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 1109.0
 FEMA_Region: 4.0
 Population: 33114.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 953.0
-Fourteen_day_test_rate_per_100000: 2878.0
-Percent_Positivity_in_prior_14_days: 0.01
+Tests_in_prior_14_days: 838.0
+Fourteen_day_test_rate_per_100000: 2531.0
+Percent_Positivity_in_prior_14_days: 0.008
 Level: Green
 url: /states/AL/pike-county
 ---

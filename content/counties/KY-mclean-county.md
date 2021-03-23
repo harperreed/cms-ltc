@@ -1,6 +1,6 @@
 ---
 title: "McLean County, KY"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:21149.0,FEMA:4.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 21149.0
 FEMA_Region: 4.0
 Population: 9207.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 181.0
-Fourteen_day_test_rate_per_100000: 1966.0
-Percent_Positivity_in_prior_14_days: 0.022
+Tests_in_prior_14_days: 197.0
+Fourteen_day_test_rate_per_100000: 2140.0
+Percent_Positivity_in_prior_14_days: 0.02
 Level: Green
 url: /states/KY/mclean-county
 ---

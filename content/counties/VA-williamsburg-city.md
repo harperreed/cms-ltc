@@ -1,6 +1,6 @@
 ---
 title: "Williamsburg city, VA"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:51830.0,FEMA:3.0,Large fringe metro,Yellow]
@@ -13,7 +13,7 @@ Population: 14954.0
 NCHS_Urban_Rural_Classification: Large fringe metro
 Tests_in_prior_14_days: 51.0
 Fourteen_day_test_rate_per_100000: 341.0
-Percent_Positivity_in_prior_14_days: 0.235
+Percent_Positivity_in_prior_14_days: 0.157
 Level: Yellow
 url: /states/VA/williamsburg-city
 ---

@@ -1,9 +1,9 @@
 ---
 title: "York County, VA"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
-tags: [FIPS:51199.0,FEMA:3.0,Large fringe metro,Yellow]
+tags: [FIPS:51199.0,FEMA:3.0,Large fringe metro,Red]
 categories: [VA]
 County: York County
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51199.0
 FEMA_Region: 3.0
 Population: 68280.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1272.0
-Fourteen_day_test_rate_per_100000: 1863.0
-Percent_Positivity_in_prior_14_days: 0.083
-Level: Yellow
+Tests_in_prior_14_days: 1095.0
+Fourteen_day_test_rate_per_100000: 1604.0
+Percent_Positivity_in_prior_14_days: 0.116
+Level: Red
 url: /states/VA/york-county
 ---
 

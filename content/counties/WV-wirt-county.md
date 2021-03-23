@@ -1,9 +1,9 @@
 ---
 title: "Wirt County, WV"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
-tags: [FIPS:54105.0,FEMA:3.0,Small metro,Yellow]
+tags: [FIPS:54105.0,FEMA:3.0,Small metro,Green]
 categories: [WV]
 County: Wirt County
 State: WV
@@ -11,10 +11,10 @@ FIPS: 54105.0
 FEMA_Region: 3.0
 Population: 5821.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 114.0
-Fourteen_day_test_rate_per_100000: 1958.0
-Percent_Positivity_in_prior_14_days: 0.061
-Level: Yellow
+Tests_in_prior_14_days: 119.0
+Fourteen_day_test_rate_per_100000: 2044.0
+Percent_Positivity_in_prior_14_days: 0.025
+Level: Green
 url: /states/WV/wirt-county
 ---
 

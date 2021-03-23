@@ -1,9 +1,9 @@
 ---
 title: "Marshall County, MS"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
-tags: [FIPS:28093.0,FEMA:4.0,Large fringe metro,Red]
+tags: [FIPS:28093.0,FEMA:4.0,Large fringe metro,Yellow]
 categories: [MS]
 County: Marshall County
 State: MS
@@ -11,10 +11,10 @@ FIPS: 28093.0
 FEMA_Region: 4.0
 Population: 35294.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 588.0
-Fourteen_day_test_rate_per_100000: 1666.0
-Percent_Positivity_in_prior_14_days: 0.102
-Level: Red
+Tests_in_prior_14_days: 534.0
+Fourteen_day_test_rate_per_100000: 1513.0
+Percent_Positivity_in_prior_14_days: 0.09
+Level: Yellow
 url: /states/MS/marshall-county
 ---
 

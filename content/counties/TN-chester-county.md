@@ -1,6 +1,6 @@
 ---
 title: "Chester County, TN"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:47023.0,FEMA:4.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 47023.0
 FEMA_Region: 4.0
 Population: 17297.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 206.0
-Fourteen_day_test_rate_per_100000: 1191.0
-Percent_Positivity_in_prior_14_days: 0.015
+Tests_in_prior_14_days: 221.0
+Fourteen_day_test_rate_per_100000: 1278.0
+Percent_Positivity_in_prior_14_days: 0.018
 Level: Green
 url: /states/TN/chester-county
 ---

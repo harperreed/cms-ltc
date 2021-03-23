@@ -1,6 +1,6 @@
 ---
 title: "Stephenson County, IL"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:17177.0,FEMA:5.0,Micropolitan,Green]
@@ -11,8 +11,8 @@ FIPS: 17177.0
 FEMA_Region: 5.0
 Population: 44498.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1600.0
-Fourteen_day_test_rate_per_100000: 3596.0
+Tests_in_prior_14_days: 1706.0
+Fourteen_day_test_rate_per_100000: 3834.0
 Percent_Positivity_in_prior_14_days: 0.039
 Level: Green
 url: /states/IL/stephenson-county

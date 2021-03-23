@@ -1,6 +1,6 @@
 ---
 title: "Wolfe County, KY"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:21237.0,FEMA:4.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 21237.0
 FEMA_Region: 4.0
 Population: 7157.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 165.0
-Fourteen_day_test_rate_per_100000: 2305.0
-Percent_Positivity_in_prior_14_days: 0.03
+Tests_in_prior_14_days: 176.0
+Fourteen_day_test_rate_per_100000: 2459.0
+Percent_Positivity_in_prior_14_days: 0.04
 Level: Green
 url: /states/KY/wolfe-county
 ---

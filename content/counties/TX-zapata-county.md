@@ -1,6 +1,6 @@
 ---
 title: "Zapata County, TX"
-date: 2021-03-22
+date: 2021-03-23
 draft: false
 type: county
 tags: [FIPS:48505.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48505.0
 FEMA_Region: 6.0
 Population: 14179.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 370.0
-Fourteen_day_test_rate_per_100000: 2609.0
-Percent_Positivity_in_prior_14_days: 0.1
+Tests_in_prior_14_days: 281.0
+Fourteen_day_test_rate_per_100000: 1982.0
+Percent_Positivity_in_prior_14_days: 0.057
 Level: Yellow
 url: /states/TX/zapata-county
 ---
