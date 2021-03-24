@@ -1,6 +1,6 @@
 ---
 title: "Allegany County, MD"
-date: 2021-03-23
+date: 2021-03-24
 draft: false
 type: county
 tags: [FIPS:24001.0,FEMA:3.0,Small metro,Green]

@@ -1,6 +1,6 @@
 ---
 title: "San Juan County, NM"
-date: 2021-03-23
+date: 2021-03-24
 draft: false
 type: county
 tags: [FIPS:35045.0,FEMA:6.0,Small metro,Green]
