@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, IA"
-date: 2021-03-24
+date: 2021-03-25
 draft: false
 type: county
 tags: [FIPS:19097.0,FEMA:7.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Edgefield County, SC"
-date: 2021-03-24
+date: 2021-03-25
 draft: false
 type: county
 tags: [FIPS:45037.0,FEMA:4.0,Medium metro,Yellow]

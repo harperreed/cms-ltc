@@ -1,6 +1,6 @@
 ---
 title: "Atchison County, KS"
-date: 2021-03-24
+date: 2021-03-25
 draft: false
 type: county
 tags: [FIPS:20005.0,FEMA:7.0,Micropolitan,Green]

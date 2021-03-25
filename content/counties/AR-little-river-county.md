@@ -1,6 +1,6 @@
 ---
 title: "Little River County, AR"
-date: 2021-03-24
+date: 2021-03-25
 draft: false
 type: county
 tags: [FIPS:5081.0,FEMA:6.0,Small metro,Green]

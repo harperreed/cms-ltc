@@ -1,6 +1,6 @@
 ---
 title: "Bristol County, MA"
-date: 2021-03-24
+date: 2021-03-25
 draft: false
 type: county
 tags: [FIPS:25005.0,FEMA:1.0,Large fringe metro,Green]

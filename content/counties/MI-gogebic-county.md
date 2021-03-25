@@ -1,6 +1,6 @@
 ---
 title: "Gogebic County, MI"
-date: 2021-03-24
+date: 2021-03-25
 draft: false
 type: county
 tags: [FIPS:26053.0,FEMA:5.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Gallia County, OH"
-date: 2021-03-24
+date: 2021-03-25
 draft: false
 type: county
 tags: [FIPS:39053.0,FEMA:5.0,Micropolitan,Green]
