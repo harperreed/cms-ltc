@@ -1,6 +1,6 @@
 ---
 title: "Kootenai County, ID"
-date: 2021-03-25
+date: 2021-03-26
 draft: false
 type: county
 tags: [FIPS:16055.0,FEMA:10.0,Small metro,Yellow]

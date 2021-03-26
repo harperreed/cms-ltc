@@ -1,6 +1,6 @@
 ---
 title: "Hartley County, TX"
-date: 2021-03-25
+date: 2021-03-26
 draft: false
 type: county
 tags: [FIPS:48205.0,FEMA:6.0,Non-core,Green]
