@@ -1,6 +1,6 @@
 ---
 title: "Rock County, NE"
-date: 2021-03-26
+date: 2021-03-27
 draft: false
 type: county
 tags: [FIPS:31149.0,FEMA:7.0,Non-core,Green]

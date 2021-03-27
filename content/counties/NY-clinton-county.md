@@ -1,6 +1,6 @@
 ---
 title: "Clinton County, NY"
-date: 2021-03-26
+date: 2021-03-27
 draft: false
 type: county
 tags: [FIPS:36019.0,FEMA:2.0,Micropolitan,Green]

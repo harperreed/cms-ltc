@@ -1,6 +1,6 @@
 ---
 title: "Iowa County, IA"
-date: 2021-03-26
+date: 2021-03-27
 draft: false
 type: county
 tags: [FIPS:19095.0,FEMA:7.0,Non-core,Yellow]

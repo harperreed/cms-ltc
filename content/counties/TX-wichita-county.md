@@ -1,6 +1,6 @@
 ---
 title: "Wichita County, TX"
-date: 2021-03-26
+date: 2021-03-27
 draft: false
 type: county
 tags: [FIPS:48485.0,FEMA:6.0,Small metro,Green]
