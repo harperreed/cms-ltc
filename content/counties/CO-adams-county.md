@@ -1,6 +1,6 @@
 ---
 title: "Adams County, CO"
-date: 2021-03-27
+date: 2021-03-28
 draft: false
 type: county
 tags: [FIPS:8001.0,FEMA:8.0,Large fringe metro,Green]

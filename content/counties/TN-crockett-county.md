@@ -1,6 +1,6 @@
 ---
 title: "Crockett County, TN"
-date: 2021-03-27
+date: 2021-03-28
 draft: false
 type: county
 tags: [FIPS:47033.0,FEMA:4.0,Small metro,Green]

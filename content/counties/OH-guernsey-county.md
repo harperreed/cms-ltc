@@ -1,6 +1,6 @@
 ---
 title: "Guernsey County, OH"
-date: 2021-03-27
+date: 2021-03-28
 draft: false
 type: county
 tags: [FIPS:39059.0,FEMA:5.0,Micropolitan,Green]
