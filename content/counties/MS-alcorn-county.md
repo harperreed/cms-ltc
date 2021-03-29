@@ -1,6 +1,6 @@
 ---
 title: "Alcorn County, MS"
-date: 2021-03-28
+date: 2021-03-29
 draft: false
 type: county
 tags: [FIPS:28003.0,FEMA:4.0,Micropolitan,Green]

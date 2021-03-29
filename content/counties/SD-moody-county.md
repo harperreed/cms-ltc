@@ -1,6 +1,6 @@
 ---
 title: "Moody County, SD"
-date: 2021-03-28
+date: 2021-03-29
 draft: false
 type: county
 tags: [FIPS:46101.0,FEMA:8.0,Non-core,Green]

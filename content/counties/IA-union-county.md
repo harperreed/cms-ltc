@@ -1,6 +1,6 @@
 ---
 title: "Union County, IA"
-date: 2021-03-28
+date: 2021-03-29
 draft: false
 type: county
 tags: [FIPS:19175.0,FEMA:7.0,Non-core,Yellow]
