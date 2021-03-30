@@ -1,9 +1,9 @@
 ---
 title: "Menard County, IL"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
-tags: [FIPS:17129.0,FEMA:5.0,Small metro,Green]
+tags: [FIPS:17129.0,FEMA:5.0,Small metro,Yellow]
 categories: [IL]
 County: Menard County
 State: IL
@@ -11,10 +11,10 @@ FIPS: 17129.0
 FEMA_Region: 5.0
 Population: 12196.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 493.0
-Fourteen_day_test_rate_per_100000: 4042.0
-Percent_Positivity_in_prior_14_days: 0.037
-Level: Green
+Tests_in_prior_14_days: 558.0
+Fourteen_day_test_rate_per_100000: 4575.0
+Percent_Positivity_in_prior_14_days: 0.079
+Level: Yellow
 url: /states/IL/menard-county
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Monroe County, AL"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
-tags: [FIPS:1099.0,FEMA:4.0,Non-core,Green]
+tags: [FIPS:1099.0,FEMA:4.0,Non-core,Yellow]
 categories: [AL]
 County: Monroe County
 State: AL
@@ -11,10 +11,10 @@ FIPS: 1099.0
 FEMA_Region: 4.0
 Population: 20733.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 429.0
-Fourteen_day_test_rate_per_100000: 2069.0
-Percent_Positivity_in_prior_14_days: 0.047
-Level: Green
+Tests_in_prior_14_days: 419.0
+Fourteen_day_test_rate_per_100000: 2021.0
+Percent_Positivity_in_prior_14_days: 0.057
+Level: Yellow
 url: /states/AL/monroe-county
 ---
 

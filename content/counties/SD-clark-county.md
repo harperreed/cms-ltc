@@ -1,6 +1,6 @@
 ---
 title: "Clark County, SD"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:46025.0,FEMA:8.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 46025.0
 FEMA_Region: 8.0
 Population: 3736.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 21.0
-Fourteen_day_test_rate_per_100000: 562.0
-Percent_Positivity_in_prior_14_days: 0.143
+Tests_in_prior_14_days: 30.0
+Fourteen_day_test_rate_per_100000: 803.0
+Percent_Positivity_in_prior_14_days: 0.167
 Level: Yellow
 url: /states/SD/clark-county
 ---

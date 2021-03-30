@@ -1,6 +1,6 @@
 ---
 title: "East Feliciana Parish, LA"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:22037.0,FEMA:6.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 22037.0
 FEMA_Region: 6.0
 Population: 19135.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2984.0
-Fourteen_day_test_rate_per_100000: 15594.0
-Percent_Positivity_in_prior_14_days: 0.008
+Tests_in_prior_14_days: 2526.0
+Fourteen_day_test_rate_per_100000: 13201.0
+Percent_Positivity_in_prior_14_days: 0.004
 Level: Green
 url: /states/LA/east-feliciana-parish
 ---

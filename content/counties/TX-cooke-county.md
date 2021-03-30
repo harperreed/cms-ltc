@@ -1,6 +1,6 @@
 ---
 title: "Cooke County, TX"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:48097.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48097.0
 FEMA_Region: 6.0
 Population: 41257.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 514.0
-Fourteen_day_test_rate_per_100000: 1246.0
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 450.0
+Fourteen_day_test_rate_per_100000: 1091.0
+Percent_Positivity_in_prior_14_days: 0.069
 Level: Yellow
 url: /states/TX/cooke-county
 ---

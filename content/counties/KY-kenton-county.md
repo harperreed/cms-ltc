@@ -1,6 +1,6 @@
 ---
 title: "Kenton County, KY"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:21117.0,FEMA:4.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 21117.0
 FEMA_Region: 4.0
 Population: 166998.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 5531.0
-Fourteen_day_test_rate_per_100000: 3312.0
-Percent_Positivity_in_prior_14_days: 0.056
+Tests_in_prior_14_days: 4837.0
+Fourteen_day_test_rate_per_100000: 2896.0
+Percent_Positivity_in_prior_14_days: 0.055
 Level: Yellow
 url: /states/KY/kenton-county
 ---

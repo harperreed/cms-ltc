@@ -1,6 +1,6 @@
 ---
 title: "Delaware County, PA"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:42045.0,FEMA:3.0,Large fringe metro,Yellow]
@@ -11,8 +11,8 @@ FIPS: 42045.0
 FEMA_Region: 3.0
 Population: 566747.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 25774.0
-Fourteen_day_test_rate_per_100000: 4548.0
+Tests_in_prior_14_days: 26048.0
+Fourteen_day_test_rate_per_100000: 4596.0
 Percent_Positivity_in_prior_14_days: 0.053
 Level: Yellow
 url: /states/PA/delaware-county

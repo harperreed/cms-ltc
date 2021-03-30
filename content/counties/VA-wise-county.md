@@ -1,9 +1,9 @@
 ---
 title: "Wise County, VA"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
-tags: [FIPS:51195.0,FEMA:3.0,Micropolitan,Red]
+tags: [FIPS:51195.0,FEMA:3.0,Micropolitan,Yellow]
 categories: [VA]
 County: Wise County
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51195.0
 FEMA_Region: 3.0
 Population: 37383.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 511.0
-Fourteen_day_test_rate_per_100000: 1367.0
-Percent_Positivity_in_prior_14_days: 0.102
-Level: Red
+Tests_in_prior_14_days: 492.0
+Fourteen_day_test_rate_per_100000: 1316.0
+Percent_Positivity_in_prior_14_days: 0.085
+Level: Yellow
 url: /states/VA/wise-county
 ---
 

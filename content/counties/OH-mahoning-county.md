@@ -1,6 +1,6 @@
 ---
 title: "Mahoning County, OH"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:39099.0,FEMA:5.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 39099.0
 FEMA_Region: 5.0
 Population: 228683.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 3529.0
-Fourteen_day_test_rate_per_100000: 1543.0
-Percent_Positivity_in_prior_14_days: 0.012
+Tests_in_prior_14_days: 3325.0
+Fourteen_day_test_rate_per_100000: 1454.0
+Percent_Positivity_in_prior_14_days: 0.01
 Level: Green
 url: /states/OH/mahoning-county
 ---

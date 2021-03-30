@@ -1,6 +1,6 @@
 ---
 title: "Ben Hill County, GA"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:13017.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 13017.0
 FEMA_Region: 4.0
 Population: 16700.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 105.0
-Fourteen_day_test_rate_per_100000: 629.0
-Percent_Positivity_in_prior_14_days: 0.029
+Tests_in_prior_14_days: 114.0
+Fourteen_day_test_rate_per_100000: 683.0
+Percent_Positivity_in_prior_14_days: 0.026
 Level: Green
 url: /states/GA/ben-hill-county
 ---

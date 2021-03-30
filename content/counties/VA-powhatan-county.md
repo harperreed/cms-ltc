@@ -1,6 +1,6 @@
 ---
 title: "Powhatan County, VA"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:51145.0,FEMA:3.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51145.0
 FEMA_Region: 3.0
 Population: 29652.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 633.0
-Fourteen_day_test_rate_per_100000: 2135.0
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 614.0
+Fourteen_day_test_rate_per_100000: 2071.0
+Percent_Positivity_in_prior_14_days: 0.059
 Level: Yellow
 url: /states/VA/powhatan-county
 ---

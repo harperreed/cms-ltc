@@ -1,6 +1,6 @@
 ---
 title: "Orleans Parish, LA"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:22071.0,FEMA:6.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 22071.0
 FEMA_Region: 6.0
 Population: 390144.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 40441.0
-Fourteen_day_test_rate_per_100000: 10366.0
-Percent_Positivity_in_prior_14_days: 0.01
+Tests_in_prior_14_days: 30421.0
+Fourteen_day_test_rate_per_100000: 7797.0
+Percent_Positivity_in_prior_14_days: 0.009
 Level: Green
 url: /states/LA/orleans-parish
 ---

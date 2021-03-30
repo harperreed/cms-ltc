@@ -1,6 +1,6 @@
 ---
 title: "Taylor County, WV"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:54091.0,FEMA:3.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 54091.0
 FEMA_Region: 3.0
 Population: 16695.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 649.0
-Fourteen_day_test_rate_per_100000: 3887.0
-Percent_Positivity_in_prior_14_days: 0.039
+Tests_in_prior_14_days: 867.0
+Fourteen_day_test_rate_per_100000: 5193.0
+Percent_Positivity_in_prior_14_days: 0.038
 Level: Green
 url: /states/WV/taylor-county
 ---

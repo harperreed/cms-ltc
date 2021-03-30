@@ -1,6 +1,6 @@
 ---
 title: "Putnam County, TN"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:47141.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 47141.0
 FEMA_Region: 4.0
 Population: 80245.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1688.0
-Fourteen_day_test_rate_per_100000: 2104.0
-Percent_Positivity_in_prior_14_days: 0.057
+Tests_in_prior_14_days: 1770.0
+Fourteen_day_test_rate_per_100000: 2206.0
+Percent_Positivity_in_prior_14_days: 0.068
 Level: Yellow
 url: /states/TN/putnam-county
 ---

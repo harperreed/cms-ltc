@@ -1,6 +1,6 @@
 ---
 title: "Tishomingo County, MS"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:28141.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 28141.0
 FEMA_Region: 4.0
 Population: 19383.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 137.0
-Fourteen_day_test_rate_per_100000: 707.0
-Percent_Positivity_in_prior_14_days: 0.073
+Tests_in_prior_14_days: 129.0
+Fourteen_day_test_rate_per_100000: 666.0
+Percent_Positivity_in_prior_14_days: 0.062
 Level: Yellow
 url: /states/MS/tishomingo-county
 ---

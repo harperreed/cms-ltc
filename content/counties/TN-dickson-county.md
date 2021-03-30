@@ -1,6 +1,6 @@
 ---
 title: "Dickson County, TN"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:47043.0,FEMA:4.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 47043.0
 FEMA_Region: 4.0
 Population: 53948.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 671.0
-Fourteen_day_test_rate_per_100000: 1244.0
-Percent_Positivity_in_prior_14_days: 0.072
+Tests_in_prior_14_days: 627.0
+Fourteen_day_test_rate_per_100000: 1162.0
+Percent_Positivity_in_prior_14_days: 0.081
 Level: Yellow
 url: /states/TN/dickson-county
 ---

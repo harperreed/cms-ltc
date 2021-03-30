@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, NC"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:37069.0,FEMA:4.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 37069.0
 FEMA_Region: 4.0
 Population: 69685.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 3312.0
-Fourteen_day_test_rate_per_100000: 4753.0
-Percent_Positivity_in_prior_14_days: 0.084
+Tests_in_prior_14_days: 3155.0
+Fourteen_day_test_rate_per_100000: 4528.0
+Percent_Positivity_in_prior_14_days: 0.093
 Level: Yellow
 url: /states/NC/franklin-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Fentress County, TN"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:47049.0,FEMA:4.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 47049.0
 FEMA_Region: 4.0
 Population: 18523.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 425.0
-Fourteen_day_test_rate_per_100000: 2294.0
-Percent_Positivity_in_prior_14_days: 0.042
+Tests_in_prior_14_days: 548.0
+Fourteen_day_test_rate_per_100000: 2958.0
+Percent_Positivity_in_prior_14_days: 0.031
 Level: Green
 url: /states/TN/fentress-county
 ---

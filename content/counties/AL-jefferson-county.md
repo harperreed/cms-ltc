@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, AL"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:1073.0,FEMA:4.0,Large central metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 1073.0
 FEMA_Region: 4.0
 Population: 658573.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 22039.0
-Fourteen_day_test_rate_per_100000: 3346.0
-Percent_Positivity_in_prior_14_days: 0.05
+Tests_in_prior_14_days: 20971.0
+Fourteen_day_test_rate_per_100000: 3184.0
+Percent_Positivity_in_prior_14_days: 0.056
 Level: Yellow
 url: /states/AL/jefferson-county
 ---

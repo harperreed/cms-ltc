@@ -1,9 +1,9 @@
 ---
 title: "Orleans County, VT"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
-tags: [FIPS:50019.0,FEMA:1.0,Non-core,Green]
+tags: [FIPS:50019.0,FEMA:1.0,Non-core,Yellow]
 categories: [VT]
 County: Orleans County
 State: VT
@@ -11,10 +11,10 @@ FIPS: 50019.0
 FEMA_Region: 1.0
 Population: 27037.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 3314.0
-Fourteen_day_test_rate_per_100000: 12257.0
-Percent_Positivity_in_prior_14_days: 0.048
-Level: Green
+Tests_in_prior_14_days: 4057.0
+Fourteen_day_test_rate_per_100000: 15005.0
+Percent_Positivity_in_prior_14_days: 0.054
+Level: Yellow
 url: /states/VT/orleans-county
 ---
 

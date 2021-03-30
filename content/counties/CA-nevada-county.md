@@ -1,6 +1,6 @@
 ---
 title: "Nevada County, CA"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:6057.0,FEMA:9.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 6057.0
 FEMA_Region: 9.0
 Population: 99755.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3276.0
-Fourteen_day_test_rate_per_100000: 3284.0
-Percent_Positivity_in_prior_14_days: 0.036
+Tests_in_prior_14_days: 1689.0
+Fourteen_day_test_rate_per_100000: 1693.0
+Percent_Positivity_in_prior_14_days: 0.034
 Level: Green
 url: /states/CA/nevada-county
 ---

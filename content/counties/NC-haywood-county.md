@@ -1,9 +1,9 @@
 ---
 title: "Haywood County, NC"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
-tags: [FIPS:37087.0,FEMA:4.0,Medium metro,Green]
+tags: [FIPS:37087.0,FEMA:4.0,Medium metro,Yellow]
 categories: [NC]
 County: Haywood County
 State: NC
@@ -11,10 +11,10 @@ FIPS: 37087.0
 FEMA_Region: 4.0
 Population: 62317.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 762.0
-Fourteen_day_test_rate_per_100000: 1223.0
-Percent_Positivity_in_prior_14_days: 0.049
-Level: Green
+Tests_in_prior_14_days: 714.0
+Fourteen_day_test_rate_per_100000: 1146.0
+Percent_Positivity_in_prior_14_days: 0.052
+Level: Yellow
 url: /states/NC/haywood-county
 ---
 

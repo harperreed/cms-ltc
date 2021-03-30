@@ -1,6 +1,6 @@
 ---
 title: "Converse County, WY"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:56009.0,FEMA:8.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 56009.0
 FEMA_Region: 8.0
 Population: 13822.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 515.0
-Fourteen_day_test_rate_per_100000: 3726.0
-Percent_Positivity_in_prior_14_days: 0.014
+Tests_in_prior_14_days: 555.0
+Fourteen_day_test_rate_per_100000: 4015.0
+Percent_Positivity_in_prior_14_days: 0.016
 Level: Green
 url: /states/WY/converse-county
 ---

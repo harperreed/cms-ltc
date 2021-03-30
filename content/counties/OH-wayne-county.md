@@ -1,6 +1,6 @@
 ---
 title: "Wayne County, OH"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:39169.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 39169.0
 FEMA_Region: 5.0
 Population: 115710.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 233.0
-Fourteen_day_test_rate_per_100000: 201.0
-Percent_Positivity_in_prior_14_days: 0.133
+Tests_in_prior_14_days: 226.0
+Fourteen_day_test_rate_per_100000: 195.0
+Percent_Positivity_in_prior_14_days: 0.102
 Level: Yellow
 url: /states/OH/wayne-county
 ---

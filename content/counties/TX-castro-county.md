@@ -1,9 +1,9 @@
 ---
 title: "Castro County, TX"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
-tags: [FIPS:48069.0,FEMA:6.0,Non-core,Green]
+tags: [FIPS:48069.0,FEMA:6.0,Non-core,Yellow]
 categories: [TX]
 County: Castro County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48069.0
 FEMA_Region: 6.0
 Population: 7530.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 56.0
-Fourteen_day_test_rate_per_100000: 744.0
-Percent_Positivity_in_prior_14_days: 0.036
-Level: Green
+Tests_in_prior_14_days: 76.0
+Fourteen_day_test_rate_per_100000: 1009.0
+Percent_Positivity_in_prior_14_days: 0.079
+Level: Yellow
 url: /states/TX/castro-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Genesee County, NY"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:36037.0,FEMA:2.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 36037.0
 FEMA_Region: 2.0
 Population: 57280.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4488.0
-Fourteen_day_test_rate_per_100000: 7835.0
-Percent_Positivity_in_prior_14_days: 0.029
+Tests_in_prior_14_days: 4499.0
+Fourteen_day_test_rate_per_100000: 7854.0
+Percent_Positivity_in_prior_14_days: 0.032
 Level: Green
 url: /states/NY/genesee-county
 ---

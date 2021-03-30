@@ -1,6 +1,6 @@
 ---
 title: "Lee County, KY"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:21129.0,FEMA:4.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 21129.0
 FEMA_Region: 4.0
 Population: 7403.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 118.0
-Fourteen_day_test_rate_per_100000: 1594.0
-Percent_Positivity_in_prior_14_days: 0.034
+Tests_in_prior_14_days: 160.0
+Fourteen_day_test_rate_per_100000: 2161.0
+Percent_Positivity_in_prior_14_days: 0.038
 Level: Green
 url: /states/KY/lee-county
 ---

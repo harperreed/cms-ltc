@@ -1,6 +1,6 @@
 ---
 title: "Cook County, IL"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:17031.0,FEMA:5.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 17031.0
 FEMA_Region: 5.0
 Population: 5150233.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 244461.0
-Fourteen_day_test_rate_per_100000: 4747.0
-Percent_Positivity_in_prior_14_days: 0.03
+Tests_in_prior_14_days: 255689.0
+Fourteen_day_test_rate_per_100000: 4965.0
+Percent_Positivity_in_prior_14_days: 0.035
 Level: Green
 url: /states/IL/cook-county
 ---

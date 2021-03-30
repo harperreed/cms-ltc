@@ -1,9 +1,9 @@
 ---
 title: "Nodaway County, MO"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
-tags: [FIPS:29147.0,FEMA:7.0,Micropolitan,Red]
+tags: [FIPS:29147.0,FEMA:7.0,Micropolitan,Yellow]
 categories: [MO]
 County: Nodaway County
 State: MO
@@ -11,10 +11,10 @@ FIPS: 29147.0
 FEMA_Region: 7.0
 Population: 22092.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 598.0
-Fourteen_day_test_rate_per_100000: 2707.0
-Percent_Positivity_in_prior_14_days: 0.104
-Level: Red
+Tests_in_prior_14_days: 534.0
+Fourteen_day_test_rate_per_100000: 2417.0
+Percent_Positivity_in_prior_14_days: 0.066
+Level: Yellow
 url: /states/MO/nodaway-county
 ---
 

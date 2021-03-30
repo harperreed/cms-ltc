@@ -1,6 +1,6 @@
 ---
 title: "Yamhill County, OR"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:41071.0,FEMA:10.0,Large fringe metro,Green]
@@ -11,8 +11,8 @@ FIPS: 41071.0
 FEMA_Region: 10.0
 Population: 107100.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 5366.0
-Fourteen_day_test_rate_per_100000: 5010.0
+Tests_in_prior_14_days: 4868.0
+Fourteen_day_test_rate_per_100000: 4545.0
 Percent_Positivity_in_prior_14_days: 0.014
 Level: Green
 url: /states/OR/yamhill-county

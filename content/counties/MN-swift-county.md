@@ -1,9 +1,9 @@
 ---
 title: "Swift County, MN"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
-tags: [FIPS:27151.0,FEMA:5.0,Non-core,Yellow]
+tags: [FIPS:27151.0,FEMA:5.0,Non-core,Green]
 categories: [MN]
 County: Swift County
 State: MN
@@ -11,10 +11,10 @@ FIPS: 27151.0
 FEMA_Region: 5.0
 Population: 9266.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 468.0
-Fourteen_day_test_rate_per_100000: 5051.0
-Percent_Positivity_in_prior_14_days: 0.051
-Level: Yellow
+Tests_in_prior_14_days: 912.0
+Fourteen_day_test_rate_per_100000: 9842.0
+Percent_Positivity_in_prior_14_days: 0.038
+Level: Green
 url: /states/MN/swift-county
 ---
 

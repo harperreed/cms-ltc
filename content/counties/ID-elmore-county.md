@@ -1,6 +1,6 @@
 ---
 title: "Elmore County, ID"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:16039.0,FEMA:10.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 16039.0
 FEMA_Region: 10.0
 Population: 27511.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 754.0
-Fourteen_day_test_rate_per_100000: 2741.0
-Percent_Positivity_in_prior_14_days: 0.036
+Tests_in_prior_14_days: 797.0
+Fourteen_day_test_rate_per_100000: 2897.0
+Percent_Positivity_in_prior_14_days: 0.045
 Level: Green
 url: /states/ID/elmore-county
 ---

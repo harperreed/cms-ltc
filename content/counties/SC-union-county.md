@@ -1,9 +1,9 @@
 ---
 title: "Union County, SC"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
-tags: [FIPS:45087.0,FEMA:4.0,Medium metro,Green]
+tags: [FIPS:45087.0,FEMA:4.0,Medium metro,Gray]
 categories: [SC]
 County: Union County
 State: SC
@@ -11,10 +11,10 @@ FIPS: 45087.0
 FEMA_Region: 4.0
 Population: 27316.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 603.0
-Fourteen_day_test_rate_per_100000: 2207.0
-Percent_Positivity_in_prior_14_days: 0.041
-Level: Green
+Tests_in_prior_14_days: 629.0
+Fourteen_day_test_rate_per_100000: 2303.0
+Percent_Positivity_in_prior_14_days: 0.076
+Level: Gray
 url: /states/SC/union-county
 ---
 

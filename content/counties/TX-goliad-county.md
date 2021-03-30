@@ -1,6 +1,6 @@
 ---
 title: "Goliad County, TX"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:48175.0,FEMA:6.0,Small metro,Green]
@@ -11,8 +11,8 @@ FIPS: 48175.0
 FEMA_Region: 6.0
 Population: 7658.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 79.0
-Fourteen_day_test_rate_per_100000: 1032.0
+Tests_in_prior_14_days: 80.0
+Fourteen_day_test_rate_per_100000: 1045.0
 Percent_Positivity_in_prior_14_days: 0.025
 Level: Green
 url: /states/TX/goliad-county

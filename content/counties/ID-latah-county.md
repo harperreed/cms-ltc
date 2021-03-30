@@ -1,9 +1,9 @@
 ---
 title: "Latah County, ID"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
-tags: [FIPS:16057.0,FEMA:10.0,Micropolitan,Red]
+tags: [FIPS:16057.0,FEMA:10.0,Micropolitan,Yellow]
 categories: [ID]
 County: Latah County
 State: ID
@@ -11,10 +11,10 @@ FIPS: 16057.0
 FEMA_Region: 10.0
 Population: 40108.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 909.0
-Fourteen_day_test_rate_per_100000: 2266.0
-Percent_Positivity_in_prior_14_days: 0.128
-Level: Red
+Tests_in_prior_14_days: 769.0
+Fourteen_day_test_rate_per_100000: 1917.0
+Percent_Positivity_in_prior_14_days: 0.087
+Level: Yellow
 url: /states/ID/latah-county
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Lancaster County, SC"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
-tags: [FIPS:45057.0,FEMA:4.0,Large fringe metro,Yellow]
+tags: [FIPS:45057.0,FEMA:4.0,Large fringe metro,Gray]
 categories: [SC]
 County: Lancaster County
 State: SC
@@ -11,10 +11,10 @@ FIPS: 45057.0
 FEMA_Region: 4.0
 Population: 98012.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1761.0
-Fourteen_day_test_rate_per_100000: 1797.0
-Percent_Positivity_in_prior_14_days: 0.072
-Level: Yellow
+Tests_in_prior_14_days: 1927.0
+Fourteen_day_test_rate_per_100000: 1966.0
+Percent_Positivity_in_prior_14_days: 0.083
+Level: Gray
 url: /states/SC/lancaster-county
 ---
 

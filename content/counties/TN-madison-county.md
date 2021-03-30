@@ -1,6 +1,6 @@
 ---
 title: "Madison County, TN"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:47113.0,FEMA:4.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 47113.0
 FEMA_Region: 4.0
 Population: 97984.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 631.0
-Fourteen_day_test_rate_per_100000: 644.0
-Percent_Positivity_in_prior_14_days: 0.038
+Tests_in_prior_14_days: 795.0
+Fourteen_day_test_rate_per_100000: 811.0
+Percent_Positivity_in_prior_14_days: 0.039
 Level: Green
 url: /states/TN/madison-county
 ---

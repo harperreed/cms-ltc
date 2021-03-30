@@ -1,9 +1,9 @@
 ---
 title: "Yuba County, CA"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
-tags: [FIPS:6115.0,FEMA:9.0,Small metro,Yellow]
+tags: [FIPS:6115.0,FEMA:9.0,Small metro,Green]
 categories: [CA]
 County: Yuba County
 State: CA
@@ -11,10 +11,10 @@ FIPS: 6115.0
 FEMA_Region: 9.0
 Population: 78668.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2071.0
-Fourteen_day_test_rate_per_100000: 2633.0
-Percent_Positivity_in_prior_14_days: 0.056
-Level: Yellow
+Tests_in_prior_14_days: 1056.0
+Fourteen_day_test_rate_per_100000: 1342.0
+Percent_Positivity_in_prior_14_days: 0.047
+Level: Green
 url: /states/CA/yuba-county
 ---
 

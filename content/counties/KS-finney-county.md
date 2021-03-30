@@ -1,6 +1,6 @@
 ---
 title: "Finney County, KS"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:20055.0,FEMA:7.0,Micropolitan,Green]
@@ -13,7 +13,7 @@ Population: 36467.0
 NCHS_Urban_Rural_Classification: Micropolitan
 Tests_in_prior_14_days: 601.0
 Fourteen_day_test_rate_per_100000: 1648.0
-Percent_Positivity_in_prior_14_days: 0.015
+Percent_Positivity_in_prior_14_days: 0.013
 Level: Green
 url: /states/KS/finney-county
 ---

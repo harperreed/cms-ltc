@@ -1,6 +1,6 @@
 ---
 title: "Butler County, AL"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:1013.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 1013.0
 FEMA_Region: 4.0
 Population: 19448.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 418.0
-Fourteen_day_test_rate_per_100000: 2149.0
-Percent_Positivity_in_prior_14_days: 0.079
+Tests_in_prior_14_days: 298.0
+Fourteen_day_test_rate_per_100000: 1532.0
+Percent_Positivity_in_prior_14_days: 0.081
 Level: Yellow
 url: /states/AL/butler-county
 ---

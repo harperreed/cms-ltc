@@ -1,6 +1,6 @@
 ---
 title: "Belknap County, NH"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:33001.0,FEMA:1.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 33001.0
 FEMA_Region: 1.0
 Population: 61303.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3573.0
-Fourteen_day_test_rate_per_100000: 5828.0
-Percent_Positivity_in_prior_14_days: 0.02
+Tests_in_prior_14_days: 2997.0
+Fourteen_day_test_rate_per_100000: 4889.0
+Percent_Positivity_in_prior_14_days: 0.019
 Level: Green
 url: /states/NH/belknap-county
 ---

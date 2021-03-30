@@ -1,6 +1,6 @@
 ---
 title: "Camden County, NJ"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:34007.0,FEMA:2.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 34007.0
 FEMA_Region: 2.0
 Population: 506471.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 29608.0
-Fourteen_day_test_rate_per_100000: 5846.0
-Percent_Positivity_in_prior_14_days: 0.058
+Tests_in_prior_14_days: 31092.0
+Fourteen_day_test_rate_per_100000: 6139.0
+Percent_Positivity_in_prior_14_days: 0.067
 Level: Yellow
 url: /states/NJ/camden-county
 ---

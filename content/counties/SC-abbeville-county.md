@@ -1,9 +1,9 @@
 ---
 title: "Abbeville County, SC"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
-tags: [FIPS:45001.0,FEMA:4.0,Micropolitan,Green]
+tags: [FIPS:45001.0,FEMA:4.0,Micropolitan,Gray]
 categories: [SC]
 County: Abbeville County
 State: SC
@@ -11,10 +11,10 @@ FIPS: 45001.0
 FEMA_Region: 4.0
 Population: 24527.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 745.0
-Fourteen_day_test_rate_per_100000: 3037.0
-Percent_Positivity_in_prior_14_days: 0.04
-Level: Green
+Tests_in_prior_14_days: 666.0
+Fourteen_day_test_rate_per_100000: 2715.0
+Percent_Positivity_in_prior_14_days: 0.093
+Level: Gray
 url: /states/SC/abbeville-county
 ---
 

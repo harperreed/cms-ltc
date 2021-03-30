@@ -1,6 +1,6 @@
 ---
 title: "Chisago County, MN"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:27025.0,FEMA:5.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 27025.0
 FEMA_Region: 5.0
 Population: 56579.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 4293.0
-Fourteen_day_test_rate_per_100000: 7588.0
-Percent_Positivity_in_prior_14_days: 0.043
+Tests_in_prior_14_days: 4361.0
+Fourteen_day_test_rate_per_100000: 7708.0
+Percent_Positivity_in_prior_14_days: 0.038
 Level: Green
 url: /states/MN/chisago-county
 ---

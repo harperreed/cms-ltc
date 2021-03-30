@@ -1,6 +1,6 @@
 ---
 title: "Hale County, AL"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:1065.0,FEMA:4.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 1065.0
 FEMA_Region: 4.0
 Population: 14651.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 461.0
-Fourteen_day_test_rate_per_100000: 3147.0
-Percent_Positivity_in_prior_14_days: 0.03
+Tests_in_prior_14_days: 476.0
+Fourteen_day_test_rate_per_100000: 3249.0
+Percent_Positivity_in_prior_14_days: 0.025
 Level: Green
 url: /states/AL/hale-county
 ---

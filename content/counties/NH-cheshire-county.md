@@ -1,6 +1,6 @@
 ---
 title: "Cheshire County, NH"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:33005.0,FEMA:1.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 33005.0
 FEMA_Region: 1.0
 Population: 76085.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 11627.0
-Fourteen_day_test_rate_per_100000: 15282.0
-Percent_Positivity_in_prior_14_days: 0.023
+Tests_in_prior_14_days: 12067.0
+Fourteen_day_test_rate_per_100000: 15860.0
+Percent_Positivity_in_prior_14_days: 0.016
 Level: Green
 url: /states/NH/cheshire-county
 ---

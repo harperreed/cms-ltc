@@ -1,9 +1,9 @@
 ---
 title: "Lake County, MI"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
-tags: [FIPS:26085.0,FEMA:5.0,Non-core,Green]
+tags: [FIPS:26085.0,FEMA:5.0,Non-core,Yellow]
 categories: [MI]
 County: Lake County
 State: MI
@@ -11,10 +11,10 @@ FIPS: 26085.0
 FEMA_Region: 5.0
 Population: 11853.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 353.0
-Fourteen_day_test_rate_per_100000: 2978.0
-Percent_Positivity_in_prior_14_days: 0.04
-Level: Green
+Tests_in_prior_14_days: 332.0
+Fourteen_day_test_rate_per_100000: 2801.0
+Percent_Positivity_in_prior_14_days: 0.06
+Level: Yellow
 url: /states/MI/lake-county
 ---
 

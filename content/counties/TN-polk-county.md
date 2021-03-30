@@ -1,9 +1,9 @@
 ---
 title: "Polk County, TN"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
-tags: [FIPS:47139.0,FEMA:4.0,Small metro,Yellow]
+tags: [FIPS:47139.0,FEMA:4.0,Small metro,Red]
 categories: [TN]
 County: Polk County
 State: TN
@@ -11,10 +11,10 @@ FIPS: 47139.0
 FEMA_Region: 4.0
 Population: 16832.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 322.0
-Fourteen_day_test_rate_per_100000: 1913.0
-Percent_Positivity_in_prior_14_days: 0.149
-Level: Yellow
+Tests_in_prior_14_days: 366.0
+Fourteen_day_test_rate_per_100000: 2174.0
+Percent_Positivity_in_prior_14_days: 0.153
+Level: Red
 url: /states/TN/polk-county
 ---
 

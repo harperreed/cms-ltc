@@ -1,6 +1,6 @@
 ---
 title: "Kimble County, TX"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:48267.0,FEMA:6.0,Non-core,Green]

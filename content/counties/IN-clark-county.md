@@ -1,6 +1,6 @@
 ---
 title: "Clark County, IN"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:18019.0,FEMA:5.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 18019.0
 FEMA_Region: 5.0
 Population: 118302.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 4503.0
-Fourteen_day_test_rate_per_100000: 3806.0
-Percent_Positivity_in_prior_14_days: 0.049
+Tests_in_prior_14_days: 4519.0
+Fourteen_day_test_rate_per_100000: 3820.0
+Percent_Positivity_in_prior_14_days: 0.046
 Level: Green
 url: /states/IN/clark-county
 ---

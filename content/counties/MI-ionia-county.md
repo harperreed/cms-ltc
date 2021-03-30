@@ -1,6 +1,6 @@
 ---
 title: "Ionia County, MI"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:26067.0,FEMA:5.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 26067.0
 FEMA_Region: 5.0
 Population: 64697.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 5619.0
-Fourteen_day_test_rate_per_100000: 8685.0
-Percent_Positivity_in_prior_14_days: 0.038
+Tests_in_prior_14_days: 5361.0
+Fourteen_day_test_rate_per_100000: 8286.0
+Percent_Positivity_in_prior_14_days: 0.04
 Level: Green
 url: /states/MI/ionia-county
 ---

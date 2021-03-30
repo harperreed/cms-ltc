@@ -1,6 +1,6 @@
 ---
 title: "Pontotoc County, MS"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:28115.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 28115.0
 FEMA_Region: 4.0
 Population: 32174.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 150.0
-Fourteen_day_test_rate_per_100000: 466.0
-Percent_Positivity_in_prior_14_days: 0.0
+Tests_in_prior_14_days: 115.0
+Fourteen_day_test_rate_per_100000: 357.0
+Percent_Positivity_in_prior_14_days: 0.009
 Level: Green
 url: /states/MS/pontotoc-county
 ---

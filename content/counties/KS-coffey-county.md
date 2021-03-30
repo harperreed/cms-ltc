@@ -1,6 +1,6 @@
 ---
 title: "Coffey County, KS"
-date: 2021-03-29
+date: 2021-03-30
 draft: false
 type: county
 tags: [FIPS:20031.0,FEMA:7.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 20031.0
 FEMA_Region: 7.0
 Population: 8179.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 169.0
-Fourteen_day_test_rate_per_100000: 2066.0
-Percent_Positivity_in_prior_14_days: 0.024
+Tests_in_prior_14_days: 151.0
+Fourteen_day_test_rate_per_100000: 1846.0
+Percent_Positivity_in_prior_14_days: 0.026
 Level: Green
 url: /states/KS/coffey-county
 ---
