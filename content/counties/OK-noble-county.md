@@ -1,6 +1,6 @@
 ---
 title: "Noble County, OK"
-date: 2021-03-30
+date: 2021-03-31
 draft: false
 type: county
 tags: [FIPS:40103.0,FEMA:6.0,Non-core,Green]
