@@ -1,6 +1,6 @@
 ---
 title: "Dodge County, MN"
-date: 2021-03-31
+date: 2021-04-01
 draft: false
 type: county
 tags: [FIPS:27039.0,FEMA:5.0,Small metro,Green]

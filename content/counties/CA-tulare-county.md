@@ -1,6 +1,6 @@
 ---
 title: "Tulare County, CA"
-date: 2021-03-31
+date: 2021-04-01
 draft: false
 type: county
 tags: [FIPS:6107.0,FEMA:9.0,Medium metro,Green]

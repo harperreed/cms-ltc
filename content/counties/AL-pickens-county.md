@@ -1,6 +1,6 @@
 ---
 title: "Pickens County, AL"
-date: 2021-03-31
+date: 2021-04-01
 draft: false
 type: county
 tags: [FIPS:1107.0,FEMA:4.0,Small metro,Yellow]

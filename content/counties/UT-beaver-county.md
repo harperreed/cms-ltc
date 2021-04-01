@@ -1,6 +1,6 @@
 ---
 title: "Beaver County, UT"
-date: 2021-03-31
+date: 2021-04-01
 draft: false
 type: county
 tags: [FIPS:49001.0,FEMA:8.0,Non-core,Yellow]

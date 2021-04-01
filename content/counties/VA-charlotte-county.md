@@ -1,6 +1,6 @@
 ---
 title: "Charlotte County, VA"
-date: 2021-03-31
+date: 2021-04-01
 draft: false
 type: county
 tags: [FIPS:51037.0,FEMA:3.0,Non-core,Yellow]

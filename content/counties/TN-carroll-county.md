@@ -1,6 +1,6 @@
 ---
 title: "Carroll County, TN"
-date: 2021-03-31
+date: 2021-04-01
 draft: false
 type: county
 tags: [FIPS:47017.0,FEMA:4.0,Non-core,Yellow]

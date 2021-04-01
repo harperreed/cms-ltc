@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, KS"
-date: 2021-03-31
+date: 2021-04-01
 draft: false
 type: county
 tags: [FIPS:20085.0,FEMA:7.0,Small metro,Yellow]
