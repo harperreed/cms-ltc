@@ -1,6 +1,6 @@
 ---
 title: "Jones County, GA"
-date: 2021-04-01
+date: 2021-04-02
 draft: false
 type: county
 tags: [FIPS:13169.0,FEMA:4.0,Small metro,Green]

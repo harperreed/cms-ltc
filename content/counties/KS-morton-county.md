@@ -1,6 +1,6 @@
 ---
 title: "Morton County, KS"
-date: 2021-04-01
+date: 2021-04-02
 draft: false
 type: county
 tags: [FIPS:20129.0,FEMA:7.0,Non-core,Green]

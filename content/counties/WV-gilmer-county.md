@@ -1,6 +1,6 @@
 ---
 title: "Gilmer County, WV"
-date: 2021-04-01
+date: 2021-04-02
 draft: false
 type: county
 tags: [FIPS:54021.0,FEMA:3.0,Non-core,Green]

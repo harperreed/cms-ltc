@@ -1,6 +1,6 @@
 ---
 title: "Knox County, TN"
-date: 2021-04-01
+date: 2021-04-02
 draft: false
 type: county
 tags: [FIPS:47093.0,FEMA:4.0,Medium metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Coos County, OR"
-date: 2021-04-01
+date: 2021-04-02
 draft: false
 type: county
 tags: [FIPS:41011.0,FEMA:10.0,Micropolitan,Red]
