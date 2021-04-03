@@ -1,6 +1,6 @@
 ---
 title: "Hutchinson County, SD"
-date: 2021-04-02
+date: 2021-04-03
 draft: false
 type: county
 tags: [FIPS:46067.0,FEMA:8.0,Non-core,Yellow]
