@@ -1,6 +1,6 @@
 ---
 title: "Barry County, MI"
-date: 2021-04-03
+date: 2021-04-04
 draft: false
 type: county
 tags: [FIPS:26015.0,FEMA:5.0,Large fringe metro,Yellow]

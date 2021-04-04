@@ -1,6 +1,6 @@
 ---
 title: "Cleburne County, AL"
-date: 2021-04-03
+date: 2021-04-04
 draft: false
 type: county
 tags: [FIPS:1029.0,FEMA:4.0,Non-core,Yellow]

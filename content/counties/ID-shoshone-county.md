@@ -1,6 +1,6 @@
 ---
 title: "Shoshone County, ID"
-date: 2021-04-03
+date: 2021-04-04
 draft: false
 type: county
 tags: [FIPS:16079.0,FEMA:10.0,Non-core,Red]

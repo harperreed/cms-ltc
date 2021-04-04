@@ -1,6 +1,6 @@
 ---
 title: "Clark County, MO"
-date: 2021-04-03
+date: 2021-04-04
 draft: false
 type: county
 tags: [FIPS:29045.0,FEMA:7.0,Micropolitan,Yellow]

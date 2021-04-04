@@ -1,6 +1,6 @@
 ---
 title: "Fayette County, KY"
-date: 2021-04-03
+date: 2021-04-04
 draft: false
 type: county
 tags: [FIPS:21067.0,FEMA:4.0,Medium metro,Green]
