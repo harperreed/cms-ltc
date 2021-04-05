@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, MS"
-date: 2021-04-04
+date: 2021-04-05
 draft: false
 type: county
 tags: [FIPS:28059.0,FEMA:4.0,Medium metro,Yellow]
