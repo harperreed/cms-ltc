@@ -1,9 +1,9 @@
 ---
 title: "Adams County, PA"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
-tags: [FIPS:42001.0,FEMA:3.0,Small metro,Yellow]
+tags: [FIPS:42001.0,FEMA:3.0,Small metro,Red]
 categories: [PA]
 County: Adams County
 State: PA
@@ -11,10 +11,10 @@ FIPS: 42001.0
 FEMA_Region: 3.0
 Population: 103009.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2784.0
-Fourteen_day_test_rate_per_100000: 2703.0
-Percent_Positivity_in_prior_14_days: 0.084
-Level: Yellow
+Tests_in_prior_14_days: 3163.0
+Fourteen_day_test_rate_per_100000: 3071.0
+Percent_Positivity_in_prior_14_days: 0.112
+Level: Red
 url: /states/PA/adams-county
 ---
 

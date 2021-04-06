@@ -1,6 +1,6 @@
 ---
 title: "Bradford County, PA"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:42015.0,FEMA:3.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 42015.0
 FEMA_Region: 3.0
 Population: 60323.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2011.0
-Fourteen_day_test_rate_per_100000: 3334.0
-Percent_Positivity_in_prior_14_days: 0.067
+Tests_in_prior_14_days: 2033.0
+Fourteen_day_test_rate_per_100000: 3370.0
+Percent_Positivity_in_prior_14_days: 0.097
 Level: Yellow
 url: /states/PA/bradford-county
 ---

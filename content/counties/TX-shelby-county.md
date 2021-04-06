@@ -1,9 +1,9 @@
 ---
 title: "Shelby County, TX"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
-tags: [FIPS:48419.0,FEMA:6.0,Non-core,Green]
+tags: [FIPS:48419.0,FEMA:6.0,Non-core,Yellow]
 categories: [TX]
 County: Shelby County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48419.0
 FEMA_Region: 6.0
 Population: 25274.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 250.0
-Fourteen_day_test_rate_per_100000: 989.0
-Percent_Positivity_in_prior_14_days: 0.048
-Level: Green
+Tests_in_prior_14_days: 288.0
+Fourteen_day_test_rate_per_100000: 1140.0
+Percent_Positivity_in_prior_14_days: 0.059
+Level: Yellow
 url: /states/TX/shelby-county
 ---
 

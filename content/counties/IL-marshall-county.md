@@ -1,9 +1,9 @@
 ---
 title: "Marshall County, IL"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
-tags: [FIPS:17123.0,FEMA:5.0,Medium metro,Green]
+tags: [FIPS:17123.0,FEMA:5.0,Medium metro,Yellow]
 categories: [IL]
 County: Marshall County
 State: IL
@@ -13,8 +13,8 @@ Population: 11438.0
 NCHS_Urban_Rural_Classification: Medium metro
 Tests_in_prior_14_days: 553.0
 Fourteen_day_test_rate_per_100000: 4835.0
-Percent_Positivity_in_prior_14_days: 0.036
-Level: Green
+Percent_Positivity_in_prior_14_days: 0.063
+Level: Yellow
 url: /states/IL/marshall-county
 ---
 

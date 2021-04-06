@@ -1,9 +1,9 @@
 ---
 title: "Calhoun County, MI"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
-tags: [FIPS:26025.0,FEMA:5.0,Small metro,Yellow]
+tags: [FIPS:26025.0,FEMA:5.0,Small metro,Red]
 categories: [MI]
 County: Calhoun County
 State: MI
@@ -11,10 +11,10 @@ FIPS: 26025.0
 FEMA_Region: 5.0
 Population: 134159.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 7455.0
-Fourteen_day_test_rate_per_100000: 5557.0
-Percent_Positivity_in_prior_14_days: 0.087
-Level: Yellow
+Tests_in_prior_14_days: 7186.0
+Fourteen_day_test_rate_per_100000: 5356.0
+Percent_Positivity_in_prior_14_days: 0.114
+Level: Red
 url: /states/MI/calhoun-county
 ---
 

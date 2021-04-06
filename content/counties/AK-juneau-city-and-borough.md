@@ -1,6 +1,6 @@
 ---
 title: "Juneau City and Borough, AK"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:2110.0,FEMA:10.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 2110.0
 FEMA_Region: 10.0
 Population: 31974.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3586.0
-Fourteen_day_test_rate_per_100000: 11215.0
-Percent_Positivity_in_prior_14_days: 0.006
+Tests_in_prior_14_days: 3982.0
+Fourteen_day_test_rate_per_100000: 12454.0
+Percent_Positivity_in_prior_14_days: 0.005
 Level: Green
 url: /states/AK/juneau-city-and-borough
 ---

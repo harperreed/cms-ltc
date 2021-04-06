@@ -1,9 +1,9 @@
 ---
 title: "Columbus County, NC"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
-tags: [FIPS:37047.0,FEMA:4.0,Non-core,Yellow]
+tags: [FIPS:37047.0,FEMA:4.0,Non-core,Green]
 categories: [NC]
 County: Columbus County
 State: NC
@@ -11,10 +11,10 @@ FIPS: 37047.0
 FEMA_Region: 4.0
 Population: 55508.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1172.0
-Fourteen_day_test_rate_per_100000: 2111.0
-Percent_Positivity_in_prior_14_days: 0.067
-Level: Yellow
+Tests_in_prior_14_days: 1062.0
+Fourteen_day_test_rate_per_100000: 1913.0
+Percent_Positivity_in_prior_14_days: 0.04
+Level: Green
 url: /states/NC/columbus-county
 ---
 

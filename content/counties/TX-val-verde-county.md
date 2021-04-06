@@ -1,6 +1,6 @@
 ---
 title: "Val Verde County, TX"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:48465.0,FEMA:6.0,Micropolitan,Green]
@@ -11,8 +11,8 @@ FIPS: 48465.0
 FEMA_Region: 6.0
 Population: 49025.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1163.0
-Fourteen_day_test_rate_per_100000: 2372.0
+Tests_in_prior_14_days: 1011.0
+Fourteen_day_test_rate_per_100000: 2062.0
 Percent_Positivity_in_prior_14_days: 0.026
 Level: Green
 url: /states/TX/val-verde-county

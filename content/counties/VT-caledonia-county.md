@@ -1,9 +1,9 @@
 ---
 title: "Caledonia County, VT"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
-tags: [FIPS:50005.0,FEMA:1.0,Non-core,Green]
+tags: [FIPS:50005.0,FEMA:1.0,Non-core,Yellow]
 categories: [VT]
 County: Caledonia County
 State: VT
@@ -11,10 +11,10 @@ FIPS: 50005.0
 FEMA_Region: 1.0
 Population: 29993.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 4050.0
-Fourteen_day_test_rate_per_100000: 13503.0
-Percent_Positivity_in_prior_14_days: 0.029
-Level: Green
+Tests_in_prior_14_days: 5240.0
+Fourteen_day_test_rate_per_100000: 17471.0
+Percent_Positivity_in_prior_14_days: 0.054
+Level: Yellow
 url: /states/VT/caledonia-county
 ---
 

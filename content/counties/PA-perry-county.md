@@ -1,6 +1,6 @@
 ---
 title: "Perry County, PA"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:42099.0,FEMA:3.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 42099.0
 FEMA_Region: 3.0
 Population: 46272.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 845.0
-Fourteen_day_test_rate_per_100000: 1826.0
-Percent_Positivity_in_prior_14_days: 0.101
+Tests_in_prior_14_days: 961.0
+Fourteen_day_test_rate_per_100000: 2077.0
+Percent_Positivity_in_prior_14_days: 0.119
 Level: Red
 url: /states/PA/perry-county
 ---

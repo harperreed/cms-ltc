@@ -1,6 +1,6 @@
 ---
 title: "Chesapeake city, VA"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:51550.0,FEMA:3.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51550.0
 FEMA_Region: 3.0
 Population: 244835.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 5647.0
-Fourteen_day_test_rate_per_100000: 2306.0
-Percent_Positivity_in_prior_14_days: 0.094
+Tests_in_prior_14_days: 5112.0
+Fourteen_day_test_rate_per_100000: 2088.0
+Percent_Positivity_in_prior_14_days: 0.093
 Level: Yellow
 url: /states/VA/chesapeake-city
 ---

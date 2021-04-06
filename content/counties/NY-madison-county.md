@@ -1,6 +1,6 @@
 ---
 title: "Madison County, NY"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:36053.0,FEMA:2.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 36053.0
 FEMA_Region: 2.0
 Population: 70941.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 6077.0
-Fourteen_day_test_rate_per_100000: 8566.0
-Percent_Positivity_in_prior_14_days: 0.011
+Tests_in_prior_14_days: 6559.0
+Fourteen_day_test_rate_per_100000: 9246.0
+Percent_Positivity_in_prior_14_days: 0.015
 Level: Green
 url: /states/NY/madison-county
 ---

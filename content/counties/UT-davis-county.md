@@ -1,6 +1,6 @@
 ---
 title: "Davis County, UT"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:49011.0,FEMA:8.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 49011.0
 FEMA_Region: 8.0
 Population: 355481.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 12537.0
-Fourteen_day_test_rate_per_100000: 3527.0
-Percent_Positivity_in_prior_14_days: 0.048
+Tests_in_prior_14_days: 12960.0
+Fourteen_day_test_rate_per_100000: 3646.0
+Percent_Positivity_in_prior_14_days: 0.038
 Level: Green
 url: /states/UT/davis-county
 ---

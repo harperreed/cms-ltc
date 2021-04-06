@@ -1,9 +1,9 @@
 ---
 title: "Switzerland County, IN"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
-tags: [FIPS:18155.0,FEMA:5.0,Non-core,Green]
+tags: [FIPS:18155.0,FEMA:5.0,Non-core,Yellow]
 categories: [IN]
 County: Switzerland County
 State: IN
@@ -11,10 +11,10 @@ FIPS: 18155.0
 FEMA_Region: 5.0
 Population: 10751.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 59.0
-Fourteen_day_test_rate_per_100000: 549.0
-Percent_Positivity_in_prior_14_days: 0.034
-Level: Green
+Tests_in_prior_14_days: 61.0
+Fourteen_day_test_rate_per_100000: 567.0
+Percent_Positivity_in_prior_14_days: 0.082
+Level: Yellow
 url: /states/IN/switzerland-county
 ---
 

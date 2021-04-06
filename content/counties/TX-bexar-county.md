@@ -1,6 +1,6 @@
 ---
 title: "Bexar County, TX"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:48029.0,FEMA:6.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 48029.0
 FEMA_Region: 6.0
 Population: 2003554.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 46033.0
-Fourteen_day_test_rate_per_100000: 2298.0
-Percent_Positivity_in_prior_14_days: 0.048
+Tests_in_prior_14_days: 78973.0
+Fourteen_day_test_rate_per_100000: 3942.0
+Percent_Positivity_in_prior_14_days: 0.029
 Level: Green
 url: /states/TX/bexar-county
 ---

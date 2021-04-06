@@ -1,6 +1,6 @@
 ---
 title: "Shelby County, OH"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:39149.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 39149.0
 FEMA_Region: 5.0
 Population: 48590.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 70.0
-Fourteen_day_test_rate_per_100000: 144.0
-Percent_Positivity_in_prior_14_days: 0.114
+Tests_in_prior_14_days: 66.0
+Fourteen_day_test_rate_per_100000: 136.0
+Percent_Positivity_in_prior_14_days: 0.136
 Level: Yellow
 url: /states/OH/shelby-county
 ---

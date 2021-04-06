@@ -1,6 +1,6 @@
 ---
 title: "Mason County, WV"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:54053.0,FEMA:3.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 54053.0
 FEMA_Region: 3.0
 Population: 26516.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1154.0
-Fourteen_day_test_rate_per_100000: 4352.0
-Percent_Positivity_in_prior_14_days: 0.03
+Tests_in_prior_14_days: 1137.0
+Fourteen_day_test_rate_per_100000: 4288.0
+Percent_Positivity_in_prior_14_days: 0.031
 Level: Green
 url: /states/WV/mason-county
 ---

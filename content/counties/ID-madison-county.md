@@ -1,6 +1,6 @@
 ---
 title: "Madison County, ID"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:16065.0,FEMA:10.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 16065.0
 FEMA_Region: 10.0
 Population: 39907.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 887.0
-Fourteen_day_test_rate_per_100000: 2223.0
-Percent_Positivity_in_prior_14_days: 0.189
+Tests_in_prior_14_days: 784.0
+Fourteen_day_test_rate_per_100000: 1965.0
+Percent_Positivity_in_prior_14_days: 0.156
 Level: Red
 url: /states/ID/madison-county
 ---

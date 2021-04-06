@@ -1,6 +1,6 @@
 ---
 title: "Sioux County, NE"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:31165.0,FEMA:7.0,Micropolitan,Green]

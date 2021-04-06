@@ -1,6 +1,6 @@
 ---
 title: "Fulton County, AR"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:5049.0,FEMA:6.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 5049.0
 FEMA_Region: 6.0
 Population: 12477.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 164.0
-Fourteen_day_test_rate_per_100000: 1314.0
-Percent_Positivity_in_prior_14_days: 0.03
+Tests_in_prior_14_days: 157.0
+Fourteen_day_test_rate_per_100000: 1258.0
+Percent_Positivity_in_prior_14_days: 0.019
 Level: Green
 url: /states/AR/fulton-county
 ---

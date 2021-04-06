@@ -1,9 +1,9 @@
 ---
 title: "Tazewell County, IL"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
-tags: [FIPS:17179.0,FEMA:5.0,Medium metro,Green]
+tags: [FIPS:17179.0,FEMA:5.0,Medium metro,Yellow]
 categories: [IL]
 County: Tazewell County
 State: IL
@@ -11,10 +11,10 @@ FIPS: 17179.0
 FEMA_Region: 5.0
 Population: 131803.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 6055.0
-Fourteen_day_test_rate_per_100000: 4594.0
-Percent_Positivity_in_prior_14_days: 0.046
-Level: Green
+Tests_in_prior_14_days: 6766.0
+Fourteen_day_test_rate_per_100000: 5133.0
+Percent_Positivity_in_prior_14_days: 0.066
+Level: Yellow
 url: /states/IL/tazewell-county
 ---
 

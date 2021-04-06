@@ -1,6 +1,6 @@
 ---
 title: "Crawford County, KS"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:20037.0,FEMA:7.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 20037.0
 FEMA_Region: 7.0
 Population: 38818.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 869.0
-Fourteen_day_test_rate_per_100000: 2239.0
-Percent_Positivity_in_prior_14_days: 0.038
+Tests_in_prior_14_days: 813.0
+Fourteen_day_test_rate_per_100000: 2094.0
+Percent_Positivity_in_prior_14_days: 0.041
 Level: Green
 url: /states/KS/crawford-county
 ---

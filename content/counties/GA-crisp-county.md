@@ -1,9 +1,9 @@
 ---
 title: "Crisp County, GA"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
-tags: [FIPS:13081.0,FEMA:4.0,Micropolitan,Yellow]
+tags: [FIPS:13081.0,FEMA:4.0,Micropolitan,Green]
 categories: [GA]
 County: Crisp County
 State: GA
@@ -11,10 +11,10 @@ FIPS: 13081.0
 FEMA_Region: 4.0
 Population: 22372.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 89.0
-Fourteen_day_test_rate_per_100000: 398.0
-Percent_Positivity_in_prior_14_days: 0.067
-Level: Yellow
+Tests_in_prior_14_days: 102.0
+Fourteen_day_test_rate_per_100000: 456.0
+Percent_Positivity_in_prior_14_days: 0.02
+Level: Green
 url: /states/GA/crisp-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Shasta County, CA"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:6089.0,FEMA:9.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 6089.0
 FEMA_Region: 9.0
 Population: 180080.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3101.0
-Fourteen_day_test_rate_per_100000: 1722.0
-Percent_Positivity_in_prior_14_days: 0.015
+Tests_in_prior_14_days: 5468.0
+Fourteen_day_test_rate_per_100000: 3036.0
+Percent_Positivity_in_prior_14_days: 0.022
 Level: Green
 url: /states/CA/shasta-county
 ---

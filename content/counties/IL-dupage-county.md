@@ -1,9 +1,9 @@
 ---
 title: "DuPage County, IL"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
-tags: [FIPS:17043.0,FEMA:5.0,Large fringe metro,Green]
+tags: [FIPS:17043.0,FEMA:5.0,Large fringe metro,Yellow]
 categories: [IL]
 County: DuPage County
 State: IL
@@ -11,10 +11,10 @@ FIPS: 17043.0
 FEMA_Region: 5.0
 Population: 922921.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 40584.0
-Fourteen_day_test_rate_per_100000: 4397.0
-Percent_Positivity_in_prior_14_days: 0.041
-Level: Green
+Tests_in_prior_14_days: 42232.0
+Fourteen_day_test_rate_per_100000: 4576.0
+Percent_Positivity_in_prior_14_days: 0.05
+Level: Yellow
 url: /states/IL/dupage-county
 ---
 

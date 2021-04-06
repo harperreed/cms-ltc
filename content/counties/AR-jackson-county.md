@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, AR"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:5067.0,FEMA:6.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 5067.0
 FEMA_Region: 6.0
 Population: 16719.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 714.0
-Fourteen_day_test_rate_per_100000: 4271.0
-Percent_Positivity_in_prior_14_days: 0.011
+Tests_in_prior_14_days: 883.0
+Fourteen_day_test_rate_per_100000: 5281.0
+Percent_Positivity_in_prior_14_days: 0.01
 Level: Green
 url: /states/AR/jackson-county
 ---

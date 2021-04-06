@@ -1,9 +1,9 @@
 ---
 title: "Morgan County, UT"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
-tags: [FIPS:49029.0,FEMA:8.0,Medium metro,Green]
+tags: [FIPS:49029.0,FEMA:8.0,Medium metro,Yellow]
 categories: [UT]
 County: Morgan County
 State: UT
@@ -11,10 +11,10 @@ FIPS: 49029.0
 FEMA_Region: 8.0
 Population: 12124.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 330.0
-Fourteen_day_test_rate_per_100000: 2722.0
-Percent_Positivity_in_prior_14_days: 0.039
-Level: Green
+Tests_in_prior_14_days: 446.0
+Fourteen_day_test_rate_per_100000: 3679.0
+Percent_Positivity_in_prior_14_days: 0.074
+Level: Yellow
 url: /states/UT/morgan-county
 ---
 

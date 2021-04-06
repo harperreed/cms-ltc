@@ -1,6 +1,6 @@
 ---
 title: "Beaufort County, NC"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:37013.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 37013.0
 FEMA_Region: 4.0
 Population: 46994.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1590.0
-Fourteen_day_test_rate_per_100000: 3383.0
-Percent_Positivity_in_prior_14_days: 0.043
+Tests_in_prior_14_days: 1709.0
+Fourteen_day_test_rate_per_100000: 3637.0
+Percent_Positivity_in_prior_14_days: 0.027
 Level: Green
 url: /states/NC/beaufort-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "San Juan County, NM"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:35045.0,FEMA:6.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 35045.0
 FEMA_Region: 6.0
 Population: 123958.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3660.0
-Fourteen_day_test_rate_per_100000: 2953.0
-Percent_Positivity_in_prior_14_days: 0.01
+Tests_in_prior_14_days: 2873.0
+Fourteen_day_test_rate_per_100000: 2318.0
+Percent_Positivity_in_prior_14_days: 0.015
 Level: Green
 url: /states/NM/san-juan-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "LaGrange County, IN"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
-tags: [FIPS:18087.0,FEMA:5.0,Non-core,Yellow]
+tags: [FIPS:18087.0,FEMA:5.0,Non-core,Green]
 categories: [IN]
 County: LaGrange County
 State: IN
@@ -11,10 +11,10 @@ FIPS: 18087.0
 FEMA_Region: 5.0
 Population: 39614.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 252.0
-Fourteen_day_test_rate_per_100000: 636.0
-Percent_Positivity_in_prior_14_days: 0.056
-Level: Yellow
+Tests_in_prior_14_days: 241.0
+Fourteen_day_test_rate_per_100000: 608.0
+Percent_Positivity_in_prior_14_days: 0.046
+Level: Green
 url: /states/IN/lagrange-county
 ---
 

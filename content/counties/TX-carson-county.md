@@ -1,6 +1,6 @@
 ---
 title: "Carson County, TX"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:48065.0,FEMA:6.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48065.0
 FEMA_Region: 6.0
 Population: 5926.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 39.0
-Fourteen_day_test_rate_per_100000: 658.0
-Percent_Positivity_in_prior_14_days: 0.051
+Tests_in_prior_14_days: 46.0
+Fourteen_day_test_rate_per_100000: 776.0
+Percent_Positivity_in_prior_14_days: 0.065
 Level: Yellow
 url: /states/TX/carson-county
 ---

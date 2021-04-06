@@ -1,6 +1,6 @@
 ---
 title: "Houston County, TX"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:48225.0,FEMA:6.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 48225.0
 FEMA_Region: 6.0
 Population: 22968.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 330.0
-Fourteen_day_test_rate_per_100000: 1437.0
-Percent_Positivity_in_prior_14_days: 0.027
+Tests_in_prior_14_days: 247.0
+Fourteen_day_test_rate_per_100000: 1075.0
+Percent_Positivity_in_prior_14_days: 0.016
 Level: Green
 url: /states/TX/houston-county
 ---

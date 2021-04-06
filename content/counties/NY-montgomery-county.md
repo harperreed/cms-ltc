@@ -1,9 +1,9 @@
 ---
 title: "Montgomery County, NY"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
-tags: [FIPS:36057.0,FEMA:2.0,Micropolitan,Green]
+tags: [FIPS:36057.0,FEMA:2.0,Micropolitan,Yellow]
 categories: [NY]
 County: Montgomery County
 State: NY
@@ -11,10 +11,10 @@ FIPS: 36057.0
 FEMA_Region: 2.0
 Population: 49221.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2404.0
-Fourteen_day_test_rate_per_100000: 4884.0
-Percent_Positivity_in_prior_14_days: 0.035
-Level: Green
+Tests_in_prior_14_days: 2620.0
+Fourteen_day_test_rate_per_100000: 5323.0
+Percent_Positivity_in_prior_14_days: 0.052
+Level: Yellow
 url: /states/NY/montgomery-county
 ---
 

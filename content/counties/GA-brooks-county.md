@@ -1,9 +1,9 @@
 ---
 title: "Brooks County, GA"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
-tags: [FIPS:13027.0,FEMA:4.0,Small metro,Yellow]
+tags: [FIPS:13027.0,FEMA:4.0,Small metro,Green]
 categories: [GA]
 County: Brooks County
 State: GA
@@ -11,10 +11,10 @@ FIPS: 13027.0
 FEMA_Region: 4.0
 Population: 15457.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 93.0
-Fourteen_day_test_rate_per_100000: 602.0
-Percent_Positivity_in_prior_14_days: 0.075
-Level: Yellow
+Tests_in_prior_14_days: 94.0
+Fourteen_day_test_rate_per_100000: 608.0
+Percent_Positivity_in_prior_14_days: 0.043
+Level: Green
 url: /states/GA/brooks-county
 ---
 

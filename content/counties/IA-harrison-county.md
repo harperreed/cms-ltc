@@ -1,6 +1,6 @@
 ---
 title: "Harrison County, IA"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:19085.0,FEMA:7.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 19085.0
 FEMA_Region: 7.0
 Population: 14049.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 187.0
-Fourteen_day_test_rate_per_100000: 1331.0
-Percent_Positivity_in_prior_14_days: 0.134
+Tests_in_prior_14_days: 178.0
+Fourteen_day_test_rate_per_100000: 1267.0
+Percent_Positivity_in_prior_14_days: 0.101
 Level: Yellow
 url: /states/IA/harrison-county
 ---

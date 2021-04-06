@@ -1,9 +1,9 @@
 ---
 title: "Lackawanna County, PA"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
-tags: [FIPS:42069.0,FEMA:3.0,Medium metro,Yellow]
+tags: [FIPS:42069.0,FEMA:3.0,Medium metro,Red]
 categories: [PA]
 County: Lackawanna County
 State: PA
@@ -11,10 +11,10 @@ FIPS: 42069.0
 FEMA_Region: 3.0
 Population: 209674.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 8800.0
-Fourteen_day_test_rate_per_100000: 4197.0
-Percent_Positivity_in_prior_14_days: 0.078
-Level: Yellow
+Tests_in_prior_14_days: 8463.0
+Fourteen_day_test_rate_per_100000: 4036.0
+Percent_Positivity_in_prior_14_days: 0.103
+Level: Red
 url: /states/PA/lackawanna-county
 ---
 

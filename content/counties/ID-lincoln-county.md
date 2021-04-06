@@ -1,6 +1,6 @@
 ---
 title: "Lincoln County, ID"
-date: 2021-04-05
+date: 2021-04-06
 draft: false
 type: county
 tags: [FIPS:16063.0,FEMA:10.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 16063.0
 FEMA_Region: 10.0
 Population: 5366.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 150.0
-Fourteen_day_test_rate_per_100000: 2795.0
-Percent_Positivity_in_prior_14_days: 0.007
+Tests_in_prior_14_days: 138.0
+Fourteen_day_test_rate_per_100000: 2572.0
+Percent_Positivity_in_prior_14_days: 0.014
 Level: Green
 url: /states/ID/lincoln-county
 ---
