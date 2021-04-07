@@ -1,6 +1,6 @@
 ---
 title: "Edmonson County, KY"
-date: 2021-04-06
+date: 2021-04-07
 draft: false
 type: county
 tags: [FIPS:21061.0,FEMA:4.0,Small metro,Yellow]

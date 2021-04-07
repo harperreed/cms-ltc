@@ -1,6 +1,6 @@
 ---
 title: "Union County, NC"
-date: 2021-04-06
+date: 2021-04-07
 draft: false
 type: county
 tags: [FIPS:37179.0,FEMA:4.0,Large fringe metro,Yellow]

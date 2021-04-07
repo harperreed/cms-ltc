@@ -1,6 +1,6 @@
 ---
 title: "Saratoga County, NY"
-date: 2021-04-06
+date: 2021-04-07
 draft: false
 type: county
 tags: [FIPS:36091.0,FEMA:2.0,Medium metro,Green]

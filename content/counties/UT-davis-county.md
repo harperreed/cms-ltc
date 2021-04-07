@@ -1,6 +1,6 @@
 ---
 title: "Davis County, UT"
-date: 2021-04-06
+date: 2021-04-07
 draft: false
 type: county
 tags: [FIPS:49011.0,FEMA:8.0,Medium metro,Green]

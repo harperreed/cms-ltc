@@ -1,6 +1,6 @@
 ---
 title: "Covington city, VA"
-date: 2021-04-06
+date: 2021-04-07
 draft: false
 type: county
 tags: [FIPS:51580.0,FEMA:3.0,Non-core,Yellow]

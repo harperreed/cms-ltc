@@ -1,6 +1,6 @@
 ---
 title: "Switzerland County, IN"
-date: 2021-04-06
+date: 2021-04-07
 draft: false
 type: county
 tags: [FIPS:18155.0,FEMA:5.0,Non-core,Yellow]
