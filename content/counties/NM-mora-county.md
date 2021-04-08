@@ -1,6 +1,6 @@
 ---
 title: "Mora County, NM"
-date: 2021-04-07
+date: 2021-04-08
 draft: false
 type: county
 tags: [FIPS:35033.0,FEMA:6.0,Non-core,Green]

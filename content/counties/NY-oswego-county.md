@@ -1,6 +1,6 @@
 ---
 title: "Oswego County, NY"
-date: 2021-04-07
+date: 2021-04-08
 draft: false
 type: county
 tags: [FIPS:36075.0,FEMA:2.0,Medium metro,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Labette County, KS"
-date: 2021-04-07
+date: 2021-04-08
 draft: false
 type: county
 tags: [FIPS:20099.0,FEMA:7.0,Micropolitan,Yellow]

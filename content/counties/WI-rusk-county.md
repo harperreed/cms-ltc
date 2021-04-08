@@ -1,6 +1,6 @@
 ---
 title: "Rusk County, WI"
-date: 2021-04-07
+date: 2021-04-08
 draft: false
 type: county
 tags: [FIPS:55107.0,FEMA:5.0,Non-core,Green]

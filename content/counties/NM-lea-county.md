@@ -1,6 +1,6 @@
 ---
 title: "Lea County, NM"
-date: 2021-04-07
+date: 2021-04-08
 draft: false
 type: county
 tags: [FIPS:35025.0,FEMA:6.0,Micropolitan,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Lake County, SD"
-date: 2021-04-07
+date: 2021-04-08
 draft: false
 type: county
 tags: [FIPS:46079.0,FEMA:8.0,Non-core,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Gates County, NC"
-date: 2021-04-07
+date: 2021-04-08
 draft: false
 type: county
 tags: [FIPS:37073.0,FEMA:4.0,Large fringe metro,Yellow]

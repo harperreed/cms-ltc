@@ -1,6 +1,6 @@
 ---
 title: "Chittenden County, VT"
-date: 2021-04-07
+date: 2021-04-08
 draft: false
 type: county
 tags: [FIPS:50007.0,FEMA:1.0,Small metro,Green]

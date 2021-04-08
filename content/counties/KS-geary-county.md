@@ -1,6 +1,6 @@
 ---
 title: "Geary County, KS"
-date: 2021-04-07
+date: 2021-04-08
 draft: false
 type: county
 tags: [FIPS:20061.0,FEMA:7.0,Micropolitan,Green]
