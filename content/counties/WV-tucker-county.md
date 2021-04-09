@@ -1,6 +1,6 @@
 ---
 title: "Tucker County, WV"
-date: 2021-04-08
+date: 2021-04-09
 draft: false
 type: county
 tags: [FIPS:54093.0,FEMA:3.0,Non-core,Green]

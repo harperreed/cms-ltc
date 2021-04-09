@@ -1,6 +1,6 @@
 ---
 title: "Gwinnett County, GA"
-date: 2021-04-08
+date: 2021-04-09
 draft: false
 type: county
 tags: [FIPS:13135.0,FEMA:4.0,Large fringe metro,Yellow]

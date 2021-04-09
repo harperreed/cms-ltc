@@ -1,6 +1,6 @@
 ---
 title: "Gila County, AZ"
-date: 2021-04-08
+date: 2021-04-09
 draft: false
 type: county
 tags: [FIPS:4007.0,FEMA:9.0,Micropolitan,Yellow]

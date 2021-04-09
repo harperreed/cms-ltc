@@ -1,6 +1,6 @@
 ---
 title: "Goliad County, TX"
-date: 2021-04-08
+date: 2021-04-09
 draft: false
 type: county
 tags: [FIPS:48175.0,FEMA:6.0,Small metro,Green]
