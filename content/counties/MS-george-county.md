@@ -1,6 +1,6 @@
 ---
 title: "George County, MS"
-date: 2021-04-09
+date: 2021-04-10
 draft: false
 type: county
 tags: [FIPS:28039.0,FEMA:4.0,Non-core,Green]

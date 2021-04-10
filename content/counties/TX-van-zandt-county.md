@@ -1,6 +1,6 @@
 ---
 title: "Van Zandt County, TX"
-date: 2021-04-09
+date: 2021-04-10
 draft: false
 type: county
 tags: [FIPS:48467.0,FEMA:6.0,Non-core,Yellow]

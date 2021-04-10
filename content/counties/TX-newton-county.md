@@ -1,6 +1,6 @@
 ---
 title: "Newton County, TX"
-date: 2021-04-09
+date: 2021-04-10
 draft: false
 type: county
 tags: [FIPS:48351.0,FEMA:6.0,Medium metro,Green]

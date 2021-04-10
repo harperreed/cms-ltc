@@ -1,6 +1,6 @@
 ---
 title: "Colfax County, NM"
-date: 2021-04-09
+date: 2021-04-10
 draft: false
 type: county
 tags: [FIPS:35007.0,FEMA:6.0,Non-core,Green]
