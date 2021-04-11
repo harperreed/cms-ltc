@@ -1,6 +1,6 @@
 ---
 title: "Mineral County, WV"
-date: 2021-04-10
+date: 2021-04-11
 draft: false
 type: county
 tags: [FIPS:54057.0,FEMA:3.0,Small metro,Yellow]

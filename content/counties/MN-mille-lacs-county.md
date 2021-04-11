@@ -1,6 +1,6 @@
 ---
 title: "Mille Lacs County, MN"
-date: 2021-04-10
+date: 2021-04-11
 draft: false
 type: county
 tags: [FIPS:27095.0,FEMA:5.0,Large fringe metro,Red]
