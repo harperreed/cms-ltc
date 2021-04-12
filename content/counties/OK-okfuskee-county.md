@@ -1,6 +1,6 @@
 ---
 title: "Okfuskee County, OK"
-date: 2021-04-11
+date: 2021-04-12
 draft: false
 type: county
 tags: [FIPS:40107.0,FEMA:6.0,Non-core,Green]

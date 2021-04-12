@@ -1,6 +1,6 @@
 ---
 title: "Randolph County, MO"
-date: 2021-04-11
+date: 2021-04-12
 draft: false
 type: county
 tags: [FIPS:29175.0,FEMA:7.0,Micropolitan,Green]

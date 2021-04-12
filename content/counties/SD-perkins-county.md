@@ -1,6 +1,6 @@
 ---
 title: "Perkins County, SD"
-date: 2021-04-11
+date: 2021-04-12
 draft: false
 type: county
 tags: [FIPS:46105.0,FEMA:8.0,Non-core,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Fredericksburg city, VA"
-date: 2021-04-11
+date: 2021-04-12
 draft: false
 type: county
 tags: [FIPS:51630.0,FEMA:3.0,Large fringe metro,Yellow]
