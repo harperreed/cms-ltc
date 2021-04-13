@@ -1,9 +1,9 @@
 ---
 title: "Labette County, KS"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
-tags: [FIPS:20099.0,FEMA:7.0,Micropolitan,Yellow]
+tags: [FIPS:20099.0,FEMA:7.0,Micropolitan,Green]
 categories: [KS]
 County: Labette County
 State: KS
@@ -11,10 +11,10 @@ FIPS: 20099.0
 FEMA_Region: 7.0
 Population: 19618.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 683.0
-Fourteen_day_test_rate_per_100000: 3481.0
-Percent_Positivity_in_prior_14_days: 0.053
-Level: Yellow
+Tests_in_prior_14_days: 547.0
+Fourteen_day_test_rate_per_100000: 2788.0
+Percent_Positivity_in_prior_14_days: 0.04
+Level: Green
 url: /states/KS/labette-county
 ---
 

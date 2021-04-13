@@ -1,6 +1,6 @@
 ---
 title: "Wayne County, WV"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:54099.0,FEMA:3.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 54099.0
 FEMA_Region: 3.0
 Population: 39402.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1709.0
-Fourteen_day_test_rate_per_100000: 4337.0
-Percent_Positivity_in_prior_14_days: 0.043
+Tests_in_prior_14_days: 1655.0
+Fourteen_day_test_rate_per_100000: 4200.0
+Percent_Positivity_in_prior_14_days: 0.039
 Level: Green
 url: /states/WV/wayne-county
 ---

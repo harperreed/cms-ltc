@@ -1,6 +1,6 @@
 ---
 title: "Fresno County, CA"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:6019.0,FEMA:9.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 6019.0
 FEMA_Region: 9.0
 Population: 999101.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 33732.0
-Fourteen_day_test_rate_per_100000: 3376.0
-Percent_Positivity_in_prior_14_days: 0.036
+Tests_in_prior_14_days: 35282.0
+Fourteen_day_test_rate_per_100000: 3531.0
+Percent_Positivity_in_prior_14_days: 0.035
 Level: Green
 url: /states/CA/fresno-county
 ---

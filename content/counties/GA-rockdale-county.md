@@ -1,6 +1,6 @@
 ---
 title: "Rockdale County, GA"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:13247.0,FEMA:4.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13247.0
 FEMA_Region: 4.0
 Population: 90896.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1840.0
-Fourteen_day_test_rate_per_100000: 2024.0
-Percent_Positivity_in_prior_14_days: 0.056
+Tests_in_prior_14_days: 1693.0
+Fourteen_day_test_rate_per_100000: 1863.0
+Percent_Positivity_in_prior_14_days: 0.051
 Level: Yellow
 url: /states/GA/rockdale-county
 ---

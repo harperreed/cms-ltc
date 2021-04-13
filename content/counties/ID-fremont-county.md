@@ -1,6 +1,6 @@
 ---
 title: "Fremont County, ID"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:16043.0,FEMA:10.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 16043.0
 FEMA_Region: 10.0
 Population: 13099.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 81.0
-Fourteen_day_test_rate_per_100000: 618.0
-Percent_Positivity_in_prior_14_days: 0.062
+Tests_in_prior_14_days: 73.0
+Fourteen_day_test_rate_per_100000: 557.0
+Percent_Positivity_in_prior_14_days: 0.096
 Level: Yellow
 url: /states/ID/fremont-county
 ---

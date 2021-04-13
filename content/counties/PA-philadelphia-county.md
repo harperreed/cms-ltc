@@ -1,6 +1,6 @@
 ---
 title: "Philadelphia County, PA"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:42101.0,FEMA:3.0,Large central metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 42101.0
 FEMA_Region: 3.0
 Population: 1584064.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 96095.0
-Fourteen_day_test_rate_per_100000: 6066.0
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 102884.0
+Fourteen_day_test_rate_per_100000: 6495.0
+Percent_Positivity_in_prior_14_days: 0.077
 Level: Yellow
 url: /states/PA/philadelphia-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Arapahoe County, CO"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:8005.0,FEMA:8.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 8005.0
 FEMA_Region: 8.0
 Population: 656590.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 32804.0
-Fourteen_day_test_rate_per_100000: 4996.0
-Percent_Positivity_in_prior_14_days: 0.045
+Tests_in_prior_14_days: 34685.0
+Fourteen_day_test_rate_per_100000: 5283.0
+Percent_Positivity_in_prior_14_days: 0.049
 Level: Green
 url: /states/CO/arapahoe-county
 ---

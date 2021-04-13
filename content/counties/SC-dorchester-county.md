@@ -1,9 +1,9 @@
 ---
 title: "Dorchester County, SC"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
-tags: [FIPS:45035.0,FEMA:4.0,Medium metro,Red]
+tags: [FIPS:45035.0,FEMA:4.0,Medium metro,Yellow]
 categories: [SC]
 County: Dorchester County
 State: SC
@@ -11,10 +11,10 @@ FIPS: 45035.0
 FEMA_Region: 4.0
 Population: 162809.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2663.0
-Fourteen_day_test_rate_per_100000: 1636.0
-Percent_Positivity_in_prior_14_days: 0.11
-Level: Red
+Tests_in_prior_14_days: 5974.0
+Fourteen_day_test_rate_per_100000: 3669.0
+Percent_Positivity_in_prior_14_days: 0.066
+Level: Yellow
 url: /states/SC/dorchester-county
 ---
 

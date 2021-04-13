@@ -1,9 +1,9 @@
 ---
 title: "Henry County, TN"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
-tags: [FIPS:47079.0,FEMA:4.0,Micropolitan,Yellow]
+tags: [FIPS:47079.0,FEMA:4.0,Micropolitan,Green]
 categories: [TN]
 County: Henry County
 State: TN
@@ -11,10 +11,10 @@ FIPS: 47079.0
 FEMA_Region: 4.0
 Population: 32345.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 200.0
-Fourteen_day_test_rate_per_100000: 618.0
-Percent_Positivity_in_prior_14_days: 0.05
-Level: Yellow
+Tests_in_prior_14_days: 148.0
+Fourteen_day_test_rate_per_100000: 458.0
+Percent_Positivity_in_prior_14_days: 0.047
+Level: Green
 url: /states/TN/henry-county
 ---
 

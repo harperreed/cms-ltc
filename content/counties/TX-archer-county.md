@@ -1,9 +1,9 @@
 ---
 title: "Archer County, TX"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
-tags: [FIPS:48009.0,FEMA:6.0,Small metro,Yellow]
+tags: [FIPS:48009.0,FEMA:6.0,Small metro,Green]
 categories: [TX]
 County: Archer County
 State: TX
@@ -13,8 +13,8 @@ Population: 8553.0
 NCHS_Urban_Rural_Classification: Small metro
 Tests_in_prior_14_days: 41.0
 Fourteen_day_test_rate_per_100000: 479.0
-Percent_Positivity_in_prior_14_days: 0.073
-Level: Yellow
+Percent_Positivity_in_prior_14_days: 0.0
+Level: Green
 url: /states/TX/archer-county
 ---
 

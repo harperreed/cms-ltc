@@ -1,9 +1,9 @@
 ---
 title: "Orocovis Municipio, PR"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
-tags: [FIPS:72107.0,FEMA:2.0,,Red]
+tags: [FIPS:72107.0,FEMA:2.0,,Yellow]
 categories: [PR]
 County: Orocovis Municipio
 State: PR
@@ -11,10 +11,10 @@ FIPS: 72107.0
 FEMA_Region: 2.0
 Population: 20220.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 913.0
-Fourteen_day_test_rate_per_100000: 4515.0
-Percent_Positivity_in_prior_14_days: 0.185
-Level: Red
+Tests_in_prior_14_days: 352.0
+Fourteen_day_test_rate_per_100000: 1741.0
+Percent_Positivity_in_prior_14_days: 0.273
+Level: Yellow
 url: /states/PR/orocovis-municipio
 ---
 

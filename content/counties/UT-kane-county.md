@@ -1,6 +1,6 @@
 ---
 title: "Kane County, UT"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:49025.0,FEMA:8.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 49025.0
 FEMA_Region: 8.0
 Population: 7886.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 157.0
-Fourteen_day_test_rate_per_100000: 1991.0
-Percent_Positivity_in_prior_14_days: 0.083
+Tests_in_prior_14_days: 163.0
+Fourteen_day_test_rate_per_100000: 2067.0
+Percent_Positivity_in_prior_14_days: 0.074
 Level: Yellow
 url: /states/UT/kane-county
 ---

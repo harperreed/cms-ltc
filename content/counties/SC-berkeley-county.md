@@ -1,9 +1,9 @@
 ---
 title: "Berkeley County, SC"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
-tags: [FIPS:45015.0,FEMA:4.0,Medium metro,Red]
+tags: [FIPS:45015.0,FEMA:4.0,Medium metro,Yellow]
 categories: [SC]
 County: Berkeley County
 State: SC
@@ -11,10 +11,10 @@ FIPS: 45015.0
 FEMA_Region: 4.0
 Population: 227907.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2886.0
-Fourteen_day_test_rate_per_100000: 1266.0
-Percent_Positivity_in_prior_14_days: 0.121
-Level: Red
+Tests_in_prior_14_days: 6047.0
+Fourteen_day_test_rate_per_100000: 2653.0
+Percent_Positivity_in_prior_14_days: 0.09
+Level: Yellow
 url: /states/SC/berkeley-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Cedar County, NE"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:31027.0,FEMA:7.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 31027.0
 FEMA_Region: 7.0
 Population: 8402.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 49.0
-Fourteen_day_test_rate_per_100000: 583.0
-Percent_Positivity_in_prior_14_days: 0.041
+Tests_in_prior_14_days: 90.0
+Fourteen_day_test_rate_per_100000: 1071.0
+Percent_Positivity_in_prior_14_days: 0.033
 Level: Green
 url: /states/NE/cedar-county
 ---

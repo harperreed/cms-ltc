@@ -1,6 +1,6 @@
 ---
 title: "Idaho County, ID"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:16049.0,FEMA:10.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 16049.0
 FEMA_Region: 10.0
 Population: 16667.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 476.0
-Fourteen_day_test_rate_per_100000: 2856.0
-Percent_Positivity_in_prior_14_days: 0.008
+Tests_in_prior_14_days: 615.0
+Fourteen_day_test_rate_per_100000: 3690.0
+Percent_Positivity_in_prior_14_days: 0.007
 Level: Green
 url: /states/ID/idaho-county
 ---

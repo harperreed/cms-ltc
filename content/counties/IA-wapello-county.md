@@ -1,9 +1,9 @@
 ---
 title: "Wapello County, IA"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
-tags: [FIPS:19179.0,FEMA:7.0,Micropolitan,Yellow]
+tags: [FIPS:19179.0,FEMA:7.0,Micropolitan,Green]
 categories: [IA]
 County: Wapello County
 State: IA
@@ -11,10 +11,10 @@ FIPS: 19179.0
 FEMA_Region: 7.0
 Population: 34969.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1083.0
-Fourteen_day_test_rate_per_100000: 3097.0
-Percent_Positivity_in_prior_14_days: 0.084
-Level: Yellow
+Tests_in_prior_14_days: 1011.0
+Fourteen_day_test_rate_per_100000: 2891.0
+Percent_Positivity_in_prior_14_days: 0.037
+Level: Green
 url: /states/IA/wapello-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Raleigh County, WV"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:54081.0,FEMA:3.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 54081.0
 FEMA_Region: 3.0
 Population: 73361.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 4241.0
-Fourteen_day_test_rate_per_100000: 5781.0
-Percent_Positivity_in_prior_14_days: 0.108
+Tests_in_prior_14_days: 5212.0
+Fourteen_day_test_rate_per_100000: 7105.0
+Percent_Positivity_in_prior_14_days: 0.132
 Level: Red
 url: /states/WV/raleigh-county
 ---

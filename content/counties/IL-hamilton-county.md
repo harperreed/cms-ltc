@@ -1,6 +1,6 @@
 ---
 title: "Hamilton County, IL"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:17065.0,FEMA:5.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 17065.0
 FEMA_Region: 5.0
 Population: 8116.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 333.0
-Fourteen_day_test_rate_per_100000: 4103.0
-Percent_Positivity_in_prior_14_days: 0.03
+Tests_in_prior_14_days: 460.0
+Fourteen_day_test_rate_per_100000: 5668.0
+Percent_Positivity_in_prior_14_days: 0.026
 Level: Green
 url: /states/IL/hamilton-county
 ---

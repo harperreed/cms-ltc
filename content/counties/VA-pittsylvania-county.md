@@ -1,9 +1,9 @@
 ---
 title: "Pittsylvania County, VA"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
-tags: [FIPS:51143.0,FEMA:3.0,Micropolitan,Red]
+tags: [FIPS:51143.0,FEMA:3.0,Micropolitan,Yellow]
 categories: [VA]
 County: Pittsylvania County
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51143.0
 FEMA_Region: 3.0
 Population: 60354.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 874.0
-Fourteen_day_test_rate_per_100000: 1448.0
-Percent_Positivity_in_prior_14_days: 0.101
-Level: Red
+Tests_in_prior_14_days: 850.0
+Fourteen_day_test_rate_per_100000: 1408.0
+Percent_Positivity_in_prior_14_days: 0.093
+Level: Yellow
 url: /states/VA/pittsylvania-county
 ---
 

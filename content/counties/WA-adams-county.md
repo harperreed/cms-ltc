@@ -1,9 +1,9 @@
 ---
 title: "Adams County, WA"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
-tags: [FIPS:53001.0,FEMA:10.0,Micropolitan,Yellow]
+tags: [FIPS:53001.0,FEMA:10.0,Micropolitan,Green]
 categories: [WA]
 County: Adams County
 State: WA
@@ -11,10 +11,10 @@ FIPS: 53001.0
 FEMA_Region: 10.0
 Population: 19983.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 329.0
-Fourteen_day_test_rate_per_100000: 1646.0
-Percent_Positivity_in_prior_14_days: 0.079
-Level: Yellow
+Tests_in_prior_14_days: 440.0
+Fourteen_day_test_rate_per_100000: 2202.0
+Percent_Positivity_in_prior_14_days: 0.041
+Level: Green
 url: /states/WA/adams-county
 ---
 

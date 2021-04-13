@@ -1,6 +1,6 @@
 ---
 title: "Dallas County, TX"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:48113.0,FEMA:6.0,Large central metro,Green]
@@ -11,8 +11,8 @@ FIPS: 48113.0
 FEMA_Region: 6.0
 Population: 2635516.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 59050.0
-Fourteen_day_test_rate_per_100000: 2241.0
+Tests_in_prior_14_days: 54876.0
+Fourteen_day_test_rate_per_100000: 2082.0
 Percent_Positivity_in_prior_14_days: 0.041
 Level: Green
 url: /states/TX/dallas-county

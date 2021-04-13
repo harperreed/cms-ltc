@@ -1,6 +1,6 @@
 ---
 title: "Davidson County, NC"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:37057.0,FEMA:4.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 37057.0
 FEMA_Region: 4.0
 Population: 167609.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 5204.0
-Fourteen_day_test_rate_per_100000: 3105.0
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 4993.0
+Fourteen_day_test_rate_per_100000: 2979.0
+Percent_Positivity_in_prior_14_days: 0.069
 Level: Yellow
 url: /states/NC/davidson-county
 ---

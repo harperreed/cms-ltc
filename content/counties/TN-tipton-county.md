@@ -1,9 +1,9 @@
 ---
 title: "Tipton County, TN"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
-tags: [FIPS:47167.0,FEMA:4.0,Large fringe metro,Green]
+tags: [FIPS:47167.0,FEMA:4.0,Large fringe metro,Yellow]
 categories: [TN]
 County: Tipton County
 State: TN
@@ -11,10 +11,10 @@ FIPS: 47167.0
 FEMA_Region: 4.0
 Population: 61599.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 889.0
-Fourteen_day_test_rate_per_100000: 1443.0
-Percent_Positivity_in_prior_14_days: 0.049
-Level: Green
+Tests_in_prior_14_days: 646.0
+Fourteen_day_test_rate_per_100000: 1049.0
+Percent_Positivity_in_prior_14_days: 0.057
+Level: Yellow
 url: /states/TN/tipton-county
 ---
 

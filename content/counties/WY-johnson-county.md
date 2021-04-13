@@ -1,9 +1,9 @@
 ---
 title: "Johnson County, WY"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
-tags: [FIPS:56019.0,FEMA:8.0,Non-core,Yellow]
+tags: [FIPS:56019.0,FEMA:8.0,Non-core,Green]
 categories: [WY]
 County: Johnson County
 State: WY
@@ -11,10 +11,10 @@ FIPS: 56019.0
 FEMA_Region: 8.0
 Population: 8445.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 148.0
-Fourteen_day_test_rate_per_100000: 1753.0
-Percent_Positivity_in_prior_14_days: 0.122
-Level: Yellow
+Tests_in_prior_14_days: 73.0
+Fourteen_day_test_rate_per_100000: 864.0
+Percent_Positivity_in_prior_14_days: 0.027
+Level: Green
 url: /states/WY/johnson-county
 ---
 

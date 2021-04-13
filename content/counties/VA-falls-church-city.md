@@ -1,6 +1,6 @@
 ---
 title: "Falls Church city, VA"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:51610.0,FEMA:3.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 51610.0
 FEMA_Region: 3.0
 Population: 14617.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 553.0
-Fourteen_day_test_rate_per_100000: 3783.0
-Percent_Positivity_in_prior_14_days: 0.029
+Tests_in_prior_14_days: 592.0
+Fourteen_day_test_rate_per_100000: 4050.0
+Percent_Positivity_in_prior_14_days: 0.034
 Level: Green
 url: /states/VA/falls-church-city
 ---

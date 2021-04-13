@@ -1,9 +1,9 @@
 ---
 title: "Lee County, MS"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
-tags: [FIPS:28081.0,FEMA:4.0,Micropolitan,Yellow]
+tags: [FIPS:28081.0,FEMA:4.0,Micropolitan,Green]
 categories: [MS]
 County: Lee County
 State: MS
@@ -11,10 +11,10 @@ FIPS: 28081.0
 FEMA_Region: 4.0
 Population: 85436.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 203.0
-Fourteen_day_test_rate_per_100000: 238.0
-Percent_Positivity_in_prior_14_days: 0.054
-Level: Yellow
+Tests_in_prior_14_days: 195.0
+Fourteen_day_test_rate_per_100000: 228.0
+Percent_Positivity_in_prior_14_days: 0.036
+Level: Green
 url: /states/MS/lee-county
 ---
 

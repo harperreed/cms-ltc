@@ -1,6 +1,6 @@
 ---
 title: "Brown County, TX"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:48049.0,FEMA:6.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 48049.0
 FEMA_Region: 6.0
 Population: 37864.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 210.0
-Fourteen_day_test_rate_per_100000: 555.0
-Percent_Positivity_in_prior_14_days: 0.033
+Tests_in_prior_14_days: 303.0
+Fourteen_day_test_rate_per_100000: 800.0
+Percent_Positivity_in_prior_14_days: 0.036
 Level: Green
 url: /states/TX/brown-county
 ---

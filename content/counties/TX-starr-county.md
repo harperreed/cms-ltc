@@ -1,6 +1,6 @@
 ---
 title: "Starr County, TX"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:48427.0,FEMA:6.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 48427.0
 FEMA_Region: 6.0
 Population: 64633.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1124.0
-Fourteen_day_test_rate_per_100000: 1739.0
-Percent_Positivity_in_prior_14_days: 0.107
+Tests_in_prior_14_days: 994.0
+Fourteen_day_test_rate_per_100000: 1538.0
+Percent_Positivity_in_prior_14_days: 0.103
 Level: Red
 url: /states/TX/starr-county
 ---

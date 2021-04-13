@@ -1,6 +1,6 @@
 ---
 title: "Oakland County, MI"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:26125.0,FEMA:5.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 26125.0
 FEMA_Region: 5.0
 Population: 1257584.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 53150.0
-Fourteen_day_test_rate_per_100000: 4226.0
-Percent_Positivity_in_prior_14_days: 0.12
+Tests_in_prior_14_days: 61638.0
+Fourteen_day_test_rate_per_100000: 4901.0
+Percent_Positivity_in_prior_14_days: 0.149
 Level: Red
 url: /states/MI/oakland-county
 ---

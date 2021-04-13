@@ -1,6 +1,6 @@
 ---
 title: "Staunton city, VA"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:51790.0,FEMA:3.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 51790.0
 FEMA_Region: 3.0
 Population: 24932.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1176.0
-Fourteen_day_test_rate_per_100000: 4717.0
-Percent_Positivity_in_prior_14_days: 0.037
+Tests_in_prior_14_days: 1156.0
+Fourteen_day_test_rate_per_100000: 4637.0
+Percent_Positivity_in_prior_14_days: 0.034
 Level: Green
 url: /states/VA/staunton-city
 ---

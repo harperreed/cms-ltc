@@ -1,9 +1,9 @@
 ---
 title: "Fulton County, IN"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
-tags: [FIPS:18049.0,FEMA:5.0,Non-core,Yellow]
+tags: [FIPS:18049.0,FEMA:5.0,Non-core,Green]
 categories: [IN]
 County: Fulton County
 State: IN
@@ -11,10 +11,10 @@ FIPS: 18049.0
 FEMA_Region: 5.0
 Population: 19974.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 342.0
-Fourteen_day_test_rate_per_100000: 1712.0
-Percent_Positivity_in_prior_14_days: 0.053
-Level: Yellow
+Tests_in_prior_14_days: 303.0
+Fourteen_day_test_rate_per_100000: 1517.0
+Percent_Positivity_in_prior_14_days: 0.04
+Level: Green
 url: /states/IN/fulton-county
 ---
 

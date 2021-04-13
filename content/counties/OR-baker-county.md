@@ -1,9 +1,9 @@
 ---
 title: "Baker County, OR"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
-tags: [FIPS:41001.0,FEMA:10.0,Non-core,Green]
+tags: [FIPS:41001.0,FEMA:10.0,Non-core,Yellow]
 categories: [OR]
 County: Baker County
 State: OR
@@ -11,10 +11,10 @@ FIPS: 41001.0
 FEMA_Region: 10.0
 Population: 16124.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 640.0
-Fourteen_day_test_rate_per_100000: 3969.0
-Percent_Positivity_in_prior_14_days: 0.044
-Level: Green
+Tests_in_prior_14_days: 611.0
+Fourteen_day_test_rate_per_100000: 3789.0
+Percent_Positivity_in_prior_14_days: 0.074
+Level: Yellow
 url: /states/OR/baker-county
 ---
 

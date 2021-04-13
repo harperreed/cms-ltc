@@ -1,9 +1,9 @@
 ---
 title: "Fayette County, TX"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
-tags: [FIPS:48149.0,FEMA:6.0,Non-core,Red]
+tags: [FIPS:48149.0,FEMA:6.0,Non-core,Yellow]
 categories: [TX]
 County: Fayette County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48149.0
 FEMA_Region: 6.0
 Population: 25346.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 524.0
-Fourteen_day_test_rate_per_100000: 2067.0
-Percent_Positivity_in_prior_14_days: 0.113
-Level: Red
+Tests_in_prior_14_days: 499.0
+Fourteen_day_test_rate_per_100000: 1969.0
+Percent_Positivity_in_prior_14_days: 0.116
+Level: Yellow
 url: /states/TX/fayette-county
 ---
 

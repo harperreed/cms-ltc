@@ -1,6 +1,6 @@
 ---
 title: "New Castle County, DE"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:10003.0,FEMA:3.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 10003.0
 FEMA_Region: 3.0
 Population: 558753.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 51630.0
-Fourteen_day_test_rate_per_100000: 9240.0
-Percent_Positivity_in_prior_14_days: 0.05
+Tests_in_prior_14_days: 55022.0
+Fourteen_day_test_rate_per_100000: 9847.0
+Percent_Positivity_in_prior_14_days: 0.054
 Level: Yellow
 url: /states/DE/new-castle-county
 ---

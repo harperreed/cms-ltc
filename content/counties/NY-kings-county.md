@@ -1,6 +1,6 @@
 ---
 title: "Kings County, NY"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:36047.0,FEMA:2.0,Large central metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 36047.0
 FEMA_Region: 2.0
 Population: 2559903.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 305866.0
-Fourteen_day_test_rate_per_100000: 11948.0
-Percent_Positivity_in_prior_14_days: 0.058
+Tests_in_prior_14_days: 290718.0
+Fourteen_day_test_rate_per_100000: 11357.0
+Percent_Positivity_in_prior_14_days: 0.06
 Level: Yellow
 url: /states/NY/kings-county
 ---

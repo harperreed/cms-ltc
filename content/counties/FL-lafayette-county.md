@@ -1,6 +1,6 @@
 ---
 title: "Lafayette County, FL"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:12067.0,FEMA:4.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 12067.0
 FEMA_Region: 4.0
 Population: 8422.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 200.0
-Fourteen_day_test_rate_per_100000: 2375.0
-Percent_Positivity_in_prior_14_days: 0.01
+Tests_in_prior_14_days: 181.0
+Fourteen_day_test_rate_per_100000: 2149.0
+Percent_Positivity_in_prior_14_days: 0.022
 Level: Green
 url: /states/FL/lafayette-county
 ---

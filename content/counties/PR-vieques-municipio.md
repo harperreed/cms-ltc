@@ -1,6 +1,6 @@
 ---
 title: "Vieques Municipio, PR"
-date: 2021-04-12
+date: 2021-04-13
 draft: false
 type: county
 tags: [FIPS:72147.0,FEMA:2.0,,Yellow]
@@ -11,9 +11,9 @@ FIPS: 72147.0
 FEMA_Region: 2.0
 Population: 8386.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 149.0
-Fourteen_day_test_rate_per_100000: 1777.0
-Percent_Positivity_in_prior_14_days: 0.114
+Tests_in_prior_14_days: 31.0
+Fourteen_day_test_rate_per_100000: 370.0
+Percent_Positivity_in_prior_14_days: 0.452
 Level: Yellow
 url: /states/PR/vieques-municipio
 ---
