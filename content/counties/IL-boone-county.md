@@ -1,6 +1,6 @@
 ---
 title: "Boone County, IL"
-date: 2021-04-13
+date: 2021-04-14
 draft: false
 type: county
 tags: [FIPS:17007.0,FEMA:5.0,Medium metro,Yellow]

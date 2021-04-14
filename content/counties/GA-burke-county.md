@@ -1,6 +1,6 @@
 ---
 title: "Burke County, GA"
-date: 2021-04-13
+date: 2021-04-14
 draft: false
 type: county
 tags: [FIPS:13033.0,FEMA:4.0,Medium metro,Yellow]
