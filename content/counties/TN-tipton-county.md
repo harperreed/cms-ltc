@@ -1,6 +1,6 @@
 ---
 title: "Tipton County, TN"
-date: 2021-04-14
+date: 2021-04-15
 draft: false
 type: county
 tags: [FIPS:47167.0,FEMA:4.0,Large fringe metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Dodge County, NE"
-date: 2021-04-14
+date: 2021-04-15
 draft: false
 type: county
 tags: [FIPS:31053.0,FEMA:7.0,Micropolitan,Red]

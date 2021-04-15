@@ -1,6 +1,6 @@
 ---
 title: "Santa Fe County, NM"
-date: 2021-04-14
+date: 2021-04-15
 draft: false
 type: county
 tags: [FIPS:35049.0,FEMA:6.0,Small metro,Green]

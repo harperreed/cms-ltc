@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, MO"
-date: 2021-04-14
+date: 2021-04-15
 draft: false
 type: county
 tags: [FIPS:29095.0,FEMA:7.0,Large central metro,Green]
