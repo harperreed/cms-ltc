@@ -1,6 +1,6 @@
 ---
 title: "Polk County, TN"
-date: 2021-04-15
+date: 2021-04-16
 draft: false
 type: county
 tags: [FIPS:47139.0,FEMA:4.0,Small metro,Yellow]

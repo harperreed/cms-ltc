@@ -1,6 +1,6 @@
 ---
 title: "Schley County, GA"
-date: 2021-04-15
+date: 2021-04-16
 draft: false
 type: county
 tags: [FIPS:13249.0,FEMA:4.0,Micropolitan,Green]

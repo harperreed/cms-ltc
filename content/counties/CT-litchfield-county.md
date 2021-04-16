@@ -1,6 +1,6 @@
 ---
 title: "Litchfield County, CT"
-date: 2021-04-15
+date: 2021-04-16
 draft: false
 type: county
 tags: [FIPS:9005.0,FEMA:1.0,Micropolitan,Green]

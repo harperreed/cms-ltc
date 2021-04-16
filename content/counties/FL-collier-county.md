@@ -1,6 +1,6 @@
 ---
 title: "Collier County, FL"
-date: 2021-04-15
+date: 2021-04-16
 draft: false
 type: county
 tags: [FIPS:12021.0,FEMA:4.0,Medium metro,Yellow]

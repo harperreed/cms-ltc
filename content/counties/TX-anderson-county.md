@@ -1,6 +1,6 @@
 ---
 title: "Anderson County, TX"
-date: 2021-04-15
+date: 2021-04-16
 draft: false
 type: county
 tags: [FIPS:48001.0,FEMA:6.0,Micropolitan,Green]
