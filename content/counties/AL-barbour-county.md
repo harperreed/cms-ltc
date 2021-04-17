@@ -1,6 +1,6 @@
 ---
 title: "Barbour County, AL"
-date: 2021-04-16
+date: 2021-04-17
 draft: false
 type: county
 tags: [FIPS:1005.0,FEMA:4.0,Non-core,Yellow]

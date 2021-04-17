@@ -1,6 +1,6 @@
 ---
 title: "Madison County, AR"
-date: 2021-04-16
+date: 2021-04-17
 draft: false
 type: county
 tags: [FIPS:5087.0,FEMA:6.0,Medium metro,Green]
