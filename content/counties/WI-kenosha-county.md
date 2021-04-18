@@ -1,6 +1,6 @@
 ---
 title: "Kenosha County, WI"
-date: 2021-04-17
+date: 2021-04-18
 draft: false
 type: county
 tags: [FIPS:55059.0,FEMA:5.0,Large fringe metro,Green]

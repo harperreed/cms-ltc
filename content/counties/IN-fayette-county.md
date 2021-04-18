@@ -1,6 +1,6 @@
 ---
 title: "Fayette County, IN"
-date: 2021-04-17
+date: 2021-04-18
 draft: false
 type: county
 tags: [FIPS:18041.0,FEMA:5.0,Micropolitan,Green]

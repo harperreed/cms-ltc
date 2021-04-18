@@ -1,6 +1,6 @@
 ---
 title: "Big Horn County, MT"
-date: 2021-04-17
+date: 2021-04-18
 draft: false
 type: county
 tags: [FIPS:30003.0,FEMA:8.0,Non-core,Green]

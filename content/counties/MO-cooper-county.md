@@ -1,6 +1,6 @@
 ---
 title: "Cooper County, MO"
-date: 2021-04-17
+date: 2021-04-18
 draft: false
 type: county
 tags: [FIPS:29053.0,FEMA:7.0,Non-core,Green]
