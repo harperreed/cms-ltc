@@ -1,6 +1,6 @@
 ---
 title: "Chariton County, MO"
-date: 2021-04-18
+date: 2021-04-19
 draft: false
 type: county
 tags: [FIPS:29041.0,FEMA:7.0,Non-core,Green]
