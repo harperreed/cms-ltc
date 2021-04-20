@@ -1,9 +1,9 @@
 ---
 title: "Prince George County, VA"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
-tags: [FIPS:51149.0,FEMA:3.0,Large fringe metro,Red]
+tags: [FIPS:51149.0,FEMA:3.0,Large fringe metro,Yellow]
 categories: [VA]
 County: Prince George County
 State: VA
@@ -13,8 +13,8 @@ Population: 38353.0
 NCHS_Urban_Rural_Classification: Large fringe metro
 Tests_in_prior_14_days: 577.0
 Fourteen_day_test_rate_per_100000: 1504.0
-Percent_Positivity_in_prior_14_days: 0.13
-Level: Red
+Percent_Positivity_in_prior_14_days: 0.09
+Level: Yellow
 url: /states/VA/prince-george-county
 ---
 

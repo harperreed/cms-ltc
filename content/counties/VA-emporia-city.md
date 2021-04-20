@@ -1,6 +1,6 @@
 ---
 title: "Emporia city, VA"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:51595.0,FEMA:3.0,Non-core,Yellow]
@@ -13,7 +13,7 @@ Population: 5346.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 57.0
 Fourteen_day_test_rate_per_100000: 1066.0
-Percent_Positivity_in_prior_14_days: 0.088
+Percent_Positivity_in_prior_14_days: 0.07
 Level: Yellow
 url: /states/VA/emporia-city
 ---

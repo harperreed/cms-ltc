@@ -1,6 +1,6 @@
 ---
 title: "Monroe County, TN"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:47123.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 47123.0
 FEMA_Region: 4.0
 Population: 46545.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 384.0
-Fourteen_day_test_rate_per_100000: 825.0
-Percent_Positivity_in_prior_14_days: 0.104
+Tests_in_prior_14_days: 332.0
+Fourteen_day_test_rate_per_100000: 713.0
+Percent_Positivity_in_prior_14_days: 0.102
 Level: Yellow
 url: /states/TN/monroe-county
 ---

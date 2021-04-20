@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, OH"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:39081.0,FEMA:5.0,Small metro,Gray]
@@ -11,8 +11,8 @@ FIPS: 39081.0
 FEMA_Region: 5.0
 Population: 65325.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1103.0
-Fourteen_day_test_rate_per_100000: 1688.0
+Tests_in_prior_14_days: 1300.0
+Fourteen_day_test_rate_per_100000: 1990.0
 Percent_Positivity_in_prior_14_days: 0.131
 Level: Gray
 url: /states/OH/jefferson-county

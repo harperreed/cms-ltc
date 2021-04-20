@@ -1,6 +1,6 @@
 ---
 title: "Chaves County, NM"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:35005.0,FEMA:6.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 35005.0
 FEMA_Region: 6.0
 Population: 64615.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1111.0
-Fourteen_day_test_rate_per_100000: 1719.0
-Percent_Positivity_in_prior_14_days: 0.01
+Tests_in_prior_14_days: 1015.0
+Fourteen_day_test_rate_per_100000: 1571.0
+Percent_Positivity_in_prior_14_days: 0.009
 Level: Green
 url: /states/NM/chaves-county
 ---

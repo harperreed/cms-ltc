@@ -1,6 +1,6 @@
 ---
 title: "Harding County, NM"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:35021.0,FEMA:6.0,Non-core,Green]

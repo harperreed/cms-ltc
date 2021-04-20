@@ -1,6 +1,6 @@
 ---
 title: "Overton County, TN"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:47133.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 47133.0
 FEMA_Region: 4.0
 Population: 22241.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 145.0
-Fourteen_day_test_rate_per_100000: 652.0
-Percent_Positivity_in_prior_14_days: 0.09
+Tests_in_prior_14_days: 115.0
+Fourteen_day_test_rate_per_100000: 517.0
+Percent_Positivity_in_prior_14_days: 0.07
 Level: Yellow
 url: /states/TN/overton-county
 ---

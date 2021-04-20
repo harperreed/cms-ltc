@@ -1,6 +1,6 @@
 ---
 title: "Hart County, KY"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:21099.0,FEMA:4.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 21099.0
 FEMA_Region: 4.0
 Population: 19035.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 215.0
-Fourteen_day_test_rate_per_100000: 1129.0
-Percent_Positivity_in_prior_14_days: 0.033
+Tests_in_prior_14_days: 122.0
+Fourteen_day_test_rate_per_100000: 641.0
+Percent_Positivity_in_prior_14_days: 0.041
 Level: Green
 url: /states/KY/hart-county
 ---

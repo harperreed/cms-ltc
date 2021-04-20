@@ -1,6 +1,6 @@
 ---
 title: "Burnet County, TX"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:48053.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48053.0
 FEMA_Region: 6.0
 Population: 48155.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1233.0
-Fourteen_day_test_rate_per_100000: 2560.0
-Percent_Positivity_in_prior_14_days: 0.054
+Tests_in_prior_14_days: 1297.0
+Fourteen_day_test_rate_per_100000: 2693.0
+Percent_Positivity_in_prior_14_days: 0.062
 Level: Yellow
 url: /states/TX/burnet-county
 ---

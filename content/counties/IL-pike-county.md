@@ -1,6 +1,6 @@
 ---
 title: "Pike County, IL"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:17149.0,FEMA:5.0,Non-core,Green]
@@ -13,7 +13,7 @@ Population: 15561.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 550.0
 Fourteen_day_test_rate_per_100000: 3534.0
-Percent_Positivity_in_prior_14_days: 0.007
+Percent_Positivity_in_prior_14_days: 0.031
 Level: Green
 url: /states/IL/pike-county
 ---

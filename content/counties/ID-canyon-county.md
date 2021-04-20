@@ -1,6 +1,6 @@
 ---
 title: "Canyon County, ID"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:16027.0,FEMA:10.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 16027.0
 FEMA_Region: 10.0
 Population: 229849.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 6162.0
-Fourteen_day_test_rate_per_100000: 2681.0
-Percent_Positivity_in_prior_14_days: 0.058
+Tests_in_prior_14_days: 6486.0
+Fourteen_day_test_rate_per_100000: 2822.0
+Percent_Positivity_in_prior_14_days: 0.051
 Level: Yellow
 url: /states/ID/canyon-county
 ---

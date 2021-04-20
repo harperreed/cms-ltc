@@ -1,9 +1,9 @@
 ---
 title: "Aguas Buenas Municipio, PR"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
-tags: [FIPS:72007.0,FEMA:2.0,,Yellow]
+tags: [FIPS:72007.0,FEMA:2.0,,Red]
 categories: [PR]
 County: Aguas Buenas Municipio
 State: PR
@@ -11,10 +11,10 @@ FIPS: 72007.0
 FEMA_Region: 2.0
 Population: 24814.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 137.0
-Fourteen_day_test_rate_per_100000: 552.0
-Percent_Positivity_in_prior_14_days: 0.263
-Level: Yellow
+Tests_in_prior_14_days: 727.0
+Fourteen_day_test_rate_per_100000: 2930.0
+Percent_Positivity_in_prior_14_days: 0.223
+Level: Red
 url: /states/PR/aguas-buenas-municipio
 ---
 

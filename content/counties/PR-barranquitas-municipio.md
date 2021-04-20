@@ -1,9 +1,9 @@
 ---
 title: "Barranquitas Municipio, PR"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
-tags: [FIPS:72019.0,FEMA:2.0,,Yellow]
+tags: [FIPS:72019.0,FEMA:2.0,,Red]
 categories: [PR]
 County: Barranquitas Municipio
 State: PR
@@ -11,10 +11,10 @@ FIPS: 72019.0
 FEMA_Region: 2.0
 Population: 27725.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 289.0
-Fourteen_day_test_rate_per_100000: 1042.0
-Percent_Positivity_in_prior_14_days: 0.197
-Level: Yellow
+Tests_in_prior_14_days: 681.0
+Fourteen_day_test_rate_per_100000: 2456.0
+Percent_Positivity_in_prior_14_days: 0.213
+Level: Red
 url: /states/PR/barranquitas-municipio
 ---
 

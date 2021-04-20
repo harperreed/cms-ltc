@@ -1,9 +1,9 @@
 ---
 title: "Allegany County, NY"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
-tags: [FIPS:36003.0,FEMA:2.0,Non-core,Green]
+tags: [FIPS:36003.0,FEMA:2.0,Non-core,Yellow]
 categories: [NY]
 County: Allegany County
 State: NY
@@ -11,10 +11,10 @@ FIPS: 36003.0
 FEMA_Region: 2.0
 Population: 46091.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1137.0
-Fourteen_day_test_rate_per_100000: 2467.0
-Percent_Positivity_in_prior_14_days: 0.034
-Level: Green
+Tests_in_prior_14_days: 1182.0
+Fourteen_day_test_rate_per_100000: 2564.0
+Percent_Positivity_in_prior_14_days: 0.05
+Level: Yellow
 url: /states/NY/allegany-county
 ---
 

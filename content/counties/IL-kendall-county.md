@@ -1,6 +1,6 @@
 ---
 title: "Kendall County, IL"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:17093.0,FEMA:5.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 17093.0
 FEMA_Region: 5.0
 Population: 128990.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 4241.0
-Fourteen_day_test_rate_per_100000: 3288.0
-Percent_Positivity_in_prior_14_days: 0.081
+Tests_in_prior_14_days: 4875.0
+Fourteen_day_test_rate_per_100000: 3779.0
+Percent_Positivity_in_prior_14_days: 0.089
 Level: Yellow
 url: /states/IL/kendall-county
 ---

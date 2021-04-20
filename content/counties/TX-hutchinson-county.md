@@ -1,6 +1,6 @@
 ---
 title: "Hutchinson County, TX"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:48233.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48233.0
 FEMA_Region: 6.0
 Population: 20938.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 114.0
-Fourteen_day_test_rate_per_100000: 544.0
-Percent_Positivity_in_prior_14_days: 0.053
+Tests_in_prior_14_days: 130.0
+Fourteen_day_test_rate_per_100000: 621.0
+Percent_Positivity_in_prior_14_days: 0.077
 Level: Yellow
 url: /states/TX/hutchinson-county
 ---

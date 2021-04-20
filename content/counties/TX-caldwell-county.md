@@ -1,6 +1,6 @@
 ---
 title: "Caldwell County, TX"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:48055.0,FEMA:6.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48055.0
 FEMA_Region: 6.0
 Population: 43664.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1140.0
-Fourteen_day_test_rate_per_100000: 2611.0
-Percent_Positivity_in_prior_14_days: 0.064
+Tests_in_prior_14_days: 1107.0
+Fourteen_day_test_rate_per_100000: 2535.0
+Percent_Positivity_in_prior_14_days: 0.056
 Level: Yellow
 url: /states/TX/caldwell-county
 ---

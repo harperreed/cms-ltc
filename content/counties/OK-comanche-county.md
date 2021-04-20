@@ -1,9 +1,9 @@
 ---
 title: "Comanche County, OK"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
-tags: [FIPS:40031.0,FEMA:6.0,Small metro,Green]
+tags: [FIPS:40031.0,FEMA:6.0,Small metro,Red]
 categories: [OK]
 County: Comanche County
 State: OK
@@ -11,10 +11,10 @@ FIPS: 40031.0
 FEMA_Region: 6.0
 Population: 120749.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 556.0
-Fourteen_day_test_rate_per_100000: 460.0
-Percent_Positivity_in_prior_14_days: 0.031
-Level: Green
+Tests_in_prior_14_days: 577.0
+Fourteen_day_test_rate_per_100000: 478.0
+Percent_Positivity_in_prior_14_days: 0.116
+Level: Red
 url: /states/OK/comanche-county
 ---
 

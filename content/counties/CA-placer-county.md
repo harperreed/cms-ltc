@@ -1,6 +1,6 @@
 ---
 title: "Placer County, CA"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:6061.0,FEMA:9.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 6061.0
 FEMA_Region: 9.0
 Population: 398329.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 14110.0
-Fourteen_day_test_rate_per_100000: 3542.0
-Percent_Positivity_in_prior_14_days: 0.032
+Tests_in_prior_14_days: 14924.0
+Fourteen_day_test_rate_per_100000: 3747.0
+Percent_Positivity_in_prior_14_days: 0.037
 Level: Green
 url: /states/CA/placer-county
 ---

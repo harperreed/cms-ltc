@@ -1,6 +1,6 @@
 ---
 title: "Union County, OR"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:41061.0,FEMA:10.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 41061.0
 FEMA_Region: 10.0
 Population: 26835.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1528.0
-Fourteen_day_test_rate_per_100000: 5694.0
-Percent_Positivity_in_prior_14_days: 0.009
+Tests_in_prior_14_days: 1092.0
+Fourteen_day_test_rate_per_100000: 4069.0
+Percent_Positivity_in_prior_14_days: 0.011
 Level: Green
 url: /states/OR/union-county
 ---

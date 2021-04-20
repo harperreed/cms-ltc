@@ -1,6 +1,6 @@
 ---
 title: "Upshur County, WV"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:54097.0,FEMA:3.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 54097.0
 FEMA_Region: 3.0
 Population: 24176.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 774.0
-Fourteen_day_test_rate_per_100000: 3202.0
-Percent_Positivity_in_prior_14_days: 0.047
+Tests_in_prior_14_days: 760.0
+Fourteen_day_test_rate_per_100000: 3144.0
+Percent_Positivity_in_prior_14_days: 0.037
 Level: Green
 url: /states/WV/upshur-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Susquehanna County, PA"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:42115.0,FEMA:3.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 42115.0
 FEMA_Region: 3.0
 Population: 40328.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1367.0
-Fourteen_day_test_rate_per_100000: 3390.0
-Percent_Positivity_in_prior_14_days: 0.154
+Tests_in_prior_14_days: 1317.0
+Fourteen_day_test_rate_per_100000: 3266.0
+Percent_Positivity_in_prior_14_days: 0.147
 Level: Red
 url: /states/PA/susquehanna-county
 ---

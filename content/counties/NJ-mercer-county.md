@@ -1,6 +1,6 @@
 ---
 title: "Mercer County, NJ"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:34021.0,FEMA:2.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 34021.0
 FEMA_Region: 2.0
 Population: 367430.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 29134.0
-Fourteen_day_test_rate_per_100000: 7929.0
-Percent_Positivity_in_prior_14_days: 0.059
+Tests_in_prior_14_days: 27959.0
+Fourteen_day_test_rate_per_100000: 7609.0
+Percent_Positivity_in_prior_14_days: 0.056
 Level: Yellow
 url: /states/NJ/mercer-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Bureau County, IL"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
-tags: [FIPS:17011.0,FEMA:5.0,Micropolitan,Green]
+tags: [FIPS:17011.0,FEMA:5.0,Micropolitan,Yellow]
 categories: [IL]
 County: Bureau County
 State: IL
@@ -11,10 +11,10 @@ FIPS: 17011.0
 FEMA_Region: 5.0
 Population: 32628.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 852.0
-Fourteen_day_test_rate_per_100000: 2611.0
-Percent_Positivity_in_prior_14_days: 0.038
-Level: Green
+Tests_in_prior_14_days: 1006.0
+Fourteen_day_test_rate_per_100000: 3083.0
+Percent_Positivity_in_prior_14_days: 0.056
+Level: Yellow
 url: /states/IL/bureau-county
 ---
 

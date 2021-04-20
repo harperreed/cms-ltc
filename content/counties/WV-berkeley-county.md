@@ -1,6 +1,6 @@
 ---
 title: "Berkeley County, WV"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:54003.0,FEMA:3.0,Medium metro,Red]
@@ -11,9 +11,9 @@ FIPS: 54003.0
 FEMA_Region: 3.0
 Population: 119171.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 5644.0
-Fourteen_day_test_rate_per_100000: 4736.0
-Percent_Positivity_in_prior_14_days: 0.112
+Tests_in_prior_14_days: 5675.0
+Fourteen_day_test_rate_per_100000: 4762.0
+Percent_Positivity_in_prior_14_days: 0.124
 Level: Red
 url: /states/WV/berkeley-county
 ---

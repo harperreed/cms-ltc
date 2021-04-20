@@ -1,6 +1,6 @@
 ---
 title: "Austin County, TX"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:48015.0,FEMA:6.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 48015.0
 FEMA_Region: 6.0
 Population: 30032.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 564.0
-Fourteen_day_test_rate_per_100000: 1878.0
-Percent_Positivity_in_prior_14_days: 0.115
+Tests_in_prior_14_days: 530.0
+Fourteen_day_test_rate_per_100000: 1765.0
+Percent_Positivity_in_prior_14_days: 0.121
 Level: Red
 url: /states/TX/austin-county
 ---

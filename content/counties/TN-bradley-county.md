@@ -1,6 +1,6 @@
 ---
 title: "Bradley County, TN"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
 tags: [FIPS:47011.0,FEMA:4.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 47011.0
 FEMA_Region: 4.0
 Population: 108110.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1167.0
-Fourteen_day_test_rate_per_100000: 1079.0
-Percent_Positivity_in_prior_14_days: 0.155
+Tests_in_prior_14_days: 1302.0
+Fourteen_day_test_rate_per_100000: 1204.0
+Percent_Positivity_in_prior_14_days: 0.137
 Level: Red
 url: /states/TN/bradley-county
 ---

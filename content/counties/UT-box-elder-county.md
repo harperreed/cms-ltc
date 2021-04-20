@@ -1,9 +1,9 @@
 ---
 title: "Box Elder County, UT"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
-tags: [FIPS:49003.0,FEMA:8.0,Medium metro,Green]
+tags: [FIPS:49003.0,FEMA:8.0,Medium metro,Yellow]
 categories: [UT]
 County: Box Elder County
 State: UT
@@ -11,10 +11,10 @@ FIPS: 49003.0
 FEMA_Region: 8.0
 Population: 56046.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1125.0
-Fourteen_day_test_rate_per_100000: 2007.0
-Percent_Positivity_in_prior_14_days: 0.042
-Level: Green
+Tests_in_prior_14_days: 909.0
+Fourteen_day_test_rate_per_100000: 1622.0
+Percent_Positivity_in_prior_14_days: 0.056
+Level: Yellow
 url: /states/UT/box-elder-county
 ---
 

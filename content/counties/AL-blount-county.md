@@ -1,9 +1,9 @@
 ---
 title: "Blount County, AL"
-date: 2021-04-19
+date: 2021-04-20
 draft: false
 type: county
-tags: [FIPS:1009.0,FEMA:4.0,Large fringe metro,Red]
+tags: [FIPS:1009.0,FEMA:4.0,Large fringe metro,Yellow]
 categories: [AL]
 County: Blount County
 State: AL
@@ -11,10 +11,10 @@ FIPS: 1009.0
 FEMA_Region: 4.0
 Population: 57826.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 655.0
-Fourteen_day_test_rate_per_100000: 1133.0
-Percent_Positivity_in_prior_14_days: 0.116
-Level: Red
+Tests_in_prior_14_days: 692.0
+Fourteen_day_test_rate_per_100000: 1197.0
+Percent_Positivity_in_prior_14_days: 0.072
+Level: Yellow
 url: /states/AL/blount-county
 ---
 
