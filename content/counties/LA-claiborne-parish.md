@@ -1,6 +1,6 @@
 ---
 title: "Claiborne Parish, LA"
-date: 2021-04-20
+date: 2021-04-21
 draft: false
 type: county
 tags: [FIPS:22027.0,FEMA:6.0,Non-core,Green]

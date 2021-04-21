@@ -1,6 +1,6 @@
 ---
 title: "Bear Lake County, ID"
-date: 2021-04-20
+date: 2021-04-21
 draft: false
 type: county
 tags: [FIPS:16007.0,FEMA:10.0,Non-core,Green]

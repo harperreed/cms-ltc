@@ -1,6 +1,6 @@
 ---
 title: "Wabash County, IL"
-date: 2021-04-20
+date: 2021-04-21
 draft: false
 type: county
 tags: [FIPS:17185.0,FEMA:5.0,Non-core,Green]

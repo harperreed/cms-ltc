@@ -1,6 +1,6 @@
 ---
 title: "Richmond County, NY"
-date: 2021-04-20
+date: 2021-04-21
 draft: false
 type: county
 tags: [FIPS:36085.0,FEMA:2.0,Large central metro,Yellow]

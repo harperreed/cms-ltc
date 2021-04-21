@@ -1,6 +1,6 @@
 ---
 title: "Baker County, FL"
-date: 2021-04-20
+date: 2021-04-21
 draft: false
 type: county
 tags: [FIPS:12003.0,FEMA:4.0,Large fringe metro,Green]

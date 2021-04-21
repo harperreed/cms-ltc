@@ -1,6 +1,6 @@
 ---
 title: "Roosevelt County, NM"
-date: 2021-04-20
+date: 2021-04-21
 draft: false
 type: county
 tags: [FIPS:35041.0,FEMA:6.0,Micropolitan,Green]

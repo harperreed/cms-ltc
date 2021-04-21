@@ -1,6 +1,6 @@
 ---
 title: "Pottawattamie County, IA"
-date: 2021-04-20
+date: 2021-04-21
 draft: false
 type: county
 tags: [FIPS:19155.0,FEMA:7.0,Medium metro,Red]

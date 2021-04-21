@@ -1,6 +1,6 @@
 ---
 title: "Reynolds County, MO"
-date: 2021-04-20
+date: 2021-04-21
 draft: false
 type: county
 tags: [FIPS:29179.0,FEMA:7.0,Non-core,Green]
