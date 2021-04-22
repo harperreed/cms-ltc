@@ -1,6 +1,6 @@
 ---
 title: "Oglala Lakota County, SD"
-date: 2021-04-21
+date: 2021-04-22
 draft: false
 type: county
 tags: [FIPS:46102.0,FEMA:8.0,Non-core,Green]

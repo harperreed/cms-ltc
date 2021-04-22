@@ -1,6 +1,6 @@
 ---
 title: "Pickens County, SC"
-date: 2021-04-21
+date: 2021-04-22
 draft: false
 type: county
 tags: [FIPS:45077.0,FEMA:4.0,Medium metro,Yellow]

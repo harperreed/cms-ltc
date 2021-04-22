@@ -1,6 +1,6 @@
 ---
 title: "Carson County, TX"
-date: 2021-04-21
+date: 2021-04-22
 draft: false
 type: county
 tags: [FIPS:48065.0,FEMA:6.0,Medium metro,Yellow]

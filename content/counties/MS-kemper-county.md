@@ -1,6 +1,6 @@
 ---
 title: "Kemper County, MS"
-date: 2021-04-21
+date: 2021-04-22
 draft: false
 type: county
 tags: [FIPS:28069.0,FEMA:4.0,Micropolitan,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Graham County, AZ"
-date: 2021-04-21
+date: 2021-04-22
 draft: false
 type: county
 tags: [FIPS:4009.0,FEMA:9.0,Micropolitan,Green]
