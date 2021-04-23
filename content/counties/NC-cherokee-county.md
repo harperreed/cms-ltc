@@ -1,6 +1,6 @@
 ---
 title: "Cherokee County, NC"
-date: 2021-04-22
+date: 2021-04-23
 draft: false
 type: county
 tags: [FIPS:37039.0,FEMA:4.0,Non-core,Red]

@@ -1,6 +1,6 @@
 ---
 title: "Comerío Municipio, PR"
-date: 2021-04-22
+date: 2021-04-23
 draft: false
 type: county
 tags: [FIPS:72045.0,FEMA:2.0,,Red]
