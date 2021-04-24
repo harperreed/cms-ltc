@@ -1,6 +1,6 @@
 ---
 title: "Bay County, MI"
-date: 2021-04-23
+date: 2021-04-24
 draft: false
 type: county
 tags: [FIPS:26017.0,FEMA:5.0,Small metro,Red]
