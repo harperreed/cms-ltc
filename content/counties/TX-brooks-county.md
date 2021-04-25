@@ -1,6 +1,6 @@
 ---
 title: "Brooks County, TX"
-date: 2021-04-24
+date: 2021-04-25
 draft: false
 type: county
 tags: [FIPS:48047.0,FEMA:6.0,Non-core,Green]

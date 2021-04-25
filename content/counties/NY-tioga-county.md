@@ -1,6 +1,6 @@
 ---
 title: "Tioga County, NY"
-date: 2021-04-24
+date: 2021-04-25
 draft: false
 type: county
 tags: [FIPS:36107.0,FEMA:2.0,Small metro,Yellow]
