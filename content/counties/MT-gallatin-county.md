@@ -1,6 +1,6 @@
 ---
 title: "Gallatin County, MT"
-date: 2021-04-25
+date: 2021-04-26
 draft: false
 type: county
 tags: [FIPS:30031.0,FEMA:8.0,Micropolitan,Yellow]

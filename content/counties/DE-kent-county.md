@@ -1,6 +1,6 @@
 ---
 title: "Kent County, DE"
-date: 2021-04-25
+date: 2021-04-26
 draft: false
 type: county
 tags: [FIPS:10001.0,FEMA:3.0,Small metro,Yellow]

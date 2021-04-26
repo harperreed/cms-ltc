@@ -1,6 +1,6 @@
 ---
 title: "Bell County, TX"
-date: 2021-04-25
+date: 2021-04-26
 draft: false
 type: county
 tags: [FIPS:48027.0,FEMA:6.0,Medium metro,Green]
