@@ -1,6 +1,6 @@
 ---
 title: "Kiowa County, KS"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
 tags: [FIPS:20097.0,FEMA:7.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 20097.0
 FEMA_Region: 7.0
 Population: 2475.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: <20 tests
-Fourteen_day_test_rate_per_100000: <20 tests
-Percent_Positivity_in_prior_14_days: <20 tests
+Tests_in_prior_14_days: 32.0
+Fourteen_day_test_rate_per_100000: 1293.0
+Percent_Positivity_in_prior_14_days: 0.0
 Level: Green
 url: /states/KS/kiowa-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Charles County, MD"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
 tags: [FIPS:24017.0,FEMA:3.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 24017.0
 FEMA_Region: 3.0
 Population: 163257.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 9009.0
-Fourteen_day_test_rate_per_100000: 5518.0
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 9153.0
+Fourteen_day_test_rate_per_100000: 5606.0
+Percent_Positivity_in_prior_14_days: 0.062
 Level: Yellow
 url: /states/MD/charles-county
 ---

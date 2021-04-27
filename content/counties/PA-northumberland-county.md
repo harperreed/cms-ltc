@@ -1,6 +1,6 @@
 ---
 title: "Northumberland County, PA"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
 tags: [FIPS:42097.0,FEMA:3.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 42097.0
 FEMA_Region: 3.0
 Population: 90843.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3498.0
-Fourteen_day_test_rate_per_100000: 3851.0
-Percent_Positivity_in_prior_14_days: 0.083
+Tests_in_prior_14_days: 3582.0
+Fourteen_day_test_rate_per_100000: 3943.0
+Percent_Positivity_in_prior_14_days: 0.078
 Level: Yellow
 url: /states/PA/northumberland-county
 ---

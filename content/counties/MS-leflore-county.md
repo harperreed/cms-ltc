@@ -1,6 +1,6 @@
 ---
 title: "Leflore County, MS"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
 tags: [FIPS:28083.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 28083.0
 FEMA_Region: 4.0
 Population: 28183.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 202.0
-Fourteen_day_test_rate_per_100000: 717.0
-Percent_Positivity_in_prior_14_days: 0.035
+Tests_in_prior_14_days: 177.0
+Fourteen_day_test_rate_per_100000: 628.0
+Percent_Positivity_in_prior_14_days: 0.017
 Level: Green
 url: /states/MS/leflore-county
 ---

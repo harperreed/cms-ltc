@@ -1,6 +1,6 @@
 ---
 title: "Skamania County, WA"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
 tags: [FIPS:53059.0,FEMA:10.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 53059.0
 FEMA_Region: 10.0
 Population: 12083.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 75.0
-Fourteen_day_test_rate_per_100000: 621.0
-Percent_Positivity_in_prior_14_days: 0.067
+Tests_in_prior_14_days: 127.0
+Fourteen_day_test_rate_per_100000: 1051.0
+Percent_Positivity_in_prior_14_days: 0.087
 Level: Yellow
 url: /states/WA/skamania-county
 ---

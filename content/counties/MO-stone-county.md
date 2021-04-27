@@ -1,6 +1,6 @@
 ---
 title: "Stone County, MO"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
 tags: [FIPS:29209.0,FEMA:7.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 29209.0
 FEMA_Region: 7.0
 Population: 31952.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 529.0
-Fourteen_day_test_rate_per_100000: 1656.0
-Percent_Positivity_in_prior_14_days: 0.04
+Tests_in_prior_14_days: 394.0
+Fourteen_day_test_rate_per_100000: 1233.0
+Percent_Positivity_in_prior_14_days: 0.048
 Level: Green
 url: /states/MO/stone-county
 ---

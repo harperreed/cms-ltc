@@ -1,6 +1,6 @@
 ---
 title: "Mahaska County, IA"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
 tags: [FIPS:19123.0,FEMA:7.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 19123.0
 FEMA_Region: 7.0
 Population: 22095.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 336.0
-Fourteen_day_test_rate_per_100000: 1521.0
-Percent_Positivity_in_prior_14_days: 0.057
+Tests_in_prior_14_days: 359.0
+Fourteen_day_test_rate_per_100000: 1625.0
+Percent_Positivity_in_prior_14_days: 0.05
 Level: Yellow
 url: /states/IA/mahaska-county
 ---

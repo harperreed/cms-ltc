@@ -1,6 +1,6 @@
 ---
 title: "Los Angeles County, CA"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
 tags: [FIPS:6037.0,FEMA:9.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 6037.0
 FEMA_Region: 9.0
 Population: 10039107.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 527829.0
-Fourteen_day_test_rate_per_100000: 5258.0
-Percent_Positivity_in_prior_14_days: 0.014
+Tests_in_prior_14_days: 608222.0
+Fourteen_day_test_rate_per_100000: 6059.0
+Percent_Positivity_in_prior_14_days: 0.011
 Level: Green
 url: /states/CA/los-angeles-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Carroll County, IN"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
-tags: [FIPS:18015.0,FEMA:5.0,Small metro,Yellow]
+tags: [FIPS:18015.0,FEMA:5.0,Small metro,Green]
 categories: [IN]
 County: Carroll County
 State: IN
@@ -11,10 +11,10 @@ FIPS: 18015.0
 FEMA_Region: 5.0
 Population: 20257.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 429.0
-Fourteen_day_test_rate_per_100000: 2118.0
-Percent_Positivity_in_prior_14_days: 0.061
-Level: Yellow
+Tests_in_prior_14_days: 463.0
+Fourteen_day_test_rate_per_100000: 2286.0
+Percent_Positivity_in_prior_14_days: 0.03
+Level: Green
 url: /states/IN/carroll-county
 ---
 

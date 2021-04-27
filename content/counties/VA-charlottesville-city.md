@@ -1,6 +1,6 @@
 ---
 title: "Charlottesville city, VA"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
 tags: [FIPS:51540.0,FEMA:3.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 51540.0
 FEMA_Region: 3.0
 Population: 47266.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 16898.0
-Fourteen_day_test_rate_per_100000: 35751.0
-Percent_Positivity_in_prior_14_days: 0.008
+Tests_in_prior_14_days: 16114.0
+Fourteen_day_test_rate_per_100000: 34092.0
+Percent_Positivity_in_prior_14_days: 0.006
 Level: Green
 url: /states/VA/charlottesville-city
 ---

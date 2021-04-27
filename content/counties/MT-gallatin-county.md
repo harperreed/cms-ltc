@@ -1,6 +1,6 @@
 ---
 title: "Gallatin County, MT"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
 tags: [FIPS:30031.0,FEMA:8.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 30031.0
 FEMA_Region: 8.0
 Population: 114434.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 6026.0
-Fourteen_day_test_rate_per_100000: 5266.0
-Percent_Positivity_in_prior_14_days: 0.085
+Tests_in_prior_14_days: 5359.0
+Fourteen_day_test_rate_per_100000: 4683.0
+Percent_Positivity_in_prior_14_days: 0.09
 Level: Yellow
 url: /states/MT/gallatin-county
 ---

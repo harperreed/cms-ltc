@@ -1,6 +1,6 @@
 ---
 title: "Vigo County, IN"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
 tags: [FIPS:18167.0,FEMA:5.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 18167.0
 FEMA_Region: 5.0
 Population: 107038.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2739.0
-Fourteen_day_test_rate_per_100000: 2559.0
-Percent_Positivity_in_prior_14_days: 0.032
+Tests_in_prior_14_days: 2687.0
+Fourteen_day_test_rate_per_100000: 2510.0
+Percent_Positivity_in_prior_14_days: 0.049
 Level: Green
 url: /states/IN/vigo-county
 ---

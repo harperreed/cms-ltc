@@ -1,9 +1,9 @@
 ---
 title: "Rutherford County, TN"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
-tags: [FIPS:47149.0,FEMA:4.0,Large fringe metro,Red]
+tags: [FIPS:47149.0,FEMA:4.0,Large fringe metro,Yellow]
 categories: [TN]
 County: Rutherford County
 State: TN
@@ -11,10 +11,10 @@ FIPS: 47149.0
 FEMA_Region: 4.0
 Population: 332285.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 4310.0
-Fourteen_day_test_rate_per_100000: 1297.0
-Percent_Positivity_in_prior_14_days: 0.106
-Level: Red
+Tests_in_prior_14_days: 5716.0
+Fourteen_day_test_rate_per_100000: 1720.0
+Percent_Positivity_in_prior_14_days: 0.077
+Level: Yellow
 url: /states/TN/rutherford-county
 ---
 

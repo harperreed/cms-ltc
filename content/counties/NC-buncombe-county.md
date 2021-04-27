@@ -1,6 +1,6 @@
 ---
 title: "Buncombe County, NC"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
 tags: [FIPS:37021.0,FEMA:4.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 37021.0
 FEMA_Region: 4.0
 Population: 261191.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 6519.0
-Fourteen_day_test_rate_per_100000: 2496.0
-Percent_Positivity_in_prior_14_days: 0.048
+Tests_in_prior_14_days: 7280.0
+Fourteen_day_test_rate_per_100000: 2787.0
+Percent_Positivity_in_prior_14_days: 0.044
 Level: Green
 url: /states/NC/buncombe-county
 ---

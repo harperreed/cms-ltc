@@ -1,9 +1,9 @@
 ---
 title: "Perry County, KY"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
-tags: [FIPS:21193.0,FEMA:4.0,Non-core,Yellow]
+tags: [FIPS:21193.0,FEMA:4.0,Non-core,Green]
 categories: [KY]
 County: Perry County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21193.0
 FEMA_Region: 4.0
 Population: 25758.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 535.0
-Fourteen_day_test_rate_per_100000: 2077.0
-Percent_Positivity_in_prior_14_days: 0.069
-Level: Yellow
+Tests_in_prior_14_days: 543.0
+Fourteen_day_test_rate_per_100000: 2108.0
+Percent_Positivity_in_prior_14_days: 0.044
+Level: Green
 url: /states/KY/perry-county
 ---
 

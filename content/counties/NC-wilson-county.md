@@ -1,6 +1,6 @@
 ---
 title: "Wilson County, NC"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
 tags: [FIPS:37195.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 37195.0
 FEMA_Region: 4.0
 Population: 81801.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2553.0
-Fourteen_day_test_rate_per_100000: 3121.0
-Percent_Positivity_in_prior_14_days: 0.066
+Tests_in_prior_14_days: 2918.0
+Fourteen_day_test_rate_per_100000: 3567.0
+Percent_Positivity_in_prior_14_days: 0.07
 Level: Yellow
 url: /states/NC/wilson-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Bosque County, TX"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
-tags: [FIPS:48035.0,FEMA:6.0,Non-core,Yellow]
+tags: [FIPS:48035.0,FEMA:6.0,Non-core,Green]
 categories: [TX]
 County: Bosque County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48035.0
 FEMA_Region: 6.0
 Population: 18685.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 219.0
-Fourteen_day_test_rate_per_100000: 1172.0
-Percent_Positivity_in_prior_14_days: 0.059
-Level: Yellow
+Tests_in_prior_14_days: 206.0
+Fourteen_day_test_rate_per_100000: 1102.0
+Percent_Positivity_in_prior_14_days: 0.044
+Level: Green
 url: /states/TX/bosque-county
 ---
 

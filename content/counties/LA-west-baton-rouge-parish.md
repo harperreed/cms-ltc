@@ -1,6 +1,6 @@
 ---
 title: "West Baton Rouge Parish, LA"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
 tags: [FIPS:22121.0,FEMA:6.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 22121.0
 FEMA_Region: 6.0
 Population: 26465.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 468.0
-Fourteen_day_test_rate_per_100000: 1768.0
-Percent_Positivity_in_prior_14_days: 0.094
+Tests_in_prior_14_days: 591.0
+Fourteen_day_test_rate_per_100000: 2233.0
+Percent_Positivity_in_prior_14_days: 0.083
 Level: Yellow
 url: /states/LA/west-baton-rouge-parish
 ---

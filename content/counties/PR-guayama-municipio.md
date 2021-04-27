@@ -1,6 +1,6 @@
 ---
 title: "Guayama Municipio, PR"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
 tags: [FIPS:72057.0,FEMA:2.0,,Red]
@@ -11,9 +11,9 @@ FIPS: 72057.0
 FEMA_Region: 2.0
 Population: 39465.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 1147.0
-Fourteen_day_test_rate_per_100000: 2906.0
-Percent_Positivity_in_prior_14_days: 0.199
+Tests_in_prior_14_days: 783.0
+Fourteen_day_test_rate_per_100000: 1984.0
+Percent_Positivity_in_prior_14_days: 0.148
 Level: Red
 url: /states/PR/guayama-municipio
 ---

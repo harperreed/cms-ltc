@@ -1,6 +1,6 @@
 ---
 title: "Custer County, MT"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
 tags: [FIPS:30017.0,FEMA:8.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 30017.0
 FEMA_Region: 8.0
 Population: 11402.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 522.0
-Fourteen_day_test_rate_per_100000: 4578.0
-Percent_Positivity_in_prior_14_days: 0.015
+Tests_in_prior_14_days: 574.0
+Fourteen_day_test_rate_per_100000: 5034.0
+Percent_Positivity_in_prior_14_days: 0.007
 Level: Green
 url: /states/MT/custer-county
 ---

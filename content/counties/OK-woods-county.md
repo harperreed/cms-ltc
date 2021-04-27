@@ -1,9 +1,9 @@
 ---
 title: "Woods County, OK"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
-tags: [FIPS:40151.0,FEMA:6.0,Non-core,Green]
+tags: [FIPS:40151.0,FEMA:6.0,Non-core,Yellow]
 categories: [OK]
 County: Woods County
 State: OK
@@ -11,10 +11,10 @@ FIPS: 40151.0
 FEMA_Region: 6.0
 Population: 8793.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 34.0
-Fourteen_day_test_rate_per_100000: 387.0
-Percent_Positivity_in_prior_14_days: 0.029
-Level: Green
+Tests_in_prior_14_days: 28.0
+Fourteen_day_test_rate_per_100000: 318.0
+Percent_Positivity_in_prior_14_days: 0.071
+Level: Yellow
 url: /states/OK/woods-county
 ---
 

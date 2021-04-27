@@ -1,6 +1,6 @@
 ---
 title: "La Salle County, TX"
-date: 2021-04-26
+date: 2021-04-27
 draft: false
 type: county
 tags: [FIPS:48283.0,FEMA:6.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 48283.0
 FEMA_Region: 6.0
 Population: 7520.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 173.0
-Fourteen_day_test_rate_per_100000: 2301.0
-Percent_Positivity_in_prior_14_days: 0.006
+Tests_in_prior_14_days: 151.0
+Fourteen_day_test_rate_per_100000: 2008.0
+Percent_Positivity_in_prior_14_days: 0.013
 Level: Green
 url: /states/TX/la-salle-county
 ---
