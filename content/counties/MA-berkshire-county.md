@@ -1,6 +1,6 @@
 ---
 title: "Berkshire County, MA"
-date: 2021-04-28
+date: 2021-04-29
 draft: false
 type: county
 tags: [FIPS:25003.0,FEMA:1.0,Small metro,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Payne County, OK"
-date: 2021-04-28
+date: 2021-04-29
 draft: false
 type: county
 tags: [FIPS:40119.0,FEMA:6.0,Micropolitan,Yellow]

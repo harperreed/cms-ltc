@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, IL"
-date: 2021-04-28
+date: 2021-04-29
 draft: false
 type: county
 tags: [FIPS:17077.0,FEMA:5.0,Small metro,Green]
