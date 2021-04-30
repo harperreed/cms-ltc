@@ -1,6 +1,6 @@
 ---
 title: "Sanborn County, SD"
-date: 2021-04-29
+date: 2021-04-30
 draft: false
 type: county
 tags: [FIPS:46111.0,FEMA:8.0,Non-core,Green]

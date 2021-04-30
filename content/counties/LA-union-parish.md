@@ -1,6 +1,6 @@
 ---
 title: "Union Parish, LA"
-date: 2021-04-29
+date: 2021-04-30
 draft: false
 type: county
 tags: [FIPS:22111.0,FEMA:6.0,Small metro,Green]

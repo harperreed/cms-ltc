@@ -1,6 +1,6 @@
 ---
 title: "Lawrence County, SD"
-date: 2021-04-29
+date: 2021-04-30
 draft: false
 type: county
 tags: [FIPS:46081.0,FEMA:8.0,Micropolitan,Green]

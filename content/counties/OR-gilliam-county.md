@@ -1,6 +1,6 @@
 ---
 title: "Gilliam County, OR"
-date: 2021-04-29
+date: 2021-04-30
 draft: false
 type: county
 tags: [FIPS:41021.0,FEMA:10.0,Non-core,Green]

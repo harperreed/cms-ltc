@@ -1,6 +1,6 @@
 ---
 title: "Crow Wing County, MN"
-date: 2021-04-29
+date: 2021-04-30
 draft: false
 type: county
 tags: [FIPS:27035.0,FEMA:5.0,Micropolitan,Red]

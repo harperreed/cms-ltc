@@ -1,6 +1,6 @@
 ---
 title: "Fayette County, IA"
-date: 2021-04-29
+date: 2021-04-30
 draft: false
 type: county
 tags: [FIPS:19065.0,FEMA:7.0,Non-core,Green]

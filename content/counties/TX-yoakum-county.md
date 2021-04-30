@@ -1,6 +1,6 @@
 ---
 title: "Yoakum County, TX"
-date: 2021-04-29
+date: 2021-04-30
 draft: false
 type: county
 tags: [FIPS:48501.0,FEMA:6.0,Non-core,Green]
