@@ -1,6 +1,6 @@
 ---
 title: "Lajas Municipio, PR"
-date: 2021-04-30
+date: 2021-05-01
 draft: false
 type: county
 tags: [FIPS:72079.0,FEMA:2.0,,Yellow]

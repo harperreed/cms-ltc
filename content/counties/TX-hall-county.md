@@ -1,6 +1,6 @@
 ---
 title: "Hall County, TX"
-date: 2021-04-30
+date: 2021-05-01
 draft: false
 type: county
 tags: [FIPS:48191.0,FEMA:6.0,Non-core,Green]
