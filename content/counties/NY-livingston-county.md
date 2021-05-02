@@ -1,6 +1,6 @@
 ---
 title: "Livingston County, NY"
-date: 2021-05-01
+date: 2021-05-02
 draft: false
 type: county
 tags: [FIPS:36051.0,FEMA:2.0,Large fringe metro,Yellow]

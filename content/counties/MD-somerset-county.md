@@ -1,6 +1,6 @@
 ---
 title: "Somerset County, MD"
-date: 2021-05-01
+date: 2021-05-02
 draft: false
 type: county
 tags: [FIPS:24039.0,FEMA:3.0,Medium metro,Yellow]

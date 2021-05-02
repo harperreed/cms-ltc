@@ -1,6 +1,6 @@
 ---
 title: "Watauga County, NC"
-date: 2021-05-01
+date: 2021-05-02
 draft: false
 type: county
 tags: [FIPS:37189.0,FEMA:4.0,Micropolitan,Green]

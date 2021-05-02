@@ -1,6 +1,6 @@
 ---
 title: "Bullitt County, KY"
-date: 2021-05-01
+date: 2021-05-02
 draft: false
 type: county
 tags: [FIPS:21029.0,FEMA:4.0,Large fringe metro,Green]

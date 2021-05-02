@@ -1,6 +1,6 @@
 ---
 title: "Butler County, NE"
-date: 2021-05-01
+date: 2021-05-02
 draft: false
 type: county
 tags: [FIPS:31023.0,FEMA:7.0,Non-core,Yellow]

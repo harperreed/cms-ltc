@@ -1,6 +1,6 @@
 ---
 title: "Meade County, SD"
-date: 2021-05-01
+date: 2021-05-02
 draft: false
 type: county
 tags: [FIPS:46093.0,FEMA:8.0,Small metro,Green]
