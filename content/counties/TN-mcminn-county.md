@@ -1,6 +1,6 @@
 ---
 title: "McMinn County, TN"
-date: 2021-05-02
+date: 2021-05-03
 draft: false
 type: county
 tags: [FIPS:47107.0,FEMA:4.0,Micropolitan,Red]

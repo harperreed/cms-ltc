@@ -1,6 +1,6 @@
 ---
 title: "Nicholas County, WV"
-date: 2021-05-02
+date: 2021-05-03
 draft: false
 type: county
 tags: [FIPS:54067.0,FEMA:3.0,Non-core,Yellow]

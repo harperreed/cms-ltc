@@ -1,6 +1,6 @@
 ---
 title: "Le Flore County, OK"
-date: 2021-05-02
+date: 2021-05-03
 draft: false
 type: county
 tags: [FIPS:40079.0,FEMA:6.0,Medium metro,Yellow]

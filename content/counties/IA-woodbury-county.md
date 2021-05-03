@@ -1,6 +1,6 @@
 ---
 title: "Woodbury County, IA"
-date: 2021-05-02
+date: 2021-05-03
 draft: false
 type: county
 tags: [FIPS:19193.0,FEMA:7.0,Small metro,Yellow]
