@@ -1,6 +1,6 @@
 ---
 title: "Culpeper County, VA"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:51047.0,FEMA:3.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 51047.0
 FEMA_Region: 3.0
 Population: 52605.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1972.0
-Fourteen_day_test_rate_per_100000: 3749.0
-Percent_Positivity_in_prior_14_days: 0.031
+Tests_in_prior_14_days: 1010.0
+Fourteen_day_test_rate_per_100000: 1920.0
+Percent_Positivity_in_prior_14_days: 0.045
 Level: Green
 url: /states/VA/culpeper-county
 ---

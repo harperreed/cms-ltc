@@ -1,6 +1,6 @@
 ---
 title: "San Augustine County, TX"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:48405.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48405.0
 FEMA_Region: 6.0
 Population: 8237.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 80.0
-Fourteen_day_test_rate_per_100000: 971.0
-Percent_Positivity_in_prior_14_days: 0.05
+Tests_in_prior_14_days: 75.0
+Fourteen_day_test_rate_per_100000: 911.0
+Percent_Positivity_in_prior_14_days: 0.067
 Level: Yellow
 url: /states/TX/san-augustine-county
 ---

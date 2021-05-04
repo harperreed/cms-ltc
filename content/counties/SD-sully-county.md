@@ -1,6 +1,6 @@
 ---
 title: "Sully County, SD"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:46119.0,FEMA:8.0,Micropolitan,Green]

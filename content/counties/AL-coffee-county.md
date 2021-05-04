@@ -1,6 +1,6 @@
 ---
 title: "Coffee County, AL"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:1031.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 1031.0
 FEMA_Region: 4.0
 Population: 52342.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 326.0
-Fourteen_day_test_rate_per_100000: 623.0
-Percent_Positivity_in_prior_14_days: 0.077
+Tests_in_prior_14_days: 378.0
+Fourteen_day_test_rate_per_100000: 722.0
+Percent_Positivity_in_prior_14_days: 0.061
 Level: Yellow
 url: /states/AL/coffee-county
 ---

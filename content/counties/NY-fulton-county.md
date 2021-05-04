@@ -1,6 +1,6 @@
 ---
 title: "Fulton County, NY"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:36035.0,FEMA:2.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 36035.0
 FEMA_Region: 2.0
 Population: 53383.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2696.0
-Fourteen_day_test_rate_per_100000: 5050.0
-Percent_Positivity_in_prior_14_days: 0.086
+Tests_in_prior_14_days: 3496.0
+Fourteen_day_test_rate_per_100000: 6549.0
+Percent_Positivity_in_prior_14_days: 0.056
 Level: Yellow
 url: /states/NY/fulton-county
 ---

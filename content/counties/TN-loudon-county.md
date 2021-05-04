@@ -1,6 +1,6 @@
 ---
 title: "Loudon County, TN"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:47105.0,FEMA:4.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 47105.0
 FEMA_Region: 4.0
 Population: 54068.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 435.0
-Fourteen_day_test_rate_per_100000: 805.0
-Percent_Positivity_in_prior_14_days: 0.08
+Tests_in_prior_14_days: 489.0
+Fourteen_day_test_rate_per_100000: 904.0
+Percent_Positivity_in_prior_14_days: 0.07
 Level: Yellow
 url: /states/TN/loudon-county
 ---

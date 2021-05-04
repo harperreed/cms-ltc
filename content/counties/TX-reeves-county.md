@@ -1,6 +1,6 @@
 ---
 title: "Reeves County, TX"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:48389.0,FEMA:6.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 48389.0
 FEMA_Region: 6.0
 Population: 15976.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 387.0
-Fourteen_day_test_rate_per_100000: 2422.0
-Percent_Positivity_in_prior_14_days: 0.008
+Tests_in_prior_14_days: 667.0
+Fourteen_day_test_rate_per_100000: 4175.0
+Percent_Positivity_in_prior_14_days: 0.012
 Level: Green
 url: /states/TX/reeves-county
 ---

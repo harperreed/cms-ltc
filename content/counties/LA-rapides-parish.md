@@ -1,6 +1,6 @@
 ---
 title: "Rapides Parish, LA"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:22079.0,FEMA:6.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 22079.0
 FEMA_Region: 6.0
 Population: 129648.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 5476.0
-Fourteen_day_test_rate_per_100000: 4224.0
-Percent_Positivity_in_prior_14_days: 0.018
+Tests_in_prior_14_days: 4785.0
+Fourteen_day_test_rate_per_100000: 3691.0
+Percent_Positivity_in_prior_14_days: 0.022
 Level: Green
 url: /states/LA/rapides-parish
 ---

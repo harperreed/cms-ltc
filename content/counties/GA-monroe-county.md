@@ -1,6 +1,6 @@
 ---
 title: "Monroe County, GA"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:13207.0,FEMA:4.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 13207.0
 FEMA_Region: 4.0
 Population: 27578.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 247.0
-Fourteen_day_test_rate_per_100000: 896.0
-Percent_Positivity_in_prior_14_days: 0.045
+Tests_in_prior_14_days: 274.0
+Fourteen_day_test_rate_per_100000: 994.0
+Percent_Positivity_in_prior_14_days: 0.033
 Level: Green
 url: /states/GA/monroe-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Camuy Municipio, PR"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:72027.0,FEMA:2.0,,Yellow]
@@ -11,9 +11,9 @@ FIPS: 72027.0
 FEMA_Region: 2.0
 Population: 30504.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 495.0
-Fourteen_day_test_rate_per_100000: 1623.0
-Percent_Positivity_in_prior_14_days: 0.131
+Tests_in_prior_14_days: 374.0
+Fourteen_day_test_rate_per_100000: 1226.0
+Percent_Positivity_in_prior_14_days: 0.112
 Level: Yellow
 url: /states/PR/camuy-municipio
 ---

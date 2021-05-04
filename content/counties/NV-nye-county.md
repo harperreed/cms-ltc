@@ -1,9 +1,9 @@
 ---
 title: "Nye County, NV"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
-tags: [FIPS:32023.0,FEMA:9.0,Micropolitan,Red]
+tags: [FIPS:32023.0,FEMA:9.0,Micropolitan,Yellow]
 categories: [NV]
 County: Nye County
 State: NV
@@ -11,10 +11,10 @@ FIPS: 32023.0
 FEMA_Region: 9.0
 Population: 46523.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 6552.0
-Fourteen_day_test_rate_per_100000: 14083.0
-Percent_Positivity_in_prior_14_days: 0.189
-Level: Red
+Tests_in_prior_14_days: 401.0
+Fourteen_day_test_rate_per_100000: 862.0
+Percent_Positivity_in_prior_14_days: 0.062
+Level: Yellow
 url: /states/NV/nye-county
 ---
 

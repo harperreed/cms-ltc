@@ -1,6 +1,6 @@
 ---
 title: "Lewis County, WV"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:54041.0,FEMA:3.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 54041.0
 FEMA_Region: 3.0
 Population: 15907.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1537.0
-Fourteen_day_test_rate_per_100000: 9662.0
-Percent_Positivity_in_prior_14_days: 0.02
+Tests_in_prior_14_days: 1484.0
+Fourteen_day_test_rate_per_100000: 9329.0
+Percent_Positivity_in_prior_14_days: 0.019
 Level: Green
 url: /states/WV/lewis-county
 ---

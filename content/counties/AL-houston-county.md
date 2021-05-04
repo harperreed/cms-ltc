@@ -1,6 +1,6 @@
 ---
 title: "Houston County, AL"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:1069.0,FEMA:4.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 1069.0
 FEMA_Region: 4.0
 Population: 105882.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1007.0
-Fourteen_day_test_rate_per_100000: 951.0
-Percent_Positivity_in_prior_14_days: 0.039
+Tests_in_prior_14_days: 1152.0
+Fourteen_day_test_rate_per_100000: 1088.0
+Percent_Positivity_in_prior_14_days: 0.046
 Level: Green
 url: /states/AL/houston-county
 ---

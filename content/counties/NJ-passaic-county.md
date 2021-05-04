@@ -1,6 +1,6 @@
 ---
 title: "Passaic County, NJ"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:34031.0,FEMA:2.0,Large fringe metro,Red]
@@ -11,9 +11,9 @@ FIPS: 34031.0
 FEMA_Region: 2.0
 Population: 501826.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 32883.0
-Fourteen_day_test_rate_per_100000: 6553.0
-Percent_Positivity_in_prior_14_days: 0.117
+Tests_in_prior_14_days: 31094.0
+Fourteen_day_test_rate_per_100000: 6196.0
+Percent_Positivity_in_prior_14_days: 0.104
 Level: Red
 url: /states/NJ/passaic-county
 ---

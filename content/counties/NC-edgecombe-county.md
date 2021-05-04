@@ -1,9 +1,9 @@
 ---
 title: "Edgecombe County, NC"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
-tags: [FIPS:37065.0,FEMA:4.0,Small metro,Red]
+tags: [FIPS:37065.0,FEMA:4.0,Small metro,Yellow]
 categories: [NC]
 County: Edgecombe County
 State: NC
@@ -11,10 +11,10 @@ FIPS: 37065.0
 FEMA_Region: 4.0
 Population: 51472.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2027.0
-Fourteen_day_test_rate_per_100000: 3938.0
-Percent_Positivity_in_prior_14_days: 0.108
-Level: Red
+Tests_in_prior_14_days: 1919.0
+Fourteen_day_test_rate_per_100000: 3728.0
+Percent_Positivity_in_prior_14_days: 0.091
+Level: Yellow
 url: /states/NC/edgecombe-county
 ---
 

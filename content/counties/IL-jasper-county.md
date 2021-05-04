@@ -1,6 +1,6 @@
 ---
 title: "Jasper County, IL"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:17079.0,FEMA:5.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 17079.0
 FEMA_Region: 5.0
 Population: 9610.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 247.0
-Fourteen_day_test_rate_per_100000: 2570.0
-Percent_Positivity_in_prior_14_days: 0.016
+Tests_in_prior_14_days: 261.0
+Fourteen_day_test_rate_per_100000: 2716.0
+Percent_Positivity_in_prior_14_days: 0.008
 Level: Green
 url: /states/IL/jasper-county
 ---

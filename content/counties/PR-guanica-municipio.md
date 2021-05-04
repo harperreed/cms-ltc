@@ -1,6 +1,6 @@
 ---
 title: "Guánica Municipio, PR"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:72055.0,FEMA:2.0,,Yellow]
@@ -11,9 +11,9 @@ FIPS: 72055.0
 FEMA_Region: 2.0
 Population: 15383.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 121.0
-Fourteen_day_test_rate_per_100000: 787.0
-Percent_Positivity_in_prior_14_days: 0.19
+Tests_in_prior_14_days: 110.0
+Fourteen_day_test_rate_per_100000: 715.0
+Percent_Positivity_in_prior_14_days: 0.127
 Level: Yellow
 url: /states/PR/guanica-municipio
 ---

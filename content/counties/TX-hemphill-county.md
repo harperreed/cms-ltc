@@ -1,6 +1,6 @@
 ---
 title: "Hemphill County, TX"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:48211.0,FEMA:6.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Polk County, MN"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:27119.0,FEMA:5.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 27119.0
 FEMA_Region: 5.0
 Population: 31364.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1794.0
-Fourteen_day_test_rate_per_100000: 5720.0
-Percent_Positivity_in_prior_14_days: 0.062
+Tests_in_prior_14_days: 2217.0
+Fourteen_day_test_rate_per_100000: 7069.0
+Percent_Positivity_in_prior_14_days: 0.051
 Level: Yellow
 url: /states/MN/polk-county
 ---

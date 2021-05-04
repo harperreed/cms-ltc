@@ -1,6 +1,6 @@
 ---
 title: "Dunklin County, MO"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:29069.0,FEMA:7.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 29069.0
 FEMA_Region: 7.0
 Population: 29131.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 285.0
-Fourteen_day_test_rate_per_100000: 978.0
-Percent_Positivity_in_prior_14_days: 0.018
+Tests_in_prior_14_days: 302.0
+Fourteen_day_test_rate_per_100000: 1037.0
+Percent_Positivity_in_prior_14_days: 0.033
 Level: Green
 url: /states/MO/dunklin-county
 ---

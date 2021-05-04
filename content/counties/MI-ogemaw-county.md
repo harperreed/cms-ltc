@@ -1,6 +1,6 @@
 ---
 title: "Ogemaw County, MI"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:26129.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 26129.0
 FEMA_Region: 5.0
 Population: 20997.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 793.0
-Fourteen_day_test_rate_per_100000: 3777.0
-Percent_Positivity_in_prior_14_days: 0.188
+Tests_in_prior_14_days: 882.0
+Fourteen_day_test_rate_per_100000: 4201.0
+Percent_Positivity_in_prior_14_days: 0.146
 Level: Red
 url: /states/MI/ogemaw-county
 ---

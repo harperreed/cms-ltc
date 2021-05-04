@@ -1,6 +1,6 @@
 ---
 title: "Kalkaska County, MI"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:26079.0,FEMA:5.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 26079.0
 FEMA_Region: 5.0
 Population: 18038.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 714.0
-Fourteen_day_test_rate_per_100000: 3958.0
-Percent_Positivity_in_prior_14_days: 0.192
+Tests_in_prior_14_days: 733.0
+Fourteen_day_test_rate_per_100000: 4064.0
+Percent_Positivity_in_prior_14_days: 0.154
 Level: Red
 url: /states/MI/kalkaska-county
 ---

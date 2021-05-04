@@ -1,6 +1,6 @@
 ---
 title: "Plymouth County, IA"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:19149.0,FEMA:7.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 19149.0
 FEMA_Region: 7.0
 Population: 25177.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 551.0
-Fourteen_day_test_rate_per_100000: 2189.0
-Percent_Positivity_in_prior_14_days: 0.098
+Tests_in_prior_14_days: 495.0
+Fourteen_day_test_rate_per_100000: 1966.0
+Percent_Positivity_in_prior_14_days: 0.055
 Level: Yellow
 url: /states/IA/plymouth-county
 ---

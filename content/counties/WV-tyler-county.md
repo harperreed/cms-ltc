@@ -1,6 +1,6 @@
 ---
 title: "Tyler County, WV"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:54095.0,FEMA:3.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 54095.0
 FEMA_Region: 3.0
 Population: 8591.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 252.0
-Fourteen_day_test_rate_per_100000: 2933.0
-Percent_Positivity_in_prior_14_days: 0.04
+Tests_in_prior_14_days: 192.0
+Fourteen_day_test_rate_per_100000: 2235.0
+Percent_Positivity_in_prior_14_days: 0.042
 Level: Green
 url: /states/WV/tyler-county
 ---

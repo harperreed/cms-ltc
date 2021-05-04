@@ -1,6 +1,6 @@
 ---
 title: "Orange County, FL"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:12095.0,FEMA:4.0,Large central metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 12095.0
 FEMA_Region: 4.0
 Population: 1393452.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 59679.0
-Fourteen_day_test_rate_per_100000: 4283.0
-Percent_Positivity_in_prior_14_days: 0.075
+Tests_in_prior_14_days: 57203.0
+Fourteen_day_test_rate_per_100000: 4105.0
+Percent_Positivity_in_prior_14_days: 0.074
 Level: Yellow
 url: /states/FL/orange-county
 ---

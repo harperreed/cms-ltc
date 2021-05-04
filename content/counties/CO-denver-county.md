@@ -1,6 +1,6 @@
 ---
 title: "Denver County, CO"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:8031.0,FEMA:8.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 8031.0
 FEMA_Region: 8.0
 Population: 727211.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 51775.0
-Fourteen_day_test_rate_per_100000: 7120.0
-Percent_Positivity_in_prior_14_days: 0.039
+Tests_in_prior_14_days: 49146.0
+Fourteen_day_test_rate_per_100000: 6758.0
+Percent_Positivity_in_prior_14_days: 0.038
 Level: Green
 url: /states/CO/denver-county
 ---

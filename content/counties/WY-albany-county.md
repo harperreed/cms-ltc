@@ -1,6 +1,6 @@
 ---
 title: "Albany County, WY"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:56001.0,FEMA:8.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 56001.0
 FEMA_Region: 8.0
 Population: 38880.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1414.0
-Fourteen_day_test_rate_per_100000: 3637.0
-Percent_Positivity_in_prior_14_days: 0.069
+Tests_in_prior_14_days: 1467.0
+Fourteen_day_test_rate_per_100000: 3773.0
+Percent_Positivity_in_prior_14_days: 0.067
 Level: Yellow
 url: /states/WY/albany-county
 ---

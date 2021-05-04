@@ -1,6 +1,6 @@
 ---
 title: "Meade County, SD"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:46093.0,FEMA:8.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 46093.0
 FEMA_Region: 8.0
 Population: 28332.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 344.0
-Fourteen_day_test_rate_per_100000: 1214.0
-Percent_Positivity_in_prior_14_days: 0.049
+Tests_in_prior_14_days: 373.0
+Fourteen_day_test_rate_per_100000: 1317.0
+Percent_Positivity_in_prior_14_days: 0.038
 Level: Green
 url: /states/SD/meade-county
 ---

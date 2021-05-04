@@ -1,6 +1,6 @@
 ---
 title: "Ceiba Municipio, PR"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:72037.0,FEMA:2.0,,Yellow]
@@ -11,9 +11,9 @@ FIPS: 72037.0
 FEMA_Region: 2.0
 Population: 10904.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 82.0
-Fourteen_day_test_rate_per_100000: 752.0
-Percent_Positivity_in_prior_14_days: 0.11
+Tests_in_prior_14_days: 71.0
+Fourteen_day_test_rate_per_100000: 651.0
+Percent_Positivity_in_prior_14_days: 0.127
 Level: Yellow
 url: /states/PR/ceiba-municipio
 ---

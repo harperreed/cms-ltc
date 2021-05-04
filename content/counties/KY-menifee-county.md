@@ -1,6 +1,6 @@
 ---
 title: "Menifee County, KY"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:21165.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 21165.0
 FEMA_Region: 4.0
 Population: 6489.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 188.0
-Fourteen_day_test_rate_per_100000: 2897.0
-Percent_Positivity_in_prior_14_days: 0.027
+Tests_in_prior_14_days: 238.0
+Fourteen_day_test_rate_per_100000: 3668.0
+Percent_Positivity_in_prior_14_days: 0.025
 Level: Green
 url: /states/KY/menifee-county
 ---

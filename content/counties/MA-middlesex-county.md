@@ -1,6 +1,6 @@
 ---
 title: "Middlesex County, MA"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:25017.0,FEMA:1.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 25017.0
 FEMA_Region: 1.0
 Population: 1611699.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 265838.0
-Fourteen_day_test_rate_per_100000: 16494.0
-Percent_Positivity_in_prior_14_days: 0.018
+Tests_in_prior_14_days: 266747.0
+Fourteen_day_test_rate_per_100000: 16551.0
+Percent_Positivity_in_prior_14_days: 0.014
 Level: Green
 url: /states/MA/middlesex-county
 ---

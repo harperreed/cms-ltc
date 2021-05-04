@@ -1,6 +1,6 @@
 ---
 title: "Mayagüez Municipio, PR"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:72097.0,FEMA:2.0,,Red]
@@ -11,8 +11,8 @@ FIPS: 72097.0
 FEMA_Region: 2.0
 Population: 71530.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 1089.0
-Fourteen_day_test_rate_per_100000: 1522.0
+Tests_in_prior_14_days: 833.0
+Fourteen_day_test_rate_per_100000: 1165.0
 Percent_Positivity_in_prior_14_days: 0.124
 Level: Red
 url: /states/PR/mayaguez-municipio

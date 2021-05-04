@@ -1,9 +1,9 @@
 ---
 title: "Transylvania County, NC"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
-tags: [FIPS:37175.0,FEMA:4.0,Micropolitan,Red]
+tags: [FIPS:37175.0,FEMA:4.0,Micropolitan,Yellow]
 categories: [NC]
 County: Transylvania County
 State: NC
@@ -11,10 +11,10 @@ FIPS: 37175.0
 FEMA_Region: 4.0
 Population: 34385.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 524.0
-Fourteen_day_test_rate_per_100000: 1524.0
-Percent_Positivity_in_prior_14_days: 0.12
-Level: Red
+Tests_in_prior_14_days: 478.0
+Fourteen_day_test_rate_per_100000: 1390.0
+Percent_Positivity_in_prior_14_days: 0.098
+Level: Yellow
 url: /states/NC/transylvania-county
 ---
 

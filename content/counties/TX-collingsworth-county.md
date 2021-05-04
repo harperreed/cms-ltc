@@ -1,9 +1,9 @@
 ---
 title: "Collingsworth County, TX"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
-tags: [FIPS:48087.0,FEMA:6.0,Non-core,Green]
+tags: [FIPS:48087.0,FEMA:6.0,Non-core,Yellow]
 categories: [TX]
 County: Collingsworth County
 State: TX
@@ -13,8 +13,8 @@ Population: 2920.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 22.0
 Fourteen_day_test_rate_per_100000: 753.0
-Percent_Positivity_in_prior_14_days: 0.045
-Level: Green
+Percent_Positivity_in_prior_14_days: 0.091
+Level: Yellow
 url: /states/TX/collingsworth-county
 ---
 

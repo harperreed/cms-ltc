@@ -1,6 +1,6 @@
 ---
 title: "Ontonagon County, MI"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:26131.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 26131.0
 FEMA_Region: 5.0
 Population: 5720.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 200.0
-Fourteen_day_test_rate_per_100000: 3497.0
-Percent_Positivity_in_prior_14_days: 0.105
+Tests_in_prior_14_days: 263.0
+Fourteen_day_test_rate_per_100000: 4598.0
+Percent_Positivity_in_prior_14_days: 0.106
 Level: Red
 url: /states/MI/ontonagon-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Mower County, MN"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
-tags: [FIPS:27099.0,FEMA:5.0,Micropolitan,Yellow]
+tags: [FIPS:27099.0,FEMA:5.0,Micropolitan,Green]
 categories: [MN]
 County: Mower County
 State: MN
@@ -11,10 +11,10 @@ FIPS: 27099.0
 FEMA_Region: 5.0
 Population: 40062.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2237.0
-Fourteen_day_test_rate_per_100000: 5584.0
-Percent_Positivity_in_prior_14_days: 0.064
-Level: Yellow
+Tests_in_prior_14_days: 2266.0
+Fourteen_day_test_rate_per_100000: 5656.0
+Percent_Positivity_in_prior_14_days: 0.047
+Level: Green
 url: /states/MN/mower-county
 ---
 

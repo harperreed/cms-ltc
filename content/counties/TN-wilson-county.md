@@ -1,6 +1,6 @@
 ---
 title: "Wilson County, TN"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:47189.0,FEMA:4.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 47189.0
 FEMA_Region: 4.0
 Population: 144657.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 3004.0
-Fourteen_day_test_rate_per_100000: 2077.0
-Percent_Positivity_in_prior_14_days: 0.091
+Tests_in_prior_14_days: 3681.0
+Fourteen_day_test_rate_per_100000: 2545.0
+Percent_Positivity_in_prior_14_days: 0.081
 Level: Yellow
 url: /states/TN/wilson-county
 ---

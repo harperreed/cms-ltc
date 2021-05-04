@@ -1,6 +1,6 @@
 ---
 title: "Ashley County, AR"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:5003.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 5003.0
 FEMA_Region: 6.0
 Population: 19657.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 182.0
-Fourteen_day_test_rate_per_100000: 926.0
-Percent_Positivity_in_prior_14_days: 0.066
+Tests_in_prior_14_days: 239.0
+Fourteen_day_test_rate_per_100000: 1216.0
+Percent_Positivity_in_prior_14_days: 0.075
 Level: Yellow
 url: /states/AR/ashley-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Linn County, IA"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
-tags: [FIPS:19113.0,FEMA:7.0,Medium metro,Green]
+tags: [FIPS:19113.0,FEMA:7.0,Medium metro,Yellow]
 categories: [IA]
 County: Linn County
 State: IA
@@ -11,10 +11,10 @@ FIPS: 19113.0
 FEMA_Region: 7.0
 Population: 226706.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 6385.0
-Fourteen_day_test_rate_per_100000: 2816.0
-Percent_Positivity_in_prior_14_days: 0.049
-Level: Green
+Tests_in_prior_14_days: 6645.0
+Fourteen_day_test_rate_per_100000: 2931.0
+Percent_Positivity_in_prior_14_days: 0.051
+Level: Yellow
 url: /states/IA/linn-county
 ---
 

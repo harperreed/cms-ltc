@@ -1,6 +1,6 @@
 ---
 title: "Ballard County, KY"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:21007.0,FEMA:4.0,Micropolitan,Green]
@@ -11,8 +11,8 @@ FIPS: 21007.0
 FEMA_Region: 4.0
 Population: 7888.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 80.0
-Fourteen_day_test_rate_per_100000: 1014.0
+Tests_in_prior_14_days: 115.0
+Fourteen_day_test_rate_per_100000: 1458.0
 Percent_Positivity_in_prior_14_days: 0.0
 Level: Green
 url: /states/KY/ballard-county

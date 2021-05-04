@@ -1,6 +1,6 @@
 ---
 title: "Cannon County, TN"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:47015.0,FEMA:4.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 47015.0
 FEMA_Region: 4.0
 Population: 14678.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 163.0
-Fourteen_day_test_rate_per_100000: 1111.0
-Percent_Positivity_in_prior_14_days: 0.074
+Tests_in_prior_14_days: 203.0
+Fourteen_day_test_rate_per_100000: 1383.0
+Percent_Positivity_in_prior_14_days: 0.064
 Level: Yellow
 url: /states/TN/cannon-county
 ---

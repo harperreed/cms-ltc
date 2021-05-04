@@ -1,6 +1,6 @@
 ---
 title: "Comerío Municipio, PR"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:72045.0,FEMA:2.0,,Yellow]
@@ -13,7 +13,7 @@ Population: 18648.0
 NCHS_Urban_Rural_Classification: 
 Tests_in_prior_14_days: 278.0
 Fourteen_day_test_rate_per_100000: 1491.0
-Percent_Positivity_in_prior_14_days: 0.237
+Percent_Positivity_in_prior_14_days: 0.176
 Level: Yellow
 url: /states/PR/comerio-municipio
 ---

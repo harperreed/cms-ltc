@@ -1,9 +1,9 @@
 ---
 title: "Haskell County, OK"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
-tags: [FIPS:40061.0,FEMA:6.0,Non-core,Green]
+tags: [FIPS:40061.0,FEMA:6.0,Non-core,Yellow]
 categories: [OK]
 County: Haskell County
 State: OK
@@ -11,10 +11,10 @@ FIPS: 40061.0
 FEMA_Region: 6.0
 Population: 12627.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 61.0
-Fourteen_day_test_rate_per_100000: 483.0
-Percent_Positivity_in_prior_14_days: 0.033
-Level: Green
+Tests_in_prior_14_days: 57.0
+Fourteen_day_test_rate_per_100000: 451.0
+Percent_Positivity_in_prior_14_days: 0.07
+Level: Yellow
 url: /states/OK/haskell-county
 ---
 

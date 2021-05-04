@@ -1,6 +1,6 @@
 ---
 title: "Vance County, NC"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:37181.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 37181.0
 FEMA_Region: 4.0
 Population: 44535.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2278.0
-Fourteen_day_test_rate_per_100000: 5115.0
-Percent_Positivity_in_prior_14_days: 0.044
+Tests_in_prior_14_days: 1854.0
+Fourteen_day_test_rate_per_100000: 4163.0
+Percent_Positivity_in_prior_14_days: 0.042
 Level: Green
 url: /states/NC/vance-county
 ---

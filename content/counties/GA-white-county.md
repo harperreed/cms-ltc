@@ -1,6 +1,6 @@
 ---
 title: "White County, GA"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:13311.0,FEMA:4.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 13311.0
 FEMA_Region: 4.0
 Population: 30798.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 238.0
-Fourteen_day_test_rate_per_100000: 773.0
-Percent_Positivity_in_prior_14_days: 0.042
+Tests_in_prior_14_days: 273.0
+Fourteen_day_test_rate_per_100000: 886.0
+Percent_Positivity_in_prior_14_days: 0.048
 Level: Green
 url: /states/GA/white-county
 ---

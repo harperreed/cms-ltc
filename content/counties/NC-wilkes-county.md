@@ -1,6 +1,6 @@
 ---
 title: "Wilkes County, NC"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:37193.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 37193.0
 FEMA_Region: 4.0
 Population: 68412.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1558.0
-Fourteen_day_test_rate_per_100000: 2277.0
-Percent_Positivity_in_prior_14_days: 0.052
+Tests_in_prior_14_days: 1405.0
+Fourteen_day_test_rate_per_100000: 2054.0
+Percent_Positivity_in_prior_14_days: 0.051
 Level: Yellow
 url: /states/NC/wilkes-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Washington County, NE"
-date: 2021-05-03
+date: 2021-05-04
 draft: false
 type: county
 tags: [FIPS:31177.0,FEMA:7.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 31177.0
 FEMA_Region: 7.0
 Population: 20729.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 413.0
-Fourteen_day_test_rate_per_100000: 1992.0
-Percent_Positivity_in_prior_14_days: 0.191
+Tests_in_prior_14_days: 390.0
+Fourteen_day_test_rate_per_100000: 1881.0
+Percent_Positivity_in_prior_14_days: 0.141
 Level: Yellow
 url: /states/NE/washington-county
 ---
