@@ -1,6 +1,6 @@
 ---
 title: "Roger Mills County, OK"
-date: 2021-05-05
+date: 2021-05-06
 draft: false
 type: county
 tags: [FIPS:40129.0,FEMA:6.0,Non-core,Green]
