@@ -1,6 +1,6 @@
 ---
 title: "Ritchie County, WV"
-date: 2021-05-06
+date: 2021-05-07
 draft: false
 type: county
 tags: [FIPS:54085.0,FEMA:3.0,Non-core,Yellow]

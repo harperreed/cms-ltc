@@ -1,6 +1,6 @@
 ---
 title: "Knox County, OH"
-date: 2021-05-06
+date: 2021-05-07
 draft: false
 type: county
 tags: [FIPS:39083.0,FEMA:5.0,Micropolitan,Green]
