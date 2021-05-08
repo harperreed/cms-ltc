@@ -1,6 +1,6 @@
 ---
 title: "Bourbon County, KY"
-date: 2021-05-07
+date: 2021-05-08
 draft: false
 type: county
 tags: [FIPS:21017.0,FEMA:4.0,Medium metro,Green]

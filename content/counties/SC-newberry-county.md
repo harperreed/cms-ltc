@@ -1,6 +1,6 @@
 ---
 title: "Newberry County, SC"
-date: 2021-05-07
+date: 2021-05-08
 draft: false
 type: county
 tags: [FIPS:45071.0,FEMA:4.0,Micropolitan,Green]

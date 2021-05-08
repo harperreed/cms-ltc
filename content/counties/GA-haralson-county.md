@@ -1,6 +1,6 @@
 ---
 title: "Haralson County, GA"
-date: 2021-05-07
+date: 2021-05-08
 draft: false
 type: county
 tags: [FIPS:13143.0,FEMA:4.0,Large fringe metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Emmet County, IA"
-date: 2021-05-07
+date: 2021-05-08
 draft: false
 type: county
 tags: [FIPS:19063.0,FEMA:7.0,Non-core,Yellow]
