@@ -1,6 +1,6 @@
 ---
 title: "Washington County, NY"
-date: 2021-05-08
+date: 2021-05-09
 draft: false
 type: county
 tags: [FIPS:36115.0,FEMA:2.0,Small metro,Green]

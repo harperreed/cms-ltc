@@ -1,6 +1,6 @@
 ---
 title: "Tyrrell County, NC"
-date: 2021-05-08
+date: 2021-05-09
 draft: false
 type: county
 tags: [FIPS:37177.0,FEMA:4.0,Micropolitan,Yellow]

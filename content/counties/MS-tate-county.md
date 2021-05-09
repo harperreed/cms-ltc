@@ -1,6 +1,6 @@
 ---
 title: "Tate County, MS"
-date: 2021-05-08
+date: 2021-05-09
 draft: false
 type: county
 tags: [FIPS:28137.0,FEMA:4.0,Large fringe metro,Green]

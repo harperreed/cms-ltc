@@ -1,6 +1,6 @@
 ---
 title: "Southeast Fairbanks Census Area, AK"
-date: 2021-05-08
+date: 2021-05-09
 draft: false
 type: county
 tags: [FIPS:2240.0,FEMA:10.0,Non-core,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Steuben County, NY"
-date: 2021-05-08
+date: 2021-05-09
 draft: false
 type: county
 tags: [FIPS:36101.0,FEMA:2.0,Micropolitan,Green]
