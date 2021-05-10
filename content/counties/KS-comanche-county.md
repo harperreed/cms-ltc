@@ -1,6 +1,6 @@
 ---
 title: "Comanche County, KS"
-date: 2021-05-09
+date: 2021-05-10
 draft: false
 type: county
 tags: [FIPS:20033.0,FEMA:7.0,Non-core,Green]

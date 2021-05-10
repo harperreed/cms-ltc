@@ -1,6 +1,6 @@
 ---
 title: "White County, AR"
-date: 2021-05-09
+date: 2021-05-10
 draft: false
 type: county
 tags: [FIPS:5145.0,FEMA:6.0,Micropolitan,Green]

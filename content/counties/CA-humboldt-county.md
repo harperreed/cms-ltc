@@ -1,6 +1,6 @@
 ---
 title: "Humboldt County, CA"
-date: 2021-05-09
+date: 2021-05-10
 draft: false
 type: county
 tags: [FIPS:6023.0,FEMA:9.0,Micropolitan,Yellow]

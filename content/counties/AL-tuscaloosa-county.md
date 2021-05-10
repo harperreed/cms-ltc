@@ -1,6 +1,6 @@
 ---
 title: "Tuscaloosa County, AL"
-date: 2021-05-09
+date: 2021-05-10
 draft: false
 type: county
 tags: [FIPS:1125.0,FEMA:4.0,Small metro,Green]
