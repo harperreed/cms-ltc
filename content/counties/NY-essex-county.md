@@ -1,6 +1,6 @@
 ---
 title: "Essex County, NY"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
 tags: [FIPS:36031.0,FEMA:2.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 36031.0
 FEMA_Region: 2.0
 Population: 36885.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2355.0
-Fourteen_day_test_rate_per_100000: 6385.0
-Percent_Positivity_in_prior_14_days: 0.016
+Tests_in_prior_14_days: 2168.0
+Fourteen_day_test_rate_per_100000: 5878.0
+Percent_Positivity_in_prior_14_days: 0.015
 Level: Green
 url: /states/NY/essex-county
 ---

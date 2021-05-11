@@ -1,6 +1,6 @@
 ---
 title: "Frederick County, MD"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
 tags: [FIPS:24021.0,FEMA:3.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 24021.0
 FEMA_Region: 3.0
 Population: 259547.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 13162.0
-Fourteen_day_test_rate_per_100000: 5071.0
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 12336.0
+Fourteen_day_test_rate_per_100000: 4753.0
+Percent_Positivity_in_prior_14_days: 0.05
 Level: Yellow
 url: /states/MD/frederick-county
 ---

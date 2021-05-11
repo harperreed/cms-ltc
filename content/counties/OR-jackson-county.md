@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, OR"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
 tags: [FIPS:41029.0,FEMA:10.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 41029.0
 FEMA_Region: 10.0
 Population: 220944.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 4058.0
-Fourteen_day_test_rate_per_100000: 1837.0
-Percent_Positivity_in_prior_14_days: 0.083
+Tests_in_prior_14_days: 4107.0
+Fourteen_day_test_rate_per_100000: 1859.0
+Percent_Positivity_in_prior_14_days: 0.064
 Level: Yellow
 url: /states/OR/jackson-county
 ---

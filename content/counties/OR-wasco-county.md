@@ -1,9 +1,9 @@
 ---
 title: "Wasco County, OR"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
-tags: [FIPS:41065.0,FEMA:10.0,Micropolitan,Yellow]
+tags: [FIPS:41065.0,FEMA:10.0,Micropolitan,Green]
 categories: [OR]
 County: Wasco County
 State: OR
@@ -11,10 +11,10 @@ FIPS: 41065.0
 FEMA_Region: 10.0
 Population: 26682.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1024.0
-Fourteen_day_test_rate_per_100000: 3838.0
-Percent_Positivity_in_prior_14_days: 0.058
-Level: Yellow
+Tests_in_prior_14_days: 1164.0
+Fourteen_day_test_rate_per_100000: 4362.0
+Percent_Positivity_in_prior_14_days: 0.035
+Level: Green
 url: /states/OR/wasco-county
 ---
 

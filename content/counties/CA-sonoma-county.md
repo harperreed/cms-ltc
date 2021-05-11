@@ -1,6 +1,6 @@
 ---
 title: "Sonoma County, CA"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
 tags: [FIPS:6097.0,FEMA:9.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 6097.0
 FEMA_Region: 9.0
 Population: 494336.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 23444.0
-Fourteen_day_test_rate_per_100000: 4743.0
-Percent_Positivity_in_prior_14_days: 0.009
+Tests_in_prior_14_days: 20009.0
+Fourteen_day_test_rate_per_100000: 4048.0
+Percent_Positivity_in_prior_14_days: 0.008
 Level: Green
 url: /states/CA/sonoma-county
 ---

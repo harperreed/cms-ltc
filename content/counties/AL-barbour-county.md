@@ -1,6 +1,6 @@
 ---
 title: "Barbour County, AL"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
 tags: [FIPS:1005.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 1005.0
 FEMA_Region: 4.0
 Population: 24686.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 271.0
-Fourteen_day_test_rate_per_100000: 1098.0
-Percent_Positivity_in_prior_14_days: 0.1
+Tests_in_prior_14_days: 293.0
+Fourteen_day_test_rate_per_100000: 1187.0
+Percent_Positivity_in_prior_14_days: 0.078
 Level: Yellow
 url: /states/AL/barbour-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Douglas County, MN"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
 tags: [FIPS:27041.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 27041.0
 FEMA_Region: 5.0
 Population: 38141.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2456.0
-Fourteen_day_test_rate_per_100000: 6439.0
-Percent_Positivity_in_prior_14_days: 0.059
+Tests_in_prior_14_days: 2468.0
+Fourteen_day_test_rate_per_100000: 6471.0
+Percent_Positivity_in_prior_14_days: 0.069
 Level: Yellow
 url: /states/MN/douglas-county
 ---

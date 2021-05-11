@@ -1,6 +1,6 @@
 ---
 title: "Washburn County, WI"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
 tags: [FIPS:55129.0,FEMA:5.0,Non-core,Red]
@@ -13,7 +13,7 @@ Population: 15720.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 610.0
 Fourteen_day_test_rate_per_100000: 3880.0
-Percent_Positivity_in_prior_14_days: 0.118
+Percent_Positivity_in_prior_14_days: 0.121
 Level: Red
 url: /states/WI/washburn-county
 ---

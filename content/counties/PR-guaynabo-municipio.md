@@ -1,9 +1,9 @@
 ---
 title: "Guaynabo Municipio, PR"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
-tags: [FIPS:72061.0,FEMA:2.0,,Yellow]
+tags: [FIPS:72061.0,FEMA:2.0,,Gray]
 categories: [PR]
 County: Guaynabo Municipio
 State: PR
@@ -11,10 +11,10 @@ FIPS: 72061.0
 FEMA_Region: 2.0
 Population: 83728.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 5883.0
-Fourteen_day_test_rate_per_100000: 7026.0
-Percent_Positivity_in_prior_14_days: 0.067
-Level: Yellow
+Tests_in_prior_14_days: 2776.0
+Fourteen_day_test_rate_per_100000: 3315.0
+Percent_Positivity_in_prior_14_days: 0.059
+Level: Gray
 url: /states/PR/guaynabo-municipio
 ---
 

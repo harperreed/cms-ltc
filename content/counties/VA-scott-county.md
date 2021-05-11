@@ -1,6 +1,6 @@
 ---
 title: "Scott County, VA"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
 tags: [FIPS:51169.0,FEMA:3.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51169.0
 FEMA_Region: 3.0
 Population: 21566.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 273.0
-Fourteen_day_test_rate_per_100000: 1266.0
-Percent_Positivity_in_prior_14_days: 0.088
+Tests_in_prior_14_days: 267.0
+Fourteen_day_test_rate_per_100000: 1238.0
+Percent_Positivity_in_prior_14_days: 0.101
 Level: Yellow
 url: /states/VA/scott-county
 ---

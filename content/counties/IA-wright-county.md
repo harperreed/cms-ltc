@@ -1,6 +1,6 @@
 ---
 title: "Wright County, IA"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
 tags: [FIPS:19197.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 19197.0
 FEMA_Region: 7.0
 Population: 12562.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 231.0
-Fourteen_day_test_rate_per_100000: 1839.0
-Percent_Positivity_in_prior_14_days: 0.087
+Tests_in_prior_14_days: 216.0
+Fourteen_day_test_rate_per_100000: 1719.0
+Percent_Positivity_in_prior_14_days: 0.088
 Level: Yellow
 url: /states/IA/wright-county
 ---

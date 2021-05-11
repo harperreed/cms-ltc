@@ -1,9 +1,9 @@
 ---
 title: "Henry County, VA"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
-tags: [FIPS:51089.0,FEMA:3.0,Micropolitan,Green]
+tags: [FIPS:51089.0,FEMA:3.0,Micropolitan,Yellow]
 categories: [VA]
 County: Henry County
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51089.0
 FEMA_Region: 3.0
 Population: 50557.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1025.0
-Fourteen_day_test_rate_per_100000: 2027.0
-Percent_Positivity_in_prior_14_days: 0.035
-Level: Green
+Tests_in_prior_14_days: 829.0
+Fourteen_day_test_rate_per_100000: 1640.0
+Percent_Positivity_in_prior_14_days: 0.074
+Level: Yellow
 url: /states/VA/henry-county
 ---
 

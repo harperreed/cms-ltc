@@ -1,6 +1,6 @@
 ---
 title: "Grant County, OR"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
 tags: [FIPS:41023.0,FEMA:10.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 41023.0
 FEMA_Region: 10.0
 Population: 7199.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 286.0
-Fourteen_day_test_rate_per_100000: 3973.0
-Percent_Positivity_in_prior_14_days: 0.129
+Tests_in_prior_14_days: 261.0
+Fourteen_day_test_rate_per_100000: 3626.0
+Percent_Positivity_in_prior_14_days: 0.153
 Level: Red
 url: /states/OR/grant-county
 ---

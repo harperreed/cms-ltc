@@ -1,6 +1,6 @@
 ---
 title: "Cambria County, PA"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
 tags: [FIPS:42021.0,FEMA:3.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 42021.0
 FEMA_Region: 3.0
 Population: 130192.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 6092.0
-Fourteen_day_test_rate_per_100000: 4679.0
-Percent_Positivity_in_prior_14_days: 0.09
+Tests_in_prior_14_days: 5842.0
+Fourteen_day_test_rate_per_100000: 4487.0
+Percent_Positivity_in_prior_14_days: 0.073
 Level: Yellow
 url: /states/PA/cambria-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Prince Edward County, VA"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
 tags: [FIPS:51147.0,FEMA:3.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51147.0
 FEMA_Region: 3.0
 Population: 22802.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 574.0
-Fourteen_day_test_rate_per_100000: 2517.0
-Percent_Positivity_in_prior_14_days: 0.061
+Tests_in_prior_14_days: 572.0
+Fourteen_day_test_rate_per_100000: 2509.0
+Percent_Positivity_in_prior_14_days: 0.054
 Level: Yellow
 url: /states/VA/prince-edward-county
 ---

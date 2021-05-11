@@ -1,9 +1,9 @@
 ---
 title: "Crawford County, MI"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
-tags: [FIPS:26039.0,FEMA:5.0,Non-core,Red]
+tags: [FIPS:26039.0,FEMA:5.0,Non-core,Yellow]
 categories: [MI]
 County: Crawford County
 State: MI
@@ -11,10 +11,10 @@ FIPS: 26039.0
 FEMA_Region: 5.0
 Population: 14029.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 460.0
-Fourteen_day_test_rate_per_100000: 3279.0
-Percent_Positivity_in_prior_14_days: 0.115
-Level: Red
+Tests_in_prior_14_days: 348.0
+Fourteen_day_test_rate_per_100000: 2481.0
+Percent_Positivity_in_prior_14_days: 0.095
+Level: Yellow
 url: /states/MI/crawford-county
 ---
 

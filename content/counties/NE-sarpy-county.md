@@ -1,6 +1,6 @@
 ---
 title: "Sarpy County, NE"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
 tags: [FIPS:31153.0,FEMA:7.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 31153.0
 FEMA_Region: 7.0
 Population: 187196.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 5344.0
-Fourteen_day_test_rate_per_100000: 2855.0
-Percent_Positivity_in_prior_14_days: 0.088
+Tests_in_prior_14_days: 4669.0
+Fourteen_day_test_rate_per_100000: 2494.0
+Percent_Positivity_in_prior_14_days: 0.082
 Level: Yellow
 url: /states/NE/sarpy-county
 ---

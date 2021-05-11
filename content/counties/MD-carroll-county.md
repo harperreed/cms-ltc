@@ -1,6 +1,6 @@
 ---
 title: "Carroll County, MD"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
 tags: [FIPS:24013.0,FEMA:3.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 24013.0
 FEMA_Region: 3.0
 Population: 168447.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 8573.0
-Fourteen_day_test_rate_per_100000: 5089.0
-Percent_Positivity_in_prior_14_days: 0.056
+Tests_in_prior_14_days: 7989.0
+Fourteen_day_test_rate_per_100000: 4743.0
+Percent_Positivity_in_prior_14_days: 0.055
 Level: Yellow
 url: /states/MD/carroll-county
 ---

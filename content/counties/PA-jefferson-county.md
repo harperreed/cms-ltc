@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, PA"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
 tags: [FIPS:42065.0,FEMA:3.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 42065.0
 FEMA_Region: 3.0
 Population: 43425.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1068.0
-Fourteen_day_test_rate_per_100000: 2459.0
-Percent_Positivity_in_prior_14_days: 0.04
+Tests_in_prior_14_days: 937.0
+Fourteen_day_test_rate_per_100000: 2158.0
+Percent_Positivity_in_prior_14_days: 0.027
 Level: Green
 url: /states/PA/jefferson-county
 ---

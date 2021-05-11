@@ -1,9 +1,9 @@
 ---
 title: "Culebra Municipio, PR"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
-tags: [FIPS:72049.0,FEMA:2.0,,Green]
+tags: [FIPS:72049.0,FEMA:2.0,,Gray]
 categories: [PR]
 County: Culebra Municipio
 State: PR
@@ -14,7 +14,7 @@ NCHS_Urban_Rural_Classification:
 Tests_in_prior_14_days: <20 tests
 Fourteen_day_test_rate_per_100000: <20 tests
 Percent_Positivity_in_prior_14_days: <20 tests
-Level: Green
+Level: Gray
 url: /states/PR/culebra-municipio
 ---
 

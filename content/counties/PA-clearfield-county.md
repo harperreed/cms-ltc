@@ -1,6 +1,6 @@
 ---
 title: "Clearfield County, PA"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
 tags: [FIPS:42033.0,FEMA:3.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 42033.0
 FEMA_Region: 3.0
 Population: 79255.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 3736.0
-Fourteen_day_test_rate_per_100000: 4714.0
-Percent_Positivity_in_prior_14_days: 0.098
+Tests_in_prior_14_days: 3603.0
+Fourteen_day_test_rate_per_100000: 4546.0
+Percent_Positivity_in_prior_14_days: 0.082
 Level: Yellow
 url: /states/PA/clearfield-county
 ---

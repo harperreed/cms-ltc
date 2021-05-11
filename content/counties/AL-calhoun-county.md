@@ -1,9 +1,9 @@
 ---
 title: "Calhoun County, AL"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
-tags: [FIPS:1015.0,FEMA:4.0,Small metro,Red]
+tags: [FIPS:1015.0,FEMA:4.0,Small metro,Yellow]
 categories: [AL]
 County: Calhoun County
 State: AL
@@ -11,10 +11,10 @@ FIPS: 1015.0
 FEMA_Region: 4.0
 Population: 113605.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 941.0
-Fourteen_day_test_rate_per_100000: 828.0
-Percent_Positivity_in_prior_14_days: 0.111
-Level: Red
+Tests_in_prior_14_days: 871.0
+Fourteen_day_test_rate_per_100000: 767.0
+Percent_Positivity_in_prior_14_days: 0.085
+Level: Yellow
 url: /states/AL/calhoun-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Ventura County, CA"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
 tags: [FIPS:6111.0,FEMA:9.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 6111.0
 FEMA_Region: 9.0
 Population: 846006.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 47598.0
-Fourteen_day_test_rate_per_100000: 5626.0
-Percent_Positivity_in_prior_14_days: 0.01
+Tests_in_prior_14_days: 42321.0
+Fourteen_day_test_rate_per_100000: 5002.0
+Percent_Positivity_in_prior_14_days: 0.009
 Level: Green
 url: /states/CA/ventura-county
 ---

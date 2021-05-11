@@ -1,6 +1,6 @@
 ---
 title: "Stephens County, GA"
-date: 2021-05-10
+date: 2021-05-11
 draft: false
 type: county
 tags: [FIPS:13257.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13257.0
 FEMA_Region: 4.0
 Population: 25925.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 637.0
-Fourteen_day_test_rate_per_100000: 2457.0
-Percent_Positivity_in_prior_14_days: 0.058
+Tests_in_prior_14_days: 512.0
+Fourteen_day_test_rate_per_100000: 1975.0
+Percent_Positivity_in_prior_14_days: 0.082
 Level: Yellow
 url: /states/GA/stephens-county
 ---
