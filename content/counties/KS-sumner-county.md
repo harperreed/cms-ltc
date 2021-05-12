@@ -1,6 +1,6 @@
 ---
 title: "Sumner County, KS"
-date: 2021-05-11
+date: 2021-05-12
 draft: false
 type: county
 tags: [FIPS:20191.0,FEMA:7.0,Medium metro,Yellow]

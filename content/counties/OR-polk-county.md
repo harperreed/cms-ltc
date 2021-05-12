@@ -1,6 +1,6 @@
 ---
 title: "Polk County, OR"
-date: 2021-05-11
+date: 2021-05-12
 draft: false
 type: county
 tags: [FIPS:41053.0,FEMA:10.0,Medium metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Rutherford County, TN"
-date: 2021-05-11
+date: 2021-05-12
 draft: false
 type: county
 tags: [FIPS:47149.0,FEMA:4.0,Large fringe metro,Yellow]
