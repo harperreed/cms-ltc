@@ -1,6 +1,6 @@
 ---
 title: "Newton County, MO"
-date: 2021-05-12
+date: 2021-05-13
 draft: false
 type: county
 tags: [FIPS:29145.0,FEMA:7.0,Small metro,Yellow]

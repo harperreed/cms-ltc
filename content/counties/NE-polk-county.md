@@ -1,6 +1,6 @@
 ---
 title: "Polk County, NE"
-date: 2021-05-12
+date: 2021-05-13
 draft: false
 type: county
 tags: [FIPS:31143.0,FEMA:7.0,Non-core,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Union County, TN"
-date: 2021-05-12
+date: 2021-05-13
 draft: false
 type: county
 tags: [FIPS:47173.0,FEMA:4.0,Medium metro,Yellow]

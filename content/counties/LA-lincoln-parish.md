@@ -1,6 +1,6 @@
 ---
 title: "Lincoln Parish, LA"
-date: 2021-05-12
+date: 2021-05-13
 draft: false
 type: county
 tags: [FIPS:22061.0,FEMA:6.0,Micropolitan,Green]

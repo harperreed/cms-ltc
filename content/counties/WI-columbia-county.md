@@ -1,6 +1,6 @@
 ---
 title: "Columbia County, WI"
-date: 2021-05-12
+date: 2021-05-13
 draft: false
 type: county
 tags: [FIPS:55021.0,FEMA:5.0,Medium metro,Green]
