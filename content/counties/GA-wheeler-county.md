@@ -1,6 +1,6 @@
 ---
 title: "Wheeler County, GA"
-date: 2021-05-13
+date: 2021-05-14
 draft: false
 type: county
 tags: [FIPS:13309.0,FEMA:4.0,Non-core,Green]

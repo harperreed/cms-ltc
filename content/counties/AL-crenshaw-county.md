@@ -1,6 +1,6 @@
 ---
 title: "Crenshaw County, AL"
-date: 2021-05-13
+date: 2021-05-14
 draft: false
 type: county
 tags: [FIPS:1041.0,FEMA:4.0,Non-core,Yellow]

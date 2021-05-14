@@ -1,6 +1,6 @@
 ---
 title: "Frontier County, NE"
-date: 2021-05-13
+date: 2021-05-14
 draft: false
 type: county
 tags: [FIPS:31063.0,FEMA:7.0,Non-core,Green]

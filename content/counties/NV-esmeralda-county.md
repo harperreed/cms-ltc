@@ -1,6 +1,6 @@
 ---
 title: "Esmeralda County, NV"
-date: 2021-05-13
+date: 2021-05-14
 draft: false
 type: county
 tags: [FIPS:32009.0,FEMA:9.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Dallas County, AR"
-date: 2021-05-13
+date: 2021-05-14
 draft: false
 type: county
 tags: [FIPS:5039.0,FEMA:6.0,Non-core,Green]
