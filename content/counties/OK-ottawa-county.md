@@ -1,6 +1,6 @@
 ---
 title: "Ottawa County, OK"
-date: 2021-05-14
+date: 2021-05-15
 draft: false
 type: county
 tags: [FIPS:40115.0,FEMA:6.0,Micropolitan,Green]

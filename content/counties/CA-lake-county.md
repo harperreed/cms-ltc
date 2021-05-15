@@ -1,6 +1,6 @@
 ---
 title: "Lake County, CA"
-date: 2021-05-14
+date: 2021-05-15
 draft: false
 type: county
 tags: [FIPS:6033.0,FEMA:9.0,Micropolitan,Green]
