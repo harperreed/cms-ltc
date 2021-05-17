@@ -1,6 +1,6 @@
 ---
 title: "Barry County, MO"
-date: 2021-05-15
+date: 2021-05-17
 draft: false
 type: county
 tags: [FIPS:29009.0,FEMA:7.0,Non-core,Green]

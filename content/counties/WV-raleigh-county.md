@@ -1,6 +1,6 @@
 ---
 title: "Raleigh County, WV"
-date: 2021-05-15
+date: 2021-05-17
 draft: false
 type: county
 tags: [FIPS:54081.0,FEMA:3.0,Small metro,Red]

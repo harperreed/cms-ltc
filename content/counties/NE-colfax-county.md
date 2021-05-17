@@ -1,6 +1,6 @@
 ---
 title: "Colfax County, NE"
-date: 2021-05-15
+date: 2021-05-17
 draft: false
 type: county
 tags: [FIPS:31037.0,FEMA:7.0,Non-core,Yellow]

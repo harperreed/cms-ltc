@@ -1,6 +1,6 @@
 ---
 title: "Randolph County, AR"
-date: 2021-05-15
+date: 2021-05-17
 draft: false
 type: county
 tags: [FIPS:5121.0,FEMA:6.0,Non-core,Green]
