@@ -1,6 +1,6 @@
 ---
 title: "Carter County, TN"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:47019.0,FEMA:4.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 47019.0
 FEMA_Region: 4.0
 Population: 56391.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 889.0
-Fourteen_day_test_rate_per_100000: 1576.0
-Percent_Positivity_in_prior_14_days: 0.082
+Tests_in_prior_14_days: 617.0
+Fourteen_day_test_rate_per_100000: 1094.0
+Percent_Positivity_in_prior_14_days: 0.062
 Level: Yellow
 url: /states/TN/carter-county
 ---

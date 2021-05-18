@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, MO"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:29071.0,FEMA:7.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 29071.0
 FEMA_Region: 7.0
 Population: 103967.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 3784.0
-Fourteen_day_test_rate_per_100000: 3640.0
-Percent_Positivity_in_prior_14_days: 0.026
+Tests_in_prior_14_days: 2561.0
+Fourteen_day_test_rate_per_100000: 2463.0
+Percent_Positivity_in_prior_14_days: 0.036
 Level: Green
 url: /states/MO/franklin-county
 ---

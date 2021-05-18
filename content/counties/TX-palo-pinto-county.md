@@ -1,6 +1,6 @@
 ---
 title: "Palo Pinto County, TX"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:48363.0,FEMA:6.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 48363.0
 FEMA_Region: 6.0
 Population: 29189.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 215.0
-Fourteen_day_test_rate_per_100000: 737.0
-Percent_Positivity_in_prior_14_days: 0.042
+Tests_in_prior_14_days: 186.0
+Fourteen_day_test_rate_per_100000: 637.0
+Percent_Positivity_in_prior_14_days: 0.038
 Level: Green
 url: /states/TX/palo-pinto-county
 ---

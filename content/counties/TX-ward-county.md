@@ -1,6 +1,6 @@
 ---
 title: "Ward County, TX"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:48475.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48475.0
 FEMA_Region: 6.0
 Population: 11998.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 50.0
-Fourteen_day_test_rate_per_100000: 417.0
-Percent_Positivity_in_prior_14_days: 0.16
+Tests_in_prior_14_days: 28.0
+Fourteen_day_test_rate_per_100000: 233.0
+Percent_Positivity_in_prior_14_days: 0.25
 Level: Yellow
 url: /states/TX/ward-county
 ---

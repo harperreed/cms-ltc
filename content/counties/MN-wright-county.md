@@ -1,6 +1,6 @@
 ---
 title: "Wright County, MN"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:27171.0,FEMA:5.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 27171.0
 FEMA_Region: 5.0
 Population: 138377.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 9566.0
-Fourteen_day_test_rate_per_100000: 6913.0
-Percent_Positivity_in_prior_14_days: 0.091
+Tests_in_prior_14_days: 8346.0
+Fourteen_day_test_rate_per_100000: 6031.0
+Percent_Positivity_in_prior_14_days: 0.077
 Level: Yellow
 url: /states/MN/wright-county
 ---

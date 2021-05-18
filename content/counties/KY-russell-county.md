@@ -1,9 +1,9 @@
 ---
 title: "Russell County, KY"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
-tags: [FIPS:21207.0,FEMA:4.0,Non-core,Green]
+tags: [FIPS:21207.0,FEMA:4.0,Non-core,Yellow]
 categories: [KY]
 County: Russell County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21207.0
 FEMA_Region: 4.0
 Population: 17923.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 187.0
-Fourteen_day_test_rate_per_100000: 1043.0
-Percent_Positivity_in_prior_14_days: 0.037
-Level: Green
+Tests_in_prior_14_days: 198.0
+Fourteen_day_test_rate_per_100000: 1105.0
+Percent_Positivity_in_prior_14_days: 0.056
+Level: Yellow
 url: /states/KY/russell-county
 ---
 

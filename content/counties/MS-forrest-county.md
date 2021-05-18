@@ -1,6 +1,6 @@
 ---
 title: "Forrest County, MS"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:28035.0,FEMA:4.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 28035.0
 FEMA_Region: 4.0
 Population: 74897.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 732.0
-Fourteen_day_test_rate_per_100000: 977.0
-Percent_Positivity_in_prior_14_days: 0.011
+Tests_in_prior_14_days: 645.0
+Fourteen_day_test_rate_per_100000: 861.0
+Percent_Positivity_in_prior_14_days: 0.016
 Level: Green
 url: /states/MS/forrest-county
 ---

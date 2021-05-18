@@ -1,6 +1,6 @@
 ---
 title: "Dawson County, NE"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:31047.0,FEMA:7.0,Micropolitan,Green]
@@ -13,7 +13,7 @@ Population: 23595.0
 NCHS_Urban_Rural_Classification: Micropolitan
 Tests_in_prior_14_days: 204.0
 Fourteen_day_test_rate_per_100000: 865.0
-Percent_Positivity_in_prior_14_days: 0.034
+Percent_Positivity_in_prior_14_days: 0.039
 Level: Green
 url: /states/NE/dawson-county
 ---

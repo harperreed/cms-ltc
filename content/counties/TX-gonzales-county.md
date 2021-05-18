@@ -1,9 +1,9 @@
 ---
 title: "Gonzales County, TX"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
-tags: [FIPS:48177.0,FEMA:6.0,Non-core,Yellow]
+tags: [FIPS:48177.0,FEMA:6.0,Non-core,Green]
 categories: [TX]
 County: Gonzales County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48177.0
 FEMA_Region: 6.0
 Population: 20837.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 290.0
-Fourteen_day_test_rate_per_100000: 1392.0
-Percent_Positivity_in_prior_14_days: 0.059
-Level: Yellow
+Tests_in_prior_14_days: 244.0
+Fourteen_day_test_rate_per_100000: 1171.0
+Percent_Positivity_in_prior_14_days: 0.041
+Level: Green
 url: /states/TX/gonzales-county
 ---
 

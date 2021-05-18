@@ -1,9 +1,9 @@
 ---
 title: "Lee County, IA"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
-tags: [FIPS:19111.0,FEMA:7.0,Micropolitan,Green]
+tags: [FIPS:19111.0,FEMA:7.0,Micropolitan,Yellow]
 categories: [IA]
 County: Lee County
 State: IA
@@ -11,10 +11,10 @@ FIPS: 19111.0
 FEMA_Region: 7.0
 Population: 33657.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 962.0
-Fourteen_day_test_rate_per_100000: 2858.0
-Percent_Positivity_in_prior_14_days: 0.04
-Level: Green
+Tests_in_prior_14_days: 887.0
+Fourteen_day_test_rate_per_100000: 2635.0
+Percent_Positivity_in_prior_14_days: 0.073
+Level: Yellow
 url: /states/IA/lee-county
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Cotton County, OK"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
-tags: [FIPS:40033.0,FEMA:6.0,Small metro,Yellow]
+tags: [FIPS:40033.0,FEMA:6.0,Small metro,Green]
 categories: [OK]
 County: Cotton County
 State: OK
@@ -13,8 +13,8 @@ Population: 5666.0
 NCHS_Urban_Rural_Classification: Small metro
 Tests_in_prior_14_days: 30.0
 Fourteen_day_test_rate_per_100000: 529.0
-Percent_Positivity_in_prior_14_days: 0.1
-Level: Yellow
+Percent_Positivity_in_prior_14_days: 0.033
+Level: Green
 url: /states/OK/cotton-county
 ---
 

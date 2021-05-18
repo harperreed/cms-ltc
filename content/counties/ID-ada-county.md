@@ -1,6 +1,6 @@
 ---
 title: "Ada County, ID"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:16001.0,FEMA:10.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 16001.0
 FEMA_Region: 10.0
 Population: 481587.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 18010.0
-Fourteen_day_test_rate_per_100000: 3740.0
-Percent_Positivity_in_prior_14_days: 0.037
+Tests_in_prior_14_days: 16244.0
+Fourteen_day_test_rate_per_100000: 3373.0
+Percent_Positivity_in_prior_14_days: 0.034
 Level: Green
 url: /states/ID/ada-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Kent County, DE"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
-tags: [FIPS:10001.0,FEMA:3.0,Small metro,Yellow]
+tags: [FIPS:10001.0,FEMA:3.0,Small metro,Green]
 categories: [DE]
 County: Kent County
 State: DE
@@ -11,10 +11,10 @@ FIPS: 10001.0
 FEMA_Region: 3.0
 Population: 180786.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 11371.0
-Fourteen_day_test_rate_per_100000: 6290.0
-Percent_Positivity_in_prior_14_days: 0.05
-Level: Yellow
+Tests_in_prior_14_days: 10342.0
+Fourteen_day_test_rate_per_100000: 5721.0
+Percent_Positivity_in_prior_14_days: 0.042
+Level: Green
 url: /states/DE/kent-county
 ---
 

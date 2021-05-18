@@ -1,6 +1,6 @@
 ---
 title: "Winnebago County, IL"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:17201.0,FEMA:5.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 17201.0
 FEMA_Region: 5.0
 Population: 282572.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 17721.0
-Fourteen_day_test_rate_per_100000: 6271.0
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 17563.0
+Fourteen_day_test_rate_per_100000: 6215.0
+Percent_Positivity_in_prior_14_days: 0.059
 Level: Yellow
 url: /states/IL/winnebago-county
 ---

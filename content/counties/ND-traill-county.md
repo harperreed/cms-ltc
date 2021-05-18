@@ -1,6 +1,6 @@
 ---
 title: "Traill County, ND"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:38097.0,FEMA:8.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 38097.0
 FEMA_Region: 8.0
 Population: 8036.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 66.0
-Fourteen_day_test_rate_per_100000: 821.0
-Percent_Positivity_in_prior_14_days: 0.015
+Tests_in_prior_14_days: 56.0
+Fourteen_day_test_rate_per_100000: 697.0
+Percent_Positivity_in_prior_14_days: 0.018
 Level: Green
 url: /states/ND/traill-county
 ---

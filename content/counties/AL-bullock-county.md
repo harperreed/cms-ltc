@@ -1,6 +1,6 @@
 ---
 title: "Bullock County, AL"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:1011.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 1011.0
 FEMA_Region: 4.0
 Population: 10101.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 170.0
-Fourteen_day_test_rate_per_100000: 1683.0
-Percent_Positivity_in_prior_14_days: 0.1
+Tests_in_prior_14_days: 182.0
+Fourteen_day_test_rate_per_100000: 1802.0
+Percent_Positivity_in_prior_14_days: 0.055
 Level: Yellow
 url: /states/AL/bullock-county
 ---

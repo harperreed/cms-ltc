@@ -1,6 +1,6 @@
 ---
 title: "Routt County, CO"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:8107.0,FEMA:8.0,Micropolitan,Green]
@@ -13,7 +13,7 @@ Population: 25638.0
 NCHS_Urban_Rural_Classification: Micropolitan
 Tests_in_prior_14_days: 1373.0
 Fourteen_day_test_rate_per_100000: 5355.0
-Percent_Positivity_in_prior_14_days: 0.015
+Percent_Positivity_in_prior_14_days: 0.012
 Level: Green
 url: /states/CO/routt-county
 ---

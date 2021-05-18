@@ -1,9 +1,9 @@
 ---
 title: "Kearney County, NE"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
-tags: [FIPS:31099.0,FEMA:7.0,Micropolitan,Yellow]
+tags: [FIPS:31099.0,FEMA:7.0,Micropolitan,Green]
 categories: [NE]
 County: Kearney County
 State: NE
@@ -13,8 +13,8 @@ Population: 6495.0
 NCHS_Urban_Rural_Classification: Micropolitan
 Tests_in_prior_14_days: 30.0
 Fourteen_day_test_rate_per_100000: 462.0
-Percent_Positivity_in_prior_14_days: 0.133
-Level: Yellow
+Percent_Positivity_in_prior_14_days: 0.0
+Level: Green
 url: /states/NE/kearney-county
 ---
 

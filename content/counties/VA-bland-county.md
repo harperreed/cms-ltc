@@ -1,9 +1,9 @@
 ---
 title: "Bland County, VA"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
-tags: [FIPS:51021.0,FEMA:3.0,Non-core,Green]
+tags: [FIPS:51021.0,FEMA:3.0,Non-core,Yellow]
 categories: [VA]
 County: Bland County
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51021.0
 FEMA_Region: 3.0
 Population: 6280.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 182.0
-Fourteen_day_test_rate_per_100000: 2898.0
-Percent_Positivity_in_prior_14_days: 0.049
-Level: Green
+Tests_in_prior_14_days: 114.0
+Fourteen_day_test_rate_per_100000: 1815.0
+Percent_Positivity_in_prior_14_days: 0.07
+Level: Yellow
 url: /states/VA/bland-county
 ---
 

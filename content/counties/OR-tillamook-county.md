@@ -1,6 +1,6 @@
 ---
 title: "Tillamook County, OR"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:41057.0,FEMA:10.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 41057.0
 FEMA_Region: 10.0
 Population: 27036.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 825.0
-Fourteen_day_test_rate_per_100000: 3051.0
-Percent_Positivity_in_prior_14_days: 0.03
+Tests_in_prior_14_days: 451.0
+Fourteen_day_test_rate_per_100000: 1668.0
+Percent_Positivity_in_prior_14_days: 0.042
 Level: Green
 url: /states/OR/tillamook-county
 ---

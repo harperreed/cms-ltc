@@ -1,6 +1,6 @@
 ---
 title: "Morgan County, IN"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:18109.0,FEMA:5.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 18109.0
 FEMA_Region: 5.0
 Population: 70489.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1347.0
-Fourteen_day_test_rate_per_100000: 1911.0
-Percent_Positivity_in_prior_14_days: 0.073
+Tests_in_prior_14_days: 1278.0
+Fourteen_day_test_rate_per_100000: 1813.0
+Percent_Positivity_in_prior_14_days: 0.077
 Level: Yellow
 url: /states/IN/morgan-county
 ---

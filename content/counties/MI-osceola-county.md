@@ -1,6 +1,6 @@
 ---
 title: "Osceola County, MI"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:26133.0,FEMA:5.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 26133.0
 FEMA_Region: 5.0
 Population: 23460.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 948.0
-Fourteen_day_test_rate_per_100000: 4041.0
-Percent_Positivity_in_prior_14_days: 0.168
+Tests_in_prior_14_days: 873.0
+Fourteen_day_test_rate_per_100000: 3721.0
+Percent_Positivity_in_prior_14_days: 0.143
 Level: Red
 url: /states/MI/osceola-county
 ---

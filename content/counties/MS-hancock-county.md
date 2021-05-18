@@ -1,6 +1,6 @@
 ---
 title: "Hancock County, MS"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:28045.0,FEMA:4.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 28045.0
 FEMA_Region: 4.0
 Population: 47632.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 393.0
-Fourteen_day_test_rate_per_100000: 825.0
-Percent_Positivity_in_prior_14_days: 0.02
+Tests_in_prior_14_days: 425.0
+Fourteen_day_test_rate_per_100000: 892.0
+Percent_Positivity_in_prior_14_days: 0.031
 Level: Green
 url: /states/MS/hancock-county
 ---

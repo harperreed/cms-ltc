@@ -1,6 +1,6 @@
 ---
 title: "Ross County, OH"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:39141.0,FEMA:5.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 39141.0
 FEMA_Region: 5.0
 Population: 76666.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4047.0
-Fourteen_day_test_rate_per_100000: 5279.0
-Percent_Positivity_in_prior_14_days: 0.027
+Tests_in_prior_14_days: 3842.0
+Fourteen_day_test_rate_per_100000: 5011.0
+Percent_Positivity_in_prior_14_days: 0.021
 Level: Green
 url: /states/OH/ross-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Cowley County, KS"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
-tags: [FIPS:20035.0,FEMA:7.0,Micropolitan,Yellow]
+tags: [FIPS:20035.0,FEMA:7.0,Micropolitan,Green]
 categories: [KS]
 County: Cowley County
 State: KS
@@ -11,10 +11,10 @@ FIPS: 20035.0
 FEMA_Region: 7.0
 Population: 34908.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 383.0
-Fourteen_day_test_rate_per_100000: 1097.0
-Percent_Positivity_in_prior_14_days: 0.063
-Level: Yellow
+Tests_in_prior_14_days: 626.0
+Fourteen_day_test_rate_per_100000: 1793.0
+Percent_Positivity_in_prior_14_days: 0.019
+Level: Green
 url: /states/KS/cowley-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Mitchell County, TX"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:48335.0,FEMA:6.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 48335.0
 FEMA_Region: 6.0
 Population: 8545.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 45.0
-Fourteen_day_test_rate_per_100000: 527.0
-Percent_Positivity_in_prior_14_days: 0.022
+Tests_in_prior_14_days: 227.0
+Fourteen_day_test_rate_per_100000: 2657.0
+Percent_Positivity_in_prior_14_days: 0.004
 Level: Green
 url: /states/TX/mitchell-county
 ---

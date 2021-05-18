@@ -1,6 +1,6 @@
 ---
 title: "Clay County, SD"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:46027.0,FEMA:8.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 46027.0
 FEMA_Region: 8.0
 Population: 14070.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 294.0
-Fourteen_day_test_rate_per_100000: 2090.0
-Percent_Positivity_in_prior_14_days: 0.099
+Tests_in_prior_14_days: 221.0
+Fourteen_day_test_rate_per_100000: 1571.0
+Percent_Positivity_in_prior_14_days: 0.113
 Level: Yellow
 url: /states/SD/clay-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Broomfield County, CO"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:8014.0,FEMA:8.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 8014.0
 FEMA_Region: 8.0
 Population: 70465.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 2891.0
-Fourteen_day_test_rate_per_100000: 4103.0
-Percent_Positivity_in_prior_14_days: 0.066
+Tests_in_prior_14_days: 2731.0
+Fourteen_day_test_rate_per_100000: 3876.0
+Percent_Positivity_in_prior_14_days: 0.057
 Level: Yellow
 url: /states/CO/broomfield-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Grant County, MN"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:27051.0,FEMA:5.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 27051.0
 FEMA_Region: 5.0
 Population: 5972.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 432.0
-Fourteen_day_test_rate_per_100000: 7234.0
-Percent_Positivity_in_prior_14_days: 0.037
+Tests_in_prior_14_days: 358.0
+Fourteen_day_test_rate_per_100000: 5995.0
+Percent_Positivity_in_prior_14_days: 0.042
 Level: Green
 url: /states/MN/grant-county
 ---

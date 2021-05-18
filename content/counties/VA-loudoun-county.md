@@ -1,9 +1,9 @@
 ---
 title: "Loudoun County, VA"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
-tags: [FIPS:51107.0,FEMA:3.0,Large fringe metro,Yellow]
+tags: [FIPS:51107.0,FEMA:3.0,Large fringe metro,Green]
 categories: [VA]
 County: Loudoun County
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51107.0
 FEMA_Region: 3.0
 Population: 413538.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 9593.0
-Fourteen_day_test_rate_per_100000: 2320.0
-Percent_Positivity_in_prior_14_days: 0.055
-Level: Yellow
+Tests_in_prior_14_days: 8922.0
+Fourteen_day_test_rate_per_100000: 2157.0
+Percent_Positivity_in_prior_14_days: 0.046
+Level: Green
 url: /states/VA/loudoun-county
 ---
 

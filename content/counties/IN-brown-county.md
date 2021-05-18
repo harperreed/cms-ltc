@@ -1,6 +1,6 @@
 ---
 title: "Brown County, IN"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:18013.0,FEMA:5.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 18013.0
 FEMA_Region: 5.0
 Population: 15092.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 5359.0
-Fourteen_day_test_rate_per_100000: 35509.0
-Percent_Positivity_in_prior_14_days: 0.007
+Tests_in_prior_14_days: 3798.0
+Fourteen_day_test_rate_per_100000: 25166.0
+Percent_Positivity_in_prior_14_days: 0.01
 Level: Green
 url: /states/IN/brown-county
 ---

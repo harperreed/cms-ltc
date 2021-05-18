@@ -1,6 +1,6 @@
 ---
 title: "Harford County, MD"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:24025.0,FEMA:3.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 24025.0
 FEMA_Region: 3.0
 Population: 255441.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 12690.0
-Fourteen_day_test_rate_per_100000: 4968.0
-Percent_Positivity_in_prior_14_days: 0.041
+Tests_in_prior_14_days: 11294.0
+Fourteen_day_test_rate_per_100000: 4421.0
+Percent_Positivity_in_prior_14_days: 0.033
 Level: Green
 url: /states/MD/harford-county
 ---

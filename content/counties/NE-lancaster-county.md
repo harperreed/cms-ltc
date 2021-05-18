@@ -1,6 +1,6 @@
 ---
 title: "Lancaster County, NE"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:31109.0,FEMA:7.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 31109.0
 FEMA_Region: 7.0
 Population: 319090.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 13708.0
-Fourteen_day_test_rate_per_100000: 4296.0
-Percent_Positivity_in_prior_14_days: 0.035
+Tests_in_prior_14_days: 11561.0
+Fourteen_day_test_rate_per_100000: 3623.0
+Percent_Positivity_in_prior_14_days: 0.036
 Level: Green
 url: /states/NE/lancaster-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Alexandria city, VA"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:51510.0,FEMA:3.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 51510.0
 FEMA_Region: 3.0
 Population: 159428.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 7615.0
-Fourteen_day_test_rate_per_100000: 4776.0
-Percent_Positivity_in_prior_14_days: 0.033
+Tests_in_prior_14_days: 6929.0
+Fourteen_day_test_rate_per_100000: 4346.0
+Percent_Positivity_in_prior_14_days: 0.028
 Level: Green
 url: /states/VA/alexandria-city
 ---

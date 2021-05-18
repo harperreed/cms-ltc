@@ -1,6 +1,6 @@
 ---
 title: "Clay County, AL"
-date: 2021-05-17
+date: 2021-05-18
 draft: false
 type: county
 tags: [FIPS:1027.0,FEMA:4.0,Non-core,Red]
@@ -11,9 +11,9 @@ FIPS: 1027.0
 FEMA_Region: 4.0
 Population: 13235.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 376.0
-Fourteen_day_test_rate_per_100000: 2841.0
-Percent_Positivity_in_prior_14_days: 0.221
+Tests_in_prior_14_days: 326.0
+Fourteen_day_test_rate_per_100000: 2463.0
+Percent_Positivity_in_prior_14_days: 0.209
 Level: Red
 url: /states/AL/clay-county
 ---
