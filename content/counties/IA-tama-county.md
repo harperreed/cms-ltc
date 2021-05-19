@@ -1,6 +1,6 @@
 ---
 title: "Tama County, IA"
-date: 2021-05-18
+date: 2021-05-19
 draft: false
 type: county
 tags: [FIPS:19171.0,FEMA:7.0,Non-core,Green]

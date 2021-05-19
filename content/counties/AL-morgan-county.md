@@ -1,6 +1,6 @@
 ---
 title: "Morgan County, AL"
-date: 2021-05-18
+date: 2021-05-19
 draft: false
 type: county
 tags: [FIPS:1103.0,FEMA:4.0,Small metro,Yellow]

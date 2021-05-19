@@ -1,6 +1,6 @@
 ---
 title: "Swains Island, AS"
-date: 2021-05-18
+date: 2021-05-19
 draft: false
 type: county
 tags: [FIPS:60040.0,FEMA:9.0,,Green]

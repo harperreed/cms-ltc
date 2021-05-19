@@ -1,6 +1,6 @@
 ---
 title: "Columbia County, WA"
-date: 2021-05-18
+date: 2021-05-19
 draft: false
 type: county
 tags: [FIPS:53013.0,FEMA:10.0,Small metro,Green]
