@@ -1,6 +1,6 @@
 ---
 title: "Mason County, MI"
-date: 2021-05-19
+date: 2021-05-20
 draft: false
 type: county
 tags: [FIPS:26105.0,FEMA:5.0,Micropolitan,Red]

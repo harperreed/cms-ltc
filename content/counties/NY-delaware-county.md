@@ -1,6 +1,6 @@
 ---
 title: "Delaware County, NY"
-date: 2021-05-19
+date: 2021-05-20
 draft: false
 type: county
 tags: [FIPS:36025.0,FEMA:2.0,Non-core,Green]

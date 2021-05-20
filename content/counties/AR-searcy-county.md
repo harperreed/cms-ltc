@@ -1,6 +1,6 @@
 ---
 title: "Searcy County, AR"
-date: 2021-05-19
+date: 2021-05-20
 draft: false
 type: county
 tags: [FIPS:5129.0,FEMA:6.0,Non-core,Yellow]
