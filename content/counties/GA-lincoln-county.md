@@ -1,6 +1,6 @@
 ---
 title: "Lincoln County, GA"
-date: 2021-05-20
+date: 2021-05-21
 draft: false
 type: county
 tags: [FIPS:13181.0,FEMA:4.0,Medium metro,Yellow]

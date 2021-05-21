@@ -1,6 +1,6 @@
 ---
 title: "San Bernardino County, CA"
-date: 2021-05-20
+date: 2021-05-21
 draft: false
 type: county
 tags: [FIPS:6071.0,FEMA:9.0,Large fringe metro,Green]

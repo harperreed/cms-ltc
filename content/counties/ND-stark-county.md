@@ -1,6 +1,6 @@
 ---
 title: "Stark County, ND"
-date: 2021-05-20
+date: 2021-05-21
 draft: false
 type: county
 tags: [FIPS:38089.0,FEMA:8.0,Micropolitan,Green]

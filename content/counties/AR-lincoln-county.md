@@ -1,6 +1,6 @@
 ---
 title: "Lincoln County, AR"
-date: 2021-05-20
+date: 2021-05-21
 draft: false
 type: county
 tags: [FIPS:5079.0,FEMA:6.0,Small metro,Yellow]

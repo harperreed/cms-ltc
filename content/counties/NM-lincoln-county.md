@@ -1,6 +1,6 @@
 ---
 title: "Lincoln County, NM"
-date: 2021-05-20
+date: 2021-05-21
 draft: false
 type: county
 tags: [FIPS:35027.0,FEMA:6.0,Non-core,Yellow]

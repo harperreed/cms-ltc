@@ -1,6 +1,6 @@
 ---
 title: "Scott County, IA"
-date: 2021-05-20
+date: 2021-05-21
 draft: false
 type: county
 tags: [FIPS:19163.0,FEMA:7.0,Medium metro,Yellow]

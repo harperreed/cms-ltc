@@ -1,6 +1,6 @@
 ---
 title: "Edmunds County, SD"
-date: 2021-05-20
+date: 2021-05-21
 draft: false
 type: county
 tags: [FIPS:46045.0,FEMA:8.0,Micropolitan,Yellow]

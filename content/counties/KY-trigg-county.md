@@ -1,6 +1,6 @@
 ---
 title: "Trigg County, KY"
-date: 2021-05-20
+date: 2021-05-21
 draft: false
 type: county
 tags: [FIPS:21221.0,FEMA:4.0,Medium metro,Green]
