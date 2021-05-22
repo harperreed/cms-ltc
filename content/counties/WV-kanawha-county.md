@@ -1,6 +1,6 @@
 ---
 title: "Kanawha County, WV"
-date: 2021-05-21
+date: 2021-05-22
 draft: false
 type: county
 tags: [FIPS:54039.0,FEMA:3.0,Small metro,Yellow]

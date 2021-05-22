@@ -1,6 +1,6 @@
 ---
 title: "Manu'a District, AS"
-date: 2021-05-21
+date: 2021-05-22
 draft: false
 type: county
 tags: [FIPS:60020.0,FEMA:9.0,,Green]
