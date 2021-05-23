@@ -1,6 +1,6 @@
 ---
 title: "Dickinson County, MI"
-date: 2021-05-22
+date: 2021-05-23
 draft: false
 type: county
 tags: [FIPS:26043.0,FEMA:5.0,Micropolitan,Yellow]

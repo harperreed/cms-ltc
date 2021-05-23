@@ -1,6 +1,6 @@
 ---
 title: "Inyo County, CA"
-date: 2021-05-22
+date: 2021-05-23
 draft: false
 type: county
 tags: [FIPS:6027.0,FEMA:9.0,Non-core,Green]

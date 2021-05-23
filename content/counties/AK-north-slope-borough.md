@@ -1,6 +1,6 @@
 ---
 title: "North Slope Borough, AK"
-date: 2021-05-22
+date: 2021-05-23
 draft: false
 type: county
 tags: [FIPS:2185.0,FEMA:10.0,Non-core,Green]

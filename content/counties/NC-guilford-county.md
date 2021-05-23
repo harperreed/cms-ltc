@@ -1,6 +1,6 @@
 ---
 title: "Guilford County, NC"
-date: 2021-05-22
+date: 2021-05-23
 draft: false
 type: county
 tags: [FIPS:37081.0,FEMA:4.0,Medium metro,Green]
