@@ -1,6 +1,6 @@
 ---
 title: "Saipan Municipality, MP"
-date: 2021-05-23
+date: 2021-05-24
 draft: false
 type: county
 tags: [FIPS:69110.0,FEMA:9.0,,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Snyder County, PA"
-date: 2021-05-23
+date: 2021-05-24
 draft: false
 type: county
 tags: [FIPS:42109.0,FEMA:3.0,Micropolitan,Green]

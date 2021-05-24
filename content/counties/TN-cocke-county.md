@@ -1,6 +1,6 @@
 ---
 title: "Cocke County, TN"
-date: 2021-05-23
+date: 2021-05-24
 draft: false
 type: county
 tags: [FIPS:47029.0,FEMA:4.0,Micropolitan,Green]
