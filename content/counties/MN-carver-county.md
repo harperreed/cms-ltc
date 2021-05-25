@@ -1,9 +1,9 @@
 ---
 title: "Carver County, MN"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
-tags: [FIPS:27019.0,FEMA:5.0,Large fringe metro,Yellow]
+tags: [FIPS:27019.0,FEMA:5.0,Large fringe metro,Green]
 categories: [MN]
 County: Carver County
 State: MN
@@ -11,10 +11,10 @@ FIPS: 27019.0
 FEMA_Region: 5.0
 Population: 105089.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 7129.0
-Fourteen_day_test_rate_per_100000: 6784.0
-Percent_Positivity_in_prior_14_days: 0.051
-Level: Yellow
+Tests_in_prior_14_days: 6441.0
+Fourteen_day_test_rate_per_100000: 6129.0
+Percent_Positivity_in_prior_14_days: 0.043
+Level: Green
 url: /states/MN/carver-county
 ---
 

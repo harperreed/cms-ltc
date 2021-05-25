@@ -1,9 +1,9 @@
 ---
 title: "McCurtain County, OK"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
-tags: [FIPS:40089.0,FEMA:6.0,Non-core,Green]
+tags: [FIPS:40089.0,FEMA:6.0,Non-core,Yellow]
 categories: [OK]
 County: McCurtain County
 State: OK
@@ -11,10 +11,10 @@ FIPS: 40089.0
 FEMA_Region: 6.0
 Population: 32832.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 29.0
-Fourteen_day_test_rate_per_100000: 88.0
-Percent_Positivity_in_prior_14_days: 0.0
-Level: Green
+Tests_in_prior_14_days: 55.0
+Fourteen_day_test_rate_per_100000: 168.0
+Percent_Positivity_in_prior_14_days: 0.164
+Level: Yellow
 url: /states/OK/mccurtain-county
 ---
 

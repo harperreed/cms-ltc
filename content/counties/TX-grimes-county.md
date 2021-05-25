@@ -1,6 +1,6 @@
 ---
 title: "Grimes County, TX"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:48185.0,FEMA:6.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 48185.0
 FEMA_Region: 6.0
 Population: 28880.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1519.0
-Fourteen_day_test_rate_per_100000: 5260.0
-Percent_Positivity_in_prior_14_days: 0.038
+Tests_in_prior_14_days: 1706.0
+Fourteen_day_test_rate_per_100000: 5907.0
+Percent_Positivity_in_prior_14_days: 0.024
 Level: Green
 url: /states/TX/grimes-county
 ---

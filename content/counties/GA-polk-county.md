@@ -1,9 +1,9 @@
 ---
 title: "Polk County, GA"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
-tags: [FIPS:13233.0,FEMA:4.0,Micropolitan,Yellow]
+tags: [FIPS:13233.0,FEMA:4.0,Micropolitan,Green]
 categories: [GA]
 County: Polk County
 State: GA
@@ -11,10 +11,10 @@ FIPS: 13233.0
 FEMA_Region: 4.0
 Population: 42613.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 566.0
-Fourteen_day_test_rate_per_100000: 1328.0
-Percent_Positivity_in_prior_14_days: 0.062
-Level: Yellow
+Tests_in_prior_14_days: 578.0
+Fourteen_day_test_rate_per_100000: 1356.0
+Percent_Positivity_in_prior_14_days: 0.043
+Level: Green
 url: /states/GA/polk-county
 ---
 

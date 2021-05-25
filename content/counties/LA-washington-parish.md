@@ -1,6 +1,6 @@
 ---
 title: "Washington Parish, LA"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:22117.0,FEMA:6.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 22117.0
 FEMA_Region: 6.0
 Population: 46194.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 972.0
-Fourteen_day_test_rate_per_100000: 2104.0
-Percent_Positivity_in_prior_14_days: 0.014
+Tests_in_prior_14_days: 936.0
+Fourteen_day_test_rate_per_100000: 2026.0
+Percent_Positivity_in_prior_14_days: 0.019
 Level: Green
 url: /states/LA/washington-parish
 ---

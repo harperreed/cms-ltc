@@ -1,9 +1,9 @@
 ---
 title: "De Witt County, IL"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
-tags: [FIPS:17039.0,FEMA:5.0,Small metro,Yellow]
+tags: [FIPS:17039.0,FEMA:5.0,Small metro,Green]
 categories: [IL]
 County: De Witt County
 State: IL
@@ -11,10 +11,10 @@ FIPS: 17039.0
 FEMA_Region: 5.0
 Population: 15638.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 995.0
-Fourteen_day_test_rate_per_100000: 6363.0
-Percent_Positivity_in_prior_14_days: 0.072
-Level: Yellow
+Tests_in_prior_14_days: 846.0
+Fourteen_day_test_rate_per_100000: 5410.0
+Percent_Positivity_in_prior_14_days: 0.048
+Level: Green
 url: /states/IL/de-witt-county
 ---
 

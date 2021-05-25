@@ -1,9 +1,9 @@
 ---
 title: "Caldwell Parish, LA"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
-tags: [FIPS:22021.0,FEMA:6.0,Non-core,Green]
+tags: [FIPS:22021.0,FEMA:6.0,Non-core,Yellow]
 categories: [LA]
 County: Caldwell Parish
 State: LA
@@ -11,10 +11,10 @@ FIPS: 22021.0
 FEMA_Region: 6.0
 Population: 9918.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 175.0
-Fourteen_day_test_rate_per_100000: 1764.0
-Percent_Positivity_in_prior_14_days: 0.029
-Level: Green
+Tests_in_prior_14_days: 159.0
+Fourteen_day_test_rate_per_100000: 1603.0
+Percent_Positivity_in_prior_14_days: 0.057
+Level: Yellow
 url: /states/LA/caldwell-parish
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Hatillo Municipio, PR"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:72065.0,FEMA:2.0,,Yellow]
@@ -11,9 +11,9 @@ FIPS: 72065.0
 FEMA_Region: 2.0
 Population: 39218.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 741.0
-Fourteen_day_test_rate_per_100000: 1889.0
-Percent_Positivity_in_prior_14_days: 0.085
+Tests_in_prior_14_days: 736.0
+Fourteen_day_test_rate_per_100000: 1877.0
+Percent_Positivity_in_prior_14_days: 0.076
 Level: Yellow
 url: /states/PR/hatillo-municipio
 ---

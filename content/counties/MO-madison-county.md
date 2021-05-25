@@ -1,6 +1,6 @@
 ---
 title: "Madison County, MO"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:29123.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 29123.0
 FEMA_Region: 7.0
 Population: 12088.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 171.0
-Fourteen_day_test_rate_per_100000: 1415.0
-Percent_Positivity_in_prior_14_days: 0.082
+Tests_in_prior_14_days: 227.0
+Fourteen_day_test_rate_per_100000: 1878.0
+Percent_Positivity_in_prior_14_days: 0.159
 Level: Yellow
 url: /states/MO/madison-county
 ---

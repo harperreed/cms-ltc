@@ -1,9 +1,9 @@
 ---
 title: "Perkins County, NE"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
-tags: [FIPS:31135.0,FEMA:7.0,Non-core,Yellow]
+tags: [FIPS:31135.0,FEMA:7.0,Non-core,Green]
 categories: [NE]
 County: Perkins County
 State: NE
@@ -11,10 +11,10 @@ FIPS: 31135.0
 FEMA_Region: 7.0
 Population: 2891.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 23.0
-Fourteen_day_test_rate_per_100000: 796.0
-Percent_Positivity_in_prior_14_days: 0.174
-Level: Yellow
+Tests_in_prior_14_days: <20 tests
+Fourteen_day_test_rate_per_100000: <20 tests
+Percent_Positivity_in_prior_14_days: <20 tests
+Level: Green
 url: /states/NE/perkins-county
 ---
 

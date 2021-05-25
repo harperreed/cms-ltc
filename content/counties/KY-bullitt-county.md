@@ -1,9 +1,9 @@
 ---
 title: "Bullitt County, KY"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
-tags: [FIPS:21029.0,FEMA:4.0,Large fringe metro,Yellow]
+tags: [FIPS:21029.0,FEMA:4.0,Large fringe metro,Green]
 categories: [KY]
 County: Bullitt County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21029.0
 FEMA_Region: 4.0
 Population: 81676.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1792.0
-Fourteen_day_test_rate_per_100000: 2194.0
-Percent_Positivity_in_prior_14_days: 0.085
-Level: Yellow
+Tests_in_prior_14_days: 1907.0
+Fourteen_day_test_rate_per_100000: 2335.0
+Percent_Positivity_in_prior_14_days: 0.047
+Level: Green
 url: /states/KY/bullitt-county
 ---
 

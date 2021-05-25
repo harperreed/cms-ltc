@@ -1,6 +1,6 @@
 ---
 title: "Knox County, ME"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:23013.0,FEMA:1.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 23013.0
 FEMA_Region: 1.0
 Population: 39772.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 2105.0
-Fourteen_day_test_rate_per_100000: 5293.0
-Percent_Positivity_in_prior_14_days: 0.042
+Tests_in_prior_14_days: 1816.0
+Fourteen_day_test_rate_per_100000: 4566.0
+Percent_Positivity_in_prior_14_days: 0.032
 Level: Green
 url: /states/ME/knox-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Stone County, AR"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:5137.0,FEMA:6.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 5137.0
 FEMA_Region: 6.0
 Population: 12506.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 62.0
-Fourteen_day_test_rate_per_100000: 496.0
-Percent_Positivity_in_prior_14_days: 0.048
+Tests_in_prior_14_days: 97.0
+Fourteen_day_test_rate_per_100000: 776.0
+Percent_Positivity_in_prior_14_days: 0.031
 Level: Green
 url: /states/AR/stone-county
 ---

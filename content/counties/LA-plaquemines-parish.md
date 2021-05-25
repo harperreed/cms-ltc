@@ -1,6 +1,6 @@
 ---
 title: "Plaquemines Parish, LA"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:22075.0,FEMA:6.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 22075.0
 FEMA_Region: 6.0
 Population: 23197.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 523.0
-Fourteen_day_test_rate_per_100000: 2255.0
-Percent_Positivity_in_prior_14_days: 0.015
+Tests_in_prior_14_days: 476.0
+Fourteen_day_test_rate_per_100000: 2052.0
+Percent_Positivity_in_prior_14_days: 0.008
 Level: Green
 url: /states/LA/plaquemines-parish
 ---

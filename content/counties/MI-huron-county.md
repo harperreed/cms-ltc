@@ -1,9 +1,9 @@
 ---
 title: "Huron County, MI"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
-tags: [FIPS:26063.0,FEMA:5.0,Non-core,Red]
+tags: [FIPS:26063.0,FEMA:5.0,Non-core,Yellow]
 categories: [MI]
 County: Huron County
 State: MI
@@ -11,10 +11,10 @@ FIPS: 26063.0
 FEMA_Region: 5.0
 Population: 30981.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 689.0
-Fourteen_day_test_rate_per_100000: 2224.0
-Percent_Positivity_in_prior_14_days: 0.154
-Level: Red
+Tests_in_prior_14_days: 894.0
+Fourteen_day_test_rate_per_100000: 2886.0
+Percent_Positivity_in_prior_14_days: 0.097
+Level: Yellow
 url: /states/MI/huron-county
 ---
 

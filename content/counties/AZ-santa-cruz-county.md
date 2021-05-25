@@ -1,6 +1,6 @@
 ---
 title: "Santa Cruz County, AZ"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:4023.0,FEMA:9.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 4023.0
 FEMA_Region: 9.0
 Population: 46498.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 610.0
-Fourteen_day_test_rate_per_100000: 1312.0
-Percent_Positivity_in_prior_14_days: 0.021
+Tests_in_prior_14_days: 564.0
+Fourteen_day_test_rate_per_100000: 1213.0
+Percent_Positivity_in_prior_14_days: 0.035
 Level: Green
 url: /states/AZ/santa-cruz-county
 ---

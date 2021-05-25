@@ -1,6 +1,6 @@
 ---
 title: "Humboldt County, NV"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:32013.0,FEMA:9.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 32013.0
 FEMA_Region: 9.0
 Population: 16831.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 345.0
-Fourteen_day_test_rate_per_100000: 2050.0
-Percent_Positivity_in_prior_14_days: 0.029
+Tests_in_prior_14_days: 316.0
+Fourteen_day_test_rate_per_100000: 1877.0
+Percent_Positivity_in_prior_14_days: 0.032
 Level: Green
 url: /states/NV/humboldt-county
 ---

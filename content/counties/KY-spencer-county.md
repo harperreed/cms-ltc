@@ -1,6 +1,6 @@
 ---
 title: "Spencer County, KY"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:21215.0,FEMA:4.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 21215.0
 FEMA_Region: 4.0
 Population: 19351.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 597.0
-Fourteen_day_test_rate_per_100000: 3085.0
-Percent_Positivity_in_prior_14_days: 0.044
+Tests_in_prior_14_days: 462.0
+Fourteen_day_test_rate_per_100000: 2387.0
+Percent_Positivity_in_prior_14_days: 0.026
 Level: Green
 url: /states/KY/spencer-county
 ---

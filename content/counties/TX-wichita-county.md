@@ -1,6 +1,6 @@
 ---
 title: "Wichita County, TX"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:48485.0,FEMA:6.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48485.0
 FEMA_Region: 6.0
 Population: 132230.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 730.0
-Fourteen_day_test_rate_per_100000: 552.0
-Percent_Positivity_in_prior_14_days: 0.063
+Tests_in_prior_14_days: 807.0
+Fourteen_day_test_rate_per_100000: 610.0
+Percent_Positivity_in_prior_14_days: 0.076
 Level: Yellow
 url: /states/TX/wichita-county
 ---

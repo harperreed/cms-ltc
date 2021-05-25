@@ -1,6 +1,6 @@
 ---
 title: "Kerr County, TX"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:48265.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48265.0
 FEMA_Region: 6.0
 Population: 52600.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 310.0
-Fourteen_day_test_rate_per_100000: 589.0
-Percent_Positivity_in_prior_14_days: 0.074
+Tests_in_prior_14_days: 333.0
+Fourteen_day_test_rate_per_100000: 633.0
+Percent_Positivity_in_prior_14_days: 0.087
 Level: Yellow
 url: /states/TX/kerr-county
 ---

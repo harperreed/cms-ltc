@@ -1,9 +1,9 @@
 ---
 title: "Cocke County, TN"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
-tags: [FIPS:47029.0,FEMA:4.0,Micropolitan,Green]
+tags: [FIPS:47029.0,FEMA:4.0,Micropolitan,Yellow]
 categories: [TN]
 County: Cocke County
 State: TN
@@ -11,10 +11,10 @@ FIPS: 47029.0
 FEMA_Region: 4.0
 Population: 36004.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 242.0
-Fourteen_day_test_rate_per_100000: 672.0
-Percent_Positivity_in_prior_14_days: 0.045
-Level: Green
+Tests_in_prior_14_days: 252.0
+Fourteen_day_test_rate_per_100000: 700.0
+Percent_Positivity_in_prior_14_days: 0.06
+Level: Yellow
 url: /states/TN/cocke-county
 ---
 

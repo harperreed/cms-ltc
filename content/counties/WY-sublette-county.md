@@ -1,6 +1,6 @@
 ---
 title: "Sublette County, WY"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:56035.0,FEMA:8.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 56035.0
 FEMA_Region: 8.0
 Population: 9831.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 134.0
-Fourteen_day_test_rate_per_100000: 1363.0
-Percent_Positivity_in_prior_14_days: 0.119
+Tests_in_prior_14_days: 115.0
+Fourteen_day_test_rate_per_100000: 1170.0
+Percent_Positivity_in_prior_14_days: 0.061
 Level: Yellow
 url: /states/WY/sublette-county
 ---

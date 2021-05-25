@@ -1,9 +1,9 @@
 ---
 title: "Macomb County, MI"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
-tags: [FIPS:26099.0,FEMA:5.0,Large fringe metro,Red]
+tags: [FIPS:26099.0,FEMA:5.0,Large fringe metro,Yellow]
 categories: [MI]
 County: Macomb County
 State: MI
@@ -11,10 +11,10 @@ FIPS: 26099.0
 FEMA_Region: 5.0
 Population: 873972.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 32446.0
-Fourteen_day_test_rate_per_100000: 3712.0
-Percent_Positivity_in_prior_14_days: 0.108
-Level: Red
+Tests_in_prior_14_days: 28382.0
+Fourteen_day_test_rate_per_100000: 3247.0
+Percent_Positivity_in_prior_14_days: 0.081
+Level: Yellow
 url: /states/MI/macomb-county
 ---
 

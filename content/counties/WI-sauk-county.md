@@ -1,6 +1,6 @@
 ---
 title: "Sauk County, WI"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:55111.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 55111.0
 FEMA_Region: 5.0
 Population: 64442.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2068.0
-Fourteen_day_test_rate_per_100000: 3209.0
-Percent_Positivity_in_prior_14_days: 0.053
+Tests_in_prior_14_days: 1960.0
+Fourteen_day_test_rate_per_100000: 3041.0
+Percent_Positivity_in_prior_14_days: 0.054
 Level: Yellow
 url: /states/WI/sauk-county
 ---

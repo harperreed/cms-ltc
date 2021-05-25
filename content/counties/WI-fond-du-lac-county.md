@@ -1,6 +1,6 @@
 ---
 title: "Fond du Lac County, WI"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:55039.0,FEMA:5.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 55039.0
 FEMA_Region: 5.0
 Population: 103403.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 4983.0
-Fourteen_day_test_rate_per_100000: 4819.0
-Percent_Positivity_in_prior_14_days: 0.03
+Tests_in_prior_14_days: 4953.0
+Fourteen_day_test_rate_per_100000: 4790.0
+Percent_Positivity_in_prior_14_days: 0.027
 Level: Green
 url: /states/WI/fond-du-lac-county
 ---

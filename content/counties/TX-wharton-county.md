@@ -1,6 +1,6 @@
 ---
 title: "Wharton County, TX"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:48481.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48481.0
 FEMA_Region: 6.0
 Population: 41556.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 511.0
-Fourteen_day_test_rate_per_100000: 1230.0
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 611.0
+Fourteen_day_test_rate_per_100000: 1470.0
+Percent_Positivity_in_prior_14_days: 0.095
 Level: Yellow
 url: /states/TX/wharton-county
 ---

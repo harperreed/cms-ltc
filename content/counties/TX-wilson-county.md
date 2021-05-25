@@ -1,6 +1,6 @@
 ---
 title: "Wilson County, TX"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:48493.0,FEMA:6.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 48493.0
 FEMA_Region: 6.0
 Population: 51070.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 798.0
-Fourteen_day_test_rate_per_100000: 1563.0
-Percent_Positivity_in_prior_14_days: 0.041
+Tests_in_prior_14_days: 801.0
+Fourteen_day_test_rate_per_100000: 1568.0
+Percent_Positivity_in_prior_14_days: 0.047
 Level: Green
 url: /states/TX/wilson-county
 ---

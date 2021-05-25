@@ -1,6 +1,6 @@
 ---
 title: "Mendocino County, CA"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:6045.0,FEMA:9.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 6045.0
 FEMA_Region: 9.0
 Population: 86749.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1874.0
-Fourteen_day_test_rate_per_100000: 2160.0
-Percent_Positivity_in_prior_14_days: 0.022
+Tests_in_prior_14_days: 2204.0
+Fourteen_day_test_rate_per_100000: 2541.0
+Percent_Positivity_in_prior_14_days: 0.034
 Level: Green
 url: /states/CA/mendocino-county
 ---

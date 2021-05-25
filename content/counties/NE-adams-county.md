@@ -1,6 +1,6 @@
 ---
 title: "Adams County, NE"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:31001.0,FEMA:7.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 31001.0
 FEMA_Region: 7.0
 Population: 31363.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 197.0
-Fourteen_day_test_rate_per_100000: 628.0
-Percent_Positivity_in_prior_14_days: 0.178
+Tests_in_prior_14_days: 179.0
+Fourteen_day_test_rate_per_100000: 571.0
+Percent_Positivity_in_prior_14_days: 0.145
 Level: Yellow
 url: /states/NE/adams-county
 ---

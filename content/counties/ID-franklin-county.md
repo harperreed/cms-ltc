@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, ID"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:16041.0,FEMA:10.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 16041.0
 FEMA_Region: 10.0
 Population: 13876.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 176.0
-Fourteen_day_test_rate_per_100000: 1268.0
-Percent_Positivity_in_prior_14_days: 0.011
+Tests_in_prior_14_days: 150.0
+Fourteen_day_test_rate_per_100000: 1081.0
+Percent_Positivity_in_prior_14_days: 0.033
 Level: Green
 url: /states/ID/franklin-county
 ---

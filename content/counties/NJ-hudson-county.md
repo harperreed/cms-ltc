@@ -1,6 +1,6 @@
 ---
 title: "Hudson County, NJ"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:34017.0,FEMA:2.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 34017.0
 FEMA_Region: 2.0
 Population: 672391.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 38818.0
-Fourteen_day_test_rate_per_100000: 5773.0
-Percent_Positivity_in_prior_14_days: 0.047
+Tests_in_prior_14_days: 36467.0
+Fourteen_day_test_rate_per_100000: 5423.0
+Percent_Positivity_in_prior_14_days: 0.033
 Level: Green
 url: /states/NJ/hudson-county
 ---

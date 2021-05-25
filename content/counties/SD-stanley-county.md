@@ -1,6 +1,6 @@
 ---
 title: "Stanley County, SD"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:46117.0,FEMA:8.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 46117.0
 FEMA_Region: 8.0
 Population: 3098.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 37.0
-Fourteen_day_test_rate_per_100000: 1194.0
-Percent_Positivity_in_prior_14_days: 0.027
+Tests_in_prior_14_days: 30.0
+Fourteen_day_test_rate_per_100000: 968.0
+Percent_Positivity_in_prior_14_days: 0.033
 Level: Green
 url: /states/SD/stanley-county
 ---

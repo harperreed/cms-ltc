@@ -1,6 +1,6 @@
 ---
 title: "Beaver County, PA"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:42007.0,FEMA:3.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 42007.0
 FEMA_Region: 3.0
 Population: 163929.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 6432.0
-Fourteen_day_test_rate_per_100000: 3924.0
-Percent_Positivity_in_prior_14_days: 0.055
+Tests_in_prior_14_days: 6039.0
+Fourteen_day_test_rate_per_100000: 3684.0
+Percent_Positivity_in_prior_14_days: 0.05
 Level: Yellow
 url: /states/PA/beaver-county
 ---

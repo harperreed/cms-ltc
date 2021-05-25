@@ -1,6 +1,6 @@
 ---
 title: "Harlan County, KY"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:21095.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 21095.0
 FEMA_Region: 4.0
 Population: 26010.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 876.0
-Fourteen_day_test_rate_per_100000: 3368.0
-Percent_Positivity_in_prior_14_days: 0.058
+Tests_in_prior_14_days: 886.0
+Fourteen_day_test_rate_per_100000: 3406.0
+Percent_Positivity_in_prior_14_days: 0.067
 Level: Yellow
 url: /states/KY/harlan-county
 ---

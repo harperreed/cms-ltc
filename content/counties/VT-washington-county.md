@@ -1,6 +1,6 @@
 ---
 title: "Washington County, VT"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:50023.0,FEMA:1.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 50023.0
 FEMA_Region: 1.0
 Population: 58409.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4702.0
-Fourteen_day_test_rate_per_100000: 8050.0
-Percent_Positivity_in_prior_14_days: 0.022
+Tests_in_prior_14_days: 3809.0
+Fourteen_day_test_rate_per_100000: 6521.0
+Percent_Positivity_in_prior_14_days: 0.024
 Level: Green
 url: /states/VT/washington-county
 ---

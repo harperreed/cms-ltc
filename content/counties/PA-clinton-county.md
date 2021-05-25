@@ -1,9 +1,9 @@
 ---
 title: "Clinton County, PA"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
-tags: [FIPS:42035.0,FEMA:3.0,Micropolitan,Yellow]
+tags: [FIPS:42035.0,FEMA:3.0,Micropolitan,Green]
 categories: [PA]
 County: Clinton County
 State: PA
@@ -11,10 +11,10 @@ FIPS: 42035.0
 FEMA_Region: 3.0
 Population: 38632.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1529.0
-Fourteen_day_test_rate_per_100000: 3958.0
-Percent_Positivity_in_prior_14_days: 0.058
-Level: Yellow
+Tests_in_prior_14_days: 1364.0
+Fourteen_day_test_rate_per_100000: 3531.0
+Percent_Positivity_in_prior_14_days: 0.045
+Level: Green
 url: /states/PA/clinton-county
 ---
 

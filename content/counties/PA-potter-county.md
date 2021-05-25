@@ -1,9 +1,9 @@
 ---
 title: "Potter County, PA"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
-tags: [FIPS:42105.0,FEMA:3.0,Non-core,Yellow]
+tags: [FIPS:42105.0,FEMA:3.0,Non-core,Red]
 categories: [PA]
 County: Potter County
 State: PA
@@ -11,10 +11,10 @@ FIPS: 42105.0
 FEMA_Region: 3.0
 Population: 16526.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 584.0
-Fourteen_day_test_rate_per_100000: 3534.0
-Percent_Positivity_in_prior_14_days: 0.087
-Level: Yellow
+Tests_in_prior_14_days: 562.0
+Fourteen_day_test_rate_per_100000: 3401.0
+Percent_Positivity_in_prior_14_days: 0.112
+Level: Red
 url: /states/PA/potter-county
 ---
 

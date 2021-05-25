@@ -1,6 +1,6 @@
 ---
 title: "Bingham County, ID"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:16011.0,FEMA:10.0,Micropolitan,Green]
@@ -13,7 +13,7 @@ Population: 46811.0
 NCHS_Urban_Rural_Classification: Micropolitan
 Tests_in_prior_14_days: 414.0
 Fourteen_day_test_rate_per_100000: 884.0
-Percent_Positivity_in_prior_14_days: 0.022
+Percent_Positivity_in_prior_14_days: 0.024
 Level: Green
 url: /states/ID/bingham-county
 ---

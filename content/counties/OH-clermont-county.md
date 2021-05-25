@@ -1,6 +1,6 @@
 ---
 title: "Clermont County, OH"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:39025.0,FEMA:5.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 39025.0
 FEMA_Region: 5.0
 Population: 206428.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 6397.0
-Fourteen_day_test_rate_per_100000: 3099.0
-Percent_Positivity_in_prior_14_days: 0.028
+Tests_in_prior_14_days: 5551.0
+Fourteen_day_test_rate_per_100000: 2689.0
+Percent_Positivity_in_prior_14_days: 0.026
 Level: Green
 url: /states/OH/clermont-county
 ---

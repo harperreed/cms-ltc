@@ -1,6 +1,6 @@
 ---
 title: "Quebradillas Municipio, PR"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:72115.0,FEMA:2.0,,Yellow]
@@ -11,9 +11,9 @@ FIPS: 72115.0
 FEMA_Region: 2.0
 Population: 22918.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 419.0
-Fourteen_day_test_rate_per_100000: 1828.0
-Percent_Positivity_in_prior_14_days: 0.134
+Tests_in_prior_14_days: 420.0
+Fourteen_day_test_rate_per_100000: 1833.0
+Percent_Positivity_in_prior_14_days: 0.086
 Level: Yellow
 url: /states/PR/quebradillas-municipio
 ---

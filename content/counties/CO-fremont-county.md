@@ -1,6 +1,6 @@
 ---
 title: "Fremont County, CO"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:8043.0,FEMA:8.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 8043.0
 FEMA_Region: 8.0
 Population: 47839.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 9323.0
-Fourteen_day_test_rate_per_100000: 19488.0
-Percent_Positivity_in_prior_14_days: 0.032
+Tests_in_prior_14_days: 8736.0
+Fourteen_day_test_rate_per_100000: 18261.0
+Percent_Positivity_in_prior_14_days: 0.02
 Level: Green
 url: /states/CO/fremont-county
 ---

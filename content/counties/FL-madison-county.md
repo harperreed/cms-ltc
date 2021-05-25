@@ -1,6 +1,6 @@
 ---
 title: "Madison County, FL"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:12079.0,FEMA:4.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 12079.0
 FEMA_Region: 4.0
 Population: 18493.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 400.0
-Fourteen_day_test_rate_per_100000: 2163.0
-Percent_Positivity_in_prior_14_days: 0.045
+Tests_in_prior_14_days: 329.0
+Fourteen_day_test_rate_per_100000: 1779.0
+Percent_Positivity_in_prior_14_days: 0.049
 Level: Green
 url: /states/FL/madison-county
 ---

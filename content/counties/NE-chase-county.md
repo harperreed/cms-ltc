@@ -1,9 +1,9 @@
 ---
 title: "Chase County, NE"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
-tags: [FIPS:31029.0,FEMA:7.0,Non-core,Yellow]
+tags: [FIPS:31029.0,FEMA:7.0,Non-core,Green]
 categories: [NE]
 County: Chase County
 State: NE
@@ -11,10 +11,10 @@ FIPS: 31029.0
 FEMA_Region: 7.0
 Population: 3924.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 37.0
-Fourteen_day_test_rate_per_100000: 943.0
-Percent_Positivity_in_prior_14_days: 0.054
-Level: Yellow
+Tests_in_prior_14_days: 39.0
+Fourteen_day_test_rate_per_100000: 994.0
+Percent_Positivity_in_prior_14_days: 0.0
+Level: Green
 url: /states/NE/chase-county
 ---
 

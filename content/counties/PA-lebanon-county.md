@@ -1,6 +1,6 @@
 ---
 title: "Lebanon County, PA"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:42075.0,FEMA:3.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 42075.0
 FEMA_Region: 3.0
 Population: 141793.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 5285.0
-Fourteen_day_test_rate_per_100000: 3727.0
-Percent_Positivity_in_prior_14_days: 0.097
+Tests_in_prior_14_days: 4847.0
+Fourteen_day_test_rate_per_100000: 3418.0
+Percent_Positivity_in_prior_14_days: 0.075
 Level: Yellow
 url: /states/PA/lebanon-county
 ---

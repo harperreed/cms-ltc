@@ -1,9 +1,9 @@
 ---
 title: "Cass County, IN"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
-tags: [FIPS:18017.0,FEMA:5.0,Micropolitan,Green]
+tags: [FIPS:18017.0,FEMA:5.0,Micropolitan,Yellow]
 categories: [IN]
 County: Cass County
 State: IN
@@ -11,10 +11,10 @@ FIPS: 18017.0
 FEMA_Region: 5.0
 Population: 37689.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 972.0
-Fourteen_day_test_rate_per_100000: 2579.0
-Percent_Positivity_in_prior_14_days: 0.037
-Level: Green
+Tests_in_prior_14_days: 1108.0
+Fourteen_day_test_rate_per_100000: 2940.0
+Percent_Positivity_in_prior_14_days: 0.06
+Level: Yellow
 url: /states/IN/cass-county
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Kandiyohi County, MN"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
-tags: [FIPS:27067.0,FEMA:5.0,Micropolitan,Yellow]
+tags: [FIPS:27067.0,FEMA:5.0,Micropolitan,Green]
 categories: [MN]
 County: Kandiyohi County
 State: MN
@@ -11,10 +11,10 @@ FIPS: 27067.0
 FEMA_Region: 5.0
 Population: 43199.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 4387.0
-Fourteen_day_test_rate_per_100000: 10155.0
-Percent_Positivity_in_prior_14_days: 0.05
-Level: Yellow
+Tests_in_prior_14_days: 4194.0
+Fourteen_day_test_rate_per_100000: 9709.0
+Percent_Positivity_in_prior_14_days: 0.046
+Level: Green
 url: /states/MN/kandiyohi-county
 ---
 

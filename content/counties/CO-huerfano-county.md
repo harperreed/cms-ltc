@@ -1,6 +1,6 @@
 ---
 title: "Huerfano County, CO"
-date: 2021-05-24
+date: 2021-05-25
 draft: false
 type: county
 tags: [FIPS:8055.0,FEMA:8.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 8055.0
 FEMA_Region: 8.0
 Population: 6897.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 913.0
-Fourteen_day_test_rate_per_100000: 13238.0
-Percent_Positivity_in_prior_14_days: 0.044
+Tests_in_prior_14_days: 712.0
+Fourteen_day_test_rate_per_100000: 10323.0
+Percent_Positivity_in_prior_14_days: 0.032
 Level: Green
 url: /states/CO/huerfano-county
 ---
