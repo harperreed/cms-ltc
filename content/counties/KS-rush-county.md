@@ -1,6 +1,6 @@
 ---
 title: "Rush County, KS"
-date: 2021-05-25
+date: 2021-05-26
 draft: false
 type: county
 tags: [FIPS:20165.0,FEMA:7.0,Non-core,Green]

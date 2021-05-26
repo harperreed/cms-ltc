@@ -1,6 +1,6 @@
 ---
 title: "Reagan County, TX"
-date: 2021-05-25
+date: 2021-05-26
 draft: false
 type: county
 tags: [FIPS:48383.0,FEMA:6.0,Non-core,Green]

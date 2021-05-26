@@ -1,6 +1,6 @@
 ---
 title: "Talbot County, GA"
-date: 2021-05-25
+date: 2021-05-26
 draft: false
 type: county
 tags: [FIPS:13263.0,FEMA:4.0,Non-core,Green]

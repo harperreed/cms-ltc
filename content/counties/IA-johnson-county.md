@@ -1,6 +1,6 @@
 ---
 title: "Johnson County, IA"
-date: 2021-05-25
+date: 2021-05-26
 draft: false
 type: county
 tags: [FIPS:19103.0,FEMA:7.0,Small metro,Green]

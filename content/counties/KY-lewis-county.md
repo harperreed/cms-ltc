@@ -1,6 +1,6 @@
 ---
 title: "Lewis County, KY"
-date: 2021-05-25
+date: 2021-05-26
 draft: false
 type: county
 tags: [FIPS:21135.0,FEMA:4.0,Non-core,Yellow]
