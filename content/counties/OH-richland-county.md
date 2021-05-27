@@ -1,6 +1,6 @@
 ---
 title: "Richland County, OH"
-date: 2021-05-26
+date: 2021-05-27
 draft: false
 type: county
 tags: [FIPS:39139.0,FEMA:5.0,Small metro,Green]

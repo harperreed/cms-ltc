@@ -1,6 +1,6 @@
 ---
 title: "Richardson County, NE"
-date: 2021-05-26
+date: 2021-05-27
 draft: false
 type: county
 tags: [FIPS:31147.0,FEMA:7.0,Non-core,Yellow]

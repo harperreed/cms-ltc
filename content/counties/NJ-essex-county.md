@@ -1,6 +1,6 @@
 ---
 title: "Essex County, NJ"
-date: 2021-05-26
+date: 2021-05-27
 draft: false
 type: county
 tags: [FIPS:34013.0,FEMA:2.0,Large central metro,Green]
