@@ -1,6 +1,6 @@
 ---
 title: "Shelby County, KY"
-date: 2021-05-27
+date: 2021-05-28
 draft: false
 type: county
 tags: [FIPS:21211.0,FEMA:4.0,Large fringe metro,Yellow]

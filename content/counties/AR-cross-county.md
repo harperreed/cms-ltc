@@ -1,6 +1,6 @@
 ---
 title: "Cross County, AR"
-date: 2021-05-27
+date: 2021-05-28
 draft: false
 type: county
 tags: [FIPS:5037.0,FEMA:6.0,Non-core,Green]

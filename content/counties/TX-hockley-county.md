@@ -1,6 +1,6 @@
 ---
 title: "Hockley County, TX"
-date: 2021-05-27
+date: 2021-05-28
 draft: false
 type: county
 tags: [FIPS:48219.0,FEMA:6.0,Micropolitan,Green]
