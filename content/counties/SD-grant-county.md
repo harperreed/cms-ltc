@@ -1,6 +1,6 @@
 ---
 title: "Grant County, SD"
-date: 2021-05-28
+date: 2021-05-29
 draft: false
 type: county
 tags: [FIPS:46051.0,FEMA:8.0,Non-core,Yellow]

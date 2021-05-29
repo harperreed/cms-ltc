@@ -1,6 +1,6 @@
 ---
 title: "Chippewa County, WI"
-date: 2021-05-28
+date: 2021-05-29
 draft: false
 type: county
 tags: [FIPS:55017.0,FEMA:5.0,Small metro,Green]

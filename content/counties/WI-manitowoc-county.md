@@ -1,6 +1,6 @@
 ---
 title: "Manitowoc County, WI"
-date: 2021-05-28
+date: 2021-05-29
 draft: false
 type: county
 tags: [FIPS:55071.0,FEMA:5.0,Micropolitan,Green]

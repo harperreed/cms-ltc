@@ -1,6 +1,6 @@
 ---
 title: "Douglas County, KS"
-date: 2021-05-28
+date: 2021-05-29
 draft: false
 type: county
 tags: [FIPS:20045.0,FEMA:7.0,Small metro,Green]
