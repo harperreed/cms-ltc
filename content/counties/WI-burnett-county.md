@@ -1,6 +1,6 @@
 ---
 title: "Burnett County, WI"
-date: 2021-05-29
+date: 2021-05-30
 draft: false
 type: county
 tags: [FIPS:55013.0,FEMA:5.0,Non-core,Green]

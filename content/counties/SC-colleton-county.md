@@ -1,6 +1,6 @@
 ---
 title: "Colleton County, SC"
-date: 2021-05-29
+date: 2021-05-30
 draft: false
 type: county
 tags: [FIPS:45029.0,FEMA:4.0,Non-core,Green]
