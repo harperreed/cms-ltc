@@ -1,6 +1,6 @@
 ---
 title: "Clark County, SD"
-date: 2021-05-30
+date: 2021-05-31
 draft: false
 type: county
 tags: [FIPS:46025.0,FEMA:8.0,Non-core,Green]

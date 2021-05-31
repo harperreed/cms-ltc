@@ -1,6 +1,6 @@
 ---
 title: "Hamilton County, NE"
-date: 2021-05-30
+date: 2021-05-31
 draft: false
 type: county
 tags: [FIPS:31081.0,FEMA:7.0,Small metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Kinney County, TX"
-date: 2021-05-30
+date: 2021-05-31
 draft: false
 type: county
 tags: [FIPS:48271.0,FEMA:6.0,Non-core,Yellow]

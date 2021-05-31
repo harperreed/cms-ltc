@@ -1,6 +1,6 @@
 ---
 title: "Anson County, NC"
-date: 2021-05-30
+date: 2021-05-31
 draft: false
 type: county
 tags: [FIPS:37007.0,FEMA:4.0,Non-core,Green]
