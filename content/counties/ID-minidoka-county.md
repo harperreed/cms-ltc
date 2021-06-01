@@ -1,6 +1,6 @@
 ---
 title: "Minidoka County, ID"
-date: 2021-05-31
+date: 2021-06-01
 draft: false
 type: county
 tags: [FIPS:16067.0,FEMA:10.0,Micropolitan,Green]

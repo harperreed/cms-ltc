@@ -1,6 +1,6 @@
 ---
 title: "Mercer County, WV"
-date: 2021-05-31
+date: 2021-06-01
 draft: false
 type: county
 tags: [FIPS:54055.0,FEMA:3.0,Micropolitan,Yellow]
