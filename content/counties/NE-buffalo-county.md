@@ -1,6 +1,6 @@
 ---
 title: "Buffalo County, NE"
-date: 2021-06-01
+date: 2021-06-02
 draft: false
 type: county
 tags: [FIPS:31019.0,FEMA:7.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 31019.0
 FEMA_Region: 7.0
 Population: 49659.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 454.0
-Fourteen_day_test_rate_per_100000: 914.0
-Percent_Positivity_in_prior_14_days: 0.104
+Tests_in_prior_14_days: 450.0
+Fourteen_day_test_rate_per_100000: 906.0
+Percent_Positivity_in_prior_14_days: 0.069
 Level: Yellow
 url: /states/NE/buffalo-county
 ---

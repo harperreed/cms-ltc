@@ -1,6 +1,6 @@
 ---
 title: "Edgar County, IL"
-date: 2021-06-01
+date: 2021-06-02
 draft: false
 type: county
 tags: [FIPS:17045.0,FEMA:5.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 17045.0
 FEMA_Region: 5.0
 Population: 17161.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 303.0
-Fourteen_day_test_rate_per_100000: 1766.0
-Percent_Positivity_in_prior_14_days: 0.017
+Tests_in_prior_14_days: 274.0
+Fourteen_day_test_rate_per_100000: 1597.0
+Percent_Positivity_in_prior_14_days: 0.026
 Level: Green
 url: /states/IL/edgar-county
 ---

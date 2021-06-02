@@ -1,6 +1,6 @@
 ---
 title: "Cumberland County, NJ"
-date: 2021-06-01
+date: 2021-06-02
 draft: false
 type: county
 tags: [FIPS:34011.0,FEMA:2.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 34011.0
 FEMA_Region: 2.0
 Population: 149527.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 11345.0
-Fourteen_day_test_rate_per_100000: 7587.0
-Percent_Positivity_in_prior_14_days: 0.024
+Tests_in_prior_14_days: 10781.0
+Fourteen_day_test_rate_per_100000: 7210.0
+Percent_Positivity_in_prior_14_days: 0.017
 Level: Green
 url: /states/NJ/cumberland-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Luna County, NM"
-date: 2021-06-01
+date: 2021-06-02
 draft: false
 type: county
 tags: [FIPS:35029.0,FEMA:6.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 35029.0
 FEMA_Region: 6.0
 Population: 23709.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1346.0
-Fourteen_day_test_rate_per_100000: 5677.0
-Percent_Positivity_in_prior_14_days: 0.013
+Tests_in_prior_14_days: 934.0
+Fourteen_day_test_rate_per_100000: 3939.0
+Percent_Positivity_in_prior_14_days: 0.016
 Level: Green
 url: /states/NM/luna-county
 ---

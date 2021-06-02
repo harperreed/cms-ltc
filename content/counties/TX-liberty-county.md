@@ -1,6 +1,6 @@
 ---
 title: "Liberty County, TX"
-date: 2021-06-01
+date: 2021-06-02
 draft: false
 type: county
 tags: [FIPS:48291.0,FEMA:6.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48291.0
 FEMA_Region: 6.0
 Population: 88219.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1491.0
-Fourteen_day_test_rate_per_100000: 1690.0
-Percent_Positivity_in_prior_14_days: 0.054
+Tests_in_prior_14_days: 1336.0
+Fourteen_day_test_rate_per_100000: 1514.0
+Percent_Positivity_in_prior_14_days: 0.067
 Level: Yellow
 url: /states/TX/liberty-county
 ---

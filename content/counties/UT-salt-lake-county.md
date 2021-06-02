@@ -1,6 +1,6 @@
 ---
 title: "Salt Lake County, UT"
-date: 2021-06-01
+date: 2021-06-02
 draft: false
 type: county
 tags: [FIPS:49035.0,FEMA:8.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 49035.0
 FEMA_Region: 8.0
 Population: 1160437.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 39553.0
-Fourteen_day_test_rate_per_100000: 3408.0
-Percent_Positivity_in_prior_14_days: 0.038
+Tests_in_prior_14_days: 36732.0
+Fourteen_day_test_rate_per_100000: 3165.0
+Percent_Positivity_in_prior_14_days: 0.034
 Level: Green
 url: /states/UT/salt-lake-county
 ---

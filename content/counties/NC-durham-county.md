@@ -1,6 +1,6 @@
 ---
 title: "Durham County, NC"
-date: 2021-06-01
+date: 2021-06-02
 draft: false
 type: county
 tags: [FIPS:37063.0,FEMA:4.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 37063.0
 FEMA_Region: 4.0
 Population: 321488.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 11922.0
-Fourteen_day_test_rate_per_100000: 3708.0
-Percent_Positivity_in_prior_14_days: 0.023
+Tests_in_prior_14_days: 10908.0
+Fourteen_day_test_rate_per_100000: 3393.0
+Percent_Positivity_in_prior_14_days: 0.018
 Level: Green
 url: /states/NC/durham-county
 ---

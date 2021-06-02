@@ -1,6 +1,6 @@
 ---
 title: "Murray County, OK"
-date: 2021-06-01
+date: 2021-06-02
 draft: false
 type: county
 tags: [FIPS:40099.0,FEMA:6.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 40099.0
 FEMA_Region: 6.0
 Population: 14073.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 80.0
-Fourteen_day_test_rate_per_100000: 568.0
-Percent_Positivity_in_prior_14_days: 0.025
+Tests_in_prior_14_days: 98.0
+Fourteen_day_test_rate_per_100000: 696.0
+Percent_Positivity_in_prior_14_days: 0.02
 Level: Green
 url: /states/OK/murray-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Georgetown County, SC"
-date: 2021-06-01
+date: 2021-06-02
 draft: false
 type: county
 tags: [FIPS:45043.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 45043.0
 FEMA_Region: 4.0
 Population: 62680.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 939.0
-Fourteen_day_test_rate_per_100000: 1498.0
-Percent_Positivity_in_prior_14_days: 0.03
+Tests_in_prior_14_days: 889.0
+Fourteen_day_test_rate_per_100000: 1418.0
+Percent_Positivity_in_prior_14_days: 0.024
 Level: Green
 url: /states/SC/georgetown-county
 ---

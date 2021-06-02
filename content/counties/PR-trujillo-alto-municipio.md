@@ -1,9 +1,9 @@
 ---
 title: "Trujillo Alto Municipio, PR"
-date: 2021-06-01
+date: 2021-06-02
 draft: false
 type: county
-tags: [FIPS:72139.0,FEMA:2.0,,Yellow]
+tags: [FIPS:72139.0,FEMA:2.0,,Green]
 categories: [PR]
 County: Trujillo Alto Municipio
 State: PR
@@ -11,10 +11,10 @@ FIPS: 72139.0
 FEMA_Region: 2.0
 Population: 63674.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 1178.0
-Fourteen_day_test_rate_per_100000: 1850.0
-Percent_Positivity_in_prior_14_days: 0.054
-Level: Yellow
+Tests_in_prior_14_days: 1280.0
+Fourteen_day_test_rate_per_100000: 2010.0
+Percent_Positivity_in_prior_14_days: 0.03
+Level: Green
 url: /states/PR/trujillo-alto-municipio
 ---
 

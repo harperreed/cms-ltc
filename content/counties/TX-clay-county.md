@@ -1,9 +1,9 @@
 ---
 title: "Clay County, TX"
-date: 2021-06-01
+date: 2021-06-02
 draft: false
 type: county
-tags: [FIPS:48077.0,FEMA:6.0,Small metro,Yellow]
+tags: [FIPS:48077.0,FEMA:6.0,Small metro,Green]
 categories: [TX]
 County: Clay County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48077.0
 FEMA_Region: 6.0
 Population: 10471.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 58.0
-Fourteen_day_test_rate_per_100000: 554.0
-Percent_Positivity_in_prior_14_days: 0.052
-Level: Yellow
+Tests_in_prior_14_days: 49.0
+Fourteen_day_test_rate_per_100000: 468.0
+Percent_Positivity_in_prior_14_days: 0.02
+Level: Green
 url: /states/TX/clay-county
 ---
 

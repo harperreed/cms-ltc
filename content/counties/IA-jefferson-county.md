@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, IA"
-date: 2021-06-01
+date: 2021-06-02
 draft: false
 type: county
 tags: [FIPS:19101.0,FEMA:7.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 19101.0
 FEMA_Region: 7.0
 Population: 18295.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 323.0
-Fourteen_day_test_rate_per_100000: 1766.0
-Percent_Positivity_in_prior_14_days: 0.025
+Tests_in_prior_14_days: 334.0
+Fourteen_day_test_rate_per_100000: 1826.0
+Percent_Positivity_in_prior_14_days: 0.018
 Level: Green
 url: /states/IA/jefferson-county
 ---

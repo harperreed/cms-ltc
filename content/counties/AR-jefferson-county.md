@@ -1,9 +1,9 @@
 ---
 title: "Jefferson County, AR"
-date: 2021-06-01
+date: 2021-06-02
 draft: false
 type: county
-tags: [FIPS:5069.0,FEMA:6.0,Small metro,Green]
+tags: [FIPS:5069.0,FEMA:6.0,Small metro,Gray]
 categories: [AR]
 County: Jefferson County
 State: AR
@@ -11,10 +11,10 @@ FIPS: 5069.0
 FEMA_Region: 6.0
 Population: 66824.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 643.0
-Fourteen_day_test_rate_per_100000: 962.0
-Percent_Positivity_in_prior_14_days: 0.036
-Level: Green
+Tests_in_prior_14_days: 248.0
+Fourteen_day_test_rate_per_100000: 371.0
+Percent_Positivity_in_prior_14_days: 0.052
+Level: Gray
 url: /states/AR/jefferson-county
 ---
 

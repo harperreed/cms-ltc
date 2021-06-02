@@ -1,6 +1,6 @@
 ---
 title: "Howard County, TX"
-date: 2021-06-01
+date: 2021-06-02
 draft: false
 type: county
 tags: [FIPS:48227.0,FEMA:6.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 48227.0
 FEMA_Region: 6.0
 Population: 36664.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 258.0
-Fourteen_day_test_rate_per_100000: 704.0
-Percent_Positivity_in_prior_14_days: 0.012
+Tests_in_prior_14_days: 221.0
+Fourteen_day_test_rate_per_100000: 603.0
+Percent_Positivity_in_prior_14_days: 0.018
 Level: Green
 url: /states/TX/howard-county
 ---

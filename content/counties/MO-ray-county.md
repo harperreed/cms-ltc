@@ -1,9 +1,9 @@
 ---
 title: "Ray County, MO"
-date: 2021-06-01
+date: 2021-06-02
 draft: false
 type: county
-tags: [FIPS:29177.0,FEMA:7.0,Large fringe metro,Yellow]
+tags: [FIPS:29177.0,FEMA:7.0,Large fringe metro,Green]
 categories: [MO]
 County: Ray County
 State: MO
@@ -13,8 +13,8 @@ Population: 23018.0
 NCHS_Urban_Rural_Classification: Large fringe metro
 Tests_in_prior_14_days: 356.0
 Fourteen_day_test_rate_per_100000: 1547.0
-Percent_Positivity_in_prior_14_days: 0.053
-Level: Yellow
+Percent_Positivity_in_prior_14_days: 0.048
+Level: Green
 url: /states/MO/ray-county
 ---
 

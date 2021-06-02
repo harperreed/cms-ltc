@@ -1,9 +1,9 @@
 ---
 title: "Calhoun County, AR"
-date: 2021-06-01
+date: 2021-06-02
 draft: false
 type: county
-tags: [FIPS:5013.0,FEMA:6.0,Micropolitan,Green]
+tags: [FIPS:5013.0,FEMA:6.0,Micropolitan,Gray]
 categories: [AR]
 County: Calhoun County
 State: AR
@@ -14,7 +14,7 @@ NCHS_Urban_Rural_Classification: Micropolitan
 Tests_in_prior_14_days: <20 tests
 Fourteen_day_test_rate_per_100000: <20 tests
 Percent_Positivity_in_prior_14_days: <20 tests
-Level: Green
+Level: Gray
 url: /states/AR/calhoun-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Pierce County, WA"
-date: 2021-06-01
+date: 2021-06-02
 draft: false
 type: county
 tags: [FIPS:53053.0,FEMA:10.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 53053.0
 FEMA_Region: 10.0
 Population: 904980.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 18630.0
-Fourteen_day_test_rate_per_100000: 2059.0
-Percent_Positivity_in_prior_14_days: 0.059
+Tests_in_prior_14_days: 16088.0
+Fourteen_day_test_rate_per_100000: 1778.0
+Percent_Positivity_in_prior_14_days: 0.051
 Level: Yellow
 url: /states/WA/pierce-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Richland County, SC"
-date: 2021-06-01
+date: 2021-06-02
 draft: false
 type: county
 tags: [FIPS:45079.0,FEMA:4.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 45079.0
 FEMA_Region: 4.0
 Population: 415759.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 13354.0
-Fourteen_day_test_rate_per_100000: 3212.0
-Percent_Positivity_in_prior_14_days: 0.025
+Tests_in_prior_14_days: 14023.0
+Fourteen_day_test_rate_per_100000: 3373.0
+Percent_Positivity_in_prior_14_days: 0.021
 Level: Green
 url: /states/SC/richland-county
 ---

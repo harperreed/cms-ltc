@@ -1,6 +1,6 @@
 ---
 title: "Pulaski County, GA"
-date: 2021-06-01
+date: 2021-06-02
 draft: false
 type: county
 tags: [FIPS:13235.0,FEMA:4.0,Small metro,Green]
@@ -11,8 +11,8 @@ FIPS: 13235.0
 FEMA_Region: 4.0
 Population: 11137.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 37.0
-Fourteen_day_test_rate_per_100000: 332.0
+Tests_in_prior_14_days: 32.0
+Fourteen_day_test_rate_per_100000: 287.0
 Percent_Positivity_in_prior_14_days: 0.0
 Level: Green
 url: /states/GA/pulaski-county
