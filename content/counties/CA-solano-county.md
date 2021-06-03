@@ -1,6 +1,6 @@
 ---
 title: "Solano County, CA"
-date: 2021-06-02
+date: 2021-06-03
 draft: false
 type: county
 tags: [FIPS:6095.0,FEMA:9.0,Medium metro,Green]

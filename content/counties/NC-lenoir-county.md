@@ -1,6 +1,6 @@
 ---
 title: "Lenoir County, NC"
-date: 2021-06-02
+date: 2021-06-03
 draft: false
 type: county
 tags: [FIPS:37107.0,FEMA:4.0,Micropolitan,Green]

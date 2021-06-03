@@ -1,6 +1,6 @@
 ---
 title: "Lake County, IL"
-date: 2021-06-02
+date: 2021-06-03
 draft: false
 type: county
 tags: [FIPS:17097.0,FEMA:5.0,Large fringe metro,Green]

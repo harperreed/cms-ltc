@@ -1,6 +1,6 @@
 ---
 title: "Garrard County, KY"
-date: 2021-06-02
+date: 2021-06-03
 draft: false
 type: county
 tags: [FIPS:21079.0,FEMA:4.0,Non-core,Green]

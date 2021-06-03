@@ -1,6 +1,6 @@
 ---
 title: "Barrow County, GA"
-date: 2021-06-02
+date: 2021-06-03
 draft: false
 type: county
 tags: [FIPS:13013.0,FEMA:4.0,Large fringe metro,Yellow]

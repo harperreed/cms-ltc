@@ -1,6 +1,6 @@
 ---
 title: "Huron County, MI"
-date: 2021-06-02
+date: 2021-06-03
 draft: false
 type: county
 tags: [FIPS:26063.0,FEMA:5.0,Non-core,Yellow]

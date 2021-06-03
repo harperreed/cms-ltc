@@ -1,6 +1,6 @@
 ---
 title: "Yazoo County, MS"
-date: 2021-06-02
+date: 2021-06-03
 draft: false
 type: county
 tags: [FIPS:28163.0,FEMA:4.0,Medium metro,Green]

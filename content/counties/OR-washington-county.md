@@ -1,6 +1,6 @@
 ---
 title: "Washington County, OR"
-date: 2021-06-02
+date: 2021-06-03
 draft: false
 type: county
 tags: [FIPS:41067.0,FEMA:10.0,Large fringe metro,Green]
