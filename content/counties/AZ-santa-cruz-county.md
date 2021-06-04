@@ -1,6 +1,6 @@
 ---
 title: "Santa Cruz County, AZ"
-date: 2021-06-03
+date: 2021-06-04
 draft: false
 type: county
 tags: [FIPS:4023.0,FEMA:9.0,Micropolitan,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Douglas County, NV"
-date: 2021-06-03
+date: 2021-06-04
 draft: false
 type: county
 tags: [FIPS:32005.0,FEMA:9.0,Micropolitan,Yellow]

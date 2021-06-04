@@ -1,6 +1,6 @@
 ---
 title: "Baxter County, AR"
-date: 2021-06-03
+date: 2021-06-04
 draft: false
 type: county
 tags: [FIPS:5005.0,FEMA:6.0,Micropolitan,Gray]

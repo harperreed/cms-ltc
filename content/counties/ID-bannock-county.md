@@ -1,6 +1,6 @@
 ---
 title: "Bannock County, ID"
-date: 2021-06-03
+date: 2021-06-04
 draft: false
 type: county
 tags: [FIPS:16005.0,FEMA:10.0,Small metro,Green]
