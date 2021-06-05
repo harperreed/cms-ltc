@@ -1,6 +1,6 @@
 ---
 title: "Turner County, GA"
-date: 2021-06-04
+date: 2021-06-05
 draft: false
 type: county
 tags: [FIPS:13287.0,FEMA:4.0,Non-core,Yellow]

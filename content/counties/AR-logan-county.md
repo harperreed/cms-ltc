@@ -1,6 +1,6 @@
 ---
 title: "Logan County, AR"
-date: 2021-06-04
+date: 2021-06-05
 draft: false
 type: county
 tags: [FIPS:5083.0,FEMA:6.0,Non-core,Gray]

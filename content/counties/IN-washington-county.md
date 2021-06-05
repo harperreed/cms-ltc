@@ -1,6 +1,6 @@
 ---
 title: "Washington County, IN"
-date: 2021-06-04
+date: 2021-06-05
 draft: false
 type: county
 tags: [FIPS:18175.0,FEMA:5.0,Large fringe metro,Green]
