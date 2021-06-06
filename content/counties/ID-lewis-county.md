@@ -1,6 +1,6 @@
 ---
 title: "Lewis County, ID"
-date: 2021-06-05
+date: 2021-06-06
 draft: false
 type: county
 tags: [FIPS:16061.0,FEMA:10.0,Non-core,Green]

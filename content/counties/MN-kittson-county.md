@@ -1,6 +1,6 @@
 ---
 title: "Kittson County, MN"
-date: 2021-06-05
+date: 2021-06-06
 draft: false
 type: county
 tags: [FIPS:27069.0,FEMA:5.0,Non-core,Green]

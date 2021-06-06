@@ -1,6 +1,6 @@
 ---
 title: "Umatilla County, OR"
-date: 2021-06-05
+date: 2021-06-06
 draft: false
 type: county
 tags: [FIPS:41059.0,FEMA:10.0,Micropolitan,Yellow]

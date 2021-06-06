@@ -1,6 +1,6 @@
 ---
 title: "Dorado Municipio, PR"
-date: 2021-06-05
+date: 2021-06-06
 draft: false
 type: county
 tags: [FIPS:72051.0,FEMA:2.0,,Green]
