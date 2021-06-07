@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, IN"
-date: 2021-06-06
+date: 2021-06-07
 draft: false
 type: county
 tags: [FIPS:18071.0,FEMA:5.0,Micropolitan,Green]

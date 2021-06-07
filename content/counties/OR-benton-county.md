@@ -1,6 +1,6 @@
 ---
 title: "Benton County, OR"
-date: 2021-06-06
+date: 2021-06-07
 draft: false
 type: county
 tags: [FIPS:41003.0,FEMA:10.0,Small metro,Green]

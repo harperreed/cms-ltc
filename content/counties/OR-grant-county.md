@@ -1,6 +1,6 @@
 ---
 title: "Grant County, OR"
-date: 2021-06-06
+date: 2021-06-07
 draft: false
 type: county
 tags: [FIPS:41023.0,FEMA:10.0,Non-core,Yellow]
