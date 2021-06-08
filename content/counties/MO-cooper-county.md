@@ -1,6 +1,6 @@
 ---
 title: "Cooper County, MO"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:29053.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 29053.0
 FEMA_Region: 7.0
 Population: 17709.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 157.0
-Fourteen_day_test_rate_per_100000: 887.0
-Percent_Positivity_in_prior_14_days: 0.096
+Tests_in_prior_14_days: 135.0
+Fourteen_day_test_rate_per_100000: 762.0
+Percent_Positivity_in_prior_14_days: 0.067
 Level: Yellow
 url: /states/MO/cooper-county
 ---

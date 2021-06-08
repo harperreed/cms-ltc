@@ -1,6 +1,6 @@
 ---
 title: "Ontario County, NY"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:36069.0,FEMA:2.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 36069.0
 FEMA_Region: 2.0
 Population: 109777.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 7259.0
-Fourteen_day_test_rate_per_100000: 6612.0
-Percent_Positivity_in_prior_14_days: 0.01
+Tests_in_prior_14_days: 5608.0
+Fourteen_day_test_rate_per_100000: 5109.0
+Percent_Positivity_in_prior_14_days: 0.008
 Level: Green
 url: /states/NY/ontario-county
 ---

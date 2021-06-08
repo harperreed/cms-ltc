@@ -1,6 +1,6 @@
 ---
 title: "Dallas County, MO"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:29059.0,FEMA:7.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 29059.0
 FEMA_Region: 7.0
 Population: 16878.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 225.0
-Fourteen_day_test_rate_per_100000: 1333.0
-Percent_Positivity_in_prior_14_days: 0.022
+Tests_in_prior_14_days: 199.0
+Fourteen_day_test_rate_per_100000: 1179.0
+Percent_Positivity_in_prior_14_days: 0.04
 Level: Green
 url: /states/MO/dallas-county
 ---

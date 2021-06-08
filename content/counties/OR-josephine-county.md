@@ -1,6 +1,6 @@
 ---
 title: "Josephine County, OR"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:41033.0,FEMA:10.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 41033.0
 FEMA_Region: 10.0
 Population: 87487.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1217.0
-Fourteen_day_test_rate_per_100000: 1391.0
-Percent_Positivity_in_prior_14_days: 0.028
+Tests_in_prior_14_days: 955.0
+Fourteen_day_test_rate_per_100000: 1092.0
+Percent_Positivity_in_prior_14_days: 0.031
 Level: Green
 url: /states/OR/josephine-county
 ---

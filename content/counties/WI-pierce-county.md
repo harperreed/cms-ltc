@@ -1,6 +1,6 @@
 ---
 title: "Pierce County, WI"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:55093.0,FEMA:5.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 55093.0
 FEMA_Region: 5.0
 Population: 42754.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 951.0
-Fourteen_day_test_rate_per_100000: 2224.0
-Percent_Positivity_in_prior_14_days: 0.034
+Tests_in_prior_14_days: 714.0
+Fourteen_day_test_rate_per_100000: 1670.0
+Percent_Positivity_in_prior_14_days: 0.014
 Level: Green
 url: /states/WI/pierce-county
 ---

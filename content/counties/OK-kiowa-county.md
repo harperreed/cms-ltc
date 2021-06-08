@@ -1,6 +1,6 @@
 ---
 title: "Kiowa County, OK"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:40075.0,FEMA:6.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 40075.0
 FEMA_Region: 6.0
 Population: 8708.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 31.0
-Fourteen_day_test_rate_per_100000: 356.0
-Percent_Positivity_in_prior_14_days: 0.032
+Tests_in_prior_14_days: 49.0
+Fourteen_day_test_rate_per_100000: 563.0
+Percent_Positivity_in_prior_14_days: 0.02
 Level: Green
 url: /states/OK/kiowa-county
 ---

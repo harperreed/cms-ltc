@@ -1,6 +1,6 @@
 ---
 title: "Outagamie County, WI"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:55087.0,FEMA:5.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 55087.0
 FEMA_Region: 5.0
 Population: 187885.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 6275.0
-Fourteen_day_test_rate_per_100000: 3340.0
-Percent_Positivity_in_prior_14_days: 0.031
+Tests_in_prior_14_days: 4904.0
+Fourteen_day_test_rate_per_100000: 2610.0
+Percent_Positivity_in_prior_14_days: 0.025
 Level: Green
 url: /states/WI/outagamie-county
 ---

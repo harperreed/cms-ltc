@@ -1,9 +1,9 @@
 ---
 title: "Cross County, AR"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
-tags: [FIPS:5037.0,FEMA:6.0,Non-core,Gray]
+tags: [FIPS:5037.0,FEMA:6.0,Non-core,Green]
 categories: [AR]
 County: Cross County
 State: AR
@@ -11,10 +11,10 @@ FIPS: 5037.0
 FEMA_Region: 6.0
 Population: 16419.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 114.0
-Fourteen_day_test_rate_per_100000: 694.0
-Percent_Positivity_in_prior_14_days: 0.026
-Level: Gray
+Tests_in_prior_14_days: 116.0
+Fourteen_day_test_rate_per_100000: 706.0
+Percent_Positivity_in_prior_14_days: 0.034
+Level: Green
 url: /states/AR/cross-county
 ---
 

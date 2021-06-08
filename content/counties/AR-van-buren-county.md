@@ -1,9 +1,9 @@
 ---
 title: "Van Buren County, AR"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
-tags: [FIPS:5141.0,FEMA:6.0,Non-core,Gray]
+tags: [FIPS:5141.0,FEMA:6.0,Non-core,Yellow]
 categories: [AR]
 County: Van Buren County
 State: AR
@@ -11,10 +11,10 @@ FIPS: 5141.0
 FEMA_Region: 6.0
 Population: 16545.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 23.0
-Fourteen_day_test_rate_per_100000: 139.0
-Percent_Positivity_in_prior_14_days: 0.217
-Level: Gray
+Tests_in_prior_14_days: 37.0
+Fourteen_day_test_rate_per_100000: 224.0
+Percent_Positivity_in_prior_14_days: 0.27
+Level: Yellow
 url: /states/AR/van-buren-county
 ---
 

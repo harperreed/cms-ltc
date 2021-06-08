@@ -1,6 +1,6 @@
 ---
 title: "Dickens County, TX"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:48125.0,FEMA:6.0,Non-core,Green]

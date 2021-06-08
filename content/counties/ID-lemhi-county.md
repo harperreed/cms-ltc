@@ -1,9 +1,9 @@
 ---
 title: "Lemhi County, ID"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
-tags: [FIPS:16059.0,FEMA:10.0,Non-core,Yellow]
+tags: [FIPS:16059.0,FEMA:10.0,Non-core,Green]
 categories: [ID]
 County: Lemhi County
 State: ID
@@ -11,10 +11,10 @@ FIPS: 16059.0
 FEMA_Region: 10.0
 Population: 8027.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 90.0
-Fourteen_day_test_rate_per_100000: 1121.0
-Percent_Positivity_in_prior_14_days: 0.056
-Level: Yellow
+Tests_in_prior_14_days: 81.0
+Fourteen_day_test_rate_per_100000: 1009.0
+Percent_Positivity_in_prior_14_days: 0.049
+Level: Green
 url: /states/ID/lemhi-county
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Antrim County, MI"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
-tags: [FIPS:26009.0,FEMA:5.0,Non-core,Yellow]
+tags: [FIPS:26009.0,FEMA:5.0,Non-core,Green]
 categories: [MI]
 County: Antrim County
 State: MI
@@ -11,10 +11,10 @@ FIPS: 26009.0
 FEMA_Region: 5.0
 Population: 23324.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 474.0
-Fourteen_day_test_rate_per_100000: 2032.0
-Percent_Positivity_in_prior_14_days: 0.078
-Level: Yellow
+Tests_in_prior_14_days: 353.0
+Fourteen_day_test_rate_per_100000: 1513.0
+Percent_Positivity_in_prior_14_days: 0.045
+Level: Green
 url: /states/MI/antrim-county
 ---
 

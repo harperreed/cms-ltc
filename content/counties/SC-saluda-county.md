@@ -1,6 +1,6 @@
 ---
 title: "Saluda County, SC"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:45081.0,FEMA:4.0,Medium metro,Green]
@@ -13,7 +13,7 @@ Population: 20473.0
 NCHS_Urban_Rural_Classification: Medium metro
 Tests_in_prior_14_days: 169.0
 Fourteen_day_test_rate_per_100000: 825.0
-Percent_Positivity_in_prior_14_days: 0.036
+Percent_Positivity_in_prior_14_days: 0.012
 Level: Green
 url: /states/SC/saluda-county
 ---

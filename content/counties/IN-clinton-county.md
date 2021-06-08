@@ -1,6 +1,6 @@
 ---
 title: "Clinton County, IN"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:18023.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 18023.0
 FEMA_Region: 5.0
 Population: 32399.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 695.0
-Fourteen_day_test_rate_per_100000: 2145.0
-Percent_Positivity_in_prior_14_days: 0.058
+Tests_in_prior_14_days: 486.0
+Fourteen_day_test_rate_per_100000: 1500.0
+Percent_Positivity_in_prior_14_days: 0.101
 Level: Yellow
 url: /states/IN/clinton-county
 ---

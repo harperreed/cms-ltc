@@ -1,9 +1,9 @@
 ---
 title: "Arenac County, MI"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
-tags: [FIPS:26011.0,FEMA:5.0,Non-core,Yellow]
+tags: [FIPS:26011.0,FEMA:5.0,Non-core,Green]
 categories: [MI]
 County: Arenac County
 State: MI
@@ -11,10 +11,10 @@ FIPS: 26011.0
 FEMA_Region: 5.0
 Population: 14883.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 699.0
-Fourteen_day_test_rate_per_100000: 4697.0
-Percent_Positivity_in_prior_14_days: 0.074
-Level: Yellow
+Tests_in_prior_14_days: 479.0
+Fourteen_day_test_rate_per_100000: 3218.0
+Percent_Positivity_in_prior_14_days: 0.027
+Level: Green
 url: /states/MI/arenac-county
 ---
 

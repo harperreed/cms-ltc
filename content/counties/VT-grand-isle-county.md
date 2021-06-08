@@ -1,6 +1,6 @@
 ---
 title: "Grand Isle County, VT"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:50013.0,FEMA:1.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 50013.0
 FEMA_Region: 1.0
 Population: 7235.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 299.0
-Fourteen_day_test_rate_per_100000: 4133.0
-Percent_Positivity_in_prior_14_days: 0.023
+Tests_in_prior_14_days: 263.0
+Fourteen_day_test_rate_per_100000: 3635.0
+Percent_Positivity_in_prior_14_days: 0.027
 Level: Green
 url: /states/VT/grand-isle-county
 ---

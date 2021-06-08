@@ -1,9 +1,9 @@
 ---
 title: "Rincón Municipio, PR"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
-tags: [FIPS:72117.0,FEMA:2.0,,Red]
+tags: [FIPS:72117.0,FEMA:2.0,,Yellow]
 categories: [PR]
 County: Rincón Municipio
 State: PR
@@ -11,10 +11,10 @@ FIPS: 72117.0
 FEMA_Region: 2.0
 Population: 13656.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 332.0
-Fourteen_day_test_rate_per_100000: 2431.0
-Percent_Positivity_in_prior_14_days: 0.108
-Level: Red
+Tests_in_prior_14_days: 263.0
+Fourteen_day_test_rate_per_100000: 1926.0
+Percent_Positivity_in_prior_14_days: 0.084
+Level: Yellow
 url: /states/PR/rincon-municipio
 ---
 

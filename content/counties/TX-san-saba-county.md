@@ -1,6 +1,6 @@
 ---
 title: "San Saba County, TX"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:48411.0,FEMA:6.0,Non-core,Green]
@@ -13,7 +13,7 @@ Population: 6055.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 88.0
 Fourteen_day_test_rate_per_100000: 1453.0
-Percent_Positivity_in_prior_14_days: 0.0
+Percent_Positivity_in_prior_14_days: 0.011
 Level: Green
 url: /states/TX/san-saba-county
 ---

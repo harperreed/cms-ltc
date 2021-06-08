@@ -1,6 +1,6 @@
 ---
 title: "Carteret County, NC"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:37031.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 37031.0
 FEMA_Region: 4.0
 Population: 69473.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 871.0
-Fourteen_day_test_rate_per_100000: 1254.0
-Percent_Positivity_in_prior_14_days: 0.029
+Tests_in_prior_14_days: 713.0
+Fourteen_day_test_rate_per_100000: 1026.0
+Percent_Positivity_in_prior_14_days: 0.032
 Level: Green
 url: /states/NC/carteret-county
 ---

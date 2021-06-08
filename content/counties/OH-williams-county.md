@@ -1,6 +1,6 @@
 ---
 title: "Williams County, OH"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:39171.0,FEMA:5.0,Non-core,Green]
@@ -11,8 +11,8 @@ FIPS: 39171.0
 FEMA_Region: 5.0
 Population: 36692.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 917.0
-Fourteen_day_test_rate_per_100000: 2499.0
+Tests_in_prior_14_days: 696.0
+Fourteen_day_test_rate_per_100000: 1897.0
 Percent_Positivity_in_prior_14_days: 0.026
 Level: Green
 url: /states/OH/williams-county

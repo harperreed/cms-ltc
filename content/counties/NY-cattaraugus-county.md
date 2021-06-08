@@ -1,6 +1,6 @@
 ---
 title: "Cattaraugus County, NY"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:36009.0,FEMA:2.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 36009.0
 FEMA_Region: 2.0
 Population: 76117.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1772.0
-Fourteen_day_test_rate_per_100000: 2328.0
-Percent_Positivity_in_prior_14_days: 0.03
+Tests_in_prior_14_days: 1438.0
+Fourteen_day_test_rate_per_100000: 1889.0
+Percent_Positivity_in_prior_14_days: 0.024
 Level: Green
 url: /states/NY/cattaraugus-county
 ---

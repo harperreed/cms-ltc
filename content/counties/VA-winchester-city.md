@@ -1,6 +1,6 @@
 ---
 title: "Winchester city, VA"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:51840.0,FEMA:3.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51840.0
 FEMA_Region: 3.0
 Population: 28078.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 678.0
-Fourteen_day_test_rate_per_100000: 2415.0
-Percent_Positivity_in_prior_14_days: 0.059
+Tests_in_prior_14_days: 523.0
+Fourteen_day_test_rate_per_100000: 1863.0
+Percent_Positivity_in_prior_14_days: 0.055
 Level: Yellow
 url: /states/VA/winchester-city
 ---

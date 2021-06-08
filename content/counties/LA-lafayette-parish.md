@@ -1,6 +1,6 @@
 ---
 title: "Lafayette Parish, LA"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:22055.0,FEMA:6.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 22055.0
 FEMA_Region: 6.0
 Population: 244390.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 6337.0
-Fourteen_day_test_rate_per_100000: 2593.0
-Percent_Positivity_in_prior_14_days: 0.04
+Tests_in_prior_14_days: 6210.0
+Fourteen_day_test_rate_per_100000: 2541.0
+Percent_Positivity_in_prior_14_days: 0.041
 Level: Green
 url: /states/LA/lafayette-parish
 ---

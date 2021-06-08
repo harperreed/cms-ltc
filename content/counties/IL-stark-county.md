@@ -1,9 +1,9 @@
 ---
 title: "Stark County, IL"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
-tags: [FIPS:17175.0,FEMA:5.0,Medium metro,Green]
+tags: [FIPS:17175.0,FEMA:5.0,Medium metro,Yellow]
 categories: [IL]
 County: Stark County
 State: IL
@@ -11,10 +11,10 @@ FIPS: 17175.0
 FEMA_Region: 5.0
 Population: 5342.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 196.0
-Fourteen_day_test_rate_per_100000: 3669.0
-Percent_Positivity_in_prior_14_days: 0.026
-Level: Green
+Tests_in_prior_14_days: 99.0
+Fourteen_day_test_rate_per_100000: 1853.0
+Percent_Positivity_in_prior_14_days: 0.061
+Level: Yellow
 url: /states/IL/stark-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Polk County, FL"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:12105.0,FEMA:4.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 12105.0
 FEMA_Region: 4.0
 Population: 724777.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 26651.0
-Fourteen_day_test_rate_per_100000: 3677.0
-Percent_Positivity_in_prior_14_days: 0.049
+Tests_in_prior_14_days: 21944.0
+Fourteen_day_test_rate_per_100000: 3028.0
+Percent_Positivity_in_prior_14_days: 0.048
 Level: Green
 url: /states/FL/polk-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Unicoi County, TN"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:47171.0,FEMA:4.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 47171.0
 FEMA_Region: 4.0
 Population: 17883.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 190.0
-Fourteen_day_test_rate_per_100000: 1062.0
-Percent_Positivity_in_prior_14_days: 0.032
+Tests_in_prior_14_days: 171.0
+Fourteen_day_test_rate_per_100000: 956.0
+Percent_Positivity_in_prior_14_days: 0.047
 Level: Green
 url: /states/TN/unicoi-county
 ---

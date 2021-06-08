@@ -1,6 +1,6 @@
 ---
 title: "Sussex County, DE"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:10005.0,FEMA:3.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 10005.0
 FEMA_Region: 3.0
 Population: 234225.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 8486.0
-Fourteen_day_test_rate_per_100000: 3623.0
-Percent_Positivity_in_prior_14_days: 0.034
+Tests_in_prior_14_days: 7232.0
+Fourteen_day_test_rate_per_100000: 3088.0
+Percent_Positivity_in_prior_14_days: 0.026
 Level: Green
 url: /states/DE/sussex-county
 ---

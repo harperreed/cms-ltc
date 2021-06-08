@@ -1,6 +1,6 @@
 ---
 title: "King County, WA"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:53033.0,FEMA:10.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 53033.0
 FEMA_Region: 10.0
 Population: 2252782.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 59164.0
-Fourteen_day_test_rate_per_100000: 2626.0
-Percent_Positivity_in_prior_14_days: 0.028
+Tests_in_prior_14_days: 49599.0
+Fourteen_day_test_rate_per_100000: 2202.0
+Percent_Positivity_in_prior_14_days: 0.021
 Level: Green
 url: /states/WA/king-county
 ---

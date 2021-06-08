@@ -1,6 +1,6 @@
 ---
 title: "Benzie County, MI"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:26019.0,FEMA:5.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 26019.0
 FEMA_Region: 5.0
 Population: 17766.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 260.0
-Fourteen_day_test_rate_per_100000: 1463.0
-Percent_Positivity_in_prior_14_days: 0.035
+Tests_in_prior_14_days: 238.0
+Fourteen_day_test_rate_per_100000: 1340.0
+Percent_Positivity_in_prior_14_days: 0.038
 Level: Green
 url: /states/MI/benzie-county
 ---

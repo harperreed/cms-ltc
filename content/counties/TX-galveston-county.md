@@ -1,9 +1,9 @@
 ---
 title: "Galveston County, TX"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
-tags: [FIPS:48167.0,FEMA:6.0,Large fringe metro,Yellow]
+tags: [FIPS:48167.0,FEMA:6.0,Large fringe metro,Green]
 categories: [TX]
 County: Galveston County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48167.0
 FEMA_Region: 6.0
 Population: 342139.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 9422.0
-Fourteen_day_test_rate_per_100000: 2754.0
-Percent_Positivity_in_prior_14_days: 0.057
-Level: Yellow
+Tests_in_prior_14_days: 8150.0
+Fourteen_day_test_rate_per_100000: 2382.0
+Percent_Positivity_in_prior_14_days: 0.048
+Level: Green
 url: /states/TX/galveston-county
 ---
 

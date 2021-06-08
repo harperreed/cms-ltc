@@ -1,6 +1,6 @@
 ---
 title: "Montgomery County, GA"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:13209.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13209.0
 FEMA_Region: 4.0
 Population: 9172.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 77.0
-Fourteen_day_test_rate_per_100000: 840.0
-Percent_Positivity_in_prior_14_days: 0.052
+Tests_in_prior_14_days: 58.0
+Fourteen_day_test_rate_per_100000: 632.0
+Percent_Positivity_in_prior_14_days: 0.086
 Level: Yellow
 url: /states/GA/montgomery-county
 ---

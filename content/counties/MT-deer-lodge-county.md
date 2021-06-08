@@ -1,6 +1,6 @@
 ---
 title: "Deer Lodge County, MT"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:30023.0,FEMA:8.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 30023.0
 FEMA_Region: 8.0
 Population: 9140.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 161.0
-Fourteen_day_test_rate_per_100000: 1761.0
-Percent_Positivity_in_prior_14_days: 0.012
+Tests_in_prior_14_days: 164.0
+Fourteen_day_test_rate_per_100000: 1794.0
+Percent_Positivity_in_prior_14_days: 0.018
 Level: Green
 url: /states/MT/deer-lodge-county
 ---

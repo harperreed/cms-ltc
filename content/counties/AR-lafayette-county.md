@@ -1,9 +1,9 @@
 ---
 title: "Lafayette County, AR"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
-tags: [FIPS:5073.0,FEMA:6.0,Non-core,Gray]
+tags: [FIPS:5073.0,FEMA:6.0,Non-core,Green]
 categories: [AR]
 County: Lafayette County
 State: AR
@@ -14,7 +14,7 @@ NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: <20 tests
 Fourteen_day_test_rate_per_100000: <20 tests
 Percent_Positivity_in_prior_14_days: <20 tests
-Level: Gray
+Level: Green
 url: /states/AR/lafayette-county
 ---
 

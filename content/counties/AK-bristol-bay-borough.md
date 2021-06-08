@@ -1,6 +1,6 @@
 ---
 title: "Bristol Bay Borough, AK"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:2060.0,FEMA:10.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 2060.0
 FEMA_Region: 10.0
 Population: 836.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 355.0
-Fourteen_day_test_rate_per_100000: 42464.0
-Percent_Positivity_in_prior_14_days: 0.006
+Tests_in_prior_14_days: 395.0
+Fourteen_day_test_rate_per_100000: 47249.0
+Percent_Positivity_in_prior_14_days: 0.0
 Level: Green
 url: /states/AK/bristol-bay-borough
 ---

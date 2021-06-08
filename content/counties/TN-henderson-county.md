@@ -1,9 +1,9 @@
 ---
 title: "Henderson County, TN"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
-tags: [FIPS:47077.0,FEMA:4.0,Non-core,Green]
+tags: [FIPS:47077.0,FEMA:4.0,Non-core,Yellow]
 categories: [TN]
 County: Henderson County
 State: TN
@@ -11,10 +11,10 @@ FIPS: 47077.0
 FEMA_Region: 4.0
 Population: 28117.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 117.0
-Fourteen_day_test_rate_per_100000: 416.0
-Percent_Positivity_in_prior_14_days: 0.043
-Level: Green
+Tests_in_prior_14_days: 84.0
+Fourteen_day_test_rate_per_100000: 299.0
+Percent_Positivity_in_prior_14_days: 0.107
+Level: Yellow
 url: /states/TN/henderson-county
 ---
 

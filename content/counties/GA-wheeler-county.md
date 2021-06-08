@@ -1,9 +1,9 @@
 ---
 title: "Wheeler County, GA"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
-tags: [FIPS:13309.0,FEMA:4.0,Non-core,Green]
+tags: [FIPS:13309.0,FEMA:4.0,Non-core,Yellow]
 categories: [GA]
 County: Wheeler County
 State: GA
@@ -11,10 +11,10 @@ FIPS: 13309.0
 FEMA_Region: 4.0
 Population: 7855.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 28.0
-Fourteen_day_test_rate_per_100000: 356.0
-Percent_Positivity_in_prior_14_days: 0.036
-Level: Green
+Tests_in_prior_14_days: 22.0
+Fourteen_day_test_rate_per_100000: 280.0
+Percent_Positivity_in_prior_14_days: 0.091
+Level: Yellow
 url: /states/GA/wheeler-county
 ---
 

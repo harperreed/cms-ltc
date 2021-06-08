@@ -1,9 +1,9 @@
 ---
 title: "Clay County, WV"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
-tags: [FIPS:54015.0,FEMA:3.0,Small metro,Red]
+tags: [FIPS:54015.0,FEMA:3.0,Small metro,Yellow]
 categories: [WV]
 County: Clay County
 State: WV
@@ -11,10 +11,10 @@ FIPS: 54015.0
 FEMA_Region: 3.0
 Population: 8508.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 328.0
-Fourteen_day_test_rate_per_100000: 3855.0
-Percent_Positivity_in_prior_14_days: 0.125
-Level: Red
+Tests_in_prior_14_days: 220.0
+Fourteen_day_test_rate_per_100000: 2586.0
+Percent_Positivity_in_prior_14_days: 0.091
+Level: Yellow
 url: /states/WV/clay-county
 ---
 

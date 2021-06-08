@@ -1,6 +1,6 @@
 ---
 title: "Grant Parish, LA"
-date: 2021-06-07
+date: 2021-06-08
 draft: false
 type: county
 tags: [FIPS:22043.0,FEMA:6.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 22043.0
 FEMA_Region: 6.0
 Population: 22389.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 280.0
-Fourteen_day_test_rate_per_100000: 1251.0
-Percent_Positivity_in_prior_14_days: 0.039
+Tests_in_prior_14_days: 312.0
+Fourteen_day_test_rate_per_100000: 1394.0
+Percent_Positivity_in_prior_14_days: 0.042
 Level: Green
 url: /states/LA/grant-parish
 ---
