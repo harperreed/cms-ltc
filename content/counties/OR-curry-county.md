@@ -1,6 +1,6 @@
 ---
 title: "Curry County, OR"
-date: 2021-06-08
+date: 2021-06-09
 draft: false
 type: county
 tags: [FIPS:41015.0,FEMA:10.0,Micropolitan,Yellow]

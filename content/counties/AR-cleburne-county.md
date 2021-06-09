@@ -1,6 +1,6 @@
 ---
 title: "Cleburne County, AR"
-date: 2021-06-08
+date: 2021-06-09
 draft: false
 type: county
 tags: [FIPS:5023.0,FEMA:6.0,Non-core,Yellow]

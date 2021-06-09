@@ -1,6 +1,6 @@
 ---
 title: "Rice County, MN"
-date: 2021-06-08
+date: 2021-06-09
 draft: false
 type: county
 tags: [FIPS:27131.0,FEMA:5.0,Micropolitan,Green]

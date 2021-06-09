@@ -1,6 +1,6 @@
 ---
 title: "Moore County, TN"
-date: 2021-06-08
+date: 2021-06-09
 draft: false
 type: county
 tags: [FIPS:47127.0,FEMA:4.0,Micropolitan,Green]

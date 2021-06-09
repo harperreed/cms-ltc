@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, ID"
-date: 2021-06-08
+date: 2021-06-09
 draft: false
 type: county
 tags: [FIPS:16051.0,FEMA:10.0,Small metro,Green]
