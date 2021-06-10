@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, CO"
-date: 2021-06-09
+date: 2021-06-10
 draft: false
 type: county
 tags: [FIPS:8059.0,FEMA:8.0,Large fringe metro,Green]

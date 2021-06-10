@@ -1,6 +1,6 @@
 ---
 title: "Nueces County, TX"
-date: 2021-06-09
+date: 2021-06-10
 draft: false
 type: county
 tags: [FIPS:48355.0,FEMA:6.0,Medium metro,Yellow]

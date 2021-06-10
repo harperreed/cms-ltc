@@ -1,6 +1,6 @@
 ---
 title: "Barron County, WI"
-date: 2021-06-09
+date: 2021-06-10
 draft: false
 type: county
 tags: [FIPS:55005.0,FEMA:5.0,Non-core,Green]

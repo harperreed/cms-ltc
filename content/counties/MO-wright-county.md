@@ -1,6 +1,6 @@
 ---
 title: "Wright County, MO"
-date: 2021-06-09
+date: 2021-06-10
 draft: false
 type: county
 tags: [FIPS:29229.0,FEMA:7.0,Non-core,Yellow]

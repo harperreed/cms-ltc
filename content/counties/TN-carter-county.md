@@ -1,6 +1,6 @@
 ---
 title: "Carter County, TN"
-date: 2021-06-09
+date: 2021-06-10
 draft: false
 type: county
 tags: [FIPS:47019.0,FEMA:4.0,Small metro,Yellow]

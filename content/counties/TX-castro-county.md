@@ -1,6 +1,6 @@
 ---
 title: "Castro County, TX"
-date: 2021-06-09
+date: 2021-06-10
 draft: false
 type: county
 tags: [FIPS:48069.0,FEMA:6.0,Non-core,Green]

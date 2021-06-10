@@ -1,6 +1,6 @@
 ---
 title: "Wayne County, MI"
-date: 2021-06-09
+date: 2021-06-10
 draft: false
 type: county
 tags: [FIPS:26163.0,FEMA:5.0,Large central metro,Green]
