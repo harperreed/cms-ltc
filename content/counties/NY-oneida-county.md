@@ -1,6 +1,6 @@
 ---
 title: "Oneida County, NY"
-date: 2021-06-11
+date: 2021-06-12
 draft: false
 type: county
 tags: [FIPS:36065.0,FEMA:2.0,Medium metro,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, AR"
-date: 2021-06-11
+date: 2021-06-12
 draft: false
 type: county
 tags: [FIPS:5069.0,FEMA:6.0,Small metro,Green]

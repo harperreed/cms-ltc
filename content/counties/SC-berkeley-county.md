@@ -1,6 +1,6 @@
 ---
 title: "Berkeley County, SC"
-date: 2021-06-11
+date: 2021-06-12
 draft: false
 type: county
 tags: [FIPS:45015.0,FEMA:4.0,Medium metro,Green]

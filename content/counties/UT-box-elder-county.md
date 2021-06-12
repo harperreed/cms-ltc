@@ -1,6 +1,6 @@
 ---
 title: "Box Elder County, UT"
-date: 2021-06-11
+date: 2021-06-12
 draft: false
 type: county
 tags: [FIPS:49003.0,FEMA:8.0,Medium metro,Yellow]

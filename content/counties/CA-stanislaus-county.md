@@ -1,6 +1,6 @@
 ---
 title: "Stanislaus County, CA"
-date: 2021-06-11
+date: 2021-06-12
 draft: false
 type: county
 tags: [FIPS:6099.0,FEMA:9.0,Medium metro,Green]
