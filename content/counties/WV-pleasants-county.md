@@ -1,6 +1,6 @@
 ---
 title: "Pleasants County, WV"
-date: 2021-06-12
+date: 2021-06-13
 draft: false
 type: county
 tags: [FIPS:54073.0,FEMA:3.0,Non-core,Yellow]

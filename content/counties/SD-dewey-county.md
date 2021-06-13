@@ -1,6 +1,6 @@
 ---
 title: "Dewey County, SD"
-date: 2021-06-12
+date: 2021-06-13
 draft: false
 type: county
 tags: [FIPS:46041.0,FEMA:8.0,Non-core,Green]

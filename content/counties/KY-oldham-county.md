@@ -1,6 +1,6 @@
 ---
 title: "Oldham County, KY"
-date: 2021-06-12
+date: 2021-06-13
 draft: false
 type: county
 tags: [FIPS:21185.0,FEMA:4.0,Large fringe metro,Green]

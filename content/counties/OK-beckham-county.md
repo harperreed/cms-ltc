@@ -1,6 +1,6 @@
 ---
 title: "Beckham County, OK"
-date: 2021-06-12
+date: 2021-06-13
 draft: false
 type: county
 tags: [FIPS:40009.0,FEMA:6.0,Micropolitan,Green]
