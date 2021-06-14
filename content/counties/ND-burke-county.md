@@ -1,6 +1,6 @@
 ---
 title: "Burke County, ND"
-date: 2021-06-13
+date: 2021-06-14
 draft: false
 type: county
 tags: [FIPS:38013.0,FEMA:8.0,Non-core,Yellow]

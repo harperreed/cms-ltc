@@ -1,6 +1,6 @@
 ---
 title: "Thomas County, KS"
-date: 2021-06-13
+date: 2021-06-14
 draft: false
 type: county
 tags: [FIPS:20193.0,FEMA:7.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Waseca County, MN"
-date: 2021-06-13
+date: 2021-06-14
 draft: false
 type: county
 tags: [FIPS:27161.0,FEMA:5.0,Non-core,Green]

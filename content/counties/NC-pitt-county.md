@@ -1,6 +1,6 @@
 ---
 title: "Pitt County, NC"
-date: 2021-06-13
+date: 2021-06-14
 draft: false
 type: county
 tags: [FIPS:37147.0,FEMA:4.0,Small metro,Yellow]
