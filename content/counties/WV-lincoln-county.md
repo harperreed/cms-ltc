@@ -1,9 +1,9 @@
 ---
 title: "Lincoln County, WV"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
-tags: [FIPS:54043.0,FEMA:3.0,Medium metro,Red]
+tags: [FIPS:54043.0,FEMA:3.0,Medium metro,Yellow]
 categories: [WV]
 County: Lincoln County
 State: WV
@@ -11,10 +11,10 @@ FIPS: 54043.0
 FEMA_Region: 3.0
 Population: 20409.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 504.0
-Fourteen_day_test_rate_per_100000: 2469.0
-Percent_Positivity_in_prior_14_days: 0.113
-Level: Red
+Tests_in_prior_14_days: 369.0
+Fourteen_day_test_rate_per_100000: 1808.0
+Percent_Positivity_in_prior_14_days: 0.076
+Level: Yellow
 url: /states/WV/lincoln-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Quitman County, MS"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
 tags: [FIPS:28119.0,FEMA:4.0,Non-core,Green]
@@ -13,7 +13,7 @@ Population: 6792.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 41.0
 Fourteen_day_test_rate_per_100000: 604.0
-Percent_Positivity_in_prior_14_days: 0.049
+Percent_Positivity_in_prior_14_days: 0.024
 Level: Green
 url: /states/MS/quitman-county
 ---

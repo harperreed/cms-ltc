@@ -1,6 +1,6 @@
 ---
 title: "Macon County, AL"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
 tags: [FIPS:1087.0,FEMA:4.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 1087.0
 FEMA_Region: 4.0
 Population: 18068.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 491.0
-Fourteen_day_test_rate_per_100000: 2718.0
-Percent_Positivity_in_prior_14_days: 0.033
+Tests_in_prior_14_days: 230.0
+Fourteen_day_test_rate_per_100000: 1273.0
+Percent_Positivity_in_prior_14_days: 0.013
 Level: Green
 url: /states/AL/macon-county
 ---

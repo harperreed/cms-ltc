@@ -1,6 +1,6 @@
 ---
 title: "Warren County, PA"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
 tags: [FIPS:42123.0,FEMA:3.0,Micropolitan,Green]
@@ -11,8 +11,8 @@ FIPS: 42123.0
 FEMA_Region: 3.0
 Population: 39191.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 491.0
-Fourteen_day_test_rate_per_100000: 1253.0
+Tests_in_prior_14_days: 416.0
+Fourteen_day_test_rate_per_100000: 1061.0
 Percent_Positivity_in_prior_14_days: 0.031
 Level: Green
 url: /states/PA/warren-county

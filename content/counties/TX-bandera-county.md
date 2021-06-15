@@ -1,6 +1,6 @@
 ---
 title: "Bandera County, TX"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
 tags: [FIPS:48019.0,FEMA:6.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 48019.0
 FEMA_Region: 6.0
 Population: 23112.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 157.0
-Fourteen_day_test_rate_per_100000: 679.0
-Percent_Positivity_in_prior_14_days: 0.019
+Tests_in_prior_14_days: 139.0
+Fourteen_day_test_rate_per_100000: 601.0
+Percent_Positivity_in_prior_14_days: 0.029
 Level: Green
 url: /states/TX/bandera-county
 ---

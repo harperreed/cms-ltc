@@ -1,9 +1,9 @@
 ---
 title: "Meade County, KY"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
-tags: [FIPS:21163.0,FEMA:4.0,Small metro,Yellow]
+tags: [FIPS:21163.0,FEMA:4.0,Small metro,Gray]
 categories: [KY]
 County: Meade County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21163.0
 FEMA_Region: 4.0
 Population: 28572.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 196.0
-Fourteen_day_test_rate_per_100000: 686.0
-Percent_Positivity_in_prior_14_days: 0.066
-Level: Yellow
+Tests_in_prior_14_days: 131.0
+Fourteen_day_test_rate_per_100000: 458.0
+Percent_Positivity_in_prior_14_days: 0.084
+Level: Gray
 url: /states/KY/meade-county
 ---
 

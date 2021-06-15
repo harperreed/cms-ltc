@@ -1,6 +1,6 @@
 ---
 title: "Sitka City and Borough, AK"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
 tags: [FIPS:2220.0,FEMA:10.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 2220.0
 FEMA_Region: 10.0
 Population: 8493.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 366.0
-Fourteen_day_test_rate_per_100000: 4309.0
-Percent_Positivity_in_prior_14_days: 0.011
+Tests_in_prior_14_days: 253.0
+Fourteen_day_test_rate_per_100000: 2979.0
+Percent_Positivity_in_prior_14_days: 0.0
 Level: Green
 url: /states/AK/sitka-city-and-borough
 ---

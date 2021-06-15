@@ -1,9 +1,9 @@
 ---
 title: "Loíza Municipio, PR"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
-tags: [FIPS:72087.0,FEMA:2.0,,Yellow]
+tags: [FIPS:72087.0,FEMA:2.0,,Green]
 categories: [PR]
 County: Loíza Municipio
 State: PR
@@ -11,10 +11,10 @@ FIPS: 72087.0
 FEMA_Region: 2.0
 Population: 24553.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 278.0
-Fourteen_day_test_rate_per_100000: 1132.0
-Percent_Positivity_in_prior_14_days: 0.061
-Level: Yellow
+Tests_in_prior_14_days: 251.0
+Fourteen_day_test_rate_per_100000: 1022.0
+Percent_Positivity_in_prior_14_days: 0.032
+Level: Green
 url: /states/PR/loiza-municipio
 ---
 

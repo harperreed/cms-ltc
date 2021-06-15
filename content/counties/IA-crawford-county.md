@@ -1,9 +1,9 @@
 ---
 title: "Crawford County, IA"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
-tags: [FIPS:19047.0,FEMA:7.0,Non-core,Yellow]
+tags: [FIPS:19047.0,FEMA:7.0,Non-core,Green]
 categories: [IA]
 County: Crawford County
 State: IA
@@ -11,10 +11,10 @@ FIPS: 19047.0
 FEMA_Region: 7.0
 Population: 16820.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 131.0
-Fourteen_day_test_rate_per_100000: 779.0
-Percent_Positivity_in_prior_14_days: 0.061
-Level: Yellow
+Tests_in_prior_14_days: 129.0
+Fourteen_day_test_rate_per_100000: 767.0
+Percent_Positivity_in_prior_14_days: 0.016
+Level: Green
 url: /states/IA/crawford-county
 ---
 

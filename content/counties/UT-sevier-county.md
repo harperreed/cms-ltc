@@ -1,6 +1,6 @@
 ---
 title: "Sevier County, UT"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
 tags: [FIPS:49041.0,FEMA:8.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 49041.0
 FEMA_Region: 8.0
 Population: 21620.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 252.0
-Fourteen_day_test_rate_per_100000: 1166.0
-Percent_Positivity_in_prior_14_days: 0.048
+Tests_in_prior_14_days: 281.0
+Fourteen_day_test_rate_per_100000: 1300.0
+Percent_Positivity_in_prior_14_days: 0.039
 Level: Green
 url: /states/UT/sevier-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Colquitt County, GA"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
 tags: [FIPS:13071.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 13071.0
 FEMA_Region: 4.0
 Population: 45600.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 520.0
-Fourteen_day_test_rate_per_100000: 1140.0
-Percent_Positivity_in_prior_14_days: 0.083
+Tests_in_prior_14_days: 467.0
+Fourteen_day_test_rate_per_100000: 1024.0
+Percent_Positivity_in_prior_14_days: 0.118
 Level: Yellow
 url: /states/GA/colquitt-county
 ---

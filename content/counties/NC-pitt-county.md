@@ -1,6 +1,6 @@
 ---
 title: "Pitt County, NC"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
 tags: [FIPS:37147.0,FEMA:4.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 37147.0
 FEMA_Region: 4.0
 Population: 180742.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 5246.0
-Fourteen_day_test_rate_per_100000: 2902.0
-Percent_Positivity_in_prior_14_days: 0.068
+Tests_in_prior_14_days: 4735.0
+Fourteen_day_test_rate_per_100000: 2620.0
+Percent_Positivity_in_prior_14_days: 0.064
 Level: Yellow
 url: /states/NC/pitt-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Wahkiakum County, WA"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
 tags: [FIPS:53069.0,FEMA:10.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 53069.0
 FEMA_Region: 10.0
 Population: 4488.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 50.0
-Fourteen_day_test_rate_per_100000: 1114.0
-Percent_Positivity_in_prior_14_days: 0.2
+Tests_in_prior_14_days: 44.0
+Fourteen_day_test_rate_per_100000: 980.0
+Percent_Positivity_in_prior_14_days: 0.114
 Level: Yellow
 url: /states/WA/wahkiakum-county
 ---

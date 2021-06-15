@@ -1,6 +1,6 @@
 ---
 title: "Greeley County, KS"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
 tags: [FIPS:20071.0,FEMA:7.0,Non-core,Green]

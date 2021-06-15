@@ -1,9 +1,9 @@
 ---
 title: "Jefferson County, TN"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
-tags: [FIPS:47089.0,FEMA:4.0,Small metro,Yellow]
+tags: [FIPS:47089.0,FEMA:4.0,Small metro,Green]
 categories: [TN]
 County: Jefferson County
 State: TN
@@ -11,10 +11,10 @@ FIPS: 47089.0
 FEMA_Region: 4.0
 Population: 54495.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 233.0
-Fourteen_day_test_rate_per_100000: 428.0
-Percent_Positivity_in_prior_14_days: 0.052
-Level: Yellow
+Tests_in_prior_14_days: 160.0
+Fourteen_day_test_rate_per_100000: 294.0
+Percent_Positivity_in_prior_14_days: 0.038
+Level: Green
 url: /states/TN/jefferson-county
 ---
 

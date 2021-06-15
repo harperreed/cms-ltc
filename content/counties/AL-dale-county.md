@@ -1,9 +1,9 @@
 ---
 title: "Dale County, AL"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
-tags: [FIPS:1045.0,FEMA:4.0,Micropolitan,Green]
+tags: [FIPS:1045.0,FEMA:4.0,Micropolitan,Yellow]
 categories: [AL]
 County: Dale County
 State: AL
@@ -11,10 +11,10 @@ FIPS: 1045.0
 FEMA_Region: 4.0
 Population: 49172.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 459.0
-Fourteen_day_test_rate_per_100000: 933.0
-Percent_Positivity_in_prior_14_days: 0.041
-Level: Green
+Tests_in_prior_14_days: 452.0
+Fourteen_day_test_rate_per_100000: 919.0
+Percent_Positivity_in_prior_14_days: 0.058
+Level: Yellow
 url: /states/AL/dale-county
 ---
 

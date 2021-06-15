@@ -1,6 +1,6 @@
 ---
 title: "Foard County, TX"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
 tags: [FIPS:48155.0,FEMA:6.0,Non-core,Green]

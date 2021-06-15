@@ -1,9 +1,9 @@
 ---
 title: "Fayette County, PA"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
-tags: [FIPS:42051.0,FEMA:3.0,Large fringe metro,Yellow]
+tags: [FIPS:42051.0,FEMA:3.0,Large fringe metro,Green]
 categories: [PA]
 County: Fayette County
 State: PA
@@ -11,10 +11,10 @@ FIPS: 42051.0
 FEMA_Region: 3.0
 Population: 129274.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 2619.0
-Fourteen_day_test_rate_per_100000: 2026.0
-Percent_Positivity_in_prior_14_days: 0.06
-Level: Yellow
+Tests_in_prior_14_days: 2613.0
+Fourteen_day_test_rate_per_100000: 2021.0
+Percent_Positivity_in_prior_14_days: 0.042
+Level: Green
 url: /states/PA/fayette-county
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Laurel County, KY"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
-tags: [FIPS:21125.0,FEMA:4.0,Micropolitan,Yellow]
+tags: [FIPS:21125.0,FEMA:4.0,Micropolitan,Gray]
 categories: [KY]
 County: Laurel County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21125.0
 FEMA_Region: 4.0
 Population: 60813.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 690.0
-Fourteen_day_test_rate_per_100000: 1135.0
-Percent_Positivity_in_prior_14_days: 0.07
-Level: Yellow
+Tests_in_prior_14_days: 421.0
+Fourteen_day_test_rate_per_100000: 692.0
+Percent_Positivity_in_prior_14_days: 0.062
+Level: Gray
 url: /states/KY/laurel-county
 ---
 

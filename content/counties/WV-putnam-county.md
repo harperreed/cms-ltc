@@ -1,9 +1,9 @@
 ---
 title: "Putnam County, WV"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
-tags: [FIPS:54079.0,FEMA:3.0,Medium metro,Yellow]
+tags: [FIPS:54079.0,FEMA:3.0,Medium metro,Green]
 categories: [WV]
 County: Putnam County
 State: WV
@@ -11,10 +11,10 @@ FIPS: 54079.0
 FEMA_Region: 3.0
 Population: 56450.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1366.0
-Fourteen_day_test_rate_per_100000: 2420.0
-Percent_Positivity_in_prior_14_days: 0.053
-Level: Yellow
+Tests_in_prior_14_days: 1109.0
+Fourteen_day_test_rate_per_100000: 1965.0
+Percent_Positivity_in_prior_14_days: 0.027
+Level: Green
 url: /states/WV/putnam-county
 ---
 

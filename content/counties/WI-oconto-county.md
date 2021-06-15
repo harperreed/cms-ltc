@@ -1,6 +1,6 @@
 ---
 title: "Oconto County, WI"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
 tags: [FIPS:55083.0,FEMA:5.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 55083.0
 FEMA_Region: 5.0
 Population: 37930.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 604.0
-Fourteen_day_test_rate_per_100000: 1592.0
-Percent_Positivity_in_prior_14_days: 0.022
+Tests_in_prior_14_days: 486.0
+Fourteen_day_test_rate_per_100000: 1281.0
+Percent_Positivity_in_prior_14_days: 0.016
 Level: Green
 url: /states/WI/oconto-county
 ---

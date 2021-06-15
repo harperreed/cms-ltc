@@ -1,6 +1,6 @@
 ---
 title: "Logan County, WV"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
 tags: [FIPS:54045.0,FEMA:3.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 54045.0
 FEMA_Region: 3.0
 Population: 32019.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 670.0
-Fourteen_day_test_rate_per_100000: 2093.0
-Percent_Positivity_in_prior_14_days: 0.072
+Tests_in_prior_14_days: 614.0
+Fourteen_day_test_rate_per_100000: 1918.0
+Percent_Positivity_in_prior_14_days: 0.055
 Level: Yellow
 url: /states/WV/logan-county
 ---

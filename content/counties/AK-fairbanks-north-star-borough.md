@@ -1,6 +1,6 @@
 ---
 title: "Fairbanks North Star Borough, AK"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
 tags: [FIPS:2090.0,FEMA:10.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 2090.0
 FEMA_Region: 10.0
 Population: 96849.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3645.0
-Fourteen_day_test_rate_per_100000: 3764.0
-Percent_Positivity_in_prior_14_days: 0.018
+Tests_in_prior_14_days: 2768.0
+Fourteen_day_test_rate_per_100000: 2858.0
+Percent_Positivity_in_prior_14_days: 0.014
 Level: Green
 url: /states/AK/fairbanks-north-star-borough
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Washington County, OK"
-date: 2021-06-14
+date: 2021-06-15
 draft: false
 type: county
 tags: [FIPS:40147.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 40147.0
 FEMA_Region: 6.0
 Population: 51527.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 198.0
-Fourteen_day_test_rate_per_100000: 384.0
-Percent_Positivity_in_prior_14_days: 0.071
+Tests_in_prior_14_days: 194.0
+Fourteen_day_test_rate_per_100000: 377.0
+Percent_Positivity_in_prior_14_days: 0.093
 Level: Yellow
 url: /states/OK/washington-county
 ---
