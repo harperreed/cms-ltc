@@ -1,6 +1,6 @@
 ---
 title: "Granite County, MT"
-date: 2021-06-15
+date: 2021-06-16
 draft: false
 type: county
 tags: [FIPS:30039.0,FEMA:8.0,Non-core,Yellow]

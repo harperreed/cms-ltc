@@ -1,6 +1,6 @@
 ---
 title: "Fleming County, KY"
-date: 2021-06-15
+date: 2021-06-16
 draft: false
 type: county
 tags: [FIPS:21069.0,FEMA:4.0,Non-core,Gray]

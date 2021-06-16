@@ -1,6 +1,6 @@
 ---
 title: "Dickenson County, VA"
-date: 2021-06-15
+date: 2021-06-16
 draft: false
 type: county
 tags: [FIPS:51051.0,FEMA:3.0,Micropolitan,Yellow]

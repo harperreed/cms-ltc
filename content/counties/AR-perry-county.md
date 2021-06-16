@@ -1,6 +1,6 @@
 ---
 title: "Perry County, AR"
-date: 2021-06-15
+date: 2021-06-16
 draft: false
 type: county
 tags: [FIPS:5105.0,FEMA:6.0,Medium metro,Green]
