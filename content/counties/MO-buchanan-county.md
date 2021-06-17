@@ -1,6 +1,6 @@
 ---
 title: "Buchanan County, MO"
-date: 2021-06-16
+date: 2021-06-17
 draft: false
 type: county
 tags: [FIPS:29021.0,FEMA:7.0,Small metro,Green]

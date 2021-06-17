@@ -1,6 +1,6 @@
 ---
 title: "Newton County, AR"
-date: 2021-06-16
+date: 2021-06-17
 draft: false
 type: county
 tags: [FIPS:5101.0,FEMA:6.0,Micropolitan,Green]

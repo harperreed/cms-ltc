@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, OH"
-date: 2021-06-16
+date: 2021-06-17
 draft: false
 type: county
 tags: [FIPS:39079.0,FEMA:5.0,Micropolitan,Green]

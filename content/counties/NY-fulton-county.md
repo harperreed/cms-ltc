@@ -1,6 +1,6 @@
 ---
 title: "Fulton County, NY"
-date: 2021-06-16
+date: 2021-06-17
 draft: false
 type: county
 tags: [FIPS:36035.0,FEMA:2.0,Micropolitan,Green]

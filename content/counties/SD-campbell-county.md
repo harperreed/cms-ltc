@@ -1,6 +1,6 @@
 ---
 title: "Campbell County, SD"
-date: 2021-06-16
+date: 2021-06-17
 draft: false
 type: county
 tags: [FIPS:46021.0,FEMA:8.0,Non-core,Green]
