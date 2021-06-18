@@ -1,6 +1,6 @@
 ---
 title: "Citrus County, FL"
-date: 2021-06-17
+date: 2021-06-18
 draft: false
 type: county
 tags: [FIPS:12017.0,FEMA:4.0,Small metro,Yellow]

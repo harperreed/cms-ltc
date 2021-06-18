@@ -1,6 +1,6 @@
 ---
 title: "Wilcox County, AL"
-date: 2021-06-17
+date: 2021-06-18
 draft: false
 type: county
 tags: [FIPS:1131.0,FEMA:4.0,Non-core,Green]

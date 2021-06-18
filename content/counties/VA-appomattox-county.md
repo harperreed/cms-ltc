@@ -1,6 +1,6 @@
 ---
 title: "Appomattox County, VA"
-date: 2021-06-17
+date: 2021-06-18
 draft: false
 type: county
 tags: [FIPS:51011.0,FEMA:3.0,Medium metro,Yellow]

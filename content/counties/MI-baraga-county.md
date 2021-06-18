@@ -1,6 +1,6 @@
 ---
 title: "Baraga County, MI"
-date: 2021-06-17
+date: 2021-06-18
 draft: false
 type: county
 tags: [FIPS:26013.0,FEMA:5.0,Non-core,Green]

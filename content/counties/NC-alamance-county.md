@@ -1,6 +1,6 @@
 ---
 title: "Alamance County, NC"
-date: 2021-06-17
+date: 2021-06-18
 draft: false
 type: county
 tags: [FIPS:37001.0,FEMA:4.0,Small metro,Green]

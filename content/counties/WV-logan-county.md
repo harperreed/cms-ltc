@@ -1,6 +1,6 @@
 ---
 title: "Logan County, WV"
-date: 2021-06-17
+date: 2021-06-18
 draft: false
 type: county
 tags: [FIPS:54045.0,FEMA:3.0,Micropolitan,Yellow]
