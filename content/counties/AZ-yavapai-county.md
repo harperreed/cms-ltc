@@ -1,6 +1,6 @@
 ---
 title: "Yavapai County, AZ"
-date: 2021-06-18
+date: 2021-06-19
 draft: false
 type: county
 tags: [FIPS:4025.0,FEMA:9.0,Small metro,Green]

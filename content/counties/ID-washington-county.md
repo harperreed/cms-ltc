@@ -1,6 +1,6 @@
 ---
 title: "Washington County, ID"
-date: 2021-06-18
+date: 2021-06-19
 draft: false
 type: county
 tags: [FIPS:16087.0,FEMA:10.0,Non-core,Yellow]

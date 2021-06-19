@@ -1,6 +1,6 @@
 ---
 title: "Cotton County, OK"
-date: 2021-06-18
+date: 2021-06-19
 draft: false
 type: county
 tags: [FIPS:40033.0,FEMA:6.0,Small metro,Green]
