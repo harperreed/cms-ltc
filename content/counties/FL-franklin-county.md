@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, FL"
-date: 2021-06-19
+date: 2021-06-20
 draft: false
 type: county
 tags: [FIPS:12037.0,FEMA:4.0,Non-core,Yellow]

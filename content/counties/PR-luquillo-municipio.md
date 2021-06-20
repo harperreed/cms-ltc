@@ -1,6 +1,6 @@
 ---
 title: "Luquillo Municipio, PR"
-date: 2021-06-19
+date: 2021-06-20
 draft: false
 type: county
 tags: [FIPS:72089.0,FEMA:2.0,,Yellow]

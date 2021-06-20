@@ -1,6 +1,6 @@
 ---
 title: "Lawrence County, AL"
-date: 2021-06-19
+date: 2021-06-20
 draft: false
 type: county
 tags: [FIPS:1079.0,FEMA:4.0,Small metro,Yellow]

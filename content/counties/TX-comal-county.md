@@ -1,6 +1,6 @@
 ---
 title: "Comal County, TX"
-date: 2021-06-19
+date: 2021-06-20
 draft: false
 type: county
 tags: [FIPS:48091.0,FEMA:6.0,Large fringe metro,Yellow]

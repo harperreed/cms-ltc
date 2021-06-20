@@ -1,6 +1,6 @@
 ---
 title: "Clark County, AR"
-date: 2021-06-19
+date: 2021-06-20
 draft: false
 type: county
 tags: [FIPS:5019.0,FEMA:6.0,Micropolitan,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Morrill County, NE"
-date: 2021-06-19
+date: 2021-06-20
 draft: false
 type: county
 tags: [FIPS:31123.0,FEMA:7.0,Non-core,Yellow]
