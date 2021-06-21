@@ -1,6 +1,6 @@
 ---
 title: "Brown County, WI"
-date: 2021-06-20
+date: 2021-06-21
 draft: false
 type: county
 tags: [FIPS:55009.0,FEMA:5.0,Medium metro,Green]
