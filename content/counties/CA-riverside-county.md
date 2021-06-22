@@ -1,6 +1,6 @@
 ---
 title: "Riverside County, CA"
-date: 2021-06-21
+date: 2021-06-22
 draft: false
 type: county
 tags: [FIPS:6065.0,FEMA:9.0,Large central metro,Green]
@@ -11,8 +11,8 @@ FIPS: 6065.0
 FEMA_Region: 9.0
 Population: 2470546.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 53150.0
-Fourteen_day_test_rate_per_100000: 2151.0
+Tests_in_prior_14_days: 56513.0
+Fourteen_day_test_rate_per_100000: 2287.0
 Percent_Positivity_in_prior_14_days: 0.011
 Level: Green
 url: /states/CA/riverside-county

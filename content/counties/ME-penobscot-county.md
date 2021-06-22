@@ -1,9 +1,9 @@
 ---
 title: "Penobscot County, ME"
-date: 2021-06-21
+date: 2021-06-22
 draft: false
 type: county
-tags: [FIPS:23019.0,FEMA:1.0,Small metro,Gray]
+tags: [FIPS:23019.0,FEMA:1.0,Small metro,Green]
 categories: [ME]
 County: Penobscot County
 State: ME
@@ -11,10 +11,10 @@ FIPS: 23019.0
 FEMA_Region: 1.0
 Population: 152148.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 4381.0
-Fourteen_day_test_rate_per_100000: 2879.0
-Percent_Positivity_in_prior_14_days: 0.017
-Level: Gray
+Tests_in_prior_14_days: 5081.0
+Fourteen_day_test_rate_per_100000: 3340.0
+Percent_Positivity_in_prior_14_days: 0.018
+Level: Green
 url: /states/ME/penobscot-county
 ---
 

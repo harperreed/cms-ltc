@@ -1,6 +1,6 @@
 ---
 title: "Imperial County, CA"
-date: 2021-06-21
+date: 2021-06-22
 draft: false
 type: county
 tags: [FIPS:6025.0,FEMA:9.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 6025.0
 FEMA_Region: 9.0
 Population: 181215.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 7059.0
-Fourteen_day_test_rate_per_100000: 3895.0
-Percent_Positivity_in_prior_14_days: 0.017
+Tests_in_prior_14_days: 8369.0
+Fourteen_day_test_rate_per_100000: 4618.0
+Percent_Positivity_in_prior_14_days: 0.02
 Level: Green
 url: /states/CA/imperial-county
 ---

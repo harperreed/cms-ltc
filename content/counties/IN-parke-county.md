@@ -1,6 +1,6 @@
 ---
 title: "Parke County, IN"
-date: 2021-06-21
+date: 2021-06-22
 draft: false
 type: county
 tags: [FIPS:18121.0,FEMA:5.0,Non-core,Green]
@@ -13,7 +13,7 @@ Population: 16937.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 182.0
 Fourteen_day_test_rate_per_100000: 1075.0
-Percent_Positivity_in_prior_14_days: 0.038
+Percent_Positivity_in_prior_14_days: 0.033
 Level: Green
 url: /states/IN/parke-county
 ---

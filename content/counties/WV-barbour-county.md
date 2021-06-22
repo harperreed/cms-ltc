@@ -1,9 +1,9 @@
 ---
 title: "Barbour County, WV"
-date: 2021-06-21
+date: 2021-06-22
 draft: false
 type: county
-tags: [FIPS:54001.0,FEMA:3.0,Non-core,Yellow]
+tags: [FIPS:54001.0,FEMA:3.0,Non-core,Green]
 categories: [WV]
 County: Barbour County
 State: WV
@@ -11,10 +11,10 @@ FIPS: 54001.0
 FEMA_Region: 3.0
 Population: 16441.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 390.0
-Fourteen_day_test_rate_per_100000: 2372.0
-Percent_Positivity_in_prior_14_days: 0.054
-Level: Yellow
+Tests_in_prior_14_days: 343.0
+Fourteen_day_test_rate_per_100000: 2086.0
+Percent_Positivity_in_prior_14_days: 0.032
+Level: Green
 url: /states/WV/barbour-county
 ---
 

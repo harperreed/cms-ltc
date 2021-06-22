@@ -1,6 +1,6 @@
 ---
 title: "Blair County, PA"
-date: 2021-06-21
+date: 2021-06-22
 draft: false
 type: county
 tags: [FIPS:42013.0,FEMA:3.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 42013.0
 FEMA_Region: 3.0
 Population: 121829.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3769.0
-Fourteen_day_test_rate_per_100000: 3094.0
-Percent_Positivity_in_prior_14_days: 0.022
+Tests_in_prior_14_days: 3258.0
+Fourteen_day_test_rate_per_100000: 2674.0
+Percent_Positivity_in_prior_14_days: 0.012
 Level: Green
 url: /states/PA/blair-county
 ---

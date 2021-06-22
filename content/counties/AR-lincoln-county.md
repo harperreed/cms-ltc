@@ -1,6 +1,6 @@
 ---
 title: "Lincoln County, AR"
-date: 2021-06-21
+date: 2021-06-22
 draft: false
 type: county
 tags: [FIPS:5079.0,FEMA:6.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 5079.0
 FEMA_Region: 6.0
 Population: 13024.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 60.0
-Fourteen_day_test_rate_per_100000: 461.0
-Percent_Positivity_in_prior_14_days: 0.1
+Tests_in_prior_14_days: 36.0
+Fourteen_day_test_rate_per_100000: 276.0
+Percent_Positivity_in_prior_14_days: 0.139
 Level: Yellow
 url: /states/AR/lincoln-county
 ---

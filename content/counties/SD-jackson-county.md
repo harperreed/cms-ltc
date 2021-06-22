@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, SD"
-date: 2021-06-21
+date: 2021-06-22
 draft: false
 type: county
 tags: [FIPS:46071.0,FEMA:8.0,Non-core,Yellow]

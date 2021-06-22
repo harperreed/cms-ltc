@@ -1,6 +1,6 @@
 ---
 title: "Cherokee County, KS"
-date: 2021-06-21
+date: 2021-06-22
 draft: false
 type: county
 tags: [FIPS:20021.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 20021.0
 FEMA_Region: 7.0
 Population: 19939.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 179.0
-Fourteen_day_test_rate_per_100000: 898.0
-Percent_Positivity_in_prior_14_days: 0.212
+Tests_in_prior_14_days: 260.0
+Fourteen_day_test_rate_per_100000: 1304.0
+Percent_Positivity_in_prior_14_days: 0.262
 Level: Yellow
 url: /states/KS/cherokee-county
 ---

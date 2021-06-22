@@ -1,6 +1,6 @@
 ---
 title: "Wake County, NC"
-date: 2021-06-21
+date: 2021-06-22
 draft: false
 type: county
 tags: [FIPS:37183.0,FEMA:4.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 37183.0
 FEMA_Region: 4.0
 Population: 1111761.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 31449.0
-Fourteen_day_test_rate_per_100000: 2829.0
-Percent_Positivity_in_prior_14_days: 0.021
+Tests_in_prior_14_days: 32055.0
+Fourteen_day_test_rate_per_100000: 2883.0
+Percent_Positivity_in_prior_14_days: 0.014
 Level: Green
 url: /states/NC/wake-county
 ---

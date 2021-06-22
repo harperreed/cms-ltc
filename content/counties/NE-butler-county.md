@@ -1,6 +1,6 @@
 ---
 title: "Butler County, NE"
-date: 2021-06-21
+date: 2021-06-22
 draft: false
 type: county
 tags: [FIPS:31023.0,FEMA:7.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 31023.0
 FEMA_Region: 7.0
 Population: 8016.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 25.0
-Fourteen_day_test_rate_per_100000: 312.0
-Percent_Positivity_in_prior_14_days: 0.04
+Tests_in_prior_14_days: 30.0
+Fourteen_day_test_rate_per_100000: 374.0
+Percent_Positivity_in_prior_14_days: 0.033
 Level: Green
 url: /states/NE/butler-county
 ---

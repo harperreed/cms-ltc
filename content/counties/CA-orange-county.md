@@ -1,6 +1,6 @@
 ---
 title: "Orange County, CA"
-date: 2021-06-21
+date: 2021-06-22
 draft: false
 type: county
 tags: [FIPS:6059.0,FEMA:9.0,Large central metro,Green]
@@ -11,8 +11,8 @@ FIPS: 6059.0
 FEMA_Region: 9.0
 Population: 3175692.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 74473.0
-Fourteen_day_test_rate_per_100000: 2345.0
+Tests_in_prior_14_days: 76878.0
+Fourteen_day_test_rate_per_100000: 2421.0
 Percent_Positivity_in_prior_14_days: 0.007
 Level: Green
 url: /states/CA/orange-county

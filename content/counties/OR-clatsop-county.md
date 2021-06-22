@@ -1,6 +1,6 @@
 ---
 title: "Clatsop County, OR"
-date: 2021-06-21
+date: 2021-06-22
 draft: false
 type: county
 tags: [FIPS:41007.0,FEMA:10.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 41007.0
 FEMA_Region: 10.0
 Population: 40224.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 833.0
-Fourteen_day_test_rate_per_100000: 2071.0
-Percent_Positivity_in_prior_14_days: 0.02
+Tests_in_prior_14_days: 960.0
+Fourteen_day_test_rate_per_100000: 2387.0
+Percent_Positivity_in_prior_14_days: 0.039
 Level: Green
 url: /states/OR/clatsop-county
 ---

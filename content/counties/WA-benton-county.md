@@ -1,6 +1,6 @@
 ---
 title: "Benton County, WA"
-date: 2021-06-21
+date: 2021-06-22
 draft: false
 type: county
 tags: [FIPS:53005.0,FEMA:10.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 53005.0
 FEMA_Region: 10.0
 Population: 204390.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 3342.0
-Fourteen_day_test_rate_per_100000: 1635.0
-Percent_Positivity_in_prior_14_days: 0.053
+Tests_in_prior_14_days: 4448.0
+Fourteen_day_test_rate_per_100000: 2176.0
+Percent_Positivity_in_prior_14_days: 0.05
 Level: Yellow
 url: /states/WA/benton-county
 ---

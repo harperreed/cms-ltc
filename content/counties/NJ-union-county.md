@@ -1,6 +1,6 @@
 ---
 title: "Union County, NJ"
-date: 2021-06-21
+date: 2021-06-22
 draft: false
 type: county
 tags: [FIPS:34039.0,FEMA:2.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 34039.0
 FEMA_Region: 2.0
 Population: 556341.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 22647.0
-Fourteen_day_test_rate_per_100000: 4071.0
-Percent_Positivity_in_prior_14_days: 0.013
+Tests_in_prior_14_days: 23207.0
+Fourteen_day_test_rate_per_100000: 4171.0
+Percent_Positivity_in_prior_14_days: 0.011
 Level: Green
 url: /states/NJ/union-county
 ---

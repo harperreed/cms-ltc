@@ -1,6 +1,6 @@
 ---
 title: "Brazos County, TX"
-date: 2021-06-21
+date: 2021-06-22
 draft: false
 type: county
 tags: [FIPS:48041.0,FEMA:6.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48041.0
 FEMA_Region: 6.0
 Population: 229211.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3877.0
-Fourteen_day_test_rate_per_100000: 1691.0
-Percent_Positivity_in_prior_14_days: 0.059
+Tests_in_prior_14_days: 4731.0
+Fourteen_day_test_rate_per_100000: 2064.0
+Percent_Positivity_in_prior_14_days: 0.065
 Level: Yellow
 url: /states/TX/brazos-county
 ---

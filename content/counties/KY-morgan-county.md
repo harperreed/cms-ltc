@@ -1,9 +1,9 @@
 ---
 title: "Morgan County, KY"
-date: 2021-06-21
+date: 2021-06-22
 draft: false
 type: county
-tags: [FIPS:21175.0,FEMA:4.0,Non-core,Gray]
+tags: [FIPS:21175.0,FEMA:4.0,Non-core,Yellow]
 categories: [KY]
 County: Morgan County
 State: KY
@@ -11,10 +11,10 @@ FIPS: 21175.0
 FEMA_Region: 4.0
 Population: 13309.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 162.0
-Fourteen_day_test_rate_per_100000: 1217.0
-Percent_Positivity_in_prior_14_days: 0.117
-Level: Gray
+Tests_in_prior_14_days: 283.0
+Fourteen_day_test_rate_per_100000: 2126.0
+Percent_Positivity_in_prior_14_days: 0.06
+Level: Yellow
 url: /states/KY/morgan-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Montrose County, CO"
-date: 2021-06-21
+date: 2021-06-22
 draft: false
 type: county
 tags: [FIPS:8085.0,FEMA:8.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 8085.0
 FEMA_Region: 8.0
 Population: 42758.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1315.0
-Fourteen_day_test_rate_per_100000: 3075.0
-Percent_Positivity_in_prior_14_days: 0.049
+Tests_in_prior_14_days: 1423.0
+Fourteen_day_test_rate_per_100000: 3328.0
+Percent_Positivity_in_prior_14_days: 0.039
 Level: Green
 url: /states/CO/montrose-county
 ---

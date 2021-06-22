@@ -1,6 +1,6 @@
 ---
 title: "Brown County, NE"
-date: 2021-06-21
+date: 2021-06-22
 draft: false
 type: county
 tags: [FIPS:31017.0,FEMA:7.0,Non-core,Green]
