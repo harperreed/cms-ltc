@@ -1,6 +1,6 @@
 ---
 title: "McLean County, ND"
-date: 2021-06-22
+date: 2021-06-23
 draft: false
 type: county
 tags: [FIPS:38055.0,FEMA:8.0,Non-core,Yellow]

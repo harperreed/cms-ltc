@@ -1,6 +1,6 @@
 ---
 title: "Clay County, TX"
-date: 2021-06-22
+date: 2021-06-23
 draft: false
 type: county
 tags: [FIPS:48077.0,FEMA:6.0,Small metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Shawnee County, KS"
-date: 2021-06-22
+date: 2021-06-23
 draft: false
 type: county
 tags: [FIPS:20177.0,FEMA:7.0,Small metro,Green]

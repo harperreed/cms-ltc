@@ -1,6 +1,6 @@
 ---
 title: "Walsh County, ND"
-date: 2021-06-22
+date: 2021-06-23
 draft: false
 type: county
 tags: [FIPS:38099.0,FEMA:8.0,Non-core,Green]

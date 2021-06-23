@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, AL"
-date: 2021-06-22
+date: 2021-06-23
 draft: false
 type: county
 tags: [FIPS:1071.0,FEMA:4.0,Micropolitan,Yellow]
