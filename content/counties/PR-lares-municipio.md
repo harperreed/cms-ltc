@@ -1,6 +1,6 @@
 ---
 title: "Lares Municipio, PR"
-date: 2021-06-23
+date: 2021-06-24
 draft: false
 type: county
 tags: [FIPS:72081.0,FEMA:2.0,,Green]

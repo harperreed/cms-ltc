@@ -1,6 +1,6 @@
 ---
 title: "Gallatin County, KY"
-date: 2021-06-23
+date: 2021-06-24
 draft: false
 type: county
 tags: [FIPS:21077.0,FEMA:4.0,Large fringe metro,Green]

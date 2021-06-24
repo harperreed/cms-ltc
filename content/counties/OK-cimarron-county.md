@@ -1,6 +1,6 @@
 ---
 title: "Cimarron County, OK"
-date: 2021-06-23
+date: 2021-06-24
 draft: false
 type: county
 tags: [FIPS:40025.0,FEMA:6.0,Non-core,Green]

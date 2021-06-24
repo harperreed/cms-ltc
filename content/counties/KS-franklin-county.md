@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, KS"
-date: 2021-06-23
+date: 2021-06-24
 draft: false
 type: county
 tags: [FIPS:20059.0,FEMA:7.0,Micropolitan,Green]

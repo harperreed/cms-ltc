@@ -1,6 +1,6 @@
 ---
 title: "Rose Island, AS"
-date: 2021-06-23
+date: 2021-06-24
 draft: false
 type: county
 tags: [FIPS:60030.0,FEMA:9.0,,Green]

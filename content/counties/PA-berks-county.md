@@ -1,6 +1,6 @@
 ---
 title: "Berks County, PA"
-date: 2021-06-23
+date: 2021-06-24
 draft: false
 type: county
 tags: [FIPS:42011.0,FEMA:3.0,Medium metro,Green]

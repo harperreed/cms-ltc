@@ -1,6 +1,6 @@
 ---
 title: "Northwest Arctic Borough, AK"
-date: 2021-06-23
+date: 2021-06-24
 draft: false
 type: county
 tags: [FIPS:2188.0,FEMA:10.0,Non-core,Green]
