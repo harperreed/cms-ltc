@@ -1,6 +1,6 @@
 ---
 title: "Patrick County, VA"
-date: 2021-06-24
+date: 2021-06-25
 draft: false
 type: county
 tags: [FIPS:51141.0,FEMA:3.0,Non-core,Green]

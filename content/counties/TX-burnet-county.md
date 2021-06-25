@@ -1,6 +1,6 @@
 ---
 title: "Burnet County, TX"
-date: 2021-06-24
+date: 2021-06-25
 draft: false
 type: county
 tags: [FIPS:48053.0,FEMA:6.0,Non-core,Green]

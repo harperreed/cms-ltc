@@ -1,6 +1,6 @@
 ---
 title: "Hancock County, IA"
-date: 2021-06-24
+date: 2021-06-25
 draft: false
 type: county
 tags: [FIPS:19081.0,FEMA:7.0,Non-core,Green]
