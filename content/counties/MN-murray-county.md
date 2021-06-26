@@ -1,6 +1,6 @@
 ---
 title: "Murray County, MN"
-date: 2021-06-25
+date: 2021-06-26
 draft: false
 type: county
 tags: [FIPS:27101.0,FEMA:5.0,Non-core,Green]

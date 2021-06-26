@@ -1,6 +1,6 @@
 ---
 title: "Brazoria County, TX"
-date: 2021-06-25
+date: 2021-06-26
 draft: false
 type: county
 tags: [FIPS:48039.0,FEMA:6.0,Large fringe metro,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Weakley County, TN"
-date: 2021-06-25
+date: 2021-06-26
 draft: false
 type: county
 tags: [FIPS:47183.0,FEMA:4.0,Micropolitan,Yellow]

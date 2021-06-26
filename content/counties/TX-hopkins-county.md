@@ -1,6 +1,6 @@
 ---
 title: "Hopkins County, TX"
-date: 2021-06-25
+date: 2021-06-26
 draft: false
 type: county
 tags: [FIPS:48223.0,FEMA:6.0,Micropolitan,Yellow]
