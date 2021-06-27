@@ -1,6 +1,6 @@
 ---
 title: "Zapata County, TX"
-date: 2021-06-26
+date: 2021-06-27
 draft: false
 type: county
 tags: [FIPS:48505.0,FEMA:6.0,Micropolitan,Green]

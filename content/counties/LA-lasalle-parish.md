@@ -1,6 +1,6 @@
 ---
 title: "LaSalle Parish, LA"
-date: 2021-06-26
+date: 2021-06-27
 draft: false
 type: county
 tags: [FIPS:22059.0,FEMA:6.0,Non-core,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Orangeburg County, SC"
-date: 2021-06-26
+date: 2021-06-27
 draft: false
 type: county
 tags: [FIPS:45075.0,FEMA:4.0,Micropolitan,Green]
