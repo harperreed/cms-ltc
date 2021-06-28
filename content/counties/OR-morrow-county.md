@@ -1,6 +1,6 @@
 ---
 title: "Morrow County, OR"
-date: 2021-06-27
+date: 2021-06-28
 draft: false
 type: county
 tags: [FIPS:41049.0,FEMA:10.0,Micropolitan,Yellow]

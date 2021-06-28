@@ -1,6 +1,6 @@
 ---
 title: "Falls County, TX"
-date: 2021-06-27
+date: 2021-06-28
 draft: false
 type: county
 tags: [FIPS:48145.0,FEMA:6.0,Medium metro,Green]

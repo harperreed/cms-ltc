@@ -1,6 +1,6 @@
 ---
 title: "Davidson County, TN"
-date: 2021-06-27
+date: 2021-06-28
 draft: false
 type: county
 tags: [FIPS:47037.0,FEMA:4.0,Large central metro,Green]
