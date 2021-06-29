@@ -1,6 +1,6 @@
 ---
 title: "McMinn County, TN"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:47107.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 47107.0
 FEMA_Region: 4.0
 Population: 53794.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 224.0
-Fourteen_day_test_rate_per_100000: 416.0
-Percent_Positivity_in_prior_14_days: 0.013
+Tests_in_prior_14_days: 161.0
+Fourteen_day_test_rate_per_100000: 299.0
+Percent_Positivity_in_prior_14_days: 0.012
 Level: Green
 url: /states/TN/mcminn-county
 ---

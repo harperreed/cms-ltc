@@ -1,6 +1,6 @@
 ---
 title: "St. Johns County, FL"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:12109.0,FEMA:4.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 12109.0
 FEMA_Region: 4.0
 Population: 264672.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 6864.0
-Fourteen_day_test_rate_per_100000: 2593.0
-Percent_Positivity_in_prior_14_days: 0.023
+Tests_in_prior_14_days: 6774.0
+Fourteen_day_test_rate_per_100000: 2559.0
+Percent_Positivity_in_prior_14_days: 0.03
 Level: Green
 url: /states/FL/st-johns-county
 ---

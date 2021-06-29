@@ -1,6 +1,6 @@
 ---
 title: "Columbia County, NY"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:36021.0,FEMA:2.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 36021.0
 FEMA_Region: 2.0
 Population: 59461.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2018.0
-Fourteen_day_test_rate_per_100000: 3394.0
-Percent_Positivity_in_prior_14_days: 0.004
+Tests_in_prior_14_days: 1755.0
+Fourteen_day_test_rate_per_100000: 2952.0
+Percent_Positivity_in_prior_14_days: 0.006
 Level: Green
 url: /states/NY/columbia-county
 ---

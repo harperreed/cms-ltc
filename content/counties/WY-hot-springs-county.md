@@ -1,6 +1,6 @@
 ---
 title: "Hot Springs County, WY"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:56017.0,FEMA:8.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 56017.0
 FEMA_Region: 8.0
 Population: 4413.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 120.0
-Fourteen_day_test_rate_per_100000: 2719.0
-Percent_Positivity_in_prior_14_days: 0.008
+Tests_in_prior_14_days: 133.0
+Fourteen_day_test_rate_per_100000: 3014.0
+Percent_Positivity_in_prior_14_days: 0.023
 Level: Green
 url: /states/WY/hot-springs-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Hancock County, OH"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:39063.0,FEMA:5.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 39063.0
 FEMA_Region: 5.0
 Population: 75783.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 823.0
-Fourteen_day_test_rate_per_100000: 1086.0
-Percent_Positivity_in_prior_14_days: 0.005
+Tests_in_prior_14_days: 1043.0
+Fourteen_day_test_rate_per_100000: 1376.0
+Percent_Positivity_in_prior_14_days: 0.004
 Level: Green
 url: /states/OH/hancock-county
 ---

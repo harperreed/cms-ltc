@@ -1,6 +1,6 @@
 ---
 title: "Willacy County, TX"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:48489.0,FEMA:6.0,Micropolitan,Green]
@@ -11,8 +11,8 @@ FIPS: 48489.0
 FEMA_Region: 6.0
 Population: 21358.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1054.0
-Fourteen_day_test_rate_per_100000: 4935.0
+Tests_in_prior_14_days: 856.0
+Fourteen_day_test_rate_per_100000: 4008.0
 Percent_Positivity_in_prior_14_days: 0.039
 Level: Green
 url: /states/TX/willacy-county

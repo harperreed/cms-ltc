@@ -1,6 +1,6 @@
 ---
 title: "Hancock County, ME"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:23009.0,FEMA:1.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 23009.0
 FEMA_Region: 1.0
 Population: 54987.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 1490.0
-Fourteen_day_test_rate_per_100000: 2710.0
-Percent_Positivity_in_prior_14_days: 0.01
+Tests_in_prior_14_days: 1237.0
+Fourteen_day_test_rate_per_100000: 2250.0
+Percent_Positivity_in_prior_14_days: 0.006
 Level: Green
 url: /states/ME/hancock-county
 ---

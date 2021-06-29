@@ -1,6 +1,6 @@
 ---
 title: "Murray County, GA"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:13213.0,FEMA:4.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 13213.0
 FEMA_Region: 4.0
 Population: 40096.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 631.0
-Fourteen_day_test_rate_per_100000: 1574.0
-Percent_Positivity_in_prior_14_days: 0.013
+Tests_in_prior_14_days: 603.0
+Fourteen_day_test_rate_per_100000: 1504.0
+Percent_Positivity_in_prior_14_days: 0.002
 Level: Green
 url: /states/GA/murray-county
 ---

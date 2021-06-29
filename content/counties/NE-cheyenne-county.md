@@ -1,6 +1,6 @@
 ---
 title: "Cheyenne County, NE"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:31033.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 31033.0
 FEMA_Region: 7.0
 Population: 8910.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 50.0
-Fourteen_day_test_rate_per_100000: 561.0
-Percent_Positivity_in_prior_14_days: 0.5
+Tests_in_prior_14_days: 35.0
+Fourteen_day_test_rate_per_100000: 393.0
+Percent_Positivity_in_prior_14_days: 0.314
 Level: Yellow
 url: /states/NE/cheyenne-county
 ---

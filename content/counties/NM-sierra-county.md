@@ -1,6 +1,6 @@
 ---
 title: "Sierra County, NM"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:35051.0,FEMA:6.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 35051.0
 FEMA_Region: 6.0
 Population: 10791.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 483.0
-Fourteen_day_test_rate_per_100000: 4476.0
-Percent_Positivity_in_prior_14_days: 0.006
+Tests_in_prior_14_days: 200.0
+Fourteen_day_test_rate_per_100000: 1853.0
+Percent_Positivity_in_prior_14_days: 0.0
 Level: Green
 url: /states/NM/sierra-county
 ---

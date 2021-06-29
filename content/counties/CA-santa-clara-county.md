@@ -1,6 +1,6 @@
 ---
 title: "Santa Clara County, CA"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:6085.0,FEMA:9.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 6085.0
 FEMA_Region: 9.0
 Population: 1927852.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 109262.0
-Fourteen_day_test_rate_per_100000: 5668.0
-Percent_Positivity_in_prior_14_days: 0.004
+Tests_in_prior_14_days: 91012.0
+Fourteen_day_test_rate_per_100000: 4721.0
+Percent_Positivity_in_prior_14_days: 0.005
 Level: Green
 url: /states/CA/santa-clara-county
 ---

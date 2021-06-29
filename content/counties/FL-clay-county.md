@@ -1,6 +1,6 @@
 ---
 title: "Clay County, FL"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:12019.0,FEMA:4.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 12019.0
 FEMA_Region: 4.0
 Population: 219252.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 4566.0
-Fourteen_day_test_rate_per_100000: 2083.0
-Percent_Positivity_in_prior_14_days: 0.054
+Tests_in_prior_14_days: 4102.0
+Fourteen_day_test_rate_per_100000: 1871.0
+Percent_Positivity_in_prior_14_days: 0.066
 Level: Yellow
 url: /states/FL/clay-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Lamoille County, VT"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:50015.0,FEMA:1.0,Non-core,Green]
@@ -13,7 +13,7 @@ Population: 25362.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 394.0
 Fourteen_day_test_rate_per_100000: 1554.0
-Percent_Positivity_in_prior_14_days: 0.018
+Percent_Positivity_in_prior_14_days: 0.003
 Level: Green
 url: /states/VT/lamoille-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Garfield County, UT"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
-tags: [FIPS:49017.0,FEMA:8.0,Non-core,Green]
+tags: [FIPS:49017.0,FEMA:8.0,Non-core,Yellow]
 categories: [UT]
 County: Garfield County
 State: UT
@@ -11,10 +11,10 @@ FIPS: 49017.0
 FEMA_Region: 8.0
 Population: 5051.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 48.0
-Fourteen_day_test_rate_per_100000: 950.0
-Percent_Positivity_in_prior_14_days: 0.042
-Level: Green
+Tests_in_prior_14_days: 37.0
+Fourteen_day_test_rate_per_100000: 733.0
+Percent_Positivity_in_prior_14_days: 0.054
+Level: Yellow
 url: /states/UT/garfield-county
 ---
 

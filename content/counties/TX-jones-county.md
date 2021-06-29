@@ -1,6 +1,6 @@
 ---
 title: "Jones County, TX"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:48253.0,FEMA:6.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48253.0
 FEMA_Region: 6.0
 Population: 20083.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 252.0
-Fourteen_day_test_rate_per_100000: 1255.0
-Percent_Positivity_in_prior_14_days: 0.052
+Tests_in_prior_14_days: 123.0
+Fourteen_day_test_rate_per_100000: 612.0
+Percent_Positivity_in_prior_14_days: 0.089
 Level: Yellow
 url: /states/TX/jones-county
 ---

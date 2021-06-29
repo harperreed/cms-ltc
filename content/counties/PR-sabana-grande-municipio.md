@@ -1,6 +1,6 @@
 ---
 title: "Sabana Grande Municipio, PR"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:72121.0,FEMA:2.0,,Yellow]
@@ -11,9 +11,9 @@ FIPS: 72121.0
 FEMA_Region: 2.0
 Population: 21712.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 92.0
-Fourteen_day_test_rate_per_100000: 424.0
-Percent_Positivity_in_prior_14_days: 0.087
+Tests_in_prior_14_days: 65.0
+Fourteen_day_test_rate_per_100000: 299.0
+Percent_Positivity_in_prior_14_days: 0.123
 Level: Yellow
 url: /states/PR/sabana-grande-municipio
 ---

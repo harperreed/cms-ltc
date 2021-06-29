@@ -1,6 +1,6 @@
 ---
 title: "Hardeman County, TN"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:47069.0,FEMA:4.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 47069.0
 FEMA_Region: 4.0
 Population: 25050.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 233.0
-Fourteen_day_test_rate_per_100000: 930.0
-Percent_Positivity_in_prior_14_days: 0.021
+Tests_in_prior_14_days: 168.0
+Fourteen_day_test_rate_per_100000: 671.0
+Percent_Positivity_in_prior_14_days: 0.018
 Level: Green
 url: /states/TN/hardeman-county
 ---

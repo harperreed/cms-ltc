@@ -1,9 +1,9 @@
 ---
 title: "Washington County, VA"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
-tags: [FIPS:51191.0,FEMA:3.0,Medium metro,Green]
+tags: [FIPS:51191.0,FEMA:3.0,Medium metro,Yellow]
 categories: [VA]
 County: Washington County
 State: VA
@@ -11,10 +11,10 @@ FIPS: 51191.0
 FEMA_Region: 3.0
 Population: 53740.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 522.0
-Fourteen_day_test_rate_per_100000: 971.0
-Percent_Positivity_in_prior_14_days: 0.048
-Level: Green
+Tests_in_prior_14_days: 476.0
+Fourteen_day_test_rate_per_100000: 886.0
+Percent_Positivity_in_prior_14_days: 0.055
+Level: Yellow
 url: /states/VA/washington-county
 ---
 

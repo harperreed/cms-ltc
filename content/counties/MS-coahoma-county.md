@@ -1,6 +1,6 @@
 ---
 title: "Coahoma County, MS"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:28027.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 28027.0
 FEMA_Region: 4.0
 Population: 22124.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 348.0
-Fourteen_day_test_rate_per_100000: 1573.0
-Percent_Positivity_in_prior_14_days: 0.017
+Tests_in_prior_14_days: 389.0
+Fourteen_day_test_rate_per_100000: 1758.0
+Percent_Positivity_in_prior_14_days: 0.028
 Level: Green
 url: /states/MS/coahoma-county
 ---

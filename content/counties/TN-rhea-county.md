@@ -1,6 +1,6 @@
 ---
 title: "Rhea County, TN"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:47143.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 47143.0
 FEMA_Region: 4.0
 Population: 33167.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 227.0
-Fourteen_day_test_rate_per_100000: 684.0
-Percent_Positivity_in_prior_14_days: 0.004
+Tests_in_prior_14_days: 152.0
+Fourteen_day_test_rate_per_100000: 458.0
+Percent_Positivity_in_prior_14_days: 0.007
 Level: Green
 url: /states/TN/rhea-county
 ---

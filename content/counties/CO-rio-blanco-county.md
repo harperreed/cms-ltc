@@ -1,9 +1,9 @@
 ---
 title: "Rio Blanco County, CO"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
-tags: [FIPS:8103.0,FEMA:8.0,Non-core,Green]
+tags: [FIPS:8103.0,FEMA:8.0,Non-core,Yellow]
 categories: [CO]
 County: Rio Blanco County
 State: CO
@@ -11,10 +11,10 @@ FIPS: 8103.0
 FEMA_Region: 8.0
 Population: 6324.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 284.0
-Fourteen_day_test_rate_per_100000: 4491.0
-Percent_Positivity_in_prior_14_days: 0.021
-Level: Green
+Tests_in_prior_14_days: 343.0
+Fourteen_day_test_rate_per_100000: 5424.0
+Percent_Positivity_in_prior_14_days: 0.055
+Level: Yellow
 url: /states/CO/rio-blanco-county
 ---
 

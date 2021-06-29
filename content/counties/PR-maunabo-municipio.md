@@ -1,6 +1,6 @@
 ---
 title: "Maunabo Municipio, PR"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:72095.0,FEMA:2.0,,Yellow]
@@ -11,9 +11,9 @@ FIPS: 72095.0
 FEMA_Region: 2.0
 Population: 10321.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 134.0
-Fourteen_day_test_rate_per_100000: 1298.0
-Percent_Positivity_in_prior_14_days: 0.209
+Tests_in_prior_14_days: 121.0
+Fourteen_day_test_rate_per_100000: 1172.0
+Percent_Positivity_in_prior_14_days: 0.19
 Level: Yellow
 url: /states/PR/maunabo-municipio
 ---

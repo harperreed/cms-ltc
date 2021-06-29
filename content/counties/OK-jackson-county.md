@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, OK"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:40065.0,FEMA:6.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 40065.0
 FEMA_Region: 6.0
 Population: 24530.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 114.0
-Fourteen_day_test_rate_per_100000: 465.0
-Percent_Positivity_in_prior_14_days: 0.018
+Tests_in_prior_14_days: 104.0
+Fourteen_day_test_rate_per_100000: 424.0
+Percent_Positivity_in_prior_14_days: 0.0
 Level: Green
 url: /states/OK/jackson-county
 ---

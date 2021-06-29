@@ -1,6 +1,6 @@
 ---
 title: "Winston County, AL"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:1133.0,FEMA:4.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 1133.0
 FEMA_Region: 4.0
 Population: 23629.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 370.0
-Fourteen_day_test_rate_per_100000: 1566.0
-Percent_Positivity_in_prior_14_days: 0.043
+Tests_in_prior_14_days: 270.0
+Fourteen_day_test_rate_per_100000: 1143.0
+Percent_Positivity_in_prior_14_days: 0.026
 Level: Green
 url: /states/AL/winston-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Ramsey County, MN"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:27123.0,FEMA:5.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 27123.0
 FEMA_Region: 5.0
 Population: 550321.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 25468.0
-Fourteen_day_test_rate_per_100000: 4628.0
-Percent_Positivity_in_prior_14_days: 0.017
+Tests_in_prior_14_days: 22819.0
+Fourteen_day_test_rate_per_100000: 4146.0
+Percent_Positivity_in_prior_14_days: 0.012
 Level: Green
 url: /states/MN/ramsey-county
 ---

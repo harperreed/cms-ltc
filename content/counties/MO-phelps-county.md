@@ -1,9 +1,9 @@
 ---
 title: "Phelps County, MO"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
-tags: [FIPS:29161.0,FEMA:7.0,Micropolitan,Green]
+tags: [FIPS:29161.0,FEMA:7.0,Micropolitan,Yellow]
 categories: [MO]
 County: Phelps County
 State: MO
@@ -11,10 +11,10 @@ FIPS: 29161.0
 FEMA_Region: 7.0
 Population: 44573.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 946.0
-Fourteen_day_test_rate_per_100000: 2122.0
-Percent_Positivity_in_prior_14_days: 0.041
-Level: Green
+Tests_in_prior_14_days: 881.0
+Fourteen_day_test_rate_per_100000: 1977.0
+Percent_Positivity_in_prior_14_days: 0.05
+Level: Yellow
 url: /states/MO/phelps-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Whitley County, IN"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:18183.0,FEMA:5.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 18183.0
 FEMA_Region: 5.0
 Population: 33964.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 208.0
-Fourteen_day_test_rate_per_100000: 612.0
-Percent_Positivity_in_prior_14_days: 0.062
+Tests_in_prior_14_days: 150.0
+Fourteen_day_test_rate_per_100000: 442.0
+Percent_Positivity_in_prior_14_days: 0.08
 Level: Yellow
 url: /states/IN/whitley-county
 ---

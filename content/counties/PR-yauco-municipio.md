@@ -1,6 +1,6 @@
 ---
 title: "Yauco Municipio, PR"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:72153.0,FEMA:2.0,,Green]
@@ -11,9 +11,9 @@ FIPS: 72153.0
 FEMA_Region: 2.0
 Population: 33575.0
 NCHS_Urban_Rural_Classification: 
-Tests_in_prior_14_days: 230.0
-Fourteen_day_test_rate_per_100000: 685.0
-Percent_Positivity_in_prior_14_days: 0.048
+Tests_in_prior_14_days: 161.0
+Fourteen_day_test_rate_per_100000: 480.0
+Percent_Positivity_in_prior_14_days: 0.012
 Level: Green
 url: /states/PR/yauco-municipio
 ---

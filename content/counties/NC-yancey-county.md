@@ -1,6 +1,6 @@
 ---
 title: "Yancey County, NC"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:37199.0,FEMA:4.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 37199.0
 FEMA_Region: 4.0
 Population: 18069.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 208.0
-Fourteen_day_test_rate_per_100000: 1151.0
-Percent_Positivity_in_prior_14_days: 0.019
+Tests_in_prior_14_days: 189.0
+Fourteen_day_test_rate_per_100000: 1046.0
+Percent_Positivity_in_prior_14_days: 0.026
 Level: Green
 url: /states/NC/yancey-county
 ---

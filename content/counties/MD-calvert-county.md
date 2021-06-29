@@ -1,6 +1,6 @@
 ---
 title: "Calvert County, MD"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:24009.0,FEMA:3.0,Large fringe metro,Green]
@@ -11,8 +11,8 @@ FIPS: 24009.0
 FEMA_Region: 3.0
 Population: 92525.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1894.0
-Fourteen_day_test_rate_per_100000: 2047.0
+Tests_in_prior_14_days: 1545.0
+Fourteen_day_test_rate_per_100000: 1670.0
 Percent_Positivity_in_prior_14_days: 0.008
 Level: Green
 url: /states/MD/calvert-county

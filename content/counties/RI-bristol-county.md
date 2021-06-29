@@ -1,6 +1,6 @@
 ---
 title: "Bristol County, RI"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:44001.0,FEMA:1.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 44001.0
 FEMA_Region: 1.0
 Population: 48479.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 3131.0
-Fourteen_day_test_rate_per_100000: 6458.0
-Percent_Positivity_in_prior_14_days: 0.003
+Tests_in_prior_14_days: 2461.0
+Fourteen_day_test_rate_per_100000: 5076.0
+Percent_Positivity_in_prior_14_days: 0.002
 Level: Green
 url: /states/RI/bristol-county
 ---

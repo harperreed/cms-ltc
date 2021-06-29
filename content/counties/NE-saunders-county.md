@@ -1,6 +1,6 @@
 ---
 title: "Saunders County, NE"
-date: 2021-06-28
+date: 2021-06-29
 draft: false
 type: county
 tags: [FIPS:31155.0,FEMA:7.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 31155.0
 FEMA_Region: 7.0
 Population: 21578.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 146.0
-Fourteen_day_test_rate_per_100000: 677.0
-Percent_Positivity_in_prior_14_days: 0.055
+Tests_in_prior_14_days: 121.0
+Fourteen_day_test_rate_per_100000: 561.0
+Percent_Positivity_in_prior_14_days: 0.132
 Level: Yellow
 url: /states/NE/saunders-county
 ---
