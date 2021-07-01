@@ -1,6 +1,6 @@
 ---
 title: "Yalobusha County, MS"
-date: 2021-06-30
+date: 2021-07-01
 draft: false
 type: county
 tags: [FIPS:28161.0,FEMA:4.0,Non-core,Green]
