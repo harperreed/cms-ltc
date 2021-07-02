@@ -1,6 +1,6 @@
 ---
 title: "Boyd County, KY"
-date: 2021-07-01
+date: 2021-07-02
 draft: false
 type: county
 tags: [FIPS:21019.0,FEMA:4.0,Medium metro,Green]

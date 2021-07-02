@@ -1,6 +1,6 @@
 ---
 title: "Sierra County, NM"
-date: 2021-07-01
+date: 2021-07-02
 draft: false
 type: county
 tags: [FIPS:35051.0,FEMA:6.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Manistee County, MI"
-date: 2021-07-01
+date: 2021-07-02
 draft: false
 type: county
 tags: [FIPS:26101.0,FEMA:5.0,Non-core,Green]

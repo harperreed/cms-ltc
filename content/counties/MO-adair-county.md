@@ -1,6 +1,6 @@
 ---
 title: "Adair County, MO"
-date: 2021-07-01
+date: 2021-07-02
 draft: false
 type: county
 tags: [FIPS:29001.0,FEMA:7.0,Micropolitan,Green]

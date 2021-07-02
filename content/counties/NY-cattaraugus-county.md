@@ -1,6 +1,6 @@
 ---
 title: "Cattaraugus County, NY"
-date: 2021-07-01
+date: 2021-07-02
 draft: false
 type: county
 tags: [FIPS:36009.0,FEMA:2.0,Micropolitan,Green]

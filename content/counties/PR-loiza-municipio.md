@@ -1,6 +1,6 @@
 ---
 title: "Loíza Municipio, PR"
-date: 2021-07-01
+date: 2021-07-02
 draft: false
 type: county
 tags: [FIPS:72087.0,FEMA:2.0,,Green]

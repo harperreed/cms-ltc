@@ -1,6 +1,6 @@
 ---
 title: "Dubuque County, IA"
-date: 2021-07-01
+date: 2021-07-02
 draft: false
 type: county
 tags: [FIPS:19061.0,FEMA:7.0,Small metro,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Burt County, NE"
-date: 2021-07-01
+date: 2021-07-02
 draft: false
 type: county
 tags: [FIPS:31021.0,FEMA:7.0,Non-core,Green]
