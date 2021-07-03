@@ -1,6 +1,6 @@
 ---
 title: "Mitchell County, IA"
-date: 2021-07-02
+date: 2021-07-03
 draft: false
 type: county
 tags: [FIPS:19131.0,FEMA:7.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Kern County, CA"
-date: 2021-07-02
+date: 2021-07-03
 draft: false
 type: county
 tags: [FIPS:6029.0,FEMA:9.0,Medium metro,Green]

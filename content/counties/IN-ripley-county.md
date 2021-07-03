@@ -1,6 +1,6 @@
 ---
 title: "Ripley County, IN"
-date: 2021-07-02
+date: 2021-07-03
 draft: false
 type: county
 tags: [FIPS:18137.0,FEMA:5.0,Non-core,Green]

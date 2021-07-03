@@ -1,6 +1,6 @@
 ---
 title: "Caldwell County, TX"
-date: 2021-07-02
+date: 2021-07-03
 draft: false
 type: county
 tags: [FIPS:48055.0,FEMA:6.0,Large fringe metro,Yellow]
