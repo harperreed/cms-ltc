@@ -1,6 +1,6 @@
 ---
 title: "Nash County, NC"
-date: 2021-07-03
+date: 2021-07-04
 draft: false
 type: county
 tags: [FIPS:37127.0,FEMA:4.0,Small metro,Green]

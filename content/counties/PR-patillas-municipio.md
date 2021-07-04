@@ -1,6 +1,6 @@
 ---
 title: "Patillas Municipio, PR"
-date: 2021-07-03
+date: 2021-07-04
 draft: false
 type: county
 tags: [FIPS:72109.0,FEMA:2.0,,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Oregon County, MO"
-date: 2021-07-03
+date: 2021-07-04
 draft: false
 type: county
 tags: [FIPS:29149.0,FEMA:7.0,Non-core,Yellow]
