@@ -1,6 +1,6 @@
 ---
 title: "Modoc County, CA"
-date: 2021-07-04
+date: 2021-07-05
 draft: false
 type: county
 tags: [FIPS:6049.0,FEMA:9.0,Non-core,Green]

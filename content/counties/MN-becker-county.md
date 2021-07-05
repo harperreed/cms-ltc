@@ -1,6 +1,6 @@
 ---
 title: "Becker County, MN"
-date: 2021-07-04
+date: 2021-07-05
 draft: false
 type: county
 tags: [FIPS:27005.0,FEMA:5.0,Non-core,Green]

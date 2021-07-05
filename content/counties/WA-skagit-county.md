@@ -1,6 +1,6 @@
 ---
 title: "Skagit County, WA"
-date: 2021-07-04
+date: 2021-07-05
 draft: false
 type: county
 tags: [FIPS:53057.0,FEMA:10.0,Small metro,Green]

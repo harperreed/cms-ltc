@@ -1,6 +1,6 @@
 ---
 title: "Cherokee County, OK"
-date: 2021-07-04
+date: 2021-07-05
 draft: false
 type: county
 tags: [FIPS:40021.0,FEMA:6.0,Micropolitan,Yellow]
