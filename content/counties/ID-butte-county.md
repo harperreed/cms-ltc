@@ -1,6 +1,6 @@
 ---
 title: "Butte County, ID"
-date: 2021-07-05
+date: 2021-07-06
 draft: false
 type: county
 tags: [FIPS:16023.0,FEMA:10.0,Small metro,Green]

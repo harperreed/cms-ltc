@@ -1,6 +1,6 @@
 ---
 title: "Potter County, PA"
-date: 2021-07-05
+date: 2021-07-06
 draft: false
 type: county
 tags: [FIPS:42105.0,FEMA:3.0,Non-core,Yellow]

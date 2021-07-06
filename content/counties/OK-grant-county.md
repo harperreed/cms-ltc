@@ -1,6 +1,6 @@
 ---
 title: "Grant County, OK"
-date: 2021-07-05
+date: 2021-07-06
 draft: false
 type: county
 tags: [FIPS:40053.0,FEMA:6.0,Non-core,Green]

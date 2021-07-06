@@ -1,6 +1,6 @@
 ---
 title: "Oldham County, TX"
-date: 2021-07-05
+date: 2021-07-06
 draft: false
 type: county
 tags: [FIPS:48359.0,FEMA:6.0,Medium metro,Green]

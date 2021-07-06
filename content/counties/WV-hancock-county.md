@@ -1,6 +1,6 @@
 ---
 title: "Hancock County, WV"
-date: 2021-07-05
+date: 2021-07-06
 draft: false
 type: county
 tags: [FIPS:54029.0,FEMA:3.0,Small metro,Green]

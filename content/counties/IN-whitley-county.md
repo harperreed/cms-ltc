@@ -1,6 +1,6 @@
 ---
 title: "Whitley County, IN"
-date: 2021-07-05
+date: 2021-07-06
 draft: false
 type: county
 tags: [FIPS:18183.0,FEMA:5.0,Medium metro,Yellow]
