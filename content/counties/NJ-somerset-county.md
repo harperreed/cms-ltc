@@ -1,6 +1,6 @@
 ---
 title: "Somerset County, NJ"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:34035.0,FEMA:2.0,Large fringe metro,Green]
@@ -11,8 +11,8 @@ FIPS: 34035.0
 FEMA_Region: 2.0
 Population: 328934.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 11366.0
-Fourteen_day_test_rate_per_100000: 3455.0
+Tests_in_prior_14_days: 11341.0
+Fourteen_day_test_rate_per_100000: 3448.0
 Percent_Positivity_in_prior_14_days: 0.007
 Level: Green
 url: /states/NJ/somerset-county

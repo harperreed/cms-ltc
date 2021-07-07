@@ -1,6 +1,6 @@
 ---
 title: "Otero County, NM"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:35035.0,FEMA:6.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 35035.0
 FEMA_Region: 6.0
 Population: 67490.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 833.0
-Fourteen_day_test_rate_per_100000: 1234.0
-Percent_Positivity_in_prior_14_days: 0.038
+Tests_in_prior_14_days: 806.0
+Fourteen_day_test_rate_per_100000: 1194.0
+Percent_Positivity_in_prior_14_days: 0.036
 Level: Green
 url: /states/NM/otero-county
 ---

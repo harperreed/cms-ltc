@@ -1,6 +1,6 @@
 ---
 title: "Charleston County, SC"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:45019.0,FEMA:4.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 45019.0
 FEMA_Region: 4.0
 Population: 411406.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 8770.0
-Fourteen_day_test_rate_per_100000: 2132.0
-Percent_Positivity_in_prior_14_days: 0.013
+Tests_in_prior_14_days: 8721.0
+Fourteen_day_test_rate_per_100000: 2120.0
+Percent_Positivity_in_prior_14_days: 0.015
 Level: Green
 url: /states/SC/charleston-county
 ---

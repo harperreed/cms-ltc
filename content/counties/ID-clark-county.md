@@ -1,6 +1,6 @@
 ---
 title: "Clark County, ID"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:16033.0,FEMA:10.0,Non-core,Green]

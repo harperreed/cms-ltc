@@ -1,9 +1,9 @@
 ---
 title: "Payette County, ID"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
-tags: [FIPS:16075.0,FEMA:10.0,Micropolitan,Green]
+tags: [FIPS:16075.0,FEMA:10.0,Micropolitan,Yellow]
 categories: [ID]
 County: Payette County
 State: ID
@@ -13,8 +13,8 @@ Population: 23951.0
 NCHS_Urban_Rural_Classification: Micropolitan
 Tests_in_prior_14_days: 299.0
 Fourteen_day_test_rate_per_100000: 1248.0
-Percent_Positivity_in_prior_14_days: 0.043
-Level: Green
+Percent_Positivity_in_prior_14_days: 0.057
+Level: Yellow
 url: /states/ID/payette-county
 ---
 

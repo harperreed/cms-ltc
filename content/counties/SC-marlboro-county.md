@@ -1,6 +1,6 @@
 ---
 title: "Marlboro County, SC"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:45069.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 45069.0
 FEMA_Region: 4.0
 Population: 26118.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 561.0
-Fourteen_day_test_rate_per_100000: 2148.0
-Percent_Positivity_in_prior_14_days: 0.016
+Tests_in_prior_14_days: 540.0
+Fourteen_day_test_rate_per_100000: 2068.0
+Percent_Positivity_in_prior_14_days: 0.017
 Level: Green
 url: /states/SC/marlboro-county
 ---

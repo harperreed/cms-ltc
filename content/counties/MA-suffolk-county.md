@@ -1,6 +1,6 @@
 ---
 title: "Suffolk County, MA"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:25025.0,FEMA:1.0,Large central metro,Green]
@@ -11,8 +11,8 @@ FIPS: 25025.0
 FEMA_Region: 1.0
 Population: 803907.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 61009.0
-Fourteen_day_test_rate_per_100000: 7589.0
+Tests_in_prior_14_days: 63024.0
+Fourteen_day_test_rate_per_100000: 7840.0
 Percent_Positivity_in_prior_14_days: 0.003
 Level: Green
 url: /states/MA/suffolk-county

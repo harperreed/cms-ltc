@@ -1,6 +1,6 @@
 ---
 title: "Yakima County, WA"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:53077.0,FEMA:10.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 53077.0
 FEMA_Region: 10.0
 Population: 250873.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 3652.0
-Fourteen_day_test_rate_per_100000: 1456.0
-Percent_Positivity_in_prior_14_days: 0.037
+Tests_in_prior_14_days: 3479.0
+Fourteen_day_test_rate_per_100000: 1387.0
+Percent_Positivity_in_prior_14_days: 0.038
 Level: Green
 url: /states/WA/yakima-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, NY"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:36045.0,FEMA:2.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 36045.0
 FEMA_Region: 2.0
 Population: 109834.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2374.0
-Fourteen_day_test_rate_per_100000: 2161.0
-Percent_Positivity_in_prior_14_days: 0.009
+Tests_in_prior_14_days: 2419.0
+Fourteen_day_test_rate_per_100000: 2202.0
+Percent_Positivity_in_prior_14_days: 0.006
 Level: Green
 url: /states/NY/jefferson-county
 ---

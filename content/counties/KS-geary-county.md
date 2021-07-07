@@ -1,6 +1,6 @@
 ---
 title: "Geary County, KS"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:20061.0,FEMA:7.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 20061.0
 FEMA_Region: 7.0
 Population: 31670.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 575.0
-Fourteen_day_test_rate_per_100000: 1816.0
-Percent_Positivity_in_prior_14_days: 0.113
+Tests_in_prior_14_days: 590.0
+Fourteen_day_test_rate_per_100000: 1863.0
+Percent_Positivity_in_prior_14_days: 0.141
 Level: Red
 url: /states/KS/geary-county
 ---

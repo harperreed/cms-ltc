@@ -1,6 +1,6 @@
 ---
 title: "Madera County, CA"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:6039.0,FEMA:9.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 6039.0
 FEMA_Region: 9.0
 Population: 157327.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 4579.0
-Fourteen_day_test_rate_per_100000: 2910.0
-Percent_Positivity_in_prior_14_days: 0.016
+Tests_in_prior_14_days: 5020.0
+Fourteen_day_test_rate_per_100000: 3191.0
+Percent_Positivity_in_prior_14_days: 0.018
 Level: Green
 url: /states/CA/madera-county
 ---

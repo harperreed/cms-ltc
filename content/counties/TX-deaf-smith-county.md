@@ -1,6 +1,6 @@
 ---
 title: "Deaf Smith County, TX"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:48117.0,FEMA:6.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 48117.0
 FEMA_Region: 6.0
 Population: 18546.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 57.0
-Fourteen_day_test_rate_per_100000: 307.0
-Percent_Positivity_in_prior_14_days: 0.018
+Tests_in_prior_14_days: 51.0
+Fourteen_day_test_rate_per_100000: 275.0
+Percent_Positivity_in_prior_14_days: 0.02
 Level: Green
 url: /states/TX/deaf-smith-county
 ---

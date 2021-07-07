@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, MI"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:26075.0,FEMA:5.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 26075.0
 FEMA_Region: 5.0
 Population: 158510.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 5520.0
-Fourteen_day_test_rate_per_100000: 3482.0
-Percent_Positivity_in_prior_14_days: 0.011
+Tests_in_prior_14_days: 5019.0
+Fourteen_day_test_rate_per_100000: 3166.0
+Percent_Positivity_in_prior_14_days: 0.009
 Level: Green
 url: /states/MI/jackson-county
 ---

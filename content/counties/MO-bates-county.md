@@ -1,6 +1,6 @@
 ---
 title: "Bates County, MO"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:29013.0,FEMA:7.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 29013.0
 FEMA_Region: 7.0
 Population: 16172.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 167.0
-Fourteen_day_test_rate_per_100000: 1033.0
-Percent_Positivity_in_prior_14_days: 0.054
+Tests_in_prior_14_days: 192.0
+Fourteen_day_test_rate_per_100000: 1187.0
+Percent_Positivity_in_prior_14_days: 0.073
 Level: Yellow
 url: /states/MO/bates-county
 ---

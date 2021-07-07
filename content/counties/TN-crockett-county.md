@@ -1,9 +1,9 @@
 ---
 title: "Crockett County, TN"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
-tags: [FIPS:47033.0,FEMA:4.0,Small metro,Green]
+tags: [FIPS:47033.0,FEMA:4.0,Small metro,Yellow]
 categories: [TN]
 County: Crockett County
 State: TN
@@ -13,8 +13,8 @@ Population: 14230.0
 NCHS_Urban_Rural_Classification: Small metro
 Tests_in_prior_14_days: 37.0
 Fourteen_day_test_rate_per_100000: 260.0
-Percent_Positivity_in_prior_14_days: 0.0
-Level: Green
+Percent_Positivity_in_prior_14_days: 0.054
+Level: Yellow
 url: /states/TN/crockett-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Rice County, KS"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:20159.0,FEMA:7.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 20159.0
 FEMA_Region: 7.0
 Population: 9537.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 116.0
-Fourteen_day_test_rate_per_100000: 1216.0
-Percent_Positivity_in_prior_14_days: 0.009
+Tests_in_prior_14_days: 121.0
+Fourteen_day_test_rate_per_100000: 1269.0
+Percent_Positivity_in_prior_14_days: 0.0
 Level: Green
 url: /states/KS/rice-county
 ---

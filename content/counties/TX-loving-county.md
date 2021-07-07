@@ -1,6 +1,6 @@
 ---
 title: "Loving County, TX"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:48301.0,FEMA:6.0,Non-core,Green]

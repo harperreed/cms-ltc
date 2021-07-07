@@ -1,6 +1,6 @@
 ---
 title: "Kings County, CA"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:6031.0,FEMA:9.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 6031.0
 FEMA_Region: 9.0
 Population: 152940.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 6629.0
-Fourteen_day_test_rate_per_100000: 4334.0
-Percent_Positivity_in_prior_14_days: 0.006
+Tests_in_prior_14_days: 7006.0
+Fourteen_day_test_rate_per_100000: 4581.0
+Percent_Positivity_in_prior_14_days: 0.008
 Level: Green
 url: /states/CA/kings-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Hoke County, NC"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:37093.0,FEMA:4.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 37093.0
 FEMA_Region: 4.0
 Population: 55234.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 656.0
-Fourteen_day_test_rate_per_100000: 1188.0
-Percent_Positivity_in_prior_14_days: 0.053
+Tests_in_prior_14_days: 609.0
+Fourteen_day_test_rate_per_100000: 1103.0
+Percent_Positivity_in_prior_14_days: 0.054
 Level: Yellow
 url: /states/NC/hoke-county
 ---

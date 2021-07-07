@@ -1,6 +1,6 @@
 ---
 title: "Pasquotank County, NC"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:37139.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 37139.0
 FEMA_Region: 4.0
 Population: 39824.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 591.0
-Fourteen_day_test_rate_per_100000: 1484.0
-Percent_Positivity_in_prior_14_days: 0.022
+Tests_in_prior_14_days: 817.0
+Fourteen_day_test_rate_per_100000: 2052.0
+Percent_Positivity_in_prior_14_days: 0.013
 Level: Green
 url: /states/NC/pasquotank-county
 ---

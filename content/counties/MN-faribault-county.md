@@ -1,9 +1,9 @@
 ---
 title: "Faribault County, MN"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
-tags: [FIPS:27043.0,FEMA:5.0,Non-core,Green]
+tags: [FIPS:27043.0,FEMA:5.0,Non-core,Yellow]
 categories: [MN]
 County: Faribault County
 State: MN
@@ -11,10 +11,10 @@ FIPS: 27043.0
 FEMA_Region: 5.0
 Population: 13653.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 512.0
-Fourteen_day_test_rate_per_100000: 3750.0
-Percent_Positivity_in_prior_14_days: 0.045
-Level: Green
+Tests_in_prior_14_days: 435.0
+Fourteen_day_test_rate_per_100000: 3186.0
+Percent_Positivity_in_prior_14_days: 0.06
+Level: Yellow
 url: /states/MN/faribault-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Tallapoosa County, AL"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:1123.0,FEMA:4.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 1123.0
 FEMA_Region: 4.0
 Population: 40367.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 477.0
-Fourteen_day_test_rate_per_100000: 1182.0
-Percent_Positivity_in_prior_14_days: 0.031
+Tests_in_prior_14_days: 579.0
+Fourteen_day_test_rate_per_100000: 1434.0
+Percent_Positivity_in_prior_14_days: 0.041
 Level: Green
 url: /states/AL/tallapoosa-county
 ---

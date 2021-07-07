@@ -1,6 +1,6 @@
 ---
 title: "Okeechobee County, FL"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:12093.0,FEMA:4.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 12093.0
 FEMA_Region: 4.0
 Population: 42168.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1072.0
-Fourteen_day_test_rate_per_100000: 2542.0
-Percent_Positivity_in_prior_14_days: 0.088
+Tests_in_prior_14_days: 1084.0
+Fourteen_day_test_rate_per_100000: 2571.0
+Percent_Positivity_in_prior_14_days: 0.061
 Level: Yellow
 url: /states/FL/okeechobee-county
 ---

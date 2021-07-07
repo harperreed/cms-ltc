@@ -1,6 +1,6 @@
 ---
 title: "Brooke County, WV"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:54009.0,FEMA:3.0,Small metro,Green]
@@ -13,7 +13,7 @@ Population: 21939.0
 NCHS_Urban_Rural_Classification: Small metro
 Tests_in_prior_14_days: 214.0
 Fourteen_day_test_rate_per_100000: 975.0
-Percent_Positivity_in_prior_14_days: 0.009
+Percent_Positivity_in_prior_14_days: 0.005
 Level: Green
 url: /states/WV/brooke-county
 ---

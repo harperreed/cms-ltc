@@ -1,6 +1,6 @@
 ---
 title: "McPherson County, SD"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:46089.0,FEMA:8.0,Non-core,Green]

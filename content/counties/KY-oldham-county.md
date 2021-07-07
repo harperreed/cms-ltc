@@ -1,6 +1,6 @@
 ---
 title: "Oldham County, KY"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:21185.0,FEMA:4.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 21185.0
 FEMA_Region: 4.0
 Population: 66799.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 839.0
-Fourteen_day_test_rate_per_100000: 1256.0
-Percent_Positivity_in_prior_14_days: 0.018
+Tests_in_prior_14_days: 766.0
+Fourteen_day_test_rate_per_100000: 1147.0
+Percent_Positivity_in_prior_14_days: 0.027
 Level: Green
 url: /states/KY/oldham-county
 ---

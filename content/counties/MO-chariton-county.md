@@ -1,6 +1,6 @@
 ---
 title: "Chariton County, MO"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:29041.0,FEMA:7.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 29041.0
 FEMA_Region: 7.0
 Population: 7426.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 54.0
-Fourteen_day_test_rate_per_100000: 727.0
-Percent_Positivity_in_prior_14_days: 0.241
+Tests_in_prior_14_days: 64.0
+Fourteen_day_test_rate_per_100000: 862.0
+Percent_Positivity_in_prior_14_days: 0.188
 Level: Yellow
 url: /states/MO/chariton-county
 ---

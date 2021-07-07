@@ -1,9 +1,9 @@
 ---
 title: "Henry County, MO"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
-tags: [FIPS:29083.0,FEMA:7.0,Non-core,Yellow]
+tags: [FIPS:29083.0,FEMA:7.0,Non-core,Green]
 categories: [MO]
 County: Henry County
 State: MO
@@ -11,10 +11,10 @@ FIPS: 29083.0
 FEMA_Region: 7.0
 Population: 21824.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 575.0
-Fourteen_day_test_rate_per_100000: 2635.0
-Percent_Positivity_in_prior_14_days: 0.085
-Level: Yellow
+Tests_in_prior_14_days: 802.0
+Fourteen_day_test_rate_per_100000: 3675.0
+Percent_Positivity_in_prior_14_days: 0.049
+Level: Green
 url: /states/MO/henry-county
 ---
 

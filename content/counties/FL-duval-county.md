@@ -1,6 +1,6 @@
 ---
 title: "Duval County, FL"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:12031.0,FEMA:4.0,Large central metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 12031.0
 FEMA_Region: 4.0
 Population: 957755.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 27262.0
-Fourteen_day_test_rate_per_100000: 2846.0
-Percent_Positivity_in_prior_14_days: 0.058
+Tests_in_prior_14_days: 27161.0
+Fourteen_day_test_rate_per_100000: 2836.0
+Percent_Positivity_in_prior_14_days: 0.075
 Level: Yellow
 url: /states/FL/duval-county
 ---

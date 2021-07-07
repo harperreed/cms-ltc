@@ -1,6 +1,6 @@
 ---
 title: "Linn County, OR"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:41043.0,FEMA:10.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 41043.0
 FEMA_Region: 10.0
 Population: 129749.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1643.0
-Fourteen_day_test_rate_per_100000: 1266.0
-Percent_Positivity_in_prior_14_days: 0.051
+Tests_in_prior_14_days: 1460.0
+Fourteen_day_test_rate_per_100000: 1125.0
+Percent_Positivity_in_prior_14_days: 0.061
 Level: Yellow
 url: /states/OR/linn-county
 ---

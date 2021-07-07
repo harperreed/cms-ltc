@@ -1,6 +1,6 @@
 ---
 title: "Boyle County, KY"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:21021.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 21021.0
 FEMA_Region: 4.0
 Population: 30060.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 611.0
-Fourteen_day_test_rate_per_100000: 2033.0
-Percent_Positivity_in_prior_14_days: 0.025
+Tests_in_prior_14_days: 592.0
+Fourteen_day_test_rate_per_100000: 1969.0
+Percent_Positivity_in_prior_14_days: 0.022
 Level: Green
 url: /states/KY/boyle-county
 ---

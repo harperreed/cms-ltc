@@ -1,6 +1,6 @@
 ---
 title: "Monmouth County, NJ"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:34025.0,FEMA:2.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 34025.0
 FEMA_Region: 2.0
 Population: 618795.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 20621.0
-Fourteen_day_test_rate_per_100000: 3332.0
-Percent_Positivity_in_prior_14_days: 0.014
+Tests_in_prior_14_days: 21140.0
+Fourteen_day_test_rate_per_100000: 3416.0
+Percent_Positivity_in_prior_14_days: 0.018
 Level: Green
 url: /states/NJ/monmouth-county
 ---

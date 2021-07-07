@@ -1,6 +1,6 @@
 ---
 title: "Dallas County, IA"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:19049.0,FEMA:7.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 19049.0
 FEMA_Region: 7.0
 Population: 93453.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 1228.0
-Fourteen_day_test_rate_per_100000: 1314.0
-Percent_Positivity_in_prior_14_days: 0.02
+Tests_in_prior_14_days: 1150.0
+Fourteen_day_test_rate_per_100000: 1231.0
+Percent_Positivity_in_prior_14_days: 0.013
 Level: Green
 url: /states/IA/dallas-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Mille Lacs County, MN"
-date: 2021-07-06
+date: 2021-07-07
 draft: false
 type: county
 tags: [FIPS:27095.0,FEMA:5.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 27095.0
 FEMA_Region: 5.0
 Population: 26277.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 1403.0
-Fourteen_day_test_rate_per_100000: 5339.0
-Percent_Positivity_in_prior_14_days: 0.018
+Tests_in_prior_14_days: 1320.0
+Fourteen_day_test_rate_per_100000: 5023.0
+Percent_Positivity_in_prior_14_days: 0.015
 Level: Green
 url: /states/MN/mille-lacs-county
 ---
