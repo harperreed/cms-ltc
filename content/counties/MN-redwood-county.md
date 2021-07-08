@@ -1,6 +1,6 @@
 ---
 title: "Redwood County, MN"
-date: 2021-07-07
+date: 2021-07-08
 draft: false
 type: county
 tags: [FIPS:27127.0,FEMA:5.0,Non-core,Green]

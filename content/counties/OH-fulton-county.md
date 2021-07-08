@@ -1,6 +1,6 @@
 ---
 title: "Fulton County, OH"
-date: 2021-07-07
+date: 2021-07-08
 draft: false
 type: county
 tags: [FIPS:39051.0,FEMA:5.0,Medium metro,Green]

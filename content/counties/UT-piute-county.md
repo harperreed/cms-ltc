@@ -1,6 +1,6 @@
 ---
 title: "Piute County, UT"
-date: 2021-07-07
+date: 2021-07-08
 draft: false
 type: county
 tags: [FIPS:49031.0,FEMA:8.0,Non-core,Green]

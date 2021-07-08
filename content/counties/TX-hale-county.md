@@ -1,6 +1,6 @@
 ---
 title: "Hale County, TX"
-date: 2021-07-07
+date: 2021-07-08
 draft: false
 type: county
 tags: [FIPS:48189.0,FEMA:6.0,Micropolitan,Green]

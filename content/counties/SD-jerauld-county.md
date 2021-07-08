@@ -1,6 +1,6 @@
 ---
 title: "Jerauld County, SD"
-date: 2021-07-07
+date: 2021-07-08
 draft: false
 type: county
 tags: [FIPS:46073.0,FEMA:8.0,Non-core,Green]

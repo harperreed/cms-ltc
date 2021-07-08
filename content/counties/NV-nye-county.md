@@ -1,6 +1,6 @@
 ---
 title: "Nye County, NV"
-date: 2021-07-07
+date: 2021-07-08
 draft: false
 type: county
 tags: [FIPS:32023.0,FEMA:9.0,Micropolitan,Yellow]

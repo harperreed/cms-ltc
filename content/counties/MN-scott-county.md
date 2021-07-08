@@ -1,6 +1,6 @@
 ---
 title: "Scott County, MN"
-date: 2021-07-07
+date: 2021-07-08
 draft: false
 type: county
 tags: [FIPS:27139.0,FEMA:5.0,Large fringe metro,Green]

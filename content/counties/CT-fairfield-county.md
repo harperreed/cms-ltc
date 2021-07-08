@@ -1,6 +1,6 @@
 ---
 title: "Fairfield County, CT"
-date: 2021-07-07
+date: 2021-07-08
 draft: false
 type: county
 tags: [FIPS:9001.0,FEMA:1.0,Medium metro,Green]
