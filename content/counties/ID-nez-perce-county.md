@@ -1,6 +1,6 @@
 ---
 title: "Nez Perce County, ID"
-date: 2021-07-08
+date: 2021-07-09
 draft: false
 type: county
 tags: [FIPS:16069.0,FEMA:10.0,Small metro,Green]

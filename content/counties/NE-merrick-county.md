@@ -1,6 +1,6 @@
 ---
 title: "Merrick County, NE"
-date: 2021-07-08
+date: 2021-07-09
 draft: false
 type: county
 tags: [FIPS:31121.0,FEMA:7.0,Small metro,Yellow]

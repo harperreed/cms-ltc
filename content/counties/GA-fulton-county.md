@@ -1,6 +1,6 @@
 ---
 title: "Fulton County, GA"
-date: 2021-07-08
+date: 2021-07-09
 draft: false
 type: county
 tags: [FIPS:13121.0,FEMA:4.0,Large central metro,Green]
