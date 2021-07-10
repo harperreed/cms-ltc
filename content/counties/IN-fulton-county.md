@@ -1,6 +1,6 @@
 ---
 title: "Fulton County, IN"
-date: 2021-07-09
+date: 2021-07-10
 draft: false
 type: county
 tags: [FIPS:18049.0,FEMA:5.0,Non-core,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Union County, IN"
-date: 2021-07-09
+date: 2021-07-10
 draft: false
 type: county
 tags: [FIPS:18161.0,FEMA:5.0,Large fringe metro,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Iredell County, NC"
-date: 2021-07-09
+date: 2021-07-10
 draft: false
 type: county
 tags: [FIPS:37097.0,FEMA:4.0,Large fringe metro,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Union County, MS"
-date: 2021-07-09
+date: 2021-07-10
 draft: false
 type: county
 tags: [FIPS:28145.0,FEMA:4.0,Non-core,Green]

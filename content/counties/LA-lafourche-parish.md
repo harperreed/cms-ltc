@@ -1,6 +1,6 @@
 ---
 title: "Lafourche Parish, LA"
-date: 2021-07-09
+date: 2021-07-10
 draft: false
 type: county
 tags: [FIPS:22057.0,FEMA:6.0,Small metro,Yellow]

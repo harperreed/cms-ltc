@@ -1,6 +1,6 @@
 ---
 title: "Clinton County, MI"
-date: 2021-07-09
+date: 2021-07-10
 draft: false
 type: county
 tags: [FIPS:26037.0,FEMA:5.0,Medium metro,Green]

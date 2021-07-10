@@ -1,6 +1,6 @@
 ---
 title: "Tattnall County, GA"
-date: 2021-07-09
+date: 2021-07-10
 draft: false
 type: county
 tags: [FIPS:13267.0,FEMA:4.0,Non-core,Yellow]
