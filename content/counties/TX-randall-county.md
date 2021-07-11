@@ -1,6 +1,6 @@
 ---
 title: "Randall County, TX"
-date: 2021-07-10
+date: 2021-07-11
 draft: false
 type: county
 tags: [FIPS:48381.0,FEMA:6.0,Medium metro,Green]
