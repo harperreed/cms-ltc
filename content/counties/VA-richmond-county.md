@@ -1,6 +1,6 @@
 ---
 title: "Richmond County, VA"
-date: 2021-07-11
+date: 2021-07-12
 draft: false
 type: county
 tags: [FIPS:51159.0,FEMA:3.0,Non-core,Green]

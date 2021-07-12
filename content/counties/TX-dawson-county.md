@@ -1,6 +1,6 @@
 ---
 title: "Dawson County, TX"
-date: 2021-07-11
+date: 2021-07-12
 draft: false
 type: county
 tags: [FIPS:48115.0,FEMA:6.0,Micropolitan,Green]
