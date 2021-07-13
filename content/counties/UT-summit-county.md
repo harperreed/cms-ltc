@@ -1,6 +1,6 @@
 ---
 title: "Summit County, UT"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:49043.0,FEMA:8.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 49043.0
 FEMA_Region: 8.0
 Population: 42145.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 1485.0
-Fourteen_day_test_rate_per_100000: 3524.0
-Percent_Positivity_in_prior_14_days: 0.04
+Tests_in_prior_14_days: 1466.0
+Fourteen_day_test_rate_per_100000: 3478.0
+Percent_Positivity_in_prior_14_days: 0.041
 Level: Green
 url: /states/UT/summit-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Jackson County, IL"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:17077.0,FEMA:5.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 17077.0
 FEMA_Region: 5.0
 Population: 56750.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 1506.0
-Fourteen_day_test_rate_per_100000: 2654.0
-Percent_Positivity_in_prior_14_days: 0.008
+Tests_in_prior_14_days: 1398.0
+Fourteen_day_test_rate_per_100000: 2463.0
+Percent_Positivity_in_prior_14_days: 0.021
 Level: Green
 url: /states/IL/jackson-county
 ---

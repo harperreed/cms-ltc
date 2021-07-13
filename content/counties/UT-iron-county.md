@@ -1,6 +1,6 @@
 ---
 title: "Iron County, UT"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:49021.0,FEMA:8.0,Micropolitan,Red]
@@ -11,9 +11,9 @@ FIPS: 49021.0
 FEMA_Region: 8.0
 Population: 54839.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 612.0
-Fourteen_day_test_rate_per_100000: 1116.0
-Percent_Positivity_in_prior_14_days: 0.111
+Tests_in_prior_14_days: 662.0
+Fourteen_day_test_rate_per_100000: 1207.0
+Percent_Positivity_in_prior_14_days: 0.165
 Level: Red
 url: /states/UT/iron-county
 ---

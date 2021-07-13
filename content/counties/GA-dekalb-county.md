@@ -1,6 +1,6 @@
 ---
 title: "DeKalb County, GA"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:13089.0,FEMA:4.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 13089.0
 FEMA_Region: 4.0
 Population: 759297.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 12760.0
-Fourteen_day_test_rate_per_100000: 1681.0
-Percent_Positivity_in_prior_14_days: 0.014
+Tests_in_prior_14_days: 11782.0
+Fourteen_day_test_rate_per_100000: 1552.0
+Percent_Positivity_in_prior_14_days: 0.016
 Level: Green
 url: /states/GA/dekalb-county
 ---

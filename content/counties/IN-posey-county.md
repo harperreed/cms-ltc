@@ -1,9 +1,9 @@
 ---
 title: "Posey County, IN"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
-tags: [FIPS:18129.0,FEMA:5.0,Medium metro,Green]
+tags: [FIPS:18129.0,FEMA:5.0,Medium metro,Yellow]
 categories: [IN]
 County: Posey County
 State: IN
@@ -13,8 +13,8 @@ Population: 25427.0
 NCHS_Urban_Rural_Classification: Medium metro
 Tests_in_prior_14_days: 145.0
 Fourteen_day_test_rate_per_100000: 570.0
-Percent_Positivity_in_prior_14_days: 0.028
-Level: Green
+Percent_Positivity_in_prior_14_days: 0.097
+Level: Yellow
 url: /states/IN/posey-county
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Anderson County, SC"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:45007.0,FEMA:4.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 45007.0
 FEMA_Region: 4.0
 Population: 202558.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 2333.0
-Fourteen_day_test_rate_per_100000: 1152.0
-Percent_Positivity_in_prior_14_days: 0.013
+Tests_in_prior_14_days: 2011.0
+Fourteen_day_test_rate_per_100000: 993.0
+Percent_Positivity_in_prior_14_days: 0.022
 Level: Green
 url: /states/SC/anderson-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Boise County, ID"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:16015.0,FEMA:10.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 16015.0
 FEMA_Region: 10.0
 Population: 7831.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 512.0
-Fourteen_day_test_rate_per_100000: 6538.0
-Percent_Positivity_in_prior_14_days: 0.031
+Tests_in_prior_14_days: 543.0
+Fourteen_day_test_rate_per_100000: 6934.0
+Percent_Positivity_in_prior_14_days: 0.035
 Level: Green
 url: /states/ID/boise-county
 ---

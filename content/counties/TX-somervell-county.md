@@ -1,9 +1,9 @@
 ---
 title: "Somervell County, TX"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
-tags: [FIPS:48425.0,FEMA:6.0,Large fringe metro,Green]
+tags: [FIPS:48425.0,FEMA:6.0,Large fringe metro,Yellow]
 categories: [TX]
 County: Somervell County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48425.0
 FEMA_Region: 6.0
 Population: 9128.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 65.0
-Fourteen_day_test_rate_per_100000: 712.0
-Percent_Positivity_in_prior_14_days: 0.031
-Level: Green
+Tests_in_prior_14_days: 56.0
+Fourteen_day_test_rate_per_100000: 613.0
+Percent_Positivity_in_prior_14_days: 0.054
+Level: Yellow
 url: /states/TX/somervell-county
 ---
 

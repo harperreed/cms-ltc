@@ -1,6 +1,6 @@
 ---
 title: "Cherokee County, SC"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:45021.0,FEMA:4.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 45021.0
 FEMA_Region: 4.0
 Population: 57300.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 759.0
-Fourteen_day_test_rate_per_100000: 1325.0
-Percent_Positivity_in_prior_14_days: 0.042
+Tests_in_prior_14_days: 568.0
+Fourteen_day_test_rate_per_100000: 991.0
+Percent_Positivity_in_prior_14_days: 0.048
 Level: Green
 url: /states/SC/cherokee-county
 ---

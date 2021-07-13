@@ -1,6 +1,6 @@
 ---
 title: "Lake County, IN"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:18089.0,FEMA:5.0,Large fringe metro,Green]
@@ -11,9 +11,9 @@ FIPS: 18089.0
 FEMA_Region: 5.0
 Population: 485493.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 9045.0
-Fourteen_day_test_rate_per_100000: 1863.0
-Percent_Positivity_in_prior_14_days: 0.018
+Tests_in_prior_14_days: 7195.0
+Fourteen_day_test_rate_per_100000: 1482.0
+Percent_Positivity_in_prior_14_days: 0.015
 Level: Green
 url: /states/IN/lake-county
 ---

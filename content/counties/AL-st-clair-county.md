@@ -1,9 +1,9 @@
 ---
 title: "St. Clair County, AL"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
-tags: [FIPS:1115.0,FEMA:4.0,Large fringe metro,Green]
+tags: [FIPS:1115.0,FEMA:4.0,Large fringe metro,Yellow]
 categories: [AL]
 County: St. Clair County
 State: AL
@@ -11,10 +11,10 @@ FIPS: 1115.0
 FEMA_Region: 4.0
 Population: 89512.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 707.0
-Fourteen_day_test_rate_per_100000: 790.0
-Percent_Positivity_in_prior_14_days: 0.027
-Level: Green
+Tests_in_prior_14_days: 697.0
+Fourteen_day_test_rate_per_100000: 779.0
+Percent_Positivity_in_prior_14_days: 0.06
+Level: Yellow
 url: /states/AL/st-clair-county
 ---
 

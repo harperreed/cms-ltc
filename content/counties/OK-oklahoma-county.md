@@ -1,6 +1,6 @@
 ---
 title: "Oklahoma County, OK"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:40109.0,FEMA:6.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 40109.0
 FEMA_Region: 6.0
 Population: 797434.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 7872.0
-Fourteen_day_test_rate_per_100000: 987.0
-Percent_Positivity_in_prior_14_days: 0.016
+Tests_in_prior_14_days: 7176.0
+Fourteen_day_test_rate_per_100000: 900.0
+Percent_Positivity_in_prior_14_days: 0.034
 Level: Green
 url: /states/OK/oklahoma-county
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Weber County, UT"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:49057.0,FEMA:8.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 49057.0
 FEMA_Region: 8.0
 Population: 260213.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 4641.0
-Fourteen_day_test_rate_per_100000: 1784.0
-Percent_Positivity_in_prior_14_days: 0.083
+Tests_in_prior_14_days: 4368.0
+Fourteen_day_test_rate_per_100000: 1679.0
+Percent_Positivity_in_prior_14_days: 0.093
 Level: Yellow
 url: /states/UT/weber-county
 ---

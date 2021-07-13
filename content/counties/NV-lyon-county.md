@@ -1,9 +1,9 @@
 ---
 title: "Lyon County, NV"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
-tags: [FIPS:32019.0,FEMA:9.0,Micropolitan,Red]
+tags: [FIPS:32019.0,FEMA:9.0,Micropolitan,Yellow]
 categories: [NV]
 County: Lyon County
 State: NV
@@ -11,10 +11,10 @@ FIPS: 32019.0
 FEMA_Region: 9.0
 Population: 57510.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 524.0
-Fourteen_day_test_rate_per_100000: 911.0
-Percent_Positivity_in_prior_14_days: 0.113
-Level: Red
+Tests_in_prior_14_days: 469.0
+Fourteen_day_test_rate_per_100000: 816.0
+Percent_Positivity_in_prior_14_days: 0.115
+Level: Yellow
 url: /states/NV/lyon-county
 ---
 

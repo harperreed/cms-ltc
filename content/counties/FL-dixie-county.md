@@ -1,6 +1,6 @@
 ---
 title: "Dixie County, FL"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:12029.0,FEMA:4.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 12029.0
 FEMA_Region: 4.0
 Population: 16826.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 286.0
-Fourteen_day_test_rate_per_100000: 1700.0
-Percent_Positivity_in_prior_14_days: 0.056
+Tests_in_prior_14_days: 298.0
+Fourteen_day_test_rate_per_100000: 1771.0
+Percent_Positivity_in_prior_14_days: 0.067
 Level: Yellow
 url: /states/FL/dixie-county
 ---

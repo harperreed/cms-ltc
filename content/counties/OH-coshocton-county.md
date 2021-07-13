@@ -1,6 +1,6 @@
 ---
 title: "Coshocton County, OH"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:39031.0,FEMA:5.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 39031.0
 FEMA_Region: 5.0
 Population: 36600.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 478.0
-Fourteen_day_test_rate_per_100000: 1306.0
-Percent_Positivity_in_prior_14_days: 0.01
+Tests_in_prior_14_days: 401.0
+Fourteen_day_test_rate_per_100000: 1096.0
+Percent_Positivity_in_prior_14_days: 0.02
 Level: Green
 url: /states/OH/coshocton-county
 ---

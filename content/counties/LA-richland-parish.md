@@ -1,6 +1,6 @@
 ---
 title: "Richland Parish, LA"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:22083.0,FEMA:6.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 22083.0
 FEMA_Region: 6.0
 Population: 20122.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 442.0
-Fourteen_day_test_rate_per_100000: 2197.0
-Percent_Positivity_in_prior_14_days: 0.027
+Tests_in_prior_14_days: 403.0
+Fourteen_day_test_rate_per_100000: 2003.0
+Percent_Positivity_in_prior_14_days: 0.04
 Level: Green
 url: /states/LA/richland-parish
 ---

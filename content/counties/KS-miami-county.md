@@ -1,9 +1,9 @@
 ---
 title: "Miami County, KS"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
-tags: [FIPS:20121.0,FEMA:7.0,Large fringe metro,Green]
+tags: [FIPS:20121.0,FEMA:7.0,Large fringe metro,Yellow]
 categories: [KS]
 County: Miami County
 State: KS
@@ -11,10 +11,10 @@ FIPS: 20121.0
 FEMA_Region: 7.0
 Population: 34237.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 389.0
-Fourteen_day_test_rate_per_100000: 1136.0
-Percent_Positivity_in_prior_14_days: 0.028
-Level: Green
+Tests_in_prior_14_days: 399.0
+Fourteen_day_test_rate_per_100000: 1165.0
+Percent_Positivity_in_prior_14_days: 0.06
+Level: Yellow
 url: /states/KS/miami-county
 ---
 

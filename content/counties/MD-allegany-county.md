@@ -1,6 +1,6 @@
 ---
 title: "Allegany County, MD"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:24001.0,FEMA:3.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 24001.0
 FEMA_Region: 3.0
 Population: 70416.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 2915.0
-Fourteen_day_test_rate_per_100000: 4140.0
-Percent_Positivity_in_prior_14_days: 0.012
+Tests_in_prior_14_days: 2229.0
+Fourteen_day_test_rate_per_100000: 3165.0
+Percent_Positivity_in_prior_14_days: 0.009
 Level: Green
 url: /states/MD/allegany-county
 ---

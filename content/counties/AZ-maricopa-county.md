@@ -1,6 +1,6 @@
 ---
 title: "Maricopa County, AZ"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:4013.0,FEMA:9.0,Large central metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 4013.0
 FEMA_Region: 9.0
 Population: 4485414.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 87053.0
-Fourteen_day_test_rate_per_100000: 1941.0
-Percent_Positivity_in_prior_14_days: 0.05
+Tests_in_prior_14_days: 82808.0
+Fourteen_day_test_rate_per_100000: 1846.0
+Percent_Positivity_in_prior_14_days: 0.059
 Level: Yellow
 url: /states/AZ/maricopa-county
 ---

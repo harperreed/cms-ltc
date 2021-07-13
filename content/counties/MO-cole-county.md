@@ -1,6 +1,6 @@
 ---
 title: "Cole County, MO"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:29051.0,FEMA:7.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 29051.0
 FEMA_Region: 7.0
 Population: 76745.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 993.0
-Fourteen_day_test_rate_per_100000: 1294.0
-Percent_Positivity_in_prior_14_days: 0.113
+Tests_in_prior_14_days: 1304.0
+Fourteen_day_test_rate_per_100000: 1699.0
+Percent_Positivity_in_prior_14_days: 0.156
 Level: Red
 url: /states/MO/cole-county
 ---

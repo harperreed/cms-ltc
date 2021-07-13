@@ -1,6 +1,6 @@
 ---
 title: "Olmsted County, MN"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:27109.0,FEMA:5.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 27109.0
 FEMA_Region: 5.0
 Population: 158293.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 5233.0
-Fourteen_day_test_rate_per_100000: 3306.0
-Percent_Positivity_in_prior_14_days: 0.011
+Tests_in_prior_14_days: 4889.0
+Fourteen_day_test_rate_per_100000: 3089.0
+Percent_Positivity_in_prior_14_days: 0.01
 Level: Green
 url: /states/MN/olmsted-county
 ---

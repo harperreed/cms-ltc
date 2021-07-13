@@ -1,6 +1,6 @@
 ---
 title: "Lawrence County, IN"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:18093.0,FEMA:5.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 18093.0
 FEMA_Region: 5.0
 Population: 45370.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 640.0
-Fourteen_day_test_rate_per_100000: 1411.0
-Percent_Positivity_in_prior_14_days: 0.058
+Tests_in_prior_14_days: 459.0
+Fourteen_day_test_rate_per_100000: 1012.0
+Percent_Positivity_in_prior_14_days: 0.059
 Level: Yellow
 url: /states/IN/lawrence-county
 ---

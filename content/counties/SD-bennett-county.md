@@ -1,6 +1,6 @@
 ---
 title: "Bennett County, SD"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:46007.0,FEMA:8.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 46007.0
 FEMA_Region: 8.0
 Population: 3365.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 34.0
-Fourteen_day_test_rate_per_100000: 1010.0
-Percent_Positivity_in_prior_14_days: 0.029
+Tests_in_prior_14_days: 50.0
+Fourteen_day_test_rate_per_100000: 1486.0
+Percent_Positivity_in_prior_14_days: 0.0
 Level: Green
 url: /states/SD/bennett-county
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Humboldt County, CA"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
-tags: [FIPS:6023.0,FEMA:9.0,Micropolitan,Yellow]
+tags: [FIPS:6023.0,FEMA:9.0,Micropolitan,Green]
 categories: [CA]
 County: Humboldt County
 State: CA
@@ -11,10 +11,10 @@ FIPS: 6023.0
 FEMA_Region: 9.0
 Population: 135558.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 2792.0
-Fourteen_day_test_rate_per_100000: 2060.0
-Percent_Positivity_in_prior_14_days: 0.053
-Level: Yellow
+Tests_in_prior_14_days: 2680.0
+Fourteen_day_test_rate_per_100000: 1977.0
+Percent_Positivity_in_prior_14_days: 0.043
+Level: Green
 url: /states/CA/humboldt-county
 ---
 

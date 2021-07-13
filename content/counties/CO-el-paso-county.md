@@ -1,6 +1,6 @@
 ---
 title: "El Paso County, CO"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:8041.0,FEMA:8.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 8041.0
 FEMA_Region: 8.0
 Population: 720403.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 20676.0
-Fourteen_day_test_rate_per_100000: 2870.0
-Percent_Positivity_in_prior_14_days: 0.035
+Tests_in_prior_14_days: 18673.0
+Fourteen_day_test_rate_per_100000: 2592.0
+Percent_Positivity_in_prior_14_days: 0.033
 Level: Green
 url: /states/CO/el-paso-county
 ---

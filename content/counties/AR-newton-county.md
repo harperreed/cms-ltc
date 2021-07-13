@@ -1,6 +1,6 @@
 ---
 title: "Newton County, AR"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:5101.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 5101.0
 FEMA_Region: 6.0
 Population: 7753.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 85.0
-Fourteen_day_test_rate_per_100000: 1096.0
-Percent_Positivity_in_prior_14_days: 0.129
+Tests_in_prior_14_days: 78.0
+Fourteen_day_test_rate_per_100000: 1006.0
+Percent_Positivity_in_prior_14_days: 0.128
 Level: Yellow
 url: /states/AR/newton-county
 ---

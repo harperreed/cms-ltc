@@ -1,9 +1,9 @@
 ---
 title: "Polk County, TX"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
-tags: [FIPS:48373.0,FEMA:6.0,Non-core,Green]
+tags: [FIPS:48373.0,FEMA:6.0,Non-core,Yellow]
 categories: [TX]
 County: Polk County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48373.0
 FEMA_Region: 6.0
 Population: 51353.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 503.0
-Fourteen_day_test_rate_per_100000: 979.0
-Percent_Positivity_in_prior_14_days: 0.028
-Level: Green
+Tests_in_prior_14_days: 741.0
+Fourteen_day_test_rate_per_100000: 1443.0
+Percent_Positivity_in_prior_14_days: 0.076
+Level: Yellow
 url: /states/TX/polk-county
 ---
 

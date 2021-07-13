@@ -1,6 +1,6 @@
 ---
 title: "Henderson County, TX"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:48213.0,FEMA:6.0,Micropolitan,Yellow]
@@ -11,9 +11,9 @@ FIPS: 48213.0
 FEMA_Region: 6.0
 Population: 82737.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 385.0
-Fourteen_day_test_rate_per_100000: 465.0
-Percent_Positivity_in_prior_14_days: 0.07
+Tests_in_prior_14_days: 381.0
+Fourteen_day_test_rate_per_100000: 460.0
+Percent_Positivity_in_prior_14_days: 0.084
 Level: Yellow
 url: /states/TX/henderson-county
 ---

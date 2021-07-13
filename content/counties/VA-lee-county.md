@@ -1,6 +1,6 @@
 ---
 title: "Lee County, VA"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:51105.0,FEMA:3.0,Non-core,Green]
@@ -13,7 +13,7 @@ Population: 23423.0
 NCHS_Urban_Rural_Classification: Non-core
 Tests_in_prior_14_days: 151.0
 Fourteen_day_test_rate_per_100000: 645.0
-Percent_Positivity_in_prior_14_days: 0.02
+Percent_Positivity_in_prior_14_days: 0.013
 Level: Green
 url: /states/VA/lee-county
 ---

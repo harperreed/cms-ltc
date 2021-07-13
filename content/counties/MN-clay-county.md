@@ -1,6 +1,6 @@
 ---
 title: "Clay County, MN"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:27027.0,FEMA:5.0,Small metro,Green]
@@ -11,9 +11,9 @@ FIPS: 27027.0
 FEMA_Region: 5.0
 Population: 64222.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 929.0
-Fourteen_day_test_rate_per_100000: 1447.0
-Percent_Positivity_in_prior_14_days: 0.013
+Tests_in_prior_14_days: 721.0
+Fourteen_day_test_rate_per_100000: 1123.0
+Percent_Positivity_in_prior_14_days: 0.014
 Level: Green
 url: /states/MN/clay-county
 ---

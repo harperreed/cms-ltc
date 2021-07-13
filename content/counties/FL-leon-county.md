@@ -1,9 +1,9 @@
 ---
 title: "Leon County, FL"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
-tags: [FIPS:12073.0,FEMA:4.0,Medium metro,Green]
+tags: [FIPS:12073.0,FEMA:4.0,Medium metro,Yellow]
 categories: [FL]
 County: Leon County
 State: FL
@@ -11,10 +11,10 @@ FIPS: 12073.0
 FEMA_Region: 4.0
 Population: 293582.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 4491.0
-Fourteen_day_test_rate_per_100000: 1530.0
-Percent_Positivity_in_prior_14_days: 0.027
-Level: Green
+Tests_in_prior_14_days: 4177.0
+Fourteen_day_test_rate_per_100000: 1423.0
+Percent_Positivity_in_prior_14_days: 0.065
+Level: Yellow
 url: /states/FL/leon-county
 ---
 

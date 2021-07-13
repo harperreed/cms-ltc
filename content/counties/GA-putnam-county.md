@@ -1,6 +1,6 @@
 ---
 title: "Putnam County, GA"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:13237.0,FEMA:4.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 13237.0
 FEMA_Region: 4.0
 Population: 22119.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 189.0
-Fourteen_day_test_rate_per_100000: 854.0
-Percent_Positivity_in_prior_14_days: 0.0
+Tests_in_prior_14_days: 183.0
+Fourteen_day_test_rate_per_100000: 827.0
+Percent_Positivity_in_prior_14_days: 0.016
 Level: Green
 url: /states/GA/putnam-county
 ---

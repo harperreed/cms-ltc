@@ -1,9 +1,9 @@
 ---
 title: "Rio Arriba County, NM"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
-tags: [FIPS:35039.0,FEMA:6.0,Micropolitan,Yellow]
+tags: [FIPS:35039.0,FEMA:6.0,Micropolitan,Red]
 categories: [NM]
 County: Rio Arriba County
 State: NM
@@ -11,10 +11,10 @@ FIPS: 35039.0
 FEMA_Region: 6.0
 Population: 38921.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 751.0
-Fourteen_day_test_rate_per_100000: 1930.0
-Percent_Positivity_in_prior_14_days: 0.091
-Level: Yellow
+Tests_in_prior_14_days: 602.0
+Fourteen_day_test_rate_per_100000: 1547.0
+Percent_Positivity_in_prior_14_days: 0.103
+Level: Red
 url: /states/NM/rio-arriba-county
 ---
 

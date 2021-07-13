@@ -1,6 +1,6 @@
 ---
 title: "Terrell County, TX"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:48443.0,FEMA:6.0,Non-core,Green]

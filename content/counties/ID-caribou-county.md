@@ -1,6 +1,6 @@
 ---
 title: "Caribou County, ID"
-date: 2021-07-12
+date: 2021-07-13
 draft: false
 type: county
 tags: [FIPS:16029.0,FEMA:10.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 16029.0
 FEMA_Region: 10.0
 Population: 7155.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 29.0
-Fourteen_day_test_rate_per_100000: 405.0
-Percent_Positivity_in_prior_14_days: 0.069
+Tests_in_prior_14_days: 20.0
+Fourteen_day_test_rate_per_100000: 280.0
+Percent_Positivity_in_prior_14_days: 0.05
 Level: Yellow
 url: /states/ID/caribou-county
 ---
