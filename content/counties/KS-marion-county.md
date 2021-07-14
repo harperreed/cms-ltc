@@ -1,6 +1,6 @@
 ---
 title: "Marion County, KS"
-date: 2021-07-13
+date: 2021-07-14
 draft: false
 type: county
 tags: [FIPS:20115.0,FEMA:7.0,Non-core,Green]

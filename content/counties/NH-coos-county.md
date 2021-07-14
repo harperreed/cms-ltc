@@ -1,6 +1,6 @@
 ---
 title: "Coos County, NH"
-date: 2021-07-13
+date: 2021-07-14
 draft: false
 type: county
 tags: [FIPS:33007.0,FEMA:1.0,Micropolitan,Green]

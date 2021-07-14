@@ -1,6 +1,6 @@
 ---
 title: "Brooke County, WV"
-date: 2021-07-13
+date: 2021-07-14
 draft: false
 type: county
 tags: [FIPS:54009.0,FEMA:3.0,Small metro,Green]
