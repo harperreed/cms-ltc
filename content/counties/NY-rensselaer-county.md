@@ -1,6 +1,6 @@
 ---
 title: "Rensselaer County, NY"
-date: 2021-07-14
+date: 2021-07-15
 draft: false
 type: county
 tags: [FIPS:36083.0,FEMA:2.0,Medium metro,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Pulaski County, MO"
-date: 2021-07-14
+date: 2021-07-15
 draft: false
 type: county
 tags: [FIPS:29169.0,FEMA:7.0,Micropolitan,Red]

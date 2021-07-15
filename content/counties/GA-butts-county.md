@@ -1,6 +1,6 @@
 ---
 title: "Butts County, GA"
-date: 2021-07-14
+date: 2021-07-15
 draft: false
 type: county
 tags: [FIPS:13035.0,FEMA:4.0,Large fringe metro,Green]

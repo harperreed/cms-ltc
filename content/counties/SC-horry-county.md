@@ -1,6 +1,6 @@
 ---
 title: "Horry County, SC"
-date: 2021-07-14
+date: 2021-07-15
 draft: false
 type: county
 tags: [FIPS:45051.0,FEMA:4.0,Medium metro,Yellow]

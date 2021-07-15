@@ -1,6 +1,6 @@
 ---
 title: "Guadalupe County, NM"
-date: 2021-07-14
+date: 2021-07-15
 draft: false
 type: county
 tags: [FIPS:35019.0,FEMA:6.0,Non-core,Yellow]
