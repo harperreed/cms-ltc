@@ -1,6 +1,6 @@
 ---
 title: "Lamar County, AL"
-date: 2021-07-15
+date: 2021-07-16
 draft: false
 type: county
 tags: [FIPS:1075.0,FEMA:4.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Barceloneta Municipio, PR"
-date: 2021-07-15
+date: 2021-07-16
 draft: false
 type: county
 tags: [FIPS:72017.0,FEMA:2.0,,Green]

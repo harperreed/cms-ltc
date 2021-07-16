@@ -1,6 +1,6 @@
 ---
 title: "Hampshire County, WV"
-date: 2021-07-15
+date: 2021-07-16
 draft: false
 type: county
 tags: [FIPS:54027.0,FEMA:3.0,Small metro,Green]

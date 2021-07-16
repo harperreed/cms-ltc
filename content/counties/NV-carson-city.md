@@ -1,6 +1,6 @@
 ---
 title: "Carson City, NV"
-date: 2021-07-15
+date: 2021-07-16
 draft: false
 type: county
 tags: [FIPS:32510.0,FEMA:9.0,Small metro,Yellow]

@@ -1,6 +1,6 @@
 ---
 title: "Greene County, AR"
-date: 2021-07-15
+date: 2021-07-16
 draft: false
 type: county
 tags: [FIPS:5055.0,FEMA:6.0,Micropolitan,Yellow]
