@@ -1,6 +1,6 @@
 ---
 title: "San Juan Municipio, PR"
-date: 2021-07-16
+date: 2021-07-17
 draft: false
 type: county
 tags: [FIPS:72127.0,FEMA:2.0,,Green]

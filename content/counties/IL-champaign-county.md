@@ -1,6 +1,6 @@
 ---
 title: "Champaign County, IL"
-date: 2021-07-16
+date: 2021-07-17
 draft: false
 type: county
 tags: [FIPS:17019.0,FEMA:5.0,Small metro,Green]

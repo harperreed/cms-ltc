@@ -1,6 +1,6 @@
 ---
 title: "Palo Pinto County, TX"
-date: 2021-07-16
+date: 2021-07-17
 draft: false
 type: county
 tags: [FIPS:48363.0,FEMA:6.0,Micropolitan,Yellow]

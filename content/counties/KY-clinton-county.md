@@ -1,6 +1,6 @@
 ---
 title: "Clinton County, KY"
-date: 2021-07-16
+date: 2021-07-17
 draft: false
 type: county
 tags: [FIPS:21053.0,FEMA:4.0,Non-core,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Saline County, AR"
-date: 2021-07-16
+date: 2021-07-17
 draft: false
 type: county
 tags: [FIPS:5125.0,FEMA:6.0,Medium metro,Red]

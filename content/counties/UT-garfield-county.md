@@ -1,6 +1,6 @@
 ---
 title: "Garfield County, UT"
-date: 2021-07-16
+date: 2021-07-17
 draft: false
 type: county
 tags: [FIPS:49017.0,FEMA:8.0,Non-core,Yellow]

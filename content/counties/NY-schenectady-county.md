@@ -1,6 +1,6 @@
 ---
 title: "Schenectady County, NY"
-date: 2021-07-16
+date: 2021-07-17
 draft: false
 type: county
 tags: [FIPS:36093.0,FEMA:2.0,Medium metro,Green]
