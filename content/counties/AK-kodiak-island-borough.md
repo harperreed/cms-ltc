@@ -1,6 +1,6 @@
 ---
 title: "Kodiak Island Borough, AK"
-date: 2021-07-17
+date: 2021-07-18
 draft: false
 type: county
 tags: [FIPS:2150.0,FEMA:10.0,Non-core,Green]

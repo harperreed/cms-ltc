@@ -1,6 +1,6 @@
 ---
 title: "Putnam County, GA"
-date: 2021-07-17
+date: 2021-07-18
 draft: false
 type: county
 tags: [FIPS:13237.0,FEMA:4.0,Non-core,Green]

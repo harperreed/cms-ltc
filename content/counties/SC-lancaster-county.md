@@ -1,6 +1,6 @@
 ---
 title: "Lancaster County, SC"
-date: 2021-07-17
+date: 2021-07-18
 draft: false
 type: county
 tags: [FIPS:45057.0,FEMA:4.0,Large fringe metro,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Caddo Parish, LA"
-date: 2021-07-17
+date: 2021-07-18
 draft: false
 type: county
 tags: [FIPS:22017.0,FEMA:6.0,Medium metro,Green]

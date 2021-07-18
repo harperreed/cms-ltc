@@ -1,6 +1,6 @@
 ---
 title: "Mayagüez Municipio, PR"
-date: 2021-07-17
+date: 2021-07-18
 draft: false
 type: county
 tags: [FIPS:72097.0,FEMA:2.0,,Green]
