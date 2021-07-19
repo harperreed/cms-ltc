@@ -1,6 +1,6 @@
 ---
 title: "Dare County, NC"
-date: 2021-07-18
+date: 2021-07-19
 draft: false
 type: county
 tags: [FIPS:37055.0,FEMA:4.0,Micropolitan,Yellow]

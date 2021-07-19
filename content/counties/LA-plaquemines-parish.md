@@ -1,6 +1,6 @@
 ---
 title: "Plaquemines Parish, LA"
-date: 2021-07-18
+date: 2021-07-19
 draft: false
 type: county
 tags: [FIPS:22075.0,FEMA:6.0,Large fringe metro,Green]
