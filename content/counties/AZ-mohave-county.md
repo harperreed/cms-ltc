@@ -1,6 +1,6 @@
 ---
 title: "Mohave County, AZ"
-date: 2021-07-19
+date: 2021-07-20
 draft: false
 type: county
 tags: [FIPS:4015.0,FEMA:9.0,Small metro,Red]
@@ -11,9 +11,9 @@ FIPS: 4015.0
 FEMA_Region: 9.0
 Population: 212181.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 4112.0
-Fourteen_day_test_rate_per_100000: 1938.0
-Percent_Positivity_in_prior_14_days: 0.131
+Tests_in_prior_14_days: 4948.0
+Fourteen_day_test_rate_per_100000: 2332.0
+Percent_Positivity_in_prior_14_days: 0.147
 Level: Red
 url: /states/AZ/mohave-county
 ---

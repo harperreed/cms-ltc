@@ -1,6 +1,6 @@
 ---
 title: "Dauphin County, PA"
-date: 2021-07-19
+date: 2021-07-20
 draft: false
 type: county
 tags: [FIPS:42043.0,FEMA:3.0,Medium metro,Green]
@@ -11,9 +11,9 @@ FIPS: 42043.0
 FEMA_Region: 3.0
 Population: 278299.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 3236.0
-Fourteen_day_test_rate_per_100000: 1163.0
-Percent_Positivity_in_prior_14_days: 0.012
+Tests_in_prior_14_days: 3149.0
+Fourteen_day_test_rate_per_100000: 1132.0
+Percent_Positivity_in_prior_14_days: 0.013
 Level: Green
 url: /states/PA/dauphin-county
 ---

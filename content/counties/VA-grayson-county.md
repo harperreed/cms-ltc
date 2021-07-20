@@ -1,6 +1,6 @@
 ---
 title: "Grayson County, VA"
-date: 2021-07-19
+date: 2021-07-20
 draft: false
 type: county
 tags: [FIPS:51077.0,FEMA:3.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51077.0
 FEMA_Region: 3.0
 Population: 15550.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 104.0
-Fourteen_day_test_rate_per_100000: 669.0
-Percent_Positivity_in_prior_14_days: 0.067
+Tests_in_prior_14_days: 85.0
+Fourteen_day_test_rate_per_100000: 547.0
+Percent_Positivity_in_prior_14_days: 0.082
 Level: Yellow
 url: /states/VA/grayson-county
 ---

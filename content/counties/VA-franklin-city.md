@@ -1,6 +1,6 @@
 ---
 title: "Franklin city, VA"
-date: 2021-07-19
+date: 2021-07-20
 draft: false
 type: county
 tags: [FIPS:51620.0,FEMA:3.0,Non-core,Green]
@@ -11,9 +11,9 @@ FIPS: 51620.0
 FEMA_Region: 3.0
 Population: 7967.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 75.0
-Fourteen_day_test_rate_per_100000: 941.0
-Percent_Positivity_in_prior_14_days: 0.04
+Tests_in_prior_14_days: 73.0
+Fourteen_day_test_rate_per_100000: 916.0
+Percent_Positivity_in_prior_14_days: 0.041
 Level: Green
 url: /states/VA/franklin-city
 ---

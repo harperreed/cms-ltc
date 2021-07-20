@@ -1,6 +1,6 @@
 ---
 title: "Curry County, NM"
-date: 2021-07-19
+date: 2021-07-20
 draft: false
 type: county
 tags: [FIPS:35009.0,FEMA:6.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 35009.0
 FEMA_Region: 6.0
 Population: 48954.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 847.0
-Fourteen_day_test_rate_per_100000: 1730.0
-Percent_Positivity_in_prior_14_days: 0.013
+Tests_in_prior_14_days: 961.0
+Fourteen_day_test_rate_per_100000: 1963.0
+Percent_Positivity_in_prior_14_days: 0.031
 Level: Green
 url: /states/NM/curry-county
 ---

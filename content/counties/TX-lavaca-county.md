@@ -1,9 +1,9 @@
 ---
 title: "Lavaca County, TX"
-date: 2021-07-19
+date: 2021-07-20
 draft: false
 type: county
-tags: [FIPS:48285.0,FEMA:6.0,Non-core,Green]
+tags: [FIPS:48285.0,FEMA:6.0,Non-core,Yellow]
 categories: [TX]
 County: Lavaca County
 State: TX
@@ -11,10 +11,10 @@ FIPS: 48285.0
 FEMA_Region: 6.0
 Population: 20154.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 173.0
-Fourteen_day_test_rate_per_100000: 858.0
-Percent_Positivity_in_prior_14_days: 0.04
-Level: Green
+Tests_in_prior_14_days: 197.0
+Fourteen_day_test_rate_per_100000: 977.0
+Percent_Positivity_in_prior_14_days: 0.071
+Level: Yellow
 url: /states/TX/lavaca-county
 ---
 

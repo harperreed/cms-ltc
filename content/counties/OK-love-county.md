@@ -1,6 +1,6 @@
 ---
 title: "Love County, OK"
-date: 2021-07-19
+date: 2021-07-20
 draft: false
 type: county
 tags: [FIPS:40085.0,FEMA:6.0,Non-core,Yellow]
@@ -11,9 +11,9 @@ FIPS: 40085.0
 FEMA_Region: 6.0
 Population: 10253.0
 NCHS_Urban_Rural_Classification: Non-core
-Tests_in_prior_14_days: 67.0
-Fourteen_day_test_rate_per_100000: 653.0
-Percent_Positivity_in_prior_14_days: 0.104
+Tests_in_prior_14_days: 88.0
+Fourteen_day_test_rate_per_100000: 858.0
+Percent_Positivity_in_prior_14_days: 0.227
 Level: Yellow
 url: /states/OK/love-county
 ---

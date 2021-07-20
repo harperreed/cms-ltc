@@ -1,6 +1,6 @@
 ---
 title: "Appomattox County, VA"
-date: 2021-07-19
+date: 2021-07-20
 draft: false
 type: county
 tags: [FIPS:51011.0,FEMA:3.0,Medium metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 51011.0
 FEMA_Region: 3.0
 Population: 15911.0
 NCHS_Urban_Rural_Classification: Medium metro
-Tests_in_prior_14_days: 73.0
-Fourteen_day_test_rate_per_100000: 459.0
-Percent_Positivity_in_prior_14_days: 0.123
+Tests_in_prior_14_days: 89.0
+Fourteen_day_test_rate_per_100000: 559.0
+Percent_Positivity_in_prior_14_days: 0.09
 Level: Yellow
 url: /states/VA/appomattox-county
 ---

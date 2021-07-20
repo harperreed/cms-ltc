@@ -1,6 +1,6 @@
 ---
 title: "Allen County, KY"
-date: 2021-07-19
+date: 2021-07-20
 draft: false
 type: county
 tags: [FIPS:21003.0,FEMA:4.0,Small metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 21003.0
 FEMA_Region: 4.0
 Population: 21315.0
 NCHS_Urban_Rural_Classification: Small metro
-Tests_in_prior_14_days: 87.0
-Fourteen_day_test_rate_per_100000: 408.0
-Percent_Positivity_in_prior_14_days: 0.08
+Tests_in_prior_14_days: 169.0
+Fourteen_day_test_rate_per_100000: 793.0
+Percent_Positivity_in_prior_14_days: 0.059
 Level: Yellow
 url: /states/KY/allen-county
 ---

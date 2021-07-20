@@ -1,6 +1,6 @@
 ---
 title: "Nuckolls County, NE"
-date: 2021-07-19
+date: 2021-07-20
 draft: false
 type: county
 tags: [FIPS:31129.0,FEMA:7.0,Non-core,Green]

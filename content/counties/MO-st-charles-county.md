@@ -1,6 +1,6 @@
 ---
 title: "St. Charles County, MO"
-date: 2021-07-19
+date: 2021-07-20
 draft: false
 type: county
 tags: [FIPS:29183.0,FEMA:7.0,Large fringe metro,Yellow]
@@ -11,9 +11,9 @@ FIPS: 29183.0
 FEMA_Region: 7.0
 Population: 402022.0
 NCHS_Urban_Rural_Classification: Large fringe metro
-Tests_in_prior_14_days: 4306.0
-Fourteen_day_test_rate_per_100000: 1071.0
-Percent_Positivity_in_prior_14_days: 0.054
+Tests_in_prior_14_days: 4707.0
+Fourteen_day_test_rate_per_100000: 1171.0
+Percent_Positivity_in_prior_14_days: 0.085
 Level: Yellow
 url: /states/MO/st-charles-county
 ---

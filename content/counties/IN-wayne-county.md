@@ -1,6 +1,6 @@
 ---
 title: "Wayne County, IN"
-date: 2021-07-19
+date: 2021-07-20
 draft: false
 type: county
 tags: [FIPS:18177.0,FEMA:5.0,Micropolitan,Green]
@@ -11,9 +11,9 @@ FIPS: 18177.0
 FEMA_Region: 5.0
 Population: 65884.0
 NCHS_Urban_Rural_Classification: Micropolitan
-Tests_in_prior_14_days: 901.0
-Fourteen_day_test_rate_per_100000: 1368.0
-Percent_Positivity_in_prior_14_days: 0.01
+Tests_in_prior_14_days: 695.0
+Fourteen_day_test_rate_per_100000: 1055.0
+Percent_Positivity_in_prior_14_days: 0.014
 Level: Green
 url: /states/IN/wayne-county
 ---

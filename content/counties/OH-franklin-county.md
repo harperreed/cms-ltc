@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, OH"
-date: 2021-07-19
+date: 2021-07-20
 draft: false
 type: county
 tags: [FIPS:39049.0,FEMA:5.0,Large central metro,Green]
@@ -11,9 +11,9 @@ FIPS: 39049.0
 FEMA_Region: 5.0
 Population: 1316756.0
 NCHS_Urban_Rural_Classification: Large central metro
-Tests_in_prior_14_days: 22130.0
-Fourteen_day_test_rate_per_100000: 1681.0
-Percent_Positivity_in_prior_14_days: 0.013
+Tests_in_prior_14_days: 22259.0
+Fourteen_day_test_rate_per_100000: 1690.0
+Percent_Positivity_in_prior_14_days: 0.015
 Level: Green
 url: /states/OH/franklin-county
 ---
