@@ -1,6 +1,6 @@
 ---
 title: "Genesee County, MI"
-date: 2021-07-20
+date: 2021-07-21
 draft: false
 type: county
 tags: [FIPS:26049.0,FEMA:5.0,Medium metro,Green]

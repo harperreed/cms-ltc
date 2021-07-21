@@ -1,6 +1,6 @@
 ---
 title: "Boise County, ID"
-date: 2021-07-20
+date: 2021-07-21
 draft: false
 type: county
 tags: [FIPS:16015.0,FEMA:10.0,Medium metro,Green]

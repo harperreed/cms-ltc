@@ -1,6 +1,6 @@
 ---
 title: "Trujillo Alto Municipio, PR"
-date: 2021-07-20
+date: 2021-07-21
 draft: false
 type: county
 tags: [FIPS:72139.0,FEMA:2.0,,Green]

@@ -1,6 +1,6 @@
 ---
 title: "Pulaski County, AR"
-date: 2021-07-20
+date: 2021-07-21
 draft: false
 type: county
 tags: [FIPS:5119.0,FEMA:6.0,Medium metro,Yellow]

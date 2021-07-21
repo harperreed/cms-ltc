@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, VT"
-date: 2021-07-20
+date: 2021-07-21
 draft: false
 type: county
 tags: [FIPS:50011.0,FEMA:1.0,Small metro,Green]

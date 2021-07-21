@@ -1,6 +1,6 @@
 ---
 title: "Taos County, NM"
-date: 2021-07-20
+date: 2021-07-21
 draft: false
 type: county
 tags: [FIPS:35055.0,FEMA:6.0,Micropolitan,Yellow]
